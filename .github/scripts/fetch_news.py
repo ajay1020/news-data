@@ -21,19 +21,38 @@ FEEDS = {
 }
 
 def clean_html(text):
-    return re.sub('<[^<]+?>', '', text).strip()
+    return re.sub("<[^<]+?>", "", text).strip()
+
+def clean_markdown_json(text):
+    """
+    Cleans out markdown wrapper code blocks (like ```json ... ```) 
+    using stable, simple string splicing instead of complex regex.
+    This prevents any mobile copy-paste syntax errors!
+    """
+    text = text.strip()
+    
+    # Strip opening backticks block
+    if text.startswith("```"):
+        first_newline = text.find("\n")
+        if first_newline != -1:
+            text = text[first_newline:].strip()
+            
+    # Strip closing backticks block
+    if text.endswith("```"):
+        text = text[:-3].strip()
+        
+    return text
 
 def process_batch_feed(category, entries):
     """
-    Bundles multiple articles into a single API payload request.
-    This preserves your 20 daily request quota.
+    Bundles multiple RSS headlines and description feeds into a single payload request.
+    This safely protects your 20 daily free requests ceiling.
     """
-    # Create an isolated structure template for the AI to replicate
     batch_input = []
     for idx, entry in enumerate(entries):
-        title = entry.get('title', '')
-        summary = clean_html(entry.get('summary', entry.get('description', '')))
-        link = entry.get('link', '')
+        title = entry.get("title", "")
+        summary = clean_html(entry.get("summary", entry.get("description", "")))
+        link = entry.get("link", "")
         if title and link:
             batch_input.append({
                 "id": idx,
@@ -59,31 +78,56 @@ def process_batch_feed(category, entries):
             "category": "{category}"
         }}
     ]
-     Do not wrap the JSON response in ```json code blocks. Return raw text only.
+    Do not wrap the JSON response in code blocks. Return raw JSON text only.
     
     Articles list to process:
     {json.dumps(batch_input, indent=2)}
     """
     
     try:
-        model = genai.GenerativeModel('gemini-2.5-flash')
+        model = genai.GenerativeModel("gemini-2.5-flash")
         response = model.generate_content(prompt)
         
         if response and response.text:
-            # Clean off any accidental markdown wrapper characters if left over
-            clean_text = response.text.strip()
-            if clean_text.startswith("```"):
-                clean_text = re.sub(r'^
-http://googleusercontent.com/immersive_entry_chip/0
+            # Safely clean out any structural code fences
+            clean_text = clean_markdown_json(response.text)
+            parsed_results = json.loads(clean_text)
+            
+            # Inject standard timestamp dates to all processed items
+            current_time = datetime.now().strftime("%b %d • %I:%M %p")
+            for item in parsed_results:
+                item["date"] = current_time
+            return parsed_results
+            
+    except Exception as e:
+        print(f"Gemini Batch process failed for category {category}: {str(e)}")
+    return []
 
----
+def main():
+    print("Initializing Batch-Processing News Scraper Engine...")
+    master_news = []
+    
+    for category, url in FEEDS.items():
+        print(f"Scraping active {category} feed stream...")
+        feed = feedparser.parse(url)
+        
+        # Batch collect top 8 stories per category
+        target_entries = feed.entries[:8]
+        
+        # Pulls up to 8 summaries concurrently inside a single API transaction
+        batch_stories = process_batch_feed(category, target_entries)
+        master_news.extend(batch_stories)
+        
+        # Small network pacing safety delay
+        time.sleep(2)
+                
+    if master_news:
+        print(f"Saving {len(master_news)} live batch-compiled stories straight to the news.json database...")
+        with open("news.json", "w") as f:
+            json.dump(master_news, f, indent=4)
+        print("Database sync complete!")
+    else:
+        print("No new updates generated during this batch run execution loop.")
 
-## ⚡ Force the Upgraded Production Deployment
-
-1. Scroll straight down to the absolute bottom edge of your GitHub web page view and click the green **Commit changes** button to lock it in.
-2. Tap your repository's horizontal **Actions** tab option bar row at the top of your layout.
-3. Choose **"Auto Pilot Fast News Updater"** from the left track list.
-4. Click the gray **"Run workflow"** dropdown container button on the right side and hit the green activation choice.
-
-### 📱 What Changes Inside Your App Layout?
-Because this script processes articles concurrently, it uses only 3 total API requests out of your 20-request daily ceiling per deployment run. Once the workflow turns into a solid green checkmark, open your **FAST NEWS** application launcher, tap your 🔄 **Action Button**, and watch a deep, uncapped stream of real-time articles fill your dark-mode UI container layout grids!
+if __name__ == "__main__":
+    main()
