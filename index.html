@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>⚡ FAST NEWS</title>
+    <link rel="manifest" href="manifest.json">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <style>
+        body { background-color: #121212; color: white; font-family: sans-serif; padding: 16px; margin: 0; padding-bottom: 40px; }
+        h1 { font-size: 24px; font-weight: 900; letter-spacing: 1.5px; margin: 0 0 16px 0; }
+        .search-container { margin-bottom: 16px; }
+        .search-bar { width: 100%; padding: 12px 16px; border-radius: 25px; border: none; background-color: #1E1E1E; color: white; font-size: 14px; box-sizing: border-box; outline: none; }
+        .search-bar::placeholder { color: #8E8E8E; }
+        .tabs-container { display: flex; border-bottom: 1px solid #2A2A2A; margin-bottom: 16px; gap: 8px; overflow-x: auto; }
+        .tab { padding: 10px 16px; color: #8E8E8E; font-size: 12px; font-weight: bold; cursor: pointer; text-transform: uppercase; letter-spacing: 1px; border-bottom: 2px solid transparent; white-space: nowrap; }
+        .tab.active { color: white; border-bottom: 2px solid white; }
+        #news-feed { display: flex; flex-direction: column; gap: 12px; }
+        .card { background-color: #1E1E1E; border-radius: 8px; display: flex; overflow: hidden; }
+        .accent { width: 5px; }
+        .content { padding: 16px; flex: 1; display: flex; flex-direction: column; }
+        .meta-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+        .category { font-size: 11px; font-weight: bold; text-transform: uppercase; }
+        .date { font-size: 11px; color: #8E8E8E; }
+        .headline { font-size: 18px; font-weight: bold; margin-bottom: 6px; line-height: 1.2; }
+        .summary { font-size: 14px; color: #B3B3B3; line-height: 1.4; margin-bottom: 12px; }
+        .share-btn { align-self: flex-end; background-color: #2A2A2A; border: none; padding: 6px 12px; border-radius: 15px; color: white; font-size: 11px; font-weight: bold; display: flex; align-items: center; gap: 4px; cursor: pointer; }
+        .tech-text { color: #00E5FF; } .tech-bg { background-color: #00E5FF; }
+        .sports-text { color: #FF5252; } .sports-bg { background-color: #FF5252; }
+        .general-text { color: #448AFF; } .general-bg { background-color: #448AFF; }
+    </style>
+</head>
+<body>
+
+    <h1>⚡ FAST NEWS</h1>
+
+    <div class="search-container">
+        <input type="text" id="searchBox" class="search-bar" placeholder="Search breaking stories...">
+    </div>
+
+    <div class="tabs-container">
+        <div class="tab active" onclick="switchTab('ALL')">All</div>
+        <div class="tab" onclick="switchTab('TECH')">Tech</div>
+        <div class="tab" onclick="switchTab('SPORTS')">Sports</div>
+        <div class="tab" onclick="switchTab('GENERAL')">General</div>
+    </div>
+
+    <div id="news-feed"></div>
+
+    <script>
+        const url = "https://raw.githubusercontent.com/ajay1020/news-data/refs/heads/main/news.json";
+        let allNews = [];
+        let currentTab = "ALL";
+
+        document.getElementById('searchBox').addEventListener('input', renderFeed);
+
+        function loadData() {
+            fetch(url + '?ts=' + Date.now())
+                .then(res => res.json())
+                .then(data => {
+                    allNews = data;
+                    renderFeed();
+                }).catch(err => console.log(err));
+        }
+
+        function switchTab(tabName) {
+            document.querySelectorAll('.tab').forEach(el => el.classList.remove('active'));
+            event.target.classList.add('active');
+            currentTab = tabName;
+            renderFeed();
+        }
+
+        function getStyleClass(category) {
+            const cat = category.toLowerCase();
+            if (cat === 'tech') return 'tech';
+            if (cat === 'sports') return 'sports';
+            return 'general';
+        }
+
+        function renderFeed() {
+            const feed = document.getElementById('news-feed');
+            const query = document.getElementById('searchBox').value.toLowerCase().trim();
+            feed.innerHTML = '';
+
+            const filtered = allNews.filter(item => {
+                const category = (item.category || 'General').toUpperCase();
+                const headline = (item.headline || '').toLowerCase();
+                const summary = (item.summary || '').toLowerCase();
+                
+                const matchesTab = (currentTab === "ALL") || (category === currentTab);
+                const matchesSearch = query === '' || headline.includes(query) || summary.includes(query);
+                
+                return matchesTab && matchesSearch;
+            });
+
+            if (filtered.length === 0) {
+                feed.innerHTML = '<div style="text-align:center; color:#8E8E8E; margin-top:20px; font-size:14px;">No items match your criteria.</div>';
+                return;
+            }
+
+            filtered.forEach(item => {
+                const cls = getStyleClass(item.category || 'General');
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    <div class="accent ${cls}-bg"></div>
+                    <div class="content">
+                        <div class="meta-row">
+                            <span class="category ${cls}-text">${item.category || 'General'}</span>
+                            <span class="date">${item.date || ''}</span>
+                        </div>
+                        <div class="headline">${item.headline || 'No Title'}</div>
+                        <div class="summary">${item.summary || 'No Summary'}</div>
+                        <button class="share-btn" onclick="shareStory('${item.headline.replace(/'/g, "\\'")}', '${item.summary.replace(/'/g, "\\'")}', '${item.link || ''}')">
+                            <span class="${cls}-text">➔</span> SHARE
+                        </button>
+                    </div>
+                `;
+                feed.appendChild(card);
+            });
+        }
+
+        function shareStory(headline, summary, link) {
+            if (navigator.share) {
+                navigator.share({
+                    title: headline,
+                    text: `⚡ *FAST NEWS BRIEF* ⚡\n\n*${headline}*\n${summary}\n\n`,
+                    url: link || window.location.href
+                }).catch(console.error);
+            } else {
+                alert(`Sharing: ${headline}`);
+            }
+        }
+
+        window.onload = loadData;
+    </script>
+</body>
+</html>
