@@ -35,7 +35,7 @@ def summarize_story(headline, text, category):
     SUMMARY: (Type your 3 punchy lines here separated by spaces or small dashes)
     """
     try:
-        model = genai.GenerativeModel('gemini-1.5-flash')
+        model = genai.GenerativeModel('gemini-2.5-flash')
         response = model.generate_content(prompt)
         
         # FIXED: Check if response and response.text exist directly without using legacy attribute tags
