@@ -1,0 +1,16 @@
+[
+  {
+    "headline": "Massive Tech Breakthrough Announced",
+    "summary": "Engineers have launched a new microchip capable of processing tasks twice as fast while using 50% less power. Commercial rollout begins next quarter.",
+    "category": "Tech",
+    "date": "May 18 • 3:40 PM",
+    "link": "https://www.example.com/tech-news"
+  },
+  {
+    "headline": "Local Team Wins Championship",
+    "summary": "In a stunning thriller, the home team secured the championship title with a last-second score. Celebrations are underway across the city tonight.",
+    "category": "Sports",
+    "date": "May 18 • 12:15 PM",
+    "link": "https://www.example.com/sports-news"
+  }
+]
