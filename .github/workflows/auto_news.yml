@@ -1,9 +1,9 @@
 name: Auto Pilot Fast News Updater
 
 on:
-  workflow_dispatch: # Allows you to trigger manually
+  workflow_dispatch: # Allows you to trigger manually from your phone
   schedule:
-    - cron: '0 * * * *' # Automatically runs every single hour
+    - cron: '0 */2 * * *' # Balanced Schedule: Wakes up automatically every 2 hours
 
 jobs:
   scrape_and_post:
@@ -11,10 +11,10 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v4 # Upgraded to Node 20+ compliant version
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v5 # Upgraded to modern environment step
+      uses: actions/setup-python@v5
       with:
         python-version: '3.10'
 
@@ -30,7 +30,6 @@ jobs:
 
     - name: Commit and Push Database Updates
       run: |
-        git config --global user.name "ajay1020"
         git config --global user.name "ajay1020"
         git config --global user.email "ajay1020@users.noreply.github.com"
         git add news.json
