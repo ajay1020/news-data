@@ -1,105 +1,97 @@
 import os
 import json
 import feedparser
-import requests
+import google.generativeai as genai
 from datetime import datetime
 
-# 1. Define your curated RSS News Feeds
+# Initialize Gemini Client cleanly using standard Actions Environment variables
+api_key = os.getenv("GEMINI_API_KEY")
+if not api_key:
+    print("Error: GEMINI_API_KEY secret is completely missing from repository settings.")
+    exit(1)
+
+genai.configure(api_key=api_key)
+
 FEEDS = {
     "TECH": "https://www.theverge.com/rss/index.xml",
-    "GAMING": "https://feeds.feedburner.com/ign/news",
-    "GENERAL": "https://feeds.bbci.co.uk/news/rss.xml"
+    "GAMING": "https://www.ign.com/rss/articles/feed",
+    "GENERAL": "http://feeds.bbci.co.uk/news/rss.xml"
 }
 
-# 2. Grab your free Gemini API key from GitHub Environments
-API_KEY = os.environ.get("GEMINI_API_KEY")
-GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={API_KEY}"
+def clean_html(text):
+    import re
+    return re.sub('<[^<]+?>', '', text).strip()
 
-def ask_gemini(article_title, article_summary):
-    """Sends raw news to the free Gemini model to get an optimized, 3-bullet summary."""
+def summarize_story(headline, text, category):
     prompt = f"""
-    You are an expert news editor for a fast-paced mobile app. 
-    Analyze this news story:
-    Title: {article_title}
-    Context: {article_summary}
+    You are the core optimization engine for a fast-paced mobile news app. 
+    Analyze this breaking story title and description. Compress it into exactly 3 highly readable, punchy bullet points that take under 5 seconds to scan. Clean out any html fragments or raw web links.
 
-    Provide an output strictly in the following JSON format. Do not write any markdown prose outside the JSON wrapper.
-    {{
-        "headline": "A bold, short headline under 8 words summarizing the core event",
-        "summary": "• First punchy fact taking under 2 seconds to read.\\n• Second crucial context point.\\n• Third critical takeaway or future outlook."
-    }}
+    STORY TITLE: {headline}
+    STORY BODY: {text}
+
+    Respond strictly in this clean formatting structure with zero markdown or conversational chatter:
+    HEADLINE: (A bold, urgent headline summarizing the break)
+    SUMMARY: (Type your 3 punchy lines here separated by spaces or small dashes)
     """
-    
-    payload = {"contents": [{"parts": [{"text": prompt}]}]}
     try:
-        response = requests.post(GEMINI_URL, json=payload, timeout=15)
-        if response.statusCode == 200:
-            raw_text = response.json()['candidates'][0]['content']['parts'][0]['text'].strip()
-            # Clean up accidental markdown backticks if the AI provides them
-            if raw_text.startswith("```json"):
-                raw_text = raw_text.replace("```json", "").replace("```", "").strip()
-            return json.loads(raw_text)
+        model = genai.GenerativeModel('gemini-1.5-flash')
+        response = model.generate_content(prompt)
+        
+        # Verify response text exists cleanly without using legacy .statusCode parameters
+        if response and response.text:
+            lines = response.text.strip().split('\n')
+            res_headline = headline
+            res_summary = ""
+            for line in lines:
+                if line.startswith("HEADLINE:"):
+                    res_headline = line.replace("HEADLINE:", "").strip()
+                elif line.startswith("SUMMARY:"):
+                    res_summary = line.replace("SUMMARY:", "").strip()
+            
+            if not res_summary:
+                res_summary = lines[-1].strip()
+                
+            return {
+                "headline": res_headline,
+                "summary": res_summary if res_summary else "Tap the source link below to open the breaking article coverage details.",
+                "category": category,
+                "date": datetime.now().strftime("%b %d • %I:%M %p"),
+                "link": ""
+            }
     except Exception as e:
-        print(f"AI Optimization failed for story: {e}")
+        print(f"Gemini Handoff failed for this item: {str(e)}")
     return None
 
 def main():
-    # Load your current live news.json database file
-    db_file = "news.json"
-    if os.path.exists(db_file):
-        with open(db_file, "r") as f:
-            try:
-                news_database = json.load(f)
-            except:
-                news_database = []
-    else:
-        news_database = []
-
-    # Get a list of headlines already published to avoid repeating news
-    existing_headlines = {item["headline"] for item in news_database}
-    new_stories_added = 0
-
-    # Scrape feeds
+    print("Initializing Autopilot News Scraper Engine...")
+    master_news = []
+    
     for category, url in FEEDS.items():
-        print(f"Scraping {category} feed...")
-        feed = feedparser.parse(url)
-        
-        # Check the top latest breaking article from each feed
-        if not feed.entries:
-            continue
-            
-        latest_entry = feed.entries[0]
-        title = latest_entry.title
-        link = latest_entry.link
-        description = getattr(latest_entry, 'summary', title)
+        print(f"Scraping active {category} feed stream...")
+        try:
+            feed = feedparser.parse(url)
+            # Process the single most recent breaking item from each news provider
+            if feed.entries:
+                entry = feed.entries[0]
+                raw_desc = getattr(entry, 'summary', '') or getattr(entry, 'description', '')
+                clean_desc = clean_html(raw_desc)[:1000]
+                
+                article_data = summarize_story(entry.title, clean_desc, category)
+                if article_data:
+                    article_data["link"] = getattr(entry, 'link', '')
+                    master_news.append(article_data)
+                    print(f"Successfully optimized breaking item for {category}!")
+        except Exception as e:
+            print(f"Failed to parse data stream for {category}: {str(e)}")
 
-        # Let the AI process it if it's completely fresh news
-        ai_data = ask_gemini(title, description)
-        if ai_data and ai_data["headline"] not in existing_headlines:
-            current_time = datetime.now().strftime("%b %d • %I:%M %p")
-            
-            new_item = {
-                "headline": ai_data["headline"],
-                "summary": ai_data["summary"],
-                "category": category,
-                "link": link,
-                "date": current_time
-            }
-            
-            # Inject right at the top of the app feed database
-            news_database.insert(0, new_item)
-            new_stories_added += 1
-            print(f"Successfully posted: {ai_data['headline']}")
-
-    # Keep database running fast by capping it at the 40 freshest stories
-    news_database = news_database[:40]
-
-    # Save updates back into your repository database file
-    if new_stories_added > 0:
-        with open(db_file, "w") as f:
-            json.dump(news_database, f, indent=2)
+    if master_news:
+        print("Saving live compiled stories straight to the news.json database...")
+        with open("news.json", "w") as f:
+            json.dump(master_news, f, indent=4)
+        print("Database sync complete!")
     else:
-        print("No new breaking updates found during this cycle.")
+        print("No new breaking updates found during this cycle. Database left untouched to preserve layout fallback rules.")
 
 if __name__ == "__main__":
     main()
