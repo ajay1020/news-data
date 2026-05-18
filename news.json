@@ -1,24 +1,23 @@
 [
     {
-    "headline": "Your Custom Headline Text Goes Here",
-    "summary": "Type your punchy 2-3 line news card description here using AI to shorten the words.",
-    "category": "Tech",
-    "date": "May 18 • 4:55 PM",
-    "link": "https://www.example.com/your-target-link"
-  },
-
-  {
-    "headline": "Massive Tech Breakthrough Announced",
-    "summary": "Engineers have launched a new microchip capable of processing tasks twice as fast while using 50% less power. Commercial rollout begins next quarter.",
-    "category": "Tech",
-    "date": "May 18 • 3:40 PM",
-    "link": "https://www.example.com/tech-news"
-  },
-  {
-    "headline": "Local Team Wins Championship",
-    "summary": "In a stunning thriller, the home team secured the championship title with a last-second score. Celebrations are underway across the city tonight.",
-    "category": "Sports",
-    "date": "May 18 • 12:15 PM",
-    "link": "https://www.example.com/sports-news" 
-  }
+        "headline": "Google Workspace Icons Rolling Out Now!",
+        "summary": "Google Workspace apps get a fresh icon redesign - The new logos are rolling out widely, starting now - Expect a distinct gradient look, fading from light to dark.",
+        "category": "TECH",
+        "date": "May 18 \u2022 04:37 PM",
+        "link": "https://www.theverge.com/tech/932417/google-gmail-docs-cal-sheets-workspace-icon-redesign"
+    },
+    {
+        "headline": "Massive Bets On The Boys Finale Deaths",
+        "summary": "The Boys S5 finale sparks huge fan betting - Thousands wagered on character deaths this week - Even The Deep's actor is staying silent",
+        "category": "GAMING",
+        "date": "May 18 \u2022 04:37 PM",
+        "link": "https://www.ign.com/articles/people-are-betting-thousands-of-dollars-on-who-will-die-at-the-end-of-the-boys-season-5"
+    },
+    {
+        "headline": "Shock: MAFS UK Brides Allege On-Screen Rape",
+        "summary": "MAFS UK brides accuse on-screen husbands of rape - Claims made to BBC detail shocking abuse - Channel 4 knew of an allegation pre-broadcast, still aired.",
+        "category": "GENERAL",
+        "date": "May 18 \u2022 04:37 PM",
+        "link": "https://www.bbc.com/news/articles/cp8pz1k4r2lo?at_medium=RSS&at_campaign=rss"
+    }
 ]
