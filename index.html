@@ -8,8 +8,15 @@
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <style>
-        body { background-color: #121212; color: white; font-family: sans-serif; padding: 16px; margin: 0; padding-bottom: 40px; }
-        h1 { font-size: 24px; font-weight: 900; letter-spacing: 1.5px; margin: 0 0 16px 0; }
+        body { background-color: #121212; color: white; font-family: sans-serif; padding: 0; margin: 0; padding-bottom: 40px; }
+        
+        /* Fixed Header Style with Manual Refresh Button Hook */
+        .app-bar { display: flex; justify-content: space-between; align-items: center; background-color: #000000; padding: 16px; border-bottom: 1px solid #2A2A2A; position: sticky; top: 0; z-index: 100; }
+        .app-bar h1 { font-size: 20px; font-weight: 900; letter-spacing: 1.5px; margin: 0; }
+        .refresh-icon-btn { background: none; border: none; color: white; font-size: 20px; cursor: pointer; padding: 4px; outline: none; transition: transform 0.3s ease; }
+        .refresh-icon-btn:active { transform: rotate(180deg); }
+        
+        .app-container { padding: 16px; }
         .search-container { margin-bottom: 16px; }
         .search-bar { width: 100%; padding: 12px 16px; border-radius: 25px; border: none; background-color: #1E1E1E; color: white; font-size: 14px; box-sizing: border-box; outline: none; }
         .search-bar::placeholder { color: #8E8E8E; }
@@ -17,7 +24,7 @@
         .tab { padding: 10px 16px; color: #8E8E8E; font-size: 12px; font-weight: bold; cursor: pointer; text-transform: uppercase; letter-spacing: 1px; border-bottom: 2px solid transparent; white-space: nowrap; }
         .tab.active { color: white; border-bottom: 2px solid white; }
         #news-feed { display: flex; flex-direction: column; gap: 12px; }
-        .card { background-color: #1E1E1E; border-radius: 8px; display: flex; overflow: hidden; }
+        .card { background-color: #1E1E1E; border-radius: 8px; display: flex; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
         .accent { width: 5px; }
         .content { padding: 16px; flex: 1; display: flex; flex-direction: column; }
         .meta-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
@@ -26,27 +33,34 @@
         .headline { font-size: 18px; font-weight: bold; margin-bottom: 6px; line-height: 1.2; }
         .summary { font-size: 14px; color: #B3B3B3; line-height: 1.4; margin-bottom: 12px; }
         .share-btn { align-self: flex-end; background-color: #2A2A2A; border: none; padding: 6px 12px; border-radius: 15px; color: white; font-size: 11px; font-weight: bold; display: flex; align-items: center; gap: 4px; cursor: pointer; }
+        
+        /* Dynamic Accent Elements */
         .tech-text { color: #00E5FF; } .tech-bg { background-color: #00E5FF; }
-        .sports-text { color: #FF5252; } .sports-bg { background-color: #FF5252; }
+        .gaming-text { color: #FF9100; } .gaming-bg { background-color: #FF9100; }
         .general-text { color: #448AFF; } .general-bg { background-color: #448AFF; }
-    </style>
+    </cite-markdown-code-block>
 </head>
 <body>
 
-    <h1>⚡ FAST NEWS</h1>
-
-    <div class="search-container">
-        <input type="text" id="searchBox" class="search-bar" placeholder="Search breaking stories...">
+    <div class="app-bar">
+        <h1>⚡ FAST NEWS</h1>
+        <button class="refresh-icon-btn" onclick="loadData(true)">🔄</button>
     </div>
 
-    <div class="tabs-container">
-        <div class="tab active" onclick="switchTab('ALL')">All</div>
-        <div class="tab" onclick="switchTab('TECH')">Tech</div>
-        <div class="tab" onclick="switchTab('SPORTS')">Sports</div>
-        <div class="tab" onclick="switchTab('GENERAL')">General</div>
-    </div>
+    <div class="app-container">
+        <div class="search-container">
+            <input type="text" id="searchBox" class="search-bar" placeholder="Search breaking stories...">
+        </div>
 
-    <div id="news-feed"></div>
+        <div class="tabs-container">
+            <div class="tab active" onclick="switchTab('ALL', event)">All</div>
+            <div class="tab" onclick="switchTab('TECH', event)">Tech</div>
+            <div class="tab" onclick="switchTab('GAMING', event)">Gaming</div>
+            <div class="tab" onclick="switchTab('GENERAL', event)">General</div>
+        </div>
+
+        <div id="news-feed"></div>
+    </div>
 
     <script>
         const url = "https://raw.githubusercontent.com/ajay1020/news-data/refs/heads/main/news.json";
@@ -55,16 +69,36 @@
 
         document.getElementById('searchBox').addEventListener('input', renderFeed);
 
-        function loadData() {
-            fetch(url + '?ts=' + Date.now())
+        // Native Android Touch Variables for Pull-to-Refresh Gesture
+        let touchStartYr = 0;
+        window.addEventListener('touchstart', e => { touchStartY = e.touches[0].pageY; }, { passive: true });
+        window.addEventListener('touchend', e => {
+            const touchEndY = e.changedTouches[0].pageY;
+            // If user drags down more than 150px at absolute top of the screen...
+            if (window.scrollY === 0 && touchEndY - touchStartY > 150) {
+                loadData(true);
+            }
+        }, { passive: true });
+
+        function loadData(bypassCache = false) {
+            const feed = document.getElementById('news-feed');
+            feed.innerHTML = '<div style="text-align:center; color:#8E8E8E; margin-top:20px; font-size:14px;">Updating live stream...</div>';
+            
+            // Cache breaker logic: forces browser to request fresh content from GitHub
+            const finalUrl = bypassCache ? `${url}?nocache=${Date.now()}` : url;
+
+            fetch(finalUrl)
                 .then(res => res.json())
                 .then(data => {
                     allNews = data;
                     renderFeed();
-                }).catch(err => console.log(err));
+                }).catch(err => {
+                    console.log(err);
+                    feed.innerHTML = '<div style="text-align:center; color:#FF5252; margin-top:20px; font-size:14px;">Network sync offline. Tap 🔄 to retry.</div>';
+                });
         }
 
-        function switchTab(tabName) {
+        function switchTab(tabName, event) {
             document.querySelectorAll('.tab').forEach(el => el.classList.remove('active'));
             event.target.classList.add('active');
             currentTab = tabName;
@@ -74,7 +108,7 @@
         function getStyleClass(category) {
             const cat = category.toLowerCase();
             if (cat === 'tech') return 'tech';
-            if (cat === 'sports') return 'sports';
+            if (cat === 'gaming') return 'gaming';
             return 'general';
         }
 
@@ -133,7 +167,8 @@
             }
         }
 
-        window.onload = loadData;
+        // Run data fetching loop on first load execution
+        loadData(false);
     </script>
 </body>
 </html>
