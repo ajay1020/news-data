@@ -1,7 +1,7 @@
 import os
 import json
 import re
-import time  # Imported to handle free-tier pacing delays
+import time  # Handles free-tier pacing delays
 import feedparser
 import google.generativeai as genai
 from datetime import datetime
@@ -46,16 +46,16 @@ def summarize_story(headline, text, category):
     return None
 
 def main():
-    print("Initializing Rate-Limited Uncapped News Scraper Engine...")
+    print("Initializing Volume-Balanced News Scraper Engine...")
     master_news = []
-    request_count = 0  # Tracker to monitor our Free-Tier ceiling
+    request_count = 0  # Tracker to monitor our Free-Tier ceilings
     
     for category, url in FEEDS.items():
         print(f"Scraping active {category} feed stream...")
         feed = feedparser.parse(url)
         
-        # Pulls up to the top 10 available live entries per stream to keep things deep but safe
-        for entry in feed.entries[:10]: 
+        # CHANGED TO [:6] - Grabs the top 6 newest stories per category to stay under 20 total daily calls
+        for entry in feed.entries[:6]: 
             title = entry.get('title', '')
             summary_raw = clean_html(entry.get('summary', entry.get('description', '')))
             link = entry.get('link', '')
@@ -63,11 +63,11 @@ def main():
             if not title or not link:
                 continue
                 
-            # Pace monitor: If we are hitting our 5-request quota ceiling, pause to clear the rate clock
-            if request_count >= 5:
-                print("Approaching Free-Tier limits. Throttling execution for 60 seconds to reset rate clocks...")
+            # Pace monitor: Pause briefly if approaching 5 RPM limit
+            if request_count >= 4:
+                print("Approaching minute limits. Throttling execution for 62 seconds...")
                 time.sleep(62)
-                request_count = 0  # Clear counter once the cloud clock resets
+                request_count = 0  # Clear minute counter
                 
             optimized_bullets = summarize_story(title, summary_raw, category)
             request_count += 1  # Log request to counter
