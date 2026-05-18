@@ -1,0 +1,16 @@
+{
+  "short_name": "Fast News",
+  "name": "Fast News Mobile Container",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluency/192/000000/flash-on.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#121212",
+  "theme_color": "#000000",
+  "display": "standalone",
+  "orientation": "portrait"
+}
