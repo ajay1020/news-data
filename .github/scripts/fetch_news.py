@@ -31,11 +31,11 @@ def summarize_story(headline, text, category):
     Story: {headline} - {text}
     """
     try:
-        # Utilizing an active production generation model name
+        # Utilizing a fully active production generation model name
         model = genai.GenerativeModel('gemini-2.5-flash')
         response = model.generate_content(prompt)
         
-        # Accessing raw text directly without non-existent .statusCode metrics
+        # Accessing raw text directly without legacy error metrics
         if response and response.text:
             bullets = response.text.strip().split('\n')
             clean_bullets = [re.sub(r'^[\*\-\s\d\.]+', '', b).strip() for b in bullets if b.strip()][:3]
@@ -47,14 +47,15 @@ def summarize_story(headline, text, category):
     return None
 
 def main():
-    print("Initializing Autopilot News Scraper Engine...")
+    print("Initializing Uncapped Autopilot News Scraper Engine...")
     master_news = []
     
     for category, url in FEEDS.items():
         print(f"Scraping active {category} feed stream...")
         feed = feedparser.parse(url)
         
-        for entry in feed.entries[:10]: # Grab top items per stream
+        # REMOVED [:3] SLICE: The loop now flows through ALL available entries on the RSS feed
+        for entry in feed.entries: 
             title = entry.get('title', '')
             summary_raw = clean_html(entry.get('summary', entry.get('description', '')))
             link = entry.get('link', '')
@@ -65,7 +66,7 @@ def main():
             optimized_bullets = summarize_story(title, summary_raw, category)
             
             if optimized_bullets:
-                print(f"Successfully optimized breaking item for {category}!")
+                print(f"Successfully optimized breaking item: '{title}' for {category}!")
                 master_news.append({
                     "headline": title,
                     "summary": ". ".join(optimized_bullets) + ".",
@@ -73,10 +74,11 @@ def main():
                     "category": category,
                     "date": datetime.now().strftime("%b %d • %I:%M %p")
                 })
-                break # Move to next category once we grab a fresh story
+                # REMOVED break: The script no longer exits after 1 story per stream.
+                # It continues capturing all entries sequentially!
                 
     if master_news:
-        print("Saving live compiled stories straight to the news.json database...")
+        print(f"Saving {len(master_news)} live compiled stories straight to the news.json database...")
         with open('news.json', 'w') as f:
             json.dump(master_news, f, indent=4)
         print("Database sync complete!")
