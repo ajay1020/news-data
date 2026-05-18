@@ -1,7 +1,6 @@
 import os
 import json
 import re
-import time
 import feedparser
 import google.generativeai as genai
 from datetime import datetime
@@ -25,109 +24,91 @@ def clean_html(text):
 
 def clean_markdown_json(text):
     """
-    Cleans out markdown wrapper code blocks (like ```json ... ```) 
-    using stable, simple string splicing instead of complex regex.
-    This prevents any mobile copy-paste syntax errors!
+    Cleans out markdown wrapper code blocks (like ```json ... ```)
+    using stable string slicing. This is 100% copy-paste safe.
     """
     text = text.strip()
-    
-    # Strip opening backticks block
     if text.startswith("```"):
         first_newline = text.find("\n")
         if first_newline != -1:
             text = text[first_newline:].strip()
-            
-    # Strip closing backticks block
     if text.endswith("```"):
         text = text[:-3].strip()
-        
     return text
 
-def process_batch_feed(category, entries):
-    """
-    Bundles multiple RSS headlines and description feeds into a single payload request.
-    This safely protects your 20 daily free requests ceiling.
-    """
-    batch_input = []
-    for idx, entry in enumerate(entries):
-        title = entry.get("title", "")
-        summary = clean_html(entry.get("summary", entry.get("description", "")))
-        link = entry.get("link", "")
-        if title and link:
-            batch_input.append({
-                "id": idx,
-                "title": title,
-                "text": summary,
-                "link": link
-            })
-            
-    if not batch_input:
-        return []
-
-    prompt = f"""
-    You are the optimization engine for a mobile news application.
-    Analyze the following list of news articles for the category '{category}'.
-    For every article in the list, generate exactly 3 short, punchy bullet points summarizing the story.
+def main():
+    print("Initializing Super-Consolidated News Scraper Engine...")
     
-    Return the response ONLY as a valid JSON array of objects, matching this exact structure:
+    # 1. Gather all raw items across all feeds first
+    all_raw_items = []
+    for category, url in FEEDS.items():
+        print(f"Scraping {category} RSS feed...")
+        feed = feedparser.parse(url)
+        # Pull the top 4 stories per category to keep the prompt balanced
+        for entry in feed.entries[:4]:
+            title = entry.get("title", "")
+            summary = clean_html(entry.get("summary", entry.get("description", "")))
+            link = entry.get("link", "")
+            if title and link:
+                all_raw_items.append({
+                    "title": title,
+                    "text": summary,
+                    "link": link,
+                    "category": category
+                })
+
+    if not all_raw_items:
+        print("No articles found across any RSS feeds. Exiting.")
+        return
+
+    # 2. Bundle everything into EXACTLY ONE prompt to save daily API quota
+    prompt = f"""
+    You are the optimization engine for a mobile news app.
+    Analyze the following list of news articles from different categories.
+    For each item, generate exactly 3 short, punchy bullet points summarizing the story.
+    
+    You MUST return the response ONLY as a valid JSON array of objects matching this structure:
     [
         {{
             "headline": "Original Title or Cleaned Headline",
             "summary": "Bullet point 1. Bullet point 2. Bullet point 3.",
             "link": "Original source link matching the entry",
-            "category": "{category}"
+            "category": "The matching category (TECH, GAMING, or GENERAL)"
         }}
     ]
     Do not wrap the JSON response in code blocks. Return raw JSON text only.
     
     Articles list to process:
-    {json.dumps(batch_input, indent=2)}
+    {json.dumps(all_raw_items, indent=2)}
     """
-    
+
+    print("Sending single consolidated batch request to Gemini API...")
     try:
         model = genai.GenerativeModel("gemini-2.5-flash")
         response = model.generate_content(prompt)
         
         if response and response.text:
-            # Safely clean out any structural code fences
             clean_text = clean_markdown_json(response.text)
             parsed_results = json.loads(clean_text)
             
-            # Inject standard timestamp dates to all processed items
+            # Inject timestamps into all parsed items
             current_time = datetime.now().strftime("%b %d • %I:%M %p")
             for item in parsed_results:
                 item["date"] = current_time
-            return parsed_results
             
-    except Exception as e:
-        print(f"Gemini Batch process failed for category {category}: {str(e)}")
-    return []
-
-def main():
-    print("Initializing Batch-Processing News Scraper Engine...")
-    master_news = []
-    
-    for category, url in FEEDS.items():
-        print(f"Scraping active {category} feed stream...")
-        feed = feedparser.parse(url)
-        
-        # Batch collect top 8 stories per category
-        target_entries = feed.entries[:8]
-        
-        # Pulls up to 8 summaries concurrently inside a single API transaction
-        batch_stories = process_batch_feed(category, target_entries)
-        master_news.extend(batch_stories)
-        
-        # Small network pacing safety delay
-        time.sleep(2)
+            # Write only if we have compiled articles
+            if parsed_results:
+                print(f"Successfully processed {len(parsed_results)} articles!")
+                print("Saving compiled stories directly to news.json...")
+                with open("news.json", "w") as f:
+                    json.dump(parsed_results, f, indent=4)
+                print("Database sync complete!")
+                return
                 
-    if master_news:
-        print(f"Saving {len(master_news)} live batch-compiled stories straight to the news.json database...")
-        with open("news.json", "w") as f:
-            json.dump(master_news, f, indent=4)
-        print("Database sync complete!")
-    else:
-        print("No new updates generated during this batch run execution loop.")
+    except Exception as e:
+        print(f"Gemini Consolidated Handoff failed: {str(e)}")
+        
+    print("No updates generated during this cycle. Existing database preserved.")
 
 if __name__ == "__main__":
     main()
