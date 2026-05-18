@@ -1,44 +1,86 @@
 [
     {
         "headline": "Google is rolling out its redesigned Workspace app icons",
-        "summary": "Here's your compressed story:. Google Workspace apps are rolling out redesigned icons.. The new look features a modern gradient design with fading shades..",
+        "summary": "Google Workspace apps are getting a visual refresh. New icons feature a modern gradient design. The rollout began this morning for users.",
         "link": "https://www.theverge.com/tech/932417/google-gmail-docs-cal-sheets-workspace-icon-redesign",
         "category": "TECH",
-        "date": "May 18 \u2022 05:03 PM"
+        "date": "May 18 \u2022 05:26 PM"
     },
     {
         "headline": "Sony is raising short-subscription prices for PlayStation Plus",
-        "summary": "Sony hikes PlayStation Plus prices.**. & 3-month subscriptions cost more in select regions, effective May 20.**. New rates: $10.99 (1-month) and $27.99 (3-month) in the US.**.",
+        "summary": "Sony is increasing prices for 1-month and 3-month PlayStation Plus. Price hikes affect 'select regions' starting May 20th. This is attributed to 'ongoing market conditions'.",
         "link": "https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise",
         "category": "TECH",
-        "date": "May 18 \u2022 05:03 PM"
+        "date": "May 18 \u2022 05:26 PM"
     },
     {
         "headline": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
-        "summary": "Here are your compressed bullet points:. Elon Musk and Sam Altman are in court over the future of OpenAI.. Musk sued OpenAI, alleging it abandoned its \"AI for humanity\" mission for profit..",
+        "summary": "Elon Musk and Sam Altman are in a high-stakes legal battle over OpenAI's future. Musk sued OpenAI, alleging it abandoned its founding mission. The lawsuit claims OpenAI prioritized profit over humanity's benefit.",
         "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
         "category": "TECH",
-        "date": "May 18 \u2022 05:03 PM"
+        "date": "May 18 \u2022 05:26 PM"
     },
     {
-        "headline": "The Verge\u2019s 2026 college graduation gift guide",
-        "summary": "The Verge's 2026 College Graduation Gift Guide.. Help grads tackle new jobs, apartments & responsibilities.. Find the perfect gift for their next big step..",
-        "link": "https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas",
+        "headline": "Amazon Alexa Plus can now create AI-generated podcasts",
+        "summary": "Alexa Plus, Amazon's AI assistant, now generates podcasts on virtually any topic. Users can give Alexa a topic and guide the AI hosts. This new feature was announced on Monday.",
+        "link": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
         "category": "TECH",
-        "date": "May 18 \u2022 05:04 PM"
+        "date": "May 18 \u2022 05:26 PM"
     },
     {
-        "headline": "Linus Torvalds says Linux security list is becoming \u2018unmanageable\u2019 due to AI bug reports",
-        "summary": "Here are your compressed bullet points:. Linus Torvalds warns: Linux security list is now \"unmanageable.\". Blames a \"flood of AI bug reports\" for the chaos..",
-        "link": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs",
-        "category": "TECH",
-        "date": "May 18 \u2022 05:04 PM"
+        "headline": "Confused Retailers Receive Mysterious Shipments Containing One of the PS4's Rarest Games, Poop Slinger",
+        "summary": "Retailers are receiving mysterious shipments of 'Poop Slinger'. It's one of the PS4's rarest games. Mom-and-pop stores are among those confused by the deliveries.",
+        "link": "https://www.ign.com/articles/confused-retailers-receive-mysterious-shipments-containing-one-of-the-ps4s-rarest-games-poop-slinger",
+        "category": "GAMING",
+        "date": "May 18 \u2022 05:26 PM"
     },
     {
-        "headline": "Exclusive: Jonah Peretti explains why he sold BuzzFeed",
-        "summary": "BuzzFeed CEO Jonah Peretti sells majority stake in the company.. Byron Allen (Weather Channel owner) acquires 52% for $120 million.. Peretti steps down as CEO, explains the sale in an exclusive interview..",
-        "link": "https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media",
-        "category": "TECH",
-        "date": "May 18 \u2022 05:04 PM"
+        "headline": "This $1,800 Power Lift Recliner and Massage Chair Is Just $375 During the Wayfair Memorial Day Sale",
+        "summary": "A power lift recliner and massage chair is heavily discounted. Originally $1,800, it's now $375 during Wayfair's Memorial Day Sale. This offers a significant saving on a premium chair.",
+        "link": "https://www.ign.com/articles/wayfair-memorial-day-sale-power-lift-recliner-and-massage-chair-deal",
+        "category": "GAMING",
+        "date": "May 18 \u2022 05:26 PM"
+    },
+    {
+        "headline": "Buy One Board Game or Puzzle, Get One 50% Off Through This Stellar Offer at Target",
+        "summary": "Target is running a 'Buy One, Get One 50% Off' promotion. The deal applies to select board games, card games, and puzzles. This offer is valid until May 25th.",
+        "link": "https://www.ign.com/articles/buy-one-board-game-or-puzzle-get-one-50-off-through-this-stellar-offer-at-target",
+        "category": "GAMING",
+        "date": "May 18 \u2022 05:26 PM"
+    },
+    {
+        "headline": "Sony Announces PlayStation Plus Price Increases 'Due to Ongoing Market Conditions'",
+        "summary": "Sony is raising prices for its PlayStation Plus subscription service. The company cites 'ongoing market conditions' as the reason. This news follows previous reports of similar price hikes.",
+        "link": "https://www.ign.com/articles/sony-announces-playstation-plus-price-increases-due-to-ongoing-market-conditions",
+        "category": "GAMING",
+        "date": "May 18 \u2022 05:26 PM"
+    },
+    {
+        "headline": "Married at First Sight UK brides tell BBC they were raped by on-screen husbands",
+        "summary": "Married at First Sight UK brides allege they were raped by on-screen husbands. Channel 4 was aware of one claim before broadcast. The woman involved still featured in the show despite the claim.",
+        "link": "https://www.bbc.com/news/articles/cp8pz1k4r2lo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "May 18 \u2022 05:26 PM"
+    },
+    {
+        "headline": "Burnham pledges not to 're-run' Brexit arguments",
+        "summary": "Potential leadership challenger Burnham commits to not revisiting Brexit arguments. He states he does not propose the UK rejoin the EU. This comes amidst ongoing political discussions.",
+        "link": "https://www.bbc.com/news/articles/cx21en4807wo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "May 18 \u2022 05:26 PM"
+    },
+    {
+        "headline": "Bodies of missing Italian divers found in Maldives",
+        "summary": "All five Italian divers who went missing in the Maldives have been found. Officials confirmed their bodies were recovered last week. The incident led to a search and rescue operation.",
+        "link": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "May 18 \u2022 05:26 PM"
+    },
+    {
+        "headline": "Prince William selling 20% of duchy property for housing and nature projects",
+        "summary": "Prince William's Duchy of Cornwall plans to sell 20% of its estate. The sale aims to re-invest in new housing and nature projects. The estate covers 128,000 acres.",
+        "link": "https://www.bbc.com/news/articles/ce8pg8ryjkzo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "May 18 \u2022 05:26 PM"
     }
 ]
