@@ -1,5 +1,6 @@
 import os
 import json
+import re
 import feedparser
 import google.generativeai as genai
 from datetime import datetime
@@ -19,46 +20,28 @@ FEEDS = {
 }
 
 def clean_html(text):
-    import re
     return re.sub('<[^<]+?>', '', text).strip()
 
 def summarize_story(headline, text, category):
     prompt = f"""
-    You are the core optimization engine for a fast-paced mobile news app. 
-    Analyze this breaking story title and description. Compress it into exactly 3 highly readable, punchy bullet points that take under 5 seconds to scan. Clean out any html fragments or raw web links.
-
-    STORY TITLE: {headline}
-    STORY BODY: {text}
-
-    Respond strictly in this clean formatting structure with zero markdown or conversational chatter:
-    HEADLINE: (A bold, urgent headline summarizing the break)
-    SUMMARY: (Type your 3 punchy lines here separated by spaces or small dashes)
+    You are the core optimization engine for a fast-paced mobile news app.
+    Analyze this breaking story title and description. Compress it into exactly 3 highly readable, punchy bullet points that take under 5 seconds to scan. 
+    Clean out any html fragments or raw web links.
+    
+    Story: {headline} - {text}
     """
     try:
+        # Utilizing a fully active production generation model
         model = genai.GenerativeModel('gemini-2.5-flash')
         response = model.generate_content(prompt)
         
-        # FIXED: Check if response and response.text exist directly without using legacy attribute tags
-        if response and hasattr(response, 'text') and response.text:
-            lines = response.text.strip().split('\n')
-            res_headline = headline
-            res_summary = ""
-            for line in lines:
-                if line.startswith("HEADLINE:"):
-                    res_headline = line.replace("HEADLINE:", "").strip()
-                elif line.startswith("SUMMARY:"):
-                    res_summary = line.replace("SUMMARY:", "").strip()
-            
-            if not res_summary:
-                res_summary = lines[-1].strip()
-                
-            return {
-                "headline": res_headline,
-                "summary": res_summary if res_summary else "Tap the source link below to open the breaking article coverage details.",
-                "category": category,
-                "date": datetime.now().strftime("%b %d • %I:%M %p"),
-                "link": ""
-            }
+        # Accessing raw text directly without non-existent .statusCode metrics
+        if response and response.text:
+            bullets = response.text.strip().split('\n')
+            clean_bullets = [re.sub(r'^[\*\-\s\d\.]+', '', b).strip() for b in bullets if b.strip()][:3]
+            while len(clean_bullets) < 3:
+                clean_bullets.append("Read full coverage at the original source link.")
+            return clean_bullets
     except Exception as e:
         print(f"Gemini Handoff failed for this item: {str(e)}")
     return None
@@ -69,29 +52,36 @@ def main():
     
     for category, url in FEEDS.items():
         print(f"Scraping active {category} feed stream...")
-        try:
-            feed = feedparser.parse(url)
-            # Process the single most recent breaking item from each news provider
-            if feed.entries:
-                entry = feed.entries[0]
-                raw_desc = getattr(entry, 'summary', '') or getattr(entry, 'description', '')
-                clean_desc = clean_html(raw_desc)[:1000]
+        feed = feedparser.parse(url)
+        
+        for entry in feed.entries[:3]: # Grab top 3 items per stream
+            title = entry.get('title', '')
+            summary_raw = clean_html(entry.get('summary', entry.get('description', '')))
+            link = entry.get('link', '')
+            
+            if not title or not link:
+                continue
                 
-                article_data = summarize_story(entry.title, clean_desc, category)
-                if article_data:
-                    article_data["link"] = getattr(entry, 'link', '')
-                    master_news.append(article_data)
-                    print(f"Successfully optimized breaking item for {category}!")
-        except Exception as e:
-            print(f"Failed to parse data stream for {category}: {str(e)}")
-
+            optimized_bullets = summarize_story(title, summary_raw, category)
+            
+            if optimized_bullets:
+                print(f"Successfully optimized breaking item for {category}!")
+                master_news.append({
+                    "headline": title,
+                    "summary": ". ".join(optimized_bullets) + ".",
+                    "link": link,
+                    "category": category,
+                    "date": datetime.now().strftime("%b %d • %I:%M %p")
+                })
+                break # Move to next category once we grab a fresh story
+                
     if master_news:
         print("Saving live compiled stories straight to the news.json database...")
-        with open("news.json", "w") as f:
+        with open('news.json', 'w') as f:
             json.dump(master_news, f, indent=4)
         print("Database sync complete!")
     else:
-        print("No new breaking updates found during this cycle. Verification checks completed.")
+        print("No new updates generated this cycle. Fallback parameters untouched.")
 
 if __name__ == "__main__":
     main()
