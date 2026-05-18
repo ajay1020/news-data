@@ -1,0 +1,38 @@
+name: Auto Pilot Fast News Updater
+
+on:
+  schedule:
+    # This runs the script automatically every hour, 24/7, completely free!
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allows you to also trigger updates manually with one click
+
+jobs:
+  scrape_and_post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository Code
+        uses: actions/checkout@v4
+
+      - name: Set Up Python Environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Scraper Dependencies
+        run: |
+          pip install feedparser requests
+
+      - name: Run Sourcing & AI Summary Engine
+        env:
+          # We will use a free Gemini API key here so the AI can summarize text for free
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python .github/scripts/fetch_news.py
+
+      - name: Commit and Push Instant News Update
+        run: |
+          git config --global user.name "FastNewsBot"
+          git config --global user.email "bot@fastnews.app"
+          git add news.json
+          git diff-index --quiet HEAD || git commit -m "⚡ Automated Breaking News Update [Skip CI]"
+          git push
