@@ -10,7 +10,7 @@
     <style>
         body { background-color: #121212; color: white; font-family: sans-serif; padding: 0; margin: 0; padding-bottom: 40px; }
         
-        /* Fixed Header Style with Manual Refresh Button Hook */
+        /* Premium Top Action Bar Fix */
         .app-bar { display: flex; justify-content: space-between; align-items: center; background-color: #000000; padding: 16px; border-bottom: 1px solid #2A2A2A; position: sticky; top: 0; z-index: 100; }
         .app-bar h1 { font-size: 20px; font-weight: 900; letter-spacing: 1.5px; margin: 0; }
         .refresh-icon-btn { background: none; border: none; color: white; font-size: 20px; cursor: pointer; padding: 4px; outline: none; transition: transform 0.3s ease; }
@@ -34,11 +34,11 @@
         .summary { font-size: 14px; color: #B3B3B3; line-height: 1.4; margin-bottom: 12px; }
         .share-btn { align-self: flex-end; background-color: #2A2A2A; border: none; padding: 6px 12px; border-radius: 15px; color: white; font-size: 11px; font-weight: bold; display: flex; align-items: center; gap: 4px; cursor: pointer; }
         
-        /* Dynamic Accent Elements */
+        /* Category Color Accents mapping our Scraper Feeds */
         .tech-text { color: #00E5FF; } .tech-bg { background-color: #00E5FF; }
         .gaming-text { color: #FF9100; } .gaming-bg { background-color: #FF9100; }
         .general-text { color: #448AFF; } .general-bg { background-color: #448AFF; }
-    </cite-markdown-code-block>
+    </style>
 </head>
 <body>
 
@@ -69,22 +69,22 @@
 
         document.getElementById('searchBox').addEventListener('input', renderFeed);
 
-        // Native Android Touch Variables for Pull-to-Refresh Gesture
-        let touchStartYr = 0;
+        // Native Mobile Drag Gesture Setup (Enables Pull-to-Refresh on Android Touchscreens!)
+        let touchStartY = 0;
         window.addEventListener('touchstart', e => { touchStartY = e.touches[0].pageY; }, { passive: true });
         window.addEventListener('touchend', e => {
             const touchEndY = e.changedTouches[0].pageY;
-            // If user drags down more than 150px at absolute top of the screen...
-            if (window.scrollY === 0 && touchEndY - touchStartY > 150) {
+            // Triggers update if user pulls down more than 140px at absolute top position
+            if (window.scrollY === 0 && (touchEndY - touchStartY > 140)) {
                 loadData(true);
             }
         }, { passive: true });
 
         function loadData(bypassCache = false) {
             const feed = document.getElementById('news-feed');
-            feed.innerHTML = '<div style="text-align:center; color:#8E8E8E; margin-top:20px; font-size:14px;">Updating live stream...</div>';
+            feed.innerHTML = '<div style="text-align:center; color:#8E8E8E; margin-top:20px; font-size:14px;">Syncing with cloud data stream...</div>';
             
-            // Cache breaker logic: forces browser to request fresh content from GitHub
+            // Appends unique time values to the link to instantly slice through old browser cache memory
             const finalUrl = bypassCache ? `${url}?nocache=${Date.now()}` : url;
 
             fetch(finalUrl)
@@ -94,7 +94,7 @@
                     renderFeed();
                 }).catch(err => {
                     console.log(err);
-                    feed.innerHTML = '<div style="text-align:center; color:#FF5252; margin-top:20px; font-size:14px;">Network sync offline. Tap 🔄 to retry.</div>';
+                    feed.innerHTML = '<div style="text-align:center; color:#FF5252; margin-top:20px; font-size:14px;">Sync failed. Tap 🔄 to refresh.</div>';
                 });
         }
 
@@ -129,7 +129,7 @@
             });
 
             if (filtered.length === 0) {
-                feed.innerHTML = '<div style="text-align:center; color:#8E8E8E; margin-top:20px; font-size:14px;">No items match your criteria.</div>';
+                feed.innerHTML = '<div style="text-align:center; color:#8E8E8E; margin-top:20px; font-size:14px;">No stories found in this section.</div>';
                 return;
             }
 
@@ -163,11 +163,11 @@
                     url: link || window.location.href
                 }).catch(console.error);
             } else {
-                alert(`Sharing: ${headline}`);
+                alert(`Sharing Link: ${link || window.location.href}`);
             }
         }
 
-        // Run data fetching loop on first load execution
+        // Initialize background data load
         loadData(false);
     </script>
 </body>
