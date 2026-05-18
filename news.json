@@ -1,4 +1,12 @@
 [
+    {
+    "headline": "Your Custom Headline Text Goes Here",
+    "summary": "Type your punchy 2-3 line news card description here using AI to shorten the words.",
+    "category": "Tech",
+    "date": "May 18 • 4:55 PM",
+    "link": "https://www.example.com/your-target-link"
+  },
+
   {
     "headline": "Massive Tech Breakthrough Announced",
     "summary": "Engineers have launched a new microchip capable of processing tasks twice as fast while using 50% less power. Commercial rollout begins next quarter.",
