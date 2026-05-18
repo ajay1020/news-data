@@ -3,144 +3,335 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>News Data App</title>
+    <title>FAST NEWS</title>
     <style>
+        :root {
+            --bg-color: #0f0f0f;
+            --card-bg: #1a1a1a;
+            --text-main: #ffffff;
+            --text-muted: #8e8e93;
+            --accent-blue: #4da6ff;
+            --accent-yellow: #ffb300;
+            --search-bg: #262626;
+        }
+
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            max-width: 600px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f6f8fa;
-            color: #24292f;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            padding: 16px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
+
+        .app-container {
+            width: 100%;
+            max-width: 480px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
         header {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            border-bottom: 1px solid #d0d7de;
-            padding-bottom: 10px;
-            margin-bottom: 20px;
+            padding: 8px 0;
         }
-        h1 {
+
+        .logo-container {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .logo-icon {
+            color: var(--accent-yellow);
             font-size: 24px;
-            margin: 0;
+            font-weight: bold;
         }
-        button {
-            background-color: #2da44e;
-            color: white;
-            border: 1px solid rgba(27, 31, 36, 0.15);
-            border-radius: 6px;
-            padding: 6px 16px;
-            font-size: 14px;
-            font-weight: 500;
+
+        .logo-text {
+            font-size: 22px;
+            font-weight: 800;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        .refresh-btn {
+            background: transparent;
+            border: 1px solid #3a3a3c;
+            color: var(--text-main);
+            border-radius: 20px;
+            padding: 6px 14px;
+            font-size: 12px;
+            font-weight: 600;
             cursor: pointer;
-            transition: background-color 0.2s;
+            transition: all 0.2s ease;
         }
-        button:hover {
-            background-color: #2c974b;
+
+        .refresh-btn:hover {
+            background: #262626;
+            border-color: var(--text-muted);
         }
-        button:disabled {
-            background-color: #94d3a2;
+
+        .refresh-btn:disabled {
+            opacity: 0.5;
             cursor: not-allowed;
         }
+
+        .search-box {
+            background-color: var(--search-bg);
+            border: none;
+            border-radius: 8px;
+            padding: 12px 16px;
+            color: var(--text-main);
+            font-size: 15px;
+            outline: none;
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+        .search-box::placeholder {
+            color: #555559;
+        }
+
+        .nav-tabs {
+            display: flex;
+            gap: 24px;
+            border-bottom: 1px solid #262626;
+            padding-bottom: 8px;
+            overflow-x: auto;
+        }
+
+        .tab {
+            color: var(--text-muted);
+            font-size: 13px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            cursor: pointer;
+            padding-bottom: 8px;
+            white-space: nowrap;
+        }
+
+        .tab.active {
+            color: var(--text-main);
+            border-bottom: 2px solid var(--text-main);
+        }
+
+        #news-container {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
         .news-card {
-            background: white;
+            background-color: var(--card-bg);
+            border-radius: 12px;
             padding: 16px;
-            border: 1px solid #d0d7de;
-            border-radius: 6px;
-            margin-bottom: 12px;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            border-left: 4px solid var(--accent-blue);
+            position: relative;
         }
+
+        .card-meta {
+            display: flex;
+            justify-content: space-between;
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
+        .category-tag {
+            color: var(--accent-blue);
+            letter-spacing: 0.5px;
+        }
+
+        .timestamp {
+            color: var(--text-muted);
+        }
+
         .news-title {
-            font-size: 18px;
-            margin: 0 0 8px 0;
-            color: #0969da;
-        }
-        .news-desc {
-            font-size: 14px;
+            font-size: 17px;
+            font-weight: 700;
+            line-height: 1.4;
             margin: 0;
-            color: #57606a;
         }
-        .status-message {
+
+        .news-title a {
+            color: var(--text-main);
+            text-decoration: none;
+        }
+
+        .news-title a:hover {
+            color: var(--accent-blue);
+        }
+
+        .news-desc {
+            font-size: 13px;
+            color: var(--text-muted);
+            line-height: 1.5;
+            margin: 0;
+        }
+
+        .card-footer {
+            display: flex;
+            justify-content: flex-end;
+            margin-top: 4px;
+        }
+
+        .share-btn {
+            background-color: #262626;
+            color: var(--text-main);
+            border: none;
+            border-radius: 14px;
+            padding: 6px 12px;
+            font-size: 11px;
+            font-weight: 700;
+            cursor: pointer;
+            text-transform: uppercase;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .status-msg {
             text-align: center;
-            color: #57606a;
-            font-style: italic;
-            margin-top: 40px;
+            color: var(--text-muted);
+            font-size: 14px;
+            padding: 40px 0;
         }
     </style>
 </head>
 <body>
 
-    <header>
-        <h1>Latest News</h1>
-        <button id="refresh-btn">Refresh</button>
-    </header>
+    <div class="app-container">
+        <header>
+            <div class="logo-container">
+                <span class="logo-icon">⚡</span>
+                <span class="logo-text">Fast News</span>
+            </div>
+            <button id="refresh-btn" class="refresh-btn">Sync Feed</button>
+        </header>
 
-    <div id="news-container">
-        <div class="status-message">Loading news...</div>
+        <input type="text" id="search-bar" class="search-box" placeholder="Search breaking stories...">
+
+        <div class="nav-tabs">
+            <div class="tab active" data-category="all">All</div>
+            <div class="tab" data-category="tech">Tech</div>
+            <div class="tab" data-category="sports">Sports</div>
+            <div class="tab" data-category="general">General</div>
+        </div>
+
+        <div id="news-container">
+            <div class="status-msg">Loading stories...</div>
+        </div>
     </div>
 
     <script>
         const refreshBtn = document.getElementById('refresh-btn');
         const newsContainer = document.getElementById('news-container');
+        const searchBar = document.getElementById('search-bar');
+        const tabs = document.querySelectorAll('.tab');
 
-        // Function to fetch data from news.json
-        function loadNews() {
-            // Disable button and show loading state
+        let allArticles = [];
+        let currentCategory = 'all';
+
+        function fetchFeed() {
             refreshBtn.disabled = true;
-            refreshBtn.textContent = 'Loading...';
-            newsContainer.innerHTML = '<div class="status-message">Fetching latest updates...</div>';
+            refreshBtn.textContent = 'Updating...';
+            newsContainer.innerHTML = '<div class="status-msg">Fetching latest breaking news...</div>';
 
-            // Fetch the local news.json file
-            fetch('news.json')
+            // Cache buster appended to avoid old browser cache when JSON updates
+            fetch('news.json?t=' + new Date().getTime())
                 .then(response => {
-                    if (!response.ok) {
-                        throw new Error('Network response was not ok');
-                    }
+                    if (!response.ok) throw new Error('Data fetch failed');
                     return response.json();
                 })
                 .then(data => {
-                    // Clear the container
-                    newsContainer.innerHTML = '';
-
-                    // Check if your JSON is an array directly, or an object with an array
-                    const articles = Array.isArray(data) ? data : (data.articles || []);
-
-                    if (articles.length === 0) {
-                        newsContainer.innerHTML = '<div class="status-message">No news found.</div>';
-                        return;
-                    }
-
-                    // Loop through and build the HTML structure for each item
-                    articles.forEach(item => {
-                        const card = document.createElement('div');
-                        card.className = 'news-card';
-
-                        // Adjust 'item.title' and 'item.description' if your JSON uses different keys (like 'heading', 'text', etc.)
-                        card.innerHTML = `
-                            <h3 class="news-title">${item.title || 'No Title'}</h3>
-                            <p class="news-desc">${item.description || 'No description available.'}</p>
-                        `;
-                        newsContainer.appendChild(card);
-                    });
+                    allArticles = Array.isArray(data) ? data : (data.articles || []);
+                    renderFeed();
                 })
-                .catch(error => {
-                    console.error('Error loading JSON:', error);
-                    newsContainer.innerHTML = '<div class="status-message" style="color: #cf222e;">Failed to load news data. Check console for details.</div>';
+                .catch(err => {
+                    console.error(err);
+                    newsContainer.innerHTML = '<div class="status-msg" style="color: #ff4d4d;">Failed to sync news feed. Please try again.</div>';
                 })
                 .finally(() => {
-                    // Re-enable button after processing is done
                     refreshBtn.disabled = false;
-                    refreshBtn.textContent = 'Refresh';
+                    refreshBtn.textContent = 'Sync Feed';
                 });
         }
 
-        // Event listener for the click action
-        refreshBtn.addEventListener('click', loadNews);
+        function renderFeed() {
+            const searchQuery = searchBar.value.toLowerCase().trim();
+            newsContainer.innerHTML = '';
 
-        // Load news automatically when the page first opens
-        window.addEventListener('DOMContentLoaded', loadNews);
+            const filtered = allArticles.filter(item => {
+                const matchesCategory = currentCategory === 'all' || 
+                    (item.category && item.category.toLowerCase() === currentCategory);
+                
+                // Mapped to look at item.headline and item.summary from your JSON structure
+                const matchesSearch = !searchQuery || 
+                    (item.headline && item.headline.toLowerCase().includes(searchQuery)) || 
+                    (item.summary && item.summary.toLowerCase().includes(searchQuery));
+
+                return matchesCategory && matchesSearch;
+            });
+
+            if (filtered.length === 0) {
+                newsContainer.innerHTML = '<div class="status-msg">No stories found matching your criteria.</div>';
+                return;
+            }
+
+            filtered.forEach(item => {
+                const card = document.createElement('div');
+                card.className = 'news-card';
+                
+                // Clean up any weird character patterns in the date string (like \u2022 bullet points)
+                let cleanDate = item.date ? item.date.replace(/\\u2022/g, '•') : 'JUST NOW';
+
+                if(item.category && item.category.toLowerCase() === 'sports') {
+                    card.style.borderLeftColor = '#2da44e';
+                } else if (item.category && item.category.toLowerCase() === 'general') {
+                    card.style.borderLeftColor = '#ffb300';
+                }
+
+                // Strictly mapping to your exact JSON keys: item.headline, item.summary, item.link, item.category, item.date
+                card.innerHTML = `
+                    <div class="card-meta">
+                        <span class="category-tag">${item.category || 'NEWS'}</span>
+                        <span class="timestamp">${cleanDate}</span>
+                    </div>
+                    <h2 class="news-title">
+                        ${item.link ? `<a href="${item.link}" target="_blank">${item.headline}</a>` : (item.headline || 'Untitled Story')}
+                    </h2>
+                    <p class="news-desc">${item.summary || 'No description provided.'}</p>
+                    <div class="card-footer">
+                        <button class="share-btn">➔ Share</button>
+                    </div>
+                `;
+                newsContainer.appendChild(card);
+            });
+        }
+
+        refreshBtn.addEventListener('click', fetchFeed);
+        searchBar.addEventListener('input', renderFeed);
+
+        tabs.forEach(tab => {
+            tab.addEventListener('click', (e) => {
+                tabs.forEach(t => t.classList.remove('active'));
+                e.target.classList.add('active');
+                currentCategory = e.target.getAttribute('data-category');
+                renderFeed();
+            });
+        });
+
+        window.addEventListener('DOMContentLoaded', fetchFeed);
     </script>
-
 </body>
 </html>
