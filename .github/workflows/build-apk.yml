@@ -1,0 +1,43 @@
+name: Build Watermark Free APK
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Source Code
+        uses: actions/checkout@v4
+
+      - name: Set up Java Environment
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Install Node.js & Cordova Framework
+        uses: actions/setup-node@v4
+        with:
+          node-node: '20'
+          
+      - name: Compile Standalone Application Package
+        run: |
+          npm install -g cordova
+          cordova create fast_news com.ajay1020.fastnews FastNews
+          cd fast_news
+          cordova platform add android
+          rm -rf www/*
+          cp ../index.html www/
+          cp ../manifest.json www/
+          cordova build android --release -- --packageType=apk
+          mkdir -p ../output
+          cp platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk ../output/FastNews.apk
+
+      - name: Upload Finished Watermark-Free APK Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: FastNews-Installer
+          path: output/FastNews.apk
