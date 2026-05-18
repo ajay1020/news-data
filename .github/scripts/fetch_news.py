@@ -38,8 +38,8 @@ def summarize_story(headline, text, category):
         model = genai.GenerativeModel('gemini-1.5-flash')
         response = model.generate_content(prompt)
         
-        # Verify response text exists cleanly without using legacy .statusCode parameters
-        if response and response.text:
+        # FIXED: Check if response and response.text exist directly without using legacy attribute tags
+        if response and hasattr(response, 'text') and response.text:
             lines = response.text.strip().split('\n')
             res_headline = headline
             res_summary = ""
@@ -91,7 +91,7 @@ def main():
             json.dump(master_news, f, indent=4)
         print("Database sync complete!")
     else:
-        print("No new breaking updates found during this cycle. Database left untouched to preserve layout fallback rules.")
+        print("No new breaking updates found during this cycle. Verification checks completed.")
 
 if __name__ == "__main__":
     main()
