@@ -31,7 +31,7 @@ def summarize_story(headline, text, category):
     Story: {headline} - {text}
     """
     try:
-        # Utilizing a fully active production generation model
+        # Utilizing an active production generation model name
         model = genai.GenerativeModel('gemini-2.5-flash')
         response = model.generate_content(prompt)
         
@@ -54,7 +54,7 @@ def main():
         print(f"Scraping active {category} feed stream...")
         feed = feedparser.parse(url)
         
-        for entry in feed.entries[:3]: # Grab top 3 items per stream
+        for entry in feed.entries[:3]: # Grab top items per stream
             title = entry.get('title', '')
             summary_raw = clean_html(entry.get('summary', entry.get('description', '')))
             link = entry.get('link', '')
