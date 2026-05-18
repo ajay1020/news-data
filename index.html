@@ -75,20 +75,19 @@
         window.addEventListener('touchstart', e => { touchStartY = e.touches[0].pageY; }, { passive: true });
         window.addEventListener('touchend', e => {
             const touchEndY = e.changedTouches[0].pageY;
-            // Triggers update if user pulls down more than 140px at absolute top position
             if (window.scrollY === 0 && (touchEndY - touchStartY > 140)) {
                 loadData(true);
             }
         }, { passive: true });
 
-        function loadData(bypassCache = false) {
+        function loadData(bypassCache = true) {
             const feed = document.getElementById('news-feed');
             feed.innerHTML = '<div style="text-align:center; color:#8E8E8E; margin-top:20px; font-size:14px;">Syncing with cloud data stream...</div>';
             
-            // Appends unique time values to the link to instantly slice through old browser cache memory
-            const finalUrl = bypassCache ? `${url}?nocache=${Date.now()}` : url;
+            // Forces the script to use a unique stamp on absolutely every single request
+            const finalUrl = `${url}?nocache=${Date.now()}`;
 
-            fetch(finalUrl)
+            fetch(finalUrl, { cache: "no-store" })
                 .then(res => res.json())
                 .then(data => {
                     allNews = data;
@@ -169,7 +168,7 @@
         }
 
         // Initialize background data load
-        loadData(false);
+        loadData(true);
     </script>
 </body>
 </html>
