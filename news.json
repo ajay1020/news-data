@@ -1,86 +1,86 @@
 [
     {
-        "headline": "Anker fixes the two worst things about power stations",
-        "summary": "Anker's Solix S2000 solves major power station issues. It eliminates idle power draw, preventing unexpected battery drain. Its compact design reduces the large footprint usually required.",
-        "link": "https://www.theverge.com/tech/928420/anker-solix-s2000-power-station",
+        "headline": "Gemini will use Volvo\u2019s external cameras to interpret parking signs",
+        "summary": "Google's Gemini AI will integrate with Volvo EX60 SUV external cameras. This allows Gemini to interpret surroundings, like parking signs, for drivers. The feature was announced at Google I/O, leveraging Google's embedded tech.",
+        "link": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
         "category": "TECH",
-        "date": "May 19 \u2022 03:23 PM"
+        "date": "May 19 \u2022 06:06 PM"
     },
     {
-        "headline": "Nintendo keeps finding new ways to reinvent platformers",
-        "summary": "Yoshi and the Mysterious Book offers a fresh take on platforming. It redefines the genre by making the game world an ally. Players engage with classic mechanics like jumping and eating in new ways.",
-        "link": "https://www.theverge.com/entertainment/931663/yoshi-and-the-mysterious-book-review-nintendo-switch-2",
+        "headline": "The 13 biggest announcements at Google I/O 2026",
+        "summary": "Google I/O 2026 was packed with AI-related announcements. Key reveals included new Gemini 3.5 AI models and Search/Gmail updates. Updates on Project Aura smart glasses were also featured at the event.",
+        "link": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
         "category": "TECH",
-        "date": "May 19 \u2022 03:23 PM"
+        "date": "May 19 \u2022 06:06 PM"
     },
     {
-        "headline": "Microsoft launches Surface Pro 12 and Surface Laptop 8 with Intel chips",
-        "summary": "Microsoft has released its new Surface Pro 12 and Surface Laptop 8 models. These devices feature Intel's latest Core Ultra Series 3 processors. This launch prioritizes Intel chips, unlike previous releases.",
-        "link": "https://www.theverge.com/news/933269/microsoft-surface-pro-12-surface-laptop-8-specs-pricing-release-date",
+        "headline": "Google wants to compete with Anthropic\u2019s Mythos",
+        "summary": "Google is intensifying its cybersecurity efforts with CodeMender. CodeMender is an AI agent for code security, now externally available. The move signals Google's intent to challenge competitors like Anthropic's Mythos.",
+        "link": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
         "category": "TECH",
-        "date": "May 19 \u2022 03:23 PM"
+        "date": "May 19 \u2022 06:06 PM"
     },
     {
-        "headline": "The Mandalorian and Grogu should have been a season of TV",
-        "summary": "The Mandalorian initially provided a refreshing take on Star Wars stories. Its focus on new characters was a welcome change for fans. The recent 'Mandalorian and Grogu' story would have benefited from being a full TV season.",
-        "link": "https://www.theverge.com/entertainment/933409/the-mandalorian-and-grogu-review",
+        "headline": "Google can now vibe-code you an Android app",
+        "summary": "Google AI Studio now allows building native Android apps using AI. Users can prompt app ideas and preview them via an embedded emulator. This is a major upgrade to Google's \"vibe coding\" platforms.",
+        "link": "https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026",
         "category": "TECH",
-        "date": "May 19 \u2022 03:23 PM"
+        "date": "May 19 \u2022 06:06 PM"
     },
     {
-        "headline": "Sam Raimi\u2019s The Evil Dead Is Getting a 4K Steelbook to Celebrate Its 45th Anniversary",
-        "summary": "Sam Raimi's horror classic, The Evil Dead, is receiving a new 4K steelbook. This special release celebrates the film's 45th anniversary. Preorders are now live, including various bonus features.",
-        "link": "https://www.ign.com/articles/the-evil-dead-4k-steelbook-where-to-buy",
+        "headline": "Sea Scroll Card Game Review",
+        "summary": "Sea Scroll is an easy-to-learn and quick-to-play card game. It features appealing visuals and engaging gameplay. The game offers ample opportunities for strategic subterfuge.",
+        "link": "https://www.ign.com/articles/sea-scroll-card-game-review",
         "category": "GAMING",
-        "date": "May 19 \u2022 03:23 PM"
+        "date": "May 19 \u2022 06:06 PM"
     },
     {
-        "headline": "Nintendo's New 'Choose Your Game' Switch 2 Bundle Is Now Available",
-        "summary": "Nintendo has launched a new Switch 2 'Choose Your Game' Bundle. Buyers can select one game from three options: Mario Kart World, Donkey Kong Bananza, or Pok\u00e9mon Pokopia. The bundle is available for purchase now.",
-        "link": "https://www.ign.com/articles/nintendo-switch-2-choose-your-game-bundle-where-to-buy",
+        "headline": "The 2.8lb Lenovo Yoga Slim 7x Ultraportable Laptop Drops to $600 After a Massive $840 Off Discount",
+        "summary": "The Lenovo Yoga Slim 7x ultraportable laptop is now significantly discounted. It's available for $600, a massive $840 reduction from its original price. This lightweight laptop is ideal for students and frequent travelers.",
+        "link": "https://www.ign.com/articles/lenovo-yoga-slim-7x-ultraportable-laptop-memorial-day-sale",
         "category": "GAMING",
-        "date": "May 19 \u2022 03:23 PM"
+        "date": "May 19 \u2022 06:06 PM"
     },
     {
-        "headline": "South Park Co-Creators Trey Parker and Matt Stone Confirm Season 29 Release Date",
-        "summary": "South Park co-creators Trey Parker and Matt Stone have confirmed Season 29. The new season will premiere on Comedy Central this September. Fans can expect more adventures from the iconic animated series.",
-        "link": "https://www.ign.com/articles/south-park-co-creators-trey-parker-and-matt-stone-confirm-season-29-release-date",
+        "headline": "Broken Sword Movie in the Works, Creator Charles Cecil Will Produce",
+        "summary": "A film adaptation of the \"Broken Sword\" game series is in production. Story Kitchen is bringing the popular game to the big screen. Creator Charles Cecil is actively involved, serving as a producer.",
+        "link": "https://www.ign.com/articles/broken-sword-movie-in-the-works-creator-charles-cecil-will-produce",
         "category": "GAMING",
-        "date": "May 19 \u2022 03:23 PM"
+        "date": "May 19 \u2022 06:06 PM"
     },
     {
-        "headline": "How Marvels: The Novelization Reinvents the Classic Graphic Novel",
-        "summary": "The beloved Marvels graphic novel is being reimagined as a novelization. This new prose version offers a fresh perspective on the classic story. An exclusive preview of the book is now available.",
-        "link": "https://www.ign.com/articles/marvels-the-novelization-graphic-novel-prose-alex-ross",
+        "headline": "Final Fantasy Creator Hironobu Sakaguchi Addresses Backlash for Sharing AI Final Fantasy 6 Remake Video",
+        "summary": "Hironobu Sakaguchi faced criticism for endorsing an AI-generated FF6 remake video. The Final Fantasy creator has now responded to the public backlash. He had previously expressed positive reactions to the unofficial AI video.",
+        "link": "https://www.ign.com/articles/final-fantasy-creator-hironobu-sakaguchi-addresses-backlash-for-sharing-ai-final-fantasy-6-remake-video",
         "category": "GAMING",
-        "date": "May 19 \u2022 03:23 PM"
-    },
-    {
-        "headline": "Married at First Sight UK rape allegations serious, says government",
-        "summary": "The government deems rape allegations on 'Married at First Sight UK' serious. A BBC Panorama investigation revealed claims from two women. Allegations detail incidents during the show's filming.",
-        "link": "https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "May 19 \u2022 03:23 PM"
+        "date": "May 19 \u2022 06:06 PM"
     },
     {
         "headline": "Surrey Police investigating child sex abuse allegations after Epstein files release",
-        "summary": "Surrey Police are investigating child sex abuse allegations. Claims emerged following the recent release of Epstein files. No arrests have been made regarding offences dating back to the 1980s and 1990s.",
+        "summary": "Surrey Police launched an investigation into child sex abuse allegations. The probe follows the recent release of the Jeffrey Epstein files. Allegations date back to the 1980s and 1990s, with no arrests made yet.",
         "link": "https://www.bbc.com/news/articles/c0k2d2pl6x0o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "May 19 \u2022 03:23 PM"
+        "date": "May 19 \u2022 06:06 PM"
+    },
+    {
+        "headline": "Police urge potential sex assault victims on Married at First Sight UK to contact them",
+        "summary": "Police are asking \"Married at First Sight UK\" sex assault victims to come forward. The appeal follows a BBC Panorama investigation revealing assault allegations. Two women reportedly experienced rape during the show's filming.",
+        "link": "https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "May 19 \u2022 06:06 PM"
+    },
+    {
+        "headline": "HS2 could cost up to \u00a3102.7bn and trains will be slower than first planned",
+        "summary": "The HS2 rail project's cost could reach \u00a3102.7 billion. Trains on the high-speed line will operate slower than initially projected. This news comes as the delayed and scaled-back project undergoes a \"reset.\"",
+        "link": "https://www.bbc.com/news/articles/c794xw7p2dqo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "May 19 \u2022 06:06 PM"
     },
     {
         "headline": "BBC confirms new Strictly Come Dancing hosts",
-        "summary": "The BBC has confirmed new hosts for Strictly Come Dancing. A new trio will replace former presenters Tess Daly and Claudia Winkleman. Daly and Winkleman departed the popular dance competition last year.",
+        "summary": "The BBC has announced a new trio of hosts for \"Strictly Come Dancing.\" They replace long-standing presenters Tess Daly and Claudia Winkleman. Daly and Winkleman departed the dance competition last year.",
         "link": "https://www.bbc.com/news/articles/cgep5ez80rzo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "May 19 \u2022 03:23 PM"
-    },
-    {
-        "headline": "Petrol hits highest price since start of Iran war",
-        "summary": "Petrol prices have reached their highest point since the Iran war began. The average price for unleaded is now 158.52p per litre. The RAC warns that prices could continue to rise in coming weeks.",
-        "link": "https://www.bbc.com/news/articles/cdep64555wzo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "May 19 \u2022 03:23 PM"
+        "date": "May 19 \u2022 06:06 PM"
     }
 ]
