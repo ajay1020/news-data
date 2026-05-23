@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Hanging out in my favorite virtual coffee shop in Tokyo",
+        "summary": "Discover the comfort of a virtual Tokyo coffee shop experience. Explore the unique atmosphere and art of digital cafes. Find your perfect virtual escape for relaxation and productivity.",
+        "link": "https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam",
+        "category": "TECH",
+        "date": "May 23 \u2022 01:26 PM"
+    },
+    {
+        "headline": "I have a new go-to browser",
+        "summary": "A new browser has emerged as the author's top choice. This edition of Installer reviews the latest in tech and culture. Discover why this browser stands out among competitors.",
+        "link": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer",
+        "category": "TECH",
+        "date": "May 23 \u2022 01:26 PM"
+    },
+    {
         "headline": "Google\u2019s new anything-to-anything AI model is wild",
-        "summary": "Google introduces a groundbreaking AI model for versatile media creation. It allows transforming any input into any other output, such as video from text. This expands on previous Gemini capabilities, offering advanced creative potential.",
+        "summary": "Google unveils a groundbreaking \"anything-to-anything\" AI model. The author experimented with deepfaking a stuffed animal for a Gemini ad recreation. Experience the wild capabilities of Google's new AI technology.",
         "link": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
         "category": "TECH",
-        "date": "May 23 \u2022 11:12 AM"
+        "date": "May 23 \u2022 01:26 PM"
     },
     {
-        "headline": "Google\u2019s AI search is so broken it can \u2018disregard\u2019 what you\u2019re looking for",
-        "summary": "Google's AI Overviews are experiencing significant malfunctions. A search for 'disregard' returned a chatbot response instead of a summary. This issue highlights current flaws in Google's AI search functionality.",
+        "headline": "Google's AI search is so broken it can 'disregard' what you're looking for",
+        "summary": "Google's AI Overviews exhibit strange behavior, sometimes \"disregarding\" search terms. Searching \"disregard\" led to a chatbot-like response, not a summary. Critics highlight flaws in Google's current AI search implementation.",
         "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
         "category": "TECH",
-        "date": "May 23 \u2022 11:12 AM"
+        "date": "May 23 \u2022 01:26 PM"
     },
     {
-        "headline": "Twelve South\u2019s AirFly Pro 2 has hit one of its best prices ahead of summer travel",
-        "summary": "Twelve South's AirFly Pro 2 Bluetooth adapter is now available at a record low price. This gadget lets you use wireless headphones with in-flight entertainment systems. The deal arrives just in time for the summer travel season.",
-        "link": "https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale",
-        "category": "TECH",
-        "date": "May 23 \u2022 11:12 AM"
+        "headline": "5 RPG-Inspired Anime Series That Will Scratch That Gamer Itch",
+        "summary": "Discover 5 top RPG-inspired anime series. Perfect for gamers seeking new quests and adventures. Explore animated worlds that feel just like your favorite games.",
+        "link": "https://www.ign.com/articles/best-rpg-anime-series",
+        "category": "GAMING",
+        "date": "May 23 \u2022 01:26 PM"
     },
     {
-        "headline": "Meta\u2019s Forum is part Reddit, part Facebook, and part Google AI Overview",
-        "summary": "Meta launches 'Forum,' a new app blending social and AI features. It moves Facebook Groups into a dedicated app, complete with an AI chatbot. Forum aims to offer an alternative to traditional search and social platforms.",
-        "link": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on",
-        "category": "TECH",
-        "date": "May 23 \u2022 11:12 AM"
+        "headline": "Take-Two Boss Believes in the Pull of GTA 6 Even Amid Rising Cost of Console Gaming",
+        "summary": "Take-Two CEO believes GTA 6 will still be a massive draw. Acknowledges rising costs impacting console gaming. Fans are expected to flock to the highly anticipated title.",
+        "link": "https://www.ign.com/articles/take-two-boss-believes-in-the-pull-of-gta-6-even-amid-rising-cost-of-console-gaming",
+        "category": "GAMING",
+        "date": "May 23 \u2022 01:26 PM"
     },
     {
-        "headline": "I Found the Most Interesting Shrek Merch Hidden in the Internet\u2019s Swamp",
-        "summary": "Discover a curated list of the most fascinating Shrek merchandise online. The article celebrates Shrek's enduring popularity 25 years after its debut. Perfect for fans anticipating Shrek 5 and collecting unique memorabilia.",
+        "headline": "I Found the Most Interesting Shrek Merch Hidden in the Internet's Swamp",
+        "summary": "Uncover the most fascinating Shrek merchandise online. Celebrate 25 years of Shrek with unique collectibles. Prepare for Shrek 5 with these must-have items.",
         "link": "https://www.ign.com/articles/best-shrek-merch-to-buy-today",
         "category": "GAMING",
-        "date": "May 23 \u2022 11:12 AM"
+        "date": "May 23 \u2022 01:26 PM"
     },
     {
         "headline": "Rick and Morty Returns for Season 9 - Here's When You Can Watch New Episodes",
-        "summary": "Rick and Morty is officially set to return for its ninth season. New episodes will be available to stream sooner than ever before. Fans can eagerly anticipate the next installment of the popular animated series.",
+        "summary": "Rick and Morty is officially returning for Season 9. Find out exactly when new episodes will drop. Stream the latest adventures sooner than expected.",
         "link": "https://www.ign.com/articles/rick-and-morty-season-9-release-date",
         "category": "GAMING",
-        "date": "May 23 \u2022 11:12 AM"
+        "date": "May 23 \u2022 01:26 PM"
     },
     {
-        "headline": "The iBuypower Gaming PC With AMD Ryzen 9 9950X3D CPU and 5090 GPU Drops Below $5,000",
-        "summary": "iBuypower is offering a high-end gaming PC for under $5,000. It features an AMD Ryzen 9 9950X3D CPU and a powerful RTX 5090 GPU. The system boasts 32GB DDR5 RAM, a massive 4TB SSD, and a 3-year warranty.",
-        "link": "https://www.ign.com/articles/ibuypower-rtx-5090-gaming-pc-deal-memorial-day-sale",
-        "category": "GAMING",
-        "date": "May 23 \u2022 11:12 AM"
-    },
-    {
-        "headline": "Spartacus: House of Ashur Reportedly Canceled After Just 1 Season",
-        "summary": "Steven S. DeKnight's 'Spartacus: House of Ashur' has reportedly been canceled. The Starz series will conclude after airing only one season. This news comes as a disappointment to fans of the prequel series.",
-        "link": "https://www.ign.com/articles/spartacus-house-of-ashur-reportedly-canceled-after-just-1-season",
-        "category": "GAMING",
-        "date": "May 23 \u2022 11:12 AM"
-    },
-    {
-        "headline": "France suspends extra EU border checks at Dover after hours-long queues",
-        "summary": "France has temporarily halted extra EU border checks at the Port of Dover. The suspension aims to alleviate hours-long queues and reduce processing times. New entry and exit systems had caused significant travel delays.",
-        "link": "https://www.bbc.com/news/articles/cp3p2ver9k6o?at_medium=RSS&at_campaign=rss",
+        "headline": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
+        "summary": "Alan Milburn criticizes welfare spending over youth employment. Calls for welfare reforms to address young people not in work or education. Highlights the \"shameful\" imbalance in national spending priorities.",
+        "link": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "May 23 \u2022 11:12 AM"
+        "date": "May 23 \u2022 01:26 PM"
     },
     {
         "headline": "At least 90 killed in Chinese coal mine explosion, state media reports",
-        "summary": "A devastating coal mine explosion in China has claimed at least 90 lives. The incident in Shanxi province marks the country's worst mining disaster in 16 years. State media confirms the high casualty count amidst ongoing recovery efforts.",
+        "summary": "A devastating coal mine explosion in China kills at least 90. The blast occurred in Shanxi province. Marks the worst mining disaster in China in 16 years.",
         "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "May 23 \u2022 11:12 AM"
+        "date": "May 23 \u2022 01:26 PM"
     },
     {
         "headline": "Hot weather to intensify in UK over bank holiday weekend",
-        "summary": "The UK is bracing for an intensification of hot weather over the bank holiday weekend. Amber heat health alerts have been issued for the Midlands, eastern, and south-east England. Residents are advised to take precautions as temperatures rise.",
+        "summary": "The UK anticipates intensifying hot weather this bank holiday. Amber heat health alerts issued for several regions. Residents in affected areas urged to take precautions.",
         "link": "https://www.bbc.com/weather/articles/crmp8dlyz3ko?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "May 23 \u2022 11:12 AM"
+        "date": "May 23 \u2022 01:26 PM"
     },
     {
         "headline": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-        "summary": "President Putin has vowed retaliation, accusing Ukraine of striking a student dormitory. Ukraine, in turn, claims to have hit Russia's elite Rubicon drone military unit. Tensions escalate as both sides exchange accusations over recent attacks.",
+        "summary": "Putin vows retaliation, claiming Ukraine struck a student dormitory. Ukraine states it targeted Russia's Rubicon drone unit. Accusations fly amid escalating conflict in occupied regions.",
         "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "May 23 \u2022 11:12 AM"
+        "date": "May 23 \u2022 01:26 PM"
     }
 ]
