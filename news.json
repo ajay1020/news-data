@@ -1,86 +1,86 @@
 [
     {
-        "headline": "Dell XPS 13 Returns as Budget-Friendly MacBook Neo Competitor",
-        "summary": "Dell is relaunching the XPS 13 as a more affordable laptop option. It will launch in July with a promotional student price of $599. The regular price for others will be $699 after the back-to-school period.",
+        "headline": "AMD\u2019s new pitch: our old tech is so good you should just keep using it",
+        "summary": "AMD is relaunching older components at Computex 2026. The company promises users won't need immediate upgrades. This strategy aims to combat current tech challenges like \"RAMageddon.\"",
+        "link": "https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d",
+        "category": "TECH",
+        "date": "Jun 01 \u2022 04:07 AM"
+    },
+    {
+        "headline": "The QD-OLED gaming monitor that started it all got a big upgrade",
+        "summary": "Alienware unveils a successor to its original QD-OLED gaming monitor. The new model features a refreshed design and high-end specifications. Announced at Computex 2026, it will launch later this year.",
+        "link": "https://www.theverge.com/games/938956/alienware-computex-tandem-qd-oled-penta-rgb-stripe-gaming-monitors-specs",
+        "category": "TECH",
+        "date": "Jun 01 \u2022 04:07 AM"
+    },
+    {
+        "headline": "Dell is bringing back the XPS 13 as a MacBook Neo competitor \u2014 with a temporary discount to $599",
+        "summary": "Dell is relaunching the XPS 13 as a budget-friendly laptop. It will be available in July with an initial student discount of $599. The price will increase to $699 after the back-to-school promotion ends.",
         "link": "https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price",
         "category": "TECH",
-        "date": "May 31 \u2022 11:00 PM"
+        "date": "Jun 01 \u2022 04:07 AM"
     },
     {
-        "headline": "Apple's Smart Glasses Strategy Mirrors Apple Watch Launch",
-        "summary": "Apple aims to disrupt the entire eyewear market with its smart glasses, not just compete with Meta. Bloomberg's Mark Gurman suggests the strategy echoes the Apple Watch launch. The company targeted traditional watchmakers alongside smart device rivals.",
+        "headline": "Apple\u2019s strategy for smart glasses is the same as smart watches",
+        "summary": "Apple aims to revolutionize the entire eyewear market, not just compete in smart glasses. Its strategy mirrors the Apple Watch launch, targeting traditional brands. Bloomberg's Mark Gurman reports on Apple's ambitious plans.",
         "link": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
         "category": "TECH",
-        "date": "May 31 \u2022 11:00 PM"
+        "date": "Jun 01 \u2022 04:07 AM"
     },
     {
-        "headline": "How to Watch Nvidia's Computex Keynote Live",
-        "summary": "NVIDIA CEO Jensen Huang is scheduled to deliver his GTC Taipei keynote. The presentation will begin at 8PM PT / 11PM ET. Rumors suggest potential major announcements, including a Microsoft partnership.",
-        "link": "https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote",
-        "category": "TECH",
-        "date": "May 31 \u2022 11:00 PM"
+        "headline": "Rick and Morty Season 9, Episode 2 Review: \"Ricks Days, Seven Nights\"",
+        "summary": "Rick and Morty Season 9, Episode 2, titled \"Ricks Days, Seven Nights,\" has been reviewed. The episode is praised as a \"banger\" for its cleverness. It is also noted for being \"brutally depressing.\"",
+        "link": "https://www.ign.com/articles/rick-and-morty-season-9-episode-2-review-recap",
+        "category": "GAMING",
+        "date": "Jun 01 \u2022 04:07 AM"
     },
     {
-        "headline": "Kirsten Dunst Cast as Alex in 'A Minecraft Movie Squared'",
-        "summary": "The sequel to 'A Minecraft Movie' is officially titled 'A Minecraft Movie Squared'. Kirsten Dunst will star as Alex, one of the game's main characters. Matt Berry is also confirmed to have an expanded role.",
-        "link": "https://www.theverge.com/entertainment/940523/minecraft-movie-squared-sequel-kirsten-dunst-alex",
-        "category": "TECH",
-        "date": "May 31 \u2022 11:00 PM"
+        "headline": "Alienware\u2019s New Super Ultrawide OLED Gaming Monitor Might Just Earn Its (RGB) Stripes",
+        "summary": "Alienware introduces a new Super Ultrawide OLED gaming monitor. The monitor aims to stand out with its advanced features. It promises an immersive gaming experience.",
+        "link": "https://www.ign.com/articles/alienwares-new-super-ultrawide-oled-gaming-monitor-might-just-earn-its-rgb-stripes",
+        "category": "GAMING",
+        "date": "Jun 01 \u2022 04:07 AM"
     },
     {
-        "headline": "Masters of the Universe Secures Last-Minute Imax Release",
-        "summary": "The 'Masters of the Universe' film has added last-minute Imax screens for its theatrical debut. This opportunity arose as 'Star Wars: The Mandalorian and Grogu' vacated Imax slots earlier than expected. The move expands the film's large-screen presence.",
+        "headline": "Emilia Clarke Admits 'No One Liked' Secret Invasion or Solo But Knows 'It's Not Personal'",
+        "summary": "Emilia Clarke acknowledges the negative reception of \"Secret Invasion\" and \"Solo: A Star Wars Story.\" She understands that criticism of these projects is \"not personal.\" The actress has been involved in several controversial productions.",
+        "link": "https://www.ign.com/articles/emilia-clarke-admits-no-one-liked-secret-invasion-or-solo-but-knows-its-not-personal",
+        "category": "GAMING",
+        "date": "Jun 01 \u2022 04:07 AM"
+    },
+    {
+        "headline": "Masters of the Universe Gets Last-Minute Imax Confirmation as Star Wars Makes Room",
+        "summary": "\"Masters of the Universe\" has secured last-minute Imax screenings. This became possible as \"Star Wars: The Mandalorian and Grogu\" vacated Imax slots early. The film's theatrical rollout will now include large-screen format options.",
         "link": "https://www.ign.com/articles/masters-of-the-universe-gets-last-minute-imax-confirmation-as-star-wars-makes-room",
         "category": "GAMING",
-        "date": "May 31 \u2022 11:00 PM"
+        "date": "Jun 01 \u2022 04:07 AM"
     },
     {
-        "headline": "New Content Arriving on Apple TV in June",
-        "summary": "Apple TV subscribers can anticipate a fresh lineup of content throughout June. The article provides a comprehensive list of all new shows and movies. It serves as a guide for upcoming streaming options.",
-        "link": "https://www.ign.com/articles/whats-new-on-apple-tv-june-2026",
-        "category": "GAMING",
-        "date": "May 31 \u2022 11:00 PM"
-    },
-    {
-        "headline": "Today's Best Deals: AirPods Pro 3, Kill Bill 4K, Evangelion Blu-ray",
-        "summary": "Discover the top deals available for May 31, 2026, across various products. Featured offers include discounts on AirPods Pro 3 and popular media like 'Kill Bill: The Whole Bloody Affair 4K'. Shoppers can find savings on electronics and entertainment.",
-        "link": "https://www.ign.com/articles/best-deals-for-may-31-2026",
-        "category": "GAMING",
-        "date": "May 31 \u2022 11:00 PM"
-    },
-    {
-        "headline": "Star Wars: The Mandalorian and Grogu Suffers 69% Box Office Drop",
-        "summary": "'Star Wars: The Mandalorian and Grogu' saw a significant decline in its second weekend. The film's box office revenue dropped by 69%. This indicates a struggle to maintain audience engagement after its opening.",
-        "link": "https://www.ign.com/articles/star-wars-the-mandalorian-and-grogu-suffers-69-drop-at-the-box-office",
-        "category": "GAMING",
-        "date": "May 31 \u2022 11:00 PM"
-    },
-    {
-        "headline": "Nicola Sturgeon Claims Innocence in SNP Embezzlement Scandal",
-        "summary": "Scotland's former first minister, Nicola Sturgeon, asserted her innocence regarding the SNP embezzlement scandal. She told Laura Kuenssberg she is 'serving a sentence for crime I didn't commit'. Sturgeon became emotional during the BBC interview.",
-        "link": "https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&at_campaign=rss",
+        "headline": "Second batch of Mandelson files to be published on Monday",
+        "summary": "A second batch of Mandelson files will be released on Monday. These documents are described as one of the largest parliamentary publications ever. A government spokesperson confirmed the upcoming release.",
+        "link": "https://www.bbc.com/news/articles/c98r664g865o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "May 31 \u2022 11:00 PM"
+        "date": "Jun 01 \u2022 04:07 AM"
     },
     {
-        "headline": "Sturgeon Appears Emotional, Faces More Questions on SNP Scandal",
-        "summary": "Nicola Sturgeon, known as a master communicator, appeared close to tears during a BBC interview. Laura Kuenssberg noted a perceived shift in Sturgeon's usual composure and authority. The former Scottish First Minister continues to face intense scrutiny over the SNP finances.",
-        "link": "https://www.bbc.com/news/articles/c0e23rn5l7do?at_medium=RSS&at_campaign=rss",
+        "headline": "Israel seizes castle in Lebanon as it expands ground offensive",
+        "summary": "Israel has seized a strategic castle in Lebanon. PM Netanyahu calls it a \"decisive shift\" in the campaign against Hezbollah. European governments are criticizing the escalation of the offensive.",
+        "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "May 31 \u2022 11:00 PM"
+        "date": "Jun 01 \u2022 04:07 AM"
     },
     {
-        "headline": "Arsenal Fans Flood Streets for Premier League Victory Parade",
-        "summary": "Hundreds of thousands of Arsenal fans celebrated their Premier League title win. The streets turned red as supporters joined a massive victory parade. This championship marks the club's first Premier League title in 22 years.",
-        "link": "https://www.bbc.com/news/articles/cq5px7jv92eo?at_medium=RSS&at_campaign=rss",
+        "headline": "NHS single patient record to be debated for first time",
+        "summary": "A single NHS patient record system will be debated for the first time. Government projections suggest it could reduce A&E visits by 20,000 annually. The proposed reforms aim to streamline the NHS records system.",
+        "link": "https://www.bbc.com/news/articles/cp3pgd9gzy3o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "May 31 \u2022 11:00 PM"
+        "date": "Jun 01 \u2022 04:07 AM"
     },
     {
-        "headline": "Paris Sees Clashes and Arrests After PSG Victory Celebration",
-        "summary": "Nearly 800 people were arrested in Paris following clashes with police. The incidents occurred after PSG's victory in the Champions League final. The city experienced a mix of fervent celebration and intense confrontation.",
+        "headline": "Between celebration and confrontation: Paris after PSG victory",
+        "summary": "Paris experienced clashes and arrests after the Champions League final. Nearly 800 people were arrested following confrontations with police. The city saw a mix of celebration and conflict post-PSG victory.",
         "link": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "May 31 \u2022 11:00 PM"
+        "date": "Jun 01 \u2022 04:07 AM"
     }
 ]
