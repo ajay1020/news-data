@@ -1,58 +1,86 @@
 [
     {
-        "headline": "Subnautica 2 Dev Reveals What to Expect From Upcoming Early Access 1.1 Update",
-        "summary": "Subnautica 2 developer teases new content for its 1.1 update. A new vehicle is set to be added to the game. A new region focused on the Collector Leviathan is also expected.",
-        "link": "https://www.ign.com/articles/subnautica-2-dev-reveals-what-to-expect-from-upcoming-early-access-11-update",
-        "category": "GAMING",
-        "date": "Jun 05 \u2022 12:37 PM"
+        "headline": "What happens when your phone is confiscated at the airport",
+        "summary": "US citizens face phone confiscation at airports without recourse, even when innocent. A Minnesota organizer was detained, highlighting a growing concern for international travelers. This practice raises privacy and civil liberty questions.",
+        "link": "https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists",
+        "category": "TECH",
+        "date": "Jun 05 \u2022 04:30 PM"
     },
     {
-        "headline": "Cyberpunk TCG Already Faces Significant Rule Changes After Massive $28M Kickstarter Campaign",
-        "summary": "Cyberpunk TCG is rolling out major rule changes. This follows a historic $28 million Kickstarter campaign. Gameplay overhauls are occurring before the official launch.",
-        "link": "https://www.ign.com/articles/cyberpunk-tcg-rule-changes-kickstarter",
-        "category": "GAMING",
-        "date": "Jun 05 \u2022 12:37 PM"
+        "headline": "New York lawmakers pass one-year ban on new data centers",
+        "summary": "New York legislators passed a one-year moratorium on new large data centers. The bill aims to study their environmental impact and effect on energy prices. Governor Kathy Hochul's signature would make it the first statewide ban of its kind.",
+        "link": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+        "category": "TECH",
+        "date": "Jun 05 \u2022 04:30 PM"
     },
     {
-        "headline": "Crimson Desert Has a Pinball Minigame Now Because of Course It Does",
-        "summary": "Crimson Desert's latest update introduces various quality-of-life changes. The Wyvern can now be used as a mount. Unexpectedly, a pinball minigame has been added.",
-        "link": "https://www.ign.com/articles/crimson-desert-has-a-pinball-minigame-now-because-of-course-it-does",
-        "category": "GAMING",
-        "date": "Jun 05 \u2022 12:37 PM"
+        "headline": "MAHA wants to make cotton the new beef tallow",
+        "summary": "The 'Make America Healthy Again' (MAHA) movement is expanding its focus beyond food to clothing. MAHA advocates are promoting natural fibers like cotton over synthetics to avoid microplastics. This initiative extends their stance on health and lifestyle choices.",
+        "link": "https://www.theverge.com/report/943944/maha-rfk-jr-cotton-natural-fiber-clothing-microplastics",
+        "category": "TECH",
+        "date": "Jun 05 \u2022 04:30 PM"
     },
     {
-        "headline": "LEGO Reseller Bricks and Minifigs Will Return 'Stolen' Star Wars Sets to Collector; Parting Ways With Controversial Management",
-        "summary": "LEGO reseller Bricks & Minifigs will return allegedly 'stolen' Star Wars sets. The company is resolving a controversial situation with a collector. Bricks & Minifigs is also parting ways with its controversial management.",
-        "link": "https://www.ign.com/articles/lego-reseller-bricks-and-minifigs-will-return-stolen-star-wars-sets-to-collector-parting-ways-with-controversial-management",
+        "headline": "What do you mean my new smart scale is \u2018built for GLP-1 users\u2019?",
+        "summary": "Smart health devices are now being marketed specifically for GLP-1 users. This trend highlights the integration of new health tech with medical advancements. The newsletter 'Optimizer' critiques the latest gadgets and health trends.",
+        "link": "https://www.theverge.com/column/943639/optimizer-glp-1-tech-withings-oura-health",
+        "category": "TECH",
+        "date": "Jun 05 \u2022 04:30 PM"
+    },
+    {
+        "headline": "Avatar: The Last Airbender Interview - How Toph's Arrival Changes the Game in Season 2",
+        "summary": "Toph Beifong, the powerful earthbender, is set to join Avatar: The Last Airbender in Season 2. Producers discuss how her character will significantly impact the show's dynamics. Fans anticipate Toph's arrival and her influence on the main group.",
+        "link": "https://www.ign.com/articles/avatar-the-last-airbender-interview-season-2-netflix-toph",
         "category": "GAMING",
-        "date": "Jun 05 \u2022 12:37 PM"
+        "date": "Jun 05 \u2022 04:30 PM"
+    },
+    {
+        "headline": "Exclusive: Read an Extract From Peter F. Hamilton's Latest Sci-Fi Novel Set in the Exodus Universe",
+        "summary": "An exclusive extract is available from Peter F. Hamilton's new novel, 'Exodus: The Helium Sea'. This book is part of a duology building the lore for the upcoming Exodus RPG. Get a first look into the highly anticipated sci-fi universe.",
+        "link": "https://www.ign.com/articles/exodus-rpg-novel-the-helium-sea-extract-exclusive",
+        "category": "GAMING",
+        "date": "Jun 05 \u2022 04:30 PM"
+    },
+    {
+        "headline": "The Best Deals Today: Cronos: The New Dawn, TMNT: The Ultimate Collection, LEGO Milky Way Galaxy",
+        "summary": "Discover today's top deals, including 'Cronos: The New Dawn' and 'TMNT: The Ultimate Collection'. LEGO enthusiasts can find discounts on the Milky Way Galaxy set. An IGN Humble Bundle and a 5070 Ti gaming PC are also featured.",
+        "link": "https://www.ign.com/articles/best-deals-for-june-4-2026",
+        "category": "GAMING",
+        "date": "Jun 05 \u2022 04:30 PM"
+    },
+    {
+        "headline": "For $140, You Can Get a 48V 400W Adult Electric Bike With 20mph Top Speed and 32 Mile Range",
+        "summary": "A 48V 400W adult electric bike is available for an exceptional price of $140. It boasts a 20mph top speed and a 32-mile range per charge. This limited-time deal offers significant value for e-bike enthusiasts.",
+        "link": "https://www.ign.com/articles/terrosor-48v-400w-adult-electric-bike-deal-june-2026",
+        "category": "GAMING",
+        "date": "Jun 05 \u2022 04:30 PM"
+    },
+    {
+        "headline": "Rapist Paul Quinn's 24-year sentence an insult, says wrongly convicted Andrew Malkinson",
+        "summary": "Paul Quinn received a 24-year sentence for a 2003 rape in Salford. Andrew Malkinson, wrongly convicted for the same crime, served 17 years and deems the sentence an insult. The case highlights severe miscarriages of justice.",
+        "link": "https://www.bbc.com/news/articles/c99l93md0gko?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jun 05 \u2022 04:30 PM"
+    },
+    {
+        "headline": "Buffy and Ted Lasso star Anthony Head dies at 72",
+        "summary": "British actor Anthony Head, known for roles in Buffy the Vampire Slayer and Ted Lasso, has died. He was 72 years old and passed away due to complications from pneumonia. Head also appeared in Merlin and Little Britain.",
+        "link": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jun 05 \u2022 04:30 PM"
     },
     {
         "headline": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
-        "summary": "A public spending watchdog has reviewed royal property arrangements. It was revealed Andrew Mountbatten-Windsor was sub-letting Royal Lodge cottages. The scrutiny comes amidst broader examinations of royal finances.",
+        "summary": "A public spending watchdog investigated the property arrangements of royal family members. Prince Andrew was found to be sub-letting cottages at Royal Lodge. This revelation raises questions about royal finances and property management.",
         "link": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 05 \u2022 12:37 PM"
+        "date": "Jun 05 \u2022 04:30 PM"
     },
     {
-        "headline": "World-first vaccine designed by AI could protect against whole families of viruses",
-        "summary": "Cambridge scientists have tested the world's first AI-designed vaccine. The vaccine is engineered to protect against entire families of viruses. This innovation marks a significant step in medical science.",
-        "link": "https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jun 05 \u2022 12:37 PM"
-    },
-    {
-        "headline": "Teen rapists spared jail partly because of intellectual limitations, sentencing remarks reveal",
-        "summary": "Teen rapists were spared jail, causing public outcry. Sentencing remarks cited intellectual limitations as a factor. The boys were given youth rehabilitation orders instead.",
+        "headline": "Teen rapists spared jail partly because of intellectual limitations, judge's full remarks show",
+        "summary": "Two teenage rapists were given youth rehabilitation orders instead of jail time. The judge cited their intellectual limitations as a factor in the sentencing decision. This ruling last month sparked widespread public outcry and debate.",
         "link": "https://www.bbc.com/news/articles/c3d2d55kvy1o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 05 \u2022 12:37 PM"
-    },
-    {
-        "headline": "Two weeks out from crucial Makerfield by-election, here's how the contest is shaping up",
-        "summary": "The Makerfield by-election is two weeks away. A Question Time exchange provided insights into the candidates. The article details the evolving shape of this crucial political contest.",
-        "link": "https://www.bbc.com/news/articles/cg7p7nmj52jo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jun 05 \u2022 12:37 PM"
+        "date": "Jun 05 \u2022 04:30 PM"
     }
 ]
