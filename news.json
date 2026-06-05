@@ -1,86 +1,58 @@
 [
     {
-        "headline": "Valve says it's ready to launch the Steam Machine this summer",
-        "summary": "Valve's Steam Machine PC and Steam Frame VR headset are set for a summer launch. The delayed hardware was announced in a recent blog post. Valve is excited for players to experience new titles on the new Steam hardware.",
-        "link": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
-        "category": "TECH",
-        "date": "Jun 05 \u2022 08:08 AM"
-    },
-    {
-        "headline": "Cyberdecks used to look like little laptops, but now they're getting more personal",
-        "summary": "Cyberdecks are evolving from laptop-like devices to more personal, disguised forms. TikTok user Annike Tan (@ubeboobey) created a viral mermaid-themed cyberdeck in a purse. These new designs allow users to carry computing power discreetly.",
-        "link": "https://www.theverge.com/tech/943445/cyberdeck-tiktok",
-        "category": "TECH",
-        "date": "Jun 05 \u2022 08:08 AM"
-    },
-    {
-        "headline": "Kevin O'Leary agrees to downsize massive Utah data center",
-        "summary": "Kevin O'Leary agreed to halve his planned 40,000-acre Utah data center. The decision follows pressure from local residents and activists. He will remove 19,430 acres from the controversial project.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
-        "category": "TECH",
-        "date": "Jun 05 \u2022 08:08 AM"
-    },
-    {
-        "headline": "Google is letting social media stars customize their search result page",
-        "summary": "Google is introducing custom search profiles for major creators and publishers in the US. These profiles allow stars to highlight videos, articles, and other online presence directly in search results. The feature is restricted to users with at least 100,000 followers on platforms like YouTube, Instagram, or X.",
-        "link": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
-        "category": "TECH",
-        "date": "Jun 05 \u2022 08:08 AM"
-    },
-    {
-        "headline": "Cape Fear Episodes 1 & 2 Review",
-        "summary": "Apple TV's 'Cape Fear' premieres with a lush, suspenseful update. Javier Bardem delivers a menacing performance in the new series. Martin Scorsese and Steven Spielberg executive produced the show.",
-        "link": "https://www.ign.com/articles/apple-tv-cape-fear-episode-1-2-review",
+        "headline": "Subnautica 2 Dev Reveals What to Expect From Upcoming Early Access 1.1 Update",
+        "summary": "Subnautica 2 developer teases new content for its 1.1 update. A new vehicle is set to be added to the game. A new region focused on the Collector Leviathan is also expected.",
+        "link": "https://www.ign.com/articles/subnautica-2-dev-reveals-what-to-expect-from-upcoming-early-access-11-update",
         "category": "GAMING",
-        "date": "Jun 05 \u2022 08:08 AM"
+        "date": "Jun 05 \u2022 12:37 PM"
     },
     {
-        "headline": "The Apple Watch Series 11 Drops to $238 During the Early Amazon Resale Prime Day Sale",
-        "summary": "The Apple Watch Series 11 is available for $238. This special price is part of an early Amazon Resale Prime Day Sale. 'Used: Like New' units are offered in limited quantities.",
-        "link": "https://www.ign.com/articles/apple-watch-series-11-deal-amazon-resale-prime-day-sale",
+        "headline": "Cyberpunk TCG Already Faces Significant Rule Changes After Massive $28M Kickstarter Campaign",
+        "summary": "Cyberpunk TCG is rolling out major rule changes. This follows a historic $28 million Kickstarter campaign. Gameplay overhauls are occurring before the official launch.",
+        "link": "https://www.ign.com/articles/cyberpunk-tcg-rule-changes-kickstarter",
         "category": "GAMING",
-        "date": "Jun 05 \u2022 08:08 AM"
+        "date": "Jun 05 \u2022 12:37 PM"
     },
     {
-        "headline": "Walmart Has the Least Expensive GeForce RTX 5070 Ti Prebuilt Gaming PC",
-        "summary": "Walmart offers the most affordable GeForce RTX 5070 Ti prebuilt gaming PC. The MSI Codez Z2 prebuilt model is priced under $1,750. This deal provides a cost-effective option for a powerful gaming rig.",
-        "link": "https://www.ign.com/articles/walmart-has-the-least-expensive-geforce-rtx-5070-ti-prebuilt-gaming-pc",
+        "headline": "Crimson Desert Has a Pinball Minigame Now Because of Course It Does",
+        "summary": "Crimson Desert's latest update introduces various quality-of-life changes. The Wyvern can now be used as a mount. Unexpectedly, a pinball minigame has been added.",
+        "link": "https://www.ign.com/articles/crimson-desert-has-a-pinball-minigame-now-because-of-course-it-does",
         "category": "GAMING",
-        "date": "Jun 05 \u2022 08:08 AM"
+        "date": "Jun 05 \u2022 12:37 PM"
     },
     {
-        "headline": "Xbox CEO Acknowledges Exclusives Are Needed to Build a Platform; Decisions Are Still Being Made",
-        "summary": "Xbox CEO Asha Sharma states that platform growth requires exclusive titles. The company is actively making ongoing decisions about its exclusive strategy. The statement clarifies Xbox's stance on the importance of unique content.",
-        "link": "https://www.ign.com/articles/xbox-ceo-acknowledges-exclusives-are-needed-to-build-a-platform-decisions-are-still-being-made",
+        "headline": "LEGO Reseller Bricks and Minifigs Will Return 'Stolen' Star Wars Sets to Collector; Parting Ways With Controversial Management",
+        "summary": "LEGO reseller Bricks & Minifigs will return allegedly 'stolen' Star Wars sets. The company is resolving a controversial situation with a collector. Bricks & Minifigs is also parting ways with its controversial management.",
+        "link": "https://www.ign.com/articles/lego-reseller-bricks-and-minifigs-will-return-stolen-star-wars-sets-to-collector-parting-ways-with-controversial-management",
         "category": "GAMING",
-        "date": "Jun 05 \u2022 08:08 AM"
+        "date": "Jun 05 \u2022 12:37 PM"
     },
     {
         "headline": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
-        "summary": "A public spending watchdog discovered Andrew was sub-letting Royal Lodge cottages. The watchdog is examining property arrangements of various royals. This revelation concerns the financial dealings of Andrew Mountbatten-Windsor.",
+        "summary": "A public spending watchdog has reviewed royal property arrangements. It was revealed Andrew Mountbatten-Windsor was sub-letting Royal Lodge cottages. The scrutiny comes amidst broader examinations of royal finances.",
         "link": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 05 \u2022 08:08 AM"
-    },
-    {
-        "headline": "Burnham says he would seek to enter any Labour leadership contest",
-        "summary": "Greater Manchester Mayor Andy Burnham expressed interest in a Labour leadership contest. His potential candidacy hinges on winning the Makerfield by-election. This signals a potential shift in the Labour party's future leadership.",
-        "link": "https://www.bbc.com/news/articles/cp9p9z31rr1o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jun 05 \u2022 08:08 AM"
+        "date": "Jun 05 \u2022 12:37 PM"
     },
     {
         "headline": "World-first vaccine designed by AI could protect against whole families of viruses",
-        "summary": "Cambridge scientists have developed and tested the world's first AI-designed vaccine. The innovative vaccine aims to protect against entire families of viruses. This breakthrough marks a significant advancement in vaccine development technology.",
+        "summary": "Cambridge scientists have tested the world's first AI-designed vaccine. The vaccine is engineered to protect against entire families of viruses. This innovation marks a significant step in medical science.",
         "link": "https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 05 \u2022 08:08 AM"
+        "date": "Jun 05 \u2022 12:37 PM"
     },
     {
-        "headline": "UK in most dangerous period I've known, military chief says",
-        "summary": "UK military chief Sir Richard Knighton warns of the most dangerous period he's experienced. Russian incursions into UK defenses are risking escalation. Knighton stated these concerns in an interview with the BBC.",
-        "link": "https://www.bbc.com/news/articles/c1m2mryg0k7o?at_medium=RSS&at_campaign=rss",
+        "headline": "Teen rapists spared jail partly because of intellectual limitations, sentencing remarks reveal",
+        "summary": "Teen rapists were spared jail, causing public outcry. Sentencing remarks cited intellectual limitations as a factor. The boys were given youth rehabilitation orders instead.",
+        "link": "https://www.bbc.com/news/articles/c3d2d55kvy1o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 05 \u2022 08:08 AM"
+        "date": "Jun 05 \u2022 12:37 PM"
+    },
+    {
+        "headline": "Two weeks out from crucial Makerfield by-election, here's how the contest is shaping up",
+        "summary": "The Makerfield by-election is two weeks away. A Question Time exchange provided insights into the candidates. The article details the evolving shape of this crucial political contest.",
+        "link": "https://www.bbc.com/news/articles/cg7p7nmj52jo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jun 05 \u2022 12:37 PM"
     }
 ]
