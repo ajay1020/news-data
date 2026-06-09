@@ -1,86 +1,86 @@
 [
     {
         "headline": "Instagram is finally letting everyone reorganize their profile grid",
-        "summary": "Instagram is widely rolling out the ability to rearrange posts on your profile grid. This feature was announced nearly a year ago and previously limited to test groups. It's now available on both Android and iPhone mobile apps.",
+        "summary": "Instagram is rolling out the ability for all users to rearrange their profile grid posts. This feature was announced nearly a year ago and was previously in test groups. It's now widely available on Android and iPhone mobile apps as of June 8th.",
         "link": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
         "category": "TECH",
-        "date": "Jun 09 \u2022 03:33 AM"
+        "date": "Jun 09 \u2022 07:50 AM"
     },
     {
         "headline": "Apple\u2019s Screen Time updates are too little, too late",
-        "summary": "Apple surprisingly dedicated a significant portion of its WWDC keynote to Screen Time. Despite the airtime, few new features were announced beyond a redesigned interface. Most updates were minor improvements to existing options, drawing criticism.",
+        "summary": "Apple dedicated a significant portion of its WWDC keynote to parental controls. However, the updates largely consisted of a redesigned interface and minor upgrades to existing options. Critics suggest the new features are minimal and long overdue.",
         "link": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
         "category": "TECH",
-        "date": "Jun 09 \u2022 03:33 AM"
+        "date": "Jun 09 \u2022 07:50 AM"
     },
     {
         "headline": "5 things I already love from the iOS 27 beta",
-        "summary": "The author has explored the iOS 27 developer beta on their iPhone 16 Pro shortly after its release. They are keen to try the new Siri AI but are currently on a waitlist for the feature. The article highlights five initial beloved features found within the new beta.",
+        "summary": "A reviewer explored the new iOS 27 developer beta on their iPhone 16 Pro shortly after its release. They were eager to try the new Siri AI but remained on Apple's waitlist. The article highlights other enjoyable features discovered during the beta test.",
         "link": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
         "category": "TECH",
-        "date": "Jun 09 \u2022 03:33 AM"
+        "date": "Jun 09 \u2022 07:50 AM"
     },
     {
         "headline": "Apple is using AI to fix Safari\u2019s extension problem",
-        "summary": "Apple is leveraging AI to address Safari's historical weakness in browser extensions. Safari has long lacked the robust library found in rival browsers due to stringent development rules. The new AI feature will allow users to essentially 'vibe-code' their own custom extensions.",
+        "summary": "Apple is leveraging AI to address Safari's historical weakness in its extension library. Safari has long lacked robust extensions due to strict development requirements. Apple is now inviting users to 'vibe-code' their own extensions, as demonstrated in a demo.",
         "link": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
         "category": "TECH",
-        "date": "Jun 09 \u2022 03:33 AM"
+        "date": "Jun 09 \u2022 07:50 AM"
+    },
+    {
+        "headline": "Final Fantasy 7 Revelation Players Can Shape Its Story But the Trilogy Will Have a 'Singular Ending' for Everyone",
+        "summary": "Final Fantasy 7 Revelation director Naoki Hamaguchi confirmed the remake trilogy will feature one 'singular ending.' Despite this, players will have significant freedom to shape Cloud's journey throughout the story. This approach balances player agency with a consistent narrative conclusion.",
+        "link": "https://www.ign.com/articles/final-fantasy-7-revelation-players-can-shape-its-story-but-the-trilogy-will-have-a-singular-ending-for-everyone",
+        "category": "GAMING",
+        "date": "Jun 09 \u2022 07:50 AM"
     },
     {
         "headline": "Call of Duty: Black Ops 1 and 2 Ports Have Apparently Leaked",
-        "summary": "Reports indicate that Call of Duty: Black Ops 1 and 2 may be coming to modern platforms. Apparent leaks suggest these classic titles are being ported or remastered. This news hints at a potential return for the fan-favorite games.",
+        "summary": "Reports suggest that Call of Duty: Black Ops 1 and 2 may be ported to modern platforms. Information regarding these potential new releases has reportedly leaked. This news hints at classic Call of Duty titles making a return to current-gen consoles.",
         "link": "https://www.ign.com/articles/call-of-duty-black-ops-1-and-2-ports-have-apparently-leaked",
         "category": "GAMING",
-        "date": "Jun 09 \u2022 03:33 AM"
+        "date": "Jun 09 \u2022 07:50 AM"
     },
     {
         "headline": "Helldivers Movie Loses Jason Momoa as Its Star",
-        "summary": "Jason Momoa has exited the live-action Helldivers movie project. His departure leaves the lead role in the upcoming film adaptation vacant. No immediate reasons for Momoa's decision were provided.",
+        "summary": "Jason Momoa has exited the live-action Helldivers movie. His departure leaves a significant role in the film adaptation vacant. The production will now need to find a new lead actor for the project.",
         "link": "https://www.ign.com/articles/helldivers-movie-loses-jason-momoa-as-its-star",
         "category": "GAMING",
-        "date": "Jun 09 \u2022 03:33 AM"
+        "date": "Jun 09 \u2022 07:50 AM"
     },
     {
         "headline": "Halo: Campaign Evolved Collector's Edition Includes a Relic of a Bygone Gaming Era",
-        "summary": "Halo: Campaign Evolved goes beyond merely remaking a 25-year-old game. Its Collector's Edition aims to revive the entire gaming era it originated from. The edition includes a unique 'relic' representing that bygone period.",
+        "summary": "Halo: Campaign Evolved is not just remaking a 25-year-old game, but also aiming to recreate its entire original era. The Collector's Edition includes a special 'relic of a bygone gaming era.' This edition offers a nostalgic experience beyond just the game's visuals.",
         "link": "https://www.ign.com/articles/halo-campaign-evolved-collectors-edition-includes-a-relic-of-a-bygone-gaming-era",
         "category": "GAMING",
-        "date": "Jun 09 \u2022 03:33 AM"
-    },
-    {
-        "headline": "Xbox Says Gears of War: E-Day PS5 Port Was Not Pulled 'Last-Minute' After Art With PS5 Logo Leaks",
-        "summary": "Xbox denies that a Gears of War: E-Day PS5 port was pulled at the last minute. This statement follows an accidental leak of game art featuring a PS5 logo. Xbox maintains that a PlayStation version was never officially planned.",
-        "link": "https://www.ign.com/articles/xbox-says-gears-of-war-e-day-ps5-port-was-not-pulled-last-minute-after-art-with-ps5-logo-leaks",
-        "category": "GAMING",
-        "date": "Jun 09 \u2022 03:33 AM"
-    },
-    {
-        "headline": "Billionaire West Ham co-owner accused of abusing his power and preying on women for sex",
-        "summary": "David Sullivan, West Ham co-owner, faces serious accusations of abusing his power. Women allege he demanded sexual favors in exchange for features in his newspapers. These claims highlight potential widespread exploitative behavior.",
-        "link": "https://www.bbc.com/news/articles/cj9p2lm7epeo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jun 09 \u2022 03:33 AM"
-    },
-    {
-        "headline": "Who is David Sullivan - football boss, 'king of porn' and alleged sexual predator?",
-        "summary": "David Sullivan, former West Ham boss, is now accused of exploitative behavior and being a sexual predator. He has a long public history of boasting about sexual conquests. The article delves into his past as a football boss and 'king of porn'.",
-        "link": "https://www.bbc.com/news/articles/ce8pk06wrx0o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jun 09 \u2022 03:33 AM"
+        "date": "Jun 09 \u2022 07:50 AM"
     },
     {
         "headline": "'I was a prisoner in my home': Drug gangs 'cuckooing' hundreds of homes a week, police warn",
-        "summary": "Police warn that drug gangs are 'cuckooing' hundreds of homes across the UK weekly. 'Cuckooing' involves criminals taking over vulnerable individuals' homes to establish drug dealing bases. Victims describe feeling imprisoned and helpless in their own residences.",
+        "summary": "UK police warn that drug gangs are 'cuckooing' hundreds, possibly thousands, of homes weekly. 'Cuckooing' involves criminals taking over the homes of vulnerable individuals to deal drugs. Victims describe feeling like prisoners in their own residences due to this exploitation.",
         "link": "https://www.bbc.com/news/articles/cd7p7p4xdq9o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 09 \u2022 03:33 AM"
+        "date": "Jun 09 \u2022 07:50 AM"
     },
     {
-        "headline": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
-        "summary": "Iran and Israel have both announced a pause in their military strikes. Israel's PM stated his country is 'holding fire at the moment,' confirming Iran's cessation of military action. Both nations issued warnings of retaliation should the ceasefire be breached again.",
-        "link": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+        "headline": "Football regulator contacts West Ham over 'serious allegations' against Sullivan",
+        "summary": "The football regulator has contacted West Ham United regarding serious allegations against co-owner David Sullivan. Multiple women accuse the billionaire of abusing his power and preying on them for sex. Some alleged incidents occurred when the women were in their late teens.",
+        "link": "https://www.bbc.com/news/articles/c1ky7gndnlyo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 09 \u2022 03:33 AM"
+        "date": "Jun 09 \u2022 07:50 AM"
+    },
+    {
+        "headline": "Billionaire West Ham co-owner accused of abusing his power and preying on women for sex",
+        "summary": "West Ham co-owner David Sullivan faces accusations of abusing his power to exploit women for sex. Women claim Sullivan told them they needed to have sex with him to feature in his newspapers. These are serious allegations of misconduct by a prominent public figure.",
+        "link": "https://www.bbc.com/news/articles/cj9p2lm7epeo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jun 09 \u2022 07:50 AM"
+    },
+    {
+        "headline": "Somali referee Artan barred from entering US ahead of World Cup",
+        "summary": "Somali referee Omar Artan was denied entry into the United States. Consequently, he has been dropped from the list of officials for the upcoming World Cup. Artan was slated to be the first Somali to referee at the World Cup finals.",
+        "link": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jun 09 \u2022 07:50 AM"
     }
 ]
