@@ -1,86 +1,86 @@
 [
     {
+        "headline": "I tried Siri AI, and so far it actually works",
+        "summary": "The new Siri AI can now extract calendar events from emails and flyers. This feature is particularly useful for parents managing schedules. The updated Siri is showing promise in practical, everyday tasks.",
+        "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+        "category": "TECH",
+        "date": "Jun 10 \u2022 03:44 AM"
+    },
+    {
         "headline": "Congress just gave DHS another $70 billion",
-        "summary": "Congress approved $70 billion for the Department of Homeland Security. The funding supports President Trump's mass deportation agenda over three years. Both House and Senate votes were close and largely along party lines.",
+        "summary": "Congress approved $70 billion in funding for the Department of Homeland Security. The funds will support President Trump's mass deportation agenda over three years. Both House and Senate votes were narrow and largely along party lines.",
         "link": "https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation",
         "category": "TECH",
-        "date": "Jun 09 \u2022 11:17 PM"
+        "date": "Jun 10 \u2022 03:44 AM"
     },
     {
         "headline": "The App Store is going to add subscription bundles soon",
-        "summary": "Apple will introduce subscription bundles for iPhone apps later this year. Bundles will combine offers from various companies, not just Apple. This expands on existing streaming video bundles like Apple TV and Peacock.",
+        "summary": "Apple is introducing subscription bundles to the App Store later this year. Bundles will allow combining offers from various app companies. This feature mirrors existing streaming video bundles, offering combined subscription deals.",
         "link": "https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store",
         "category": "TECH",
-        "date": "Jun 09 \u2022 11:17 PM"
+        "date": "Jun 10 \u2022 03:44 AM"
     },
     {
         "headline": "GM thinks EVs can help offset AI\u2019s energy suck with vehicle-to-grid tech",
-        "summary": "GM announced new initiatives for EV batteries and energy storage. They plan to activate vehicle-to-grid (V2G) capabilities for EV owners. V2G tech aims to offset energy demand from AI data centers.",
+        "summary": "GM announced new vehicle-to-grid (V2G) capabilities for its EVs. V2G tech aims to offset energy demand from AI data centers and improve grid resiliency. The automaker made announcements regarding EV batteries, energy storage, and grid stability.",
         "link": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
         "category": "TECH",
-        "date": "Jun 09 \u2022 11:17 PM"
+        "date": "Jun 10 \u2022 03:44 AM"
     },
     {
-        "headline": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
-        "summary": "Microsoft AI CEO Mustafa Suleyman criticized Anthropic. Suleyman warned against speculating about Claude AI's consciousness. He believes such claims are \"dangerous\" and could influence the AI's behavior.",
-        "link": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-        "category": "TECH",
-        "date": "Jun 09 \u2022 11:17 PM"
+        "headline": "Fire Emblem: Fortune's Weave Sets Standard Physical Price at $80",
+        "summary": "\"Fire Emblem: Fortune's Weave\" has revealed its launch date. The standard physical edition will cost $80 USD. Fans now know the anticipated price point for the new game.",
+        "link": "https://www.ign.com/articles/fire-emblem-fortunes-weave-sets-standard-physical-price-at-80",
+        "category": "GAMING",
+        "date": "Jun 10 \u2022 03:44 AM"
+    },
+    {
+        "headline": "Xbox Will 'Try and Do More' Exclusives Once the 'Business is Healthy', Says Asha Sharma",
+        "summary": "Xbox plans to increase exclusive titles in the future. This commitment to exclusives is conditional on the business's health. Asha Sharma indicated that more exclusives depend on financial performance.",
+        "link": "https://www.ign.com/articles/xbox-will-try-and-do-more-exclusives-once-the-business-is-healthy-says-asha-sharma",
+        "category": "GAMING",
+        "date": "Jun 10 \u2022 03:44 AM"
+    },
+    {
+        "headline": "Fire Emblem: Fortune's Weave \u2014 Here's What Comes With Each Edition",
+        "summary": "Details on different editions of \"Fire Emblem: Fortune's Weave\" are available. Players can see what content is included with each version. Information helps buyers choose their preferred game edition.",
+        "link": "https://www.ign.com/articles/fire-emblem-fortunes-weave-where-to-buy",
+        "category": "GAMING",
+        "date": "Jun 10 \u2022 03:44 AM"
     },
     {
         "headline": "Treat Dad to a Brand New Pair of Apple AirPods Pro 3 Earbuds for Father's Day, Now 20% Off at Amazon",
-        "summary": "Apple AirPods Pro 3 earbuds are currently 20% off at Amazon. This deal is promoted as a Father's Day gift idea. The AirPods Pro 3 are highlighted as top noise-canceling earbuds for iPhone users.",
+        "summary": "Apple AirPods Pro 3 earbuds are currently 20% off on Amazon. This Father's Day deal highlights them as a gift option. They are praised as top noise-canceling earbuds for iPhone users.",
         "link": "https://www.ign.com/articles/apple-airpods-pro-3-earbuds-deal-amazon-fathers-day-sale-updated",
         "category": "GAMING",
-        "date": "Jun 09 \u2022 11:17 PM"
+        "date": "Jun 10 \u2022 03:44 AM"
     },
     {
-        "headline": "Save 20% Off Refurbished VITURE XR Glasses on eBay Ahead of Father's Day",
-        "summary": "Refurbished VITURE XR Glasses are 20% off on eBay. The offer is available ahead of Father's Day. These glasses provide a portable, 175-inch simulated display for devices like the Steam Deck.",
-        "link": "https://www.ign.com/articles/save-20-off-refurbished-viture-xr-glasses-on-ebay-ahead-of-fathers-day",
-        "category": "GAMING",
-        "date": "Jun 09 \u2022 11:17 PM"
-    },
-    {
-        "headline": "The LEGO Sagrada Fam\u00edlia Set Should Have Followed the Hogwarts Castle Release Strategy",
-        "summary": "The LEGO Sagrada Fam\u00edlia set is discussed in relation to its release strategy. The article suggests it should have been released as multiple sets over time. This strategy is compared to the successful Hogwarts Castle series.",
-        "link": "https://www.ign.com/articles/sagrada-familia-lego-set-should-have-released-over-years",
-        "category": "GAMING",
-        "date": "Jun 09 \u2022 11:17 PM"
-    },
-    {
-        "headline": "Save 20% Off the Possibly Soon-to-be-Retired LEGO Super Mario World: Mario & Yoshi Building Set",
-        "summary": "The LEGO Super Mario World: Mario & Yoshi building set is 20% off. The set is rumored to be retired soon, potentially by July 31. This offers a last chance to purchase the popular Mario & Yoshi set.",
-        "link": "https://www.ign.com/articles/lego-super-mario-world-mario-yoshi-71438-deal-possibly-retiring-soon",
-        "category": "GAMING",
-        "date": "Jun 09 \u2022 11:17 PM"
+        "headline": "Disorder breaks out in Belfast after man charged over knife attack",
+        "summary": "Disorder erupted in Belfast following charges over a knife attack. Residents were forced to evacuate their homes due to the unrest. Public transportation services have been suspended in the city.",
+        "link": "https://www.bbc.com/news/articles/c992rvpyj99o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jun 10 \u2022 03:44 AM"
     },
     {
         "headline": "David Sullivan banned from contact with West Ham women's and youth teams since 2023",
-        "summary": "David Sullivan was banned from contact with West Ham's women's and youth teams. The ban has been in place since 2023. This decision followed a safeguarding investigation by the Football Association.",
+        "summary": "David Sullivan has been banned from contact with West Ham's women's and youth teams. The ban has been in effect since 2023. This decision came after a safeguarding investigation by the Football Association.",
         "link": "https://www.bbc.com/news/articles/c5yzwy055xdo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 09 \u2022 11:17 PM"
+        "date": "Jun 10 \u2022 03:44 AM"
     },
     {
         "headline": "Inside Myanmar, rebels are losing ground as military forces men into army",
-        "summary": "Rebel forces in Myanmar are reportedly losing ground. The military is forcibly conscripting men into the army. A BBC team documented the unfolding war from frontline rebel positions.",
+        "summary": "Rebel forces in Myanmar are reportedly losing territory. The military is forcibly conscripting men into the army. A BBC report from the frontlines details the war's progression.",
         "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 09 \u2022 11:17 PM"
+        "date": "Jun 10 \u2022 03:44 AM"
     },
     {
         "headline": "The rebels at the front line of Myanmar's civil war",
-        "summary": "BBC's Quentin Sommerville traveled to Myanmar without official permission. He met with rebel fighters on the front lines of the civil war. The report provides an inside look at the conflict.",
+        "summary": "BBC's Quentin Sommerville reported from Myanmar's civil war front lines. He met with rebel fighters without official permission. The report offers an inside look at the conflict.",
         "link": "https://www.bbc.com/news/videos/cx2k5nq51lgo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 09 \u2022 11:17 PM"
-    },
-    {
-        "headline": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
-        "summary": "Trump and Netanyahu aimed to reshape the Middle East. Their actions, particularly regarding Iran, have created a risk of \"permacrisis.\" The leaders are described as having lost control of the consequences of their policies.",
-        "link": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jun 09 \u2022 11:17 PM"
+        "date": "Jun 10 \u2022 03:44 AM"
     }
 ]
