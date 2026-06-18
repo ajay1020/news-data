@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Midjourney goes from generating cat images to full-body ultrasound scans",
+        "summary": "Midjourney CEO David Holz unveiled The Midjourney Scanner, their first hardware product. It's an ultrasound-based full-body scanner, a significant shift from AI image generation. The company also plans to build a San Francisco spa for the new technology.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+        "category": "TECH",
+        "date": "Jun 18 \u2022 10:21 AM"
+    },
+    {
         "headline": "Tim Cook says RAM expenses are 'unsustainable' and Apple is going to raise prices",
-        "summary": "Apple CEO Tim Cook warns of unavoidable price increases. High RAM costs are driving up expenses. Apple aims to mitigate impacts but will pass costs to consumers.",
+        "summary": "Apple CEO Tim Cook announced that price increases are unavoidable due to rising RAM expenses. The company is facing huge increases in memory costs. Apple is trying to mitigate the impact but expects higher prices for consumers.",
         "link": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram",
         "category": "TECH",
-        "date": "Jun 17 \u2022 10:01 PM"
+        "date": "Jun 18 \u2022 10:21 AM"
     },
     {
         "headline": "VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription",
-        "summary": "VSCO introduces Studio Pro, a new mobile photo editing app. It aims to compete with Adobe, starting on iOS. The app will feature a steep $500 annual subscription.",
+        "summary": "VSCO introduced Studio Pro, a new mobile photo editing app for iOS, with a macOS version planned. The app offers advanced features like batch editing and style matching, aiming to compete with Adobe. It will come with a steep $500 annual subscription.",
         "link": "https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription",
         "category": "TECH",
-        "date": "Jun 17 \u2022 10:01 PM"
+        "date": "Jun 18 \u2022 10:21 AM"
     },
     {
         "headline": "Epic wants to let you bring your Fortnite skins to other games",
-        "summary": "Epic Games plans to enable Fortnite skins in other games. This move aims for an interoperable metaverse. Unreal Engine 6 will facilitate this cross-game functionality.",
+        "summary": "Epic Games plans to allow Fortnite skins to be used across different games. This move is part of their broader vision for an interoperable metaverse using Unreal Engine 6. Developers will soon be able to build games that utilize Fortnite assets.",
         "link": "https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse",
         "category": "TECH",
-        "date": "Jun 17 \u2022 10:01 PM"
+        "date": "Jun 18 \u2022 10:21 AM"
     },
     {
-        "headline": "Anthropic got hit by export rules nobody understands",
-        "summary": "Anthropic's AI models were temporarily shut down by export rules. The Trump administration ordered a block for foreign nationals. This caused Fable 5 and Mythos 5 to go offline globally.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-        "category": "TECH",
-        "date": "Jun 17 \u2022 10:01 PM"
-    },
-    {
-        "headline": "Get an Apple Watch Ultra for Just $300 and It Can Still Arrive by Father's Day for Amazon Prime Members",
-        "summary": "Score an Apple Watch Ultra for only $300. This renewed unit offers a $450 discount. Amazon Prime members can get it before Father's Day.",
-        "link": "https://www.ign.com/articles/apple-watch-ultra-deal-arrives-by-fathers-day",
+        "headline": "Vampire Survivors Developer 'Reviewing' Fortnite Crossover Plans, After Epic Details Unreal Engine 6 AI Usage",
+        "summary": "Vampire Survivors developer Poncle is reconsidering a potential Fortnite crossover. This decision follows Epic Games' announcement of using generative AI tools in Fortnite's art and design process. Concerns over AI implementation are impacting the lucrative partnership talks.",
+        "link": "https://www.ign.com/articles/vampire-survivors-developer-reviewing-fortnite-crossover-plans-after-epic-details-unreal-engine-6-ai-usage",
         "category": "GAMING",
-        "date": "Jun 17 \u2022 10:01 PM"
+        "date": "Jun 18 \u2022 10:21 AM"
     },
     {
-        "headline": "LEGO Reveals a Working Pinball Machine You Can Build Yourself",
-        "summary": "LEGO unveils a new, buildable working pinball machine. Enthusiasts can now construct their own arcade classic. This set promises a fun and interactive building experience.",
-        "link": "https://www.ign.com/articles/lego-reveals-a-working-pinball-machine-you-can-build-yourself",
+        "headline": "Final Fantasy Tactics Remaster Adds New Game+, but War of the Lions Content Still Missing",
+        "summary": "The Final Fantasy Tactics remaster has received an update, introducing a New Game+ mode. Fans are debating the necessity and potential of this new feature. Despite the update, content from the beloved War of the Lions version remains absent.",
+        "link": "https://www.ign.com/articles/final-fantasy-tactics-remaster-adds-new-game-but-war-of-the-lions-content-still-missing",
         "category": "GAMING",
-        "date": "Jun 17 \u2022 10:01 PM"
+        "date": "Jun 18 \u2022 10:21 AM"
     },
     {
-        "headline": "The Jackery Explorer 240D 80,000mAh Power Bank Drops to a New Price Low, Just $102 at AliExpress",
-        "summary": "The Jackery Explorer 240D power bank hit a new low price. Get the 80,000mAh unit for just $102. This deal is available through AliExpress.",
-        "link": "https://www.ign.com/articles/jackery-explorer-240d-80000mah-power-bank-deal-june-2026-updated",
+        "headline": "Final Fantasy 14 Rewards Japanese Players for Paying Their Real-Life Taxes With a Giant Dog",
+        "summary": "Final Fantasy 14 players in Japan can now earn in-game rewards by paying their real-life taxes. Rewards include various cosmetics and items. Notably, players can acquire the popular Megashiba Mount, a giant dog, for tax compliance.",
+        "link": "https://www.ign.com/articles/final-fantasy-14-rewards-japanese-players-for-paying-their-real-life-taxes-with-a-giant-dog",
         "category": "GAMING",
-        "date": "Jun 17 \u2022 10:01 PM"
+        "date": "Jun 18 \u2022 10:21 AM"
     },
     {
-        "headline": "Get an Ecoflow River 2 256Wh LiFePO4 Portable Power Station for Less Than a Hundred Bucks",
-        "summary": "Grab an Ecoflow River 2 portable power station cheaply. The 256Wh LiFePO4 unit is under $100. It's pitched as affordable, reliable backup power.",
-        "link": "https://www.ign.com/articles/ecoflow-river-lifepo4-power-station-deal-refurbished-from-ebay",
+        "headline": "Apple Price Rises 'Unavoidable', Warns CEO Tim Cook",
+        "summary": "Apple CEO Tim Cook warned that price increases for Apple products are now 'unavoidable'. This is directly attributed to surging chip costs. The rising demand for AI technologies is largely to blame for these increased expenses.",
+        "link": "https://www.ign.com/articles/apple-price-rises-unavoidable-warns-ceo-tim-cook",
         "category": "GAMING",
-        "date": "Jun 17 \u2022 10:01 PM"
+        "date": "Jun 18 \u2022 10:21 AM"
     },
     {
-        "headline": "Iran sends tankers loaded with oil past US military blockade",
-        "summary": "Three Iranian tankers successfully navigated past a US blockade. They were carrying crude oil through the Gulf of Oman. Ship-tracking data confirmed the passage.",
-        "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+        "headline": "What's in the US-Iran agreement?",
+        "summary": "A 14-paragraph memo outlines a new agreement between the US and Iran. Key terms include an end to active fighting and Iran's commitment to never possess nuclear weapons. Iran is also set to receive a $300 billion redevelopment package.",
+        "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 17 \u2022 10:01 PM"
+        "date": "Jun 18 \u2022 10:21 AM"
     },
     {
-        "headline": "PM warns Burnham against immediate leadership challenge if he wins by-election",
-        "summary": "Keir Starmer cautions Andy Burnham against an immediate leadership challenge. This warning comes ahead of a potential by-election win. Starmer advises focusing on the Manchester mayoral race instead.",
-        "link": "https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&at_campaign=rss",
+        "headline": "Young women now have 'close to zero' risk of cervical cancer death after HPV jab",
+        "summary": "A new study reveals that young women who received the HPV jab face 'close to zero' risk of cervical cancer death. The vaccine has saved hundreds of lives since its introduction to school-age girls in 2008. This highlights the profound impact of the HPV vaccination program.",
+        "link": "https://www.bbc.com/news/articles/c621z28z138o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 17 \u2022 10:01 PM"
+        "date": "Jun 18 \u2022 10:21 AM"
     },
     {
-        "headline": "BBC announces 550 job cuts as first part of \u00a3500m savings plan",
-        "summary": "The BBC plans 550 job cuts as part of a \u00a3500m savings plan. Initial proposals include 200 losses in the news division. This move aims to streamline operations and reduce costs.",
-        "link": "https://www.bbc.com/news/articles/cvgmqrrlej5o?at_medium=RSS&at_campaign=rss",
+        "headline": "Church of England apologises for role in forced adoptions",
+        "summary": "The Church of England has issued a formal apology for its involvement in forced adoptions. Between 1949 and 1976, thousands of unmarried women were pressured to give up their babies. The apology addresses decades of harm caused by these practices.",
+        "link": "https://www.bbc.com/news/articles/clywz07y942o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 17 \u2022 10:01 PM"
+        "date": "Jun 18 \u2022 10:21 AM"
     },
     {
-        "headline": "Israel launches fresh strikes on Lebanon despite Trump criticism",
-        "summary": "Israel initiated new strikes on Lebanon. This action occurred despite recent criticism from Donald Trump. Trump urged PM Netanyahu to be more responsible regarding Lebanon.",
-        "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+        "headline": "Simpler, older version of Stonehenge found three miles from famous site",
+        "summary": "Archaeologists have discovered a simpler, older version of Stonehenge. The site is located just three miles from the iconic landmark. This ancient structure comprised two posts that aligned perfectly with the solstices 5,000 years ago.",
+        "link": "https://www.bbc.com/news/articles/clyxw8550y8o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 17 \u2022 10:01 PM"
+        "date": "Jun 18 \u2022 10:21 AM"
     }
 ]
