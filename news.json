@@ -1,86 +1,86 @@
 [
     {
-        "headline": "That viral clip you saw of someone winning big on Polymarket was probably fake",
-        "summary": "WSJ investigation reveals Polymarket paid creators for fake viral betting clips. Over 1,100 deceptive social media videos were identified. Creators confirmed receiving payment for generating these misleading videos.",
+        "headline": "Cold Court\u2019s debut EP is an infectious, glitchy genre mashup",
+        "summary": "Cold Court, a brother-sister duo, debuted an EP with diverse influences. Their sound is a messy soup resembling hyperpop. Songs like \"Dumbest Girl Alive\" blend pop punk and emo.",
+        "link": "https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review",
+        "category": "TECH",
+        "date": "Jun 21 \u2022 05:28 PM"
+    },
+    {
+        "headline": "Polymarket reportedly paid people to post fake videos of themselves placing bets",
+        "summary": "Polymarket allegedly paid individuals to create fake betting and win videos. A WSJ investigation identified over 1,100 deceptive social media clips. Creators confirmed being paid for the videos without disclosing it.",
         "link": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
         "category": "TECH",
-        "date": "Jun 21 \u2022 03:51 PM"
+        "date": "Jun 21 \u2022 05:28 PM"
     },
     {
         "headline": "How Roomba started a robot revolution",
-        "summary": "Early Roombas were simple, bumping machines with basic functionality. Despite initial unsophistication, they captivated users and sparked enthusiasm. Roomba's launch laid the groundwork for a broader robot vacuum revolution.",
+        "summary": "Early Roombas were unsophisticated robot vacuums that bumped around. Despite their simplicity, they were revolutionary for their time. The article explores the history and impact of the Roomba.",
         "link": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
         "category": "TECH",
-        "date": "Jun 21 \u2022 03:51 PM"
+        "date": "Jun 21 \u2022 05:28 PM"
     },
     {
         "headline": "Electric air taxis are stuck in the courtroom",
-        "summary": "The development of electric air taxis is currently stalled by legal battles. Lawsuits are hindering the progress and deployment of these futuristic vehicles. The future of urban air mobility faces significant courtroom challenges.",
+        "summary": "Electric air taxis are facing legal challenges, delaying their advancement. This story is featured in The Stepback, a weekly tech newsletter. The article explores the ongoing lawsuits surrounding air taxi development.",
         "link": "https://www.theverge.com/column/950975/electric-air-taxis-lawsuits",
         "category": "TECH",
-        "date": "Jun 21 \u2022 03:51 PM"
+        "date": "Jun 21 \u2022 05:28 PM"
     },
     {
-        "headline": "Sony\u2019s Xperia 1 VIII is still a phone for the fans",
-        "summary": "The Xperia 1 VIII features an aesthetic overhaul and revamped camera system. Sony has removed the continuous optical zoom telephoto found in previous models. It retains core Sony features, appealing to its dedicated fanbase.",
-        "link": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
-        "category": "TECH",
-        "date": "Jun 21 \u2022 03:51 PM"
+        "headline": "Avengers: Doomsday 'Leak' Pulled Offline Just as it Spreads Across Social Media",
+        "summary": "A short clip allegedly from Avengers: Doomsday featuring X-Men leaked online. The 'leak' quickly spread across social media platforms. The clip was subsequently pulled offline, intensifying speculation.",
+        "link": "https://www.ign.com/articles/avengers-doomsday-leak-pulled-offline-just-as-it-spreads-across-social-media",
+        "category": "GAMING",
+        "date": "Jun 21 \u2022 05:28 PM"
+    },
+    {
+        "headline": "Gundam: Rogue Orbit Interview: A Gundam Game with a Focus on How it Feels to be the Pilot",
+        "summary": "Producers Yuya Tomiyama and Shinya Satake discuss the new Gundam: Rogue Orbit game. The game aims to start a new era for Gundam as a video game first. It focuses on the immersive experience of being a pilot.",
+        "link": "https://www.ign.com/articles/gundam-rogue-orbit-interview-a-gundam-game-with-a-focus-on-how-it-feels-to-be-the-pilot",
+        "category": "GAMING",
+        "date": "Jun 21 \u2022 05:28 PM"
     },
     {
         "headline": "Stranger Than Heaven Second-Take Preview: Stranger Than Heaven\u2019s Combat Seems Harder Than Hell, and that\u2019s a Good Thing",
-        "summary": "Stranger Than Heaven features a flexible fighting system with increased challenge. The combat is notably harder than standard Like a Dragon brawling. This suggests RGG Studio is innovating beyond previous series conventions.",
+        "summary": "A second preview of Stranger Than Heaven highlights its challenging combat system. The flexible fighting system feels like an increased challenge from typical Like a Dragon brawling. RGG Studio appears committed to evolving the series with this new prequel.",
         "link": "https://www.ign.com/articles/stranger-than-heaven-second-take-preview-stranger-than-heavens-combat-seems-harder-than-hell-and-thats-a-good-thing",
         "category": "GAMING",
-        "date": "Jun 21 \u2022 03:51 PM"
+        "date": "Jun 21 \u2022 05:28 PM"
     },
     {
         "headline": "X-Men Star Famke Janssen Thinks Marvel 'Made a Mistake' By Not Bringing Her Jean Grey Back for Avengers: Doomsday",
-        "summary": "X-Men star Famke Janssen believes Marvel made a mistake regarding Avengers: Doomsday. She stated Marvel neglected to invite her to reprise her Jean Grey role. Janssen publicly voiced her opinion on the casting decision.",
+        "summary": "Famke Janssen believes Marvel Studios made an error by not inviting her to reprise Jean Grey. She expressed her opinion regarding her exclusion from Avengers: Doomsday. The X-Men star is disappointed about not returning for the film.",
         "link": "https://www.ign.com/articles/x-men-star-famke-janssen-thinks-marvel-made-a-mistake-by-not-bringing-her-jean-grey-back-for-avengers-doomsday",
         "category": "GAMING",
-        "date": "Jun 21 \u2022 03:51 PM"
+        "date": "Jun 21 \u2022 05:28 PM"
     },
     {
-        "headline": "Epic Games Store Roadmap Promises 5x Faster Boot Times, User Reviews, and More",
-        "summary": "The Epic Games Store plans a major launcher redesign with new features. Upcoming updates include 5x faster boot times and user reviews. The roadmap aims to deliver many long-requested improvements to the platform.",
-        "link": "https://www.ign.com/articles/epic-games-store-roadmap-promises-5x-faster-boot-times-user-reviews-and-more",
-        "category": "GAMING",
-        "date": "Jun 21 \u2022 03:51 PM"
+        "headline": "Starmer considers political future as pressure to quit mounts",
+        "summary": "Labour leader Keir Starmer is reportedly considering his political future. Pressure for him to resign is mounting. Former US President Donald Trump publicly stated Starmer would resign, adding to the pressure.",
+        "link": "https://www.bbc.com/news/articles/cn8k1my75gno?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jun 21 \u2022 05:28 PM"
     },
     {
-        "headline": "The GTPLAYER Big and Tall Gaming Chair Drops to Less Than $160 Ahead of Amazon Prime Day",
-        "summary": "A GTPLAYER Big and Tall Gaming Chair is available for under $160. This discounted price comes ahead of Amazon Prime Day. It's suggested as a gift idea, even with potential delivery delays.",
-        "link": "https://www.ign.com/articles/gtplayer-big-and-tall-gaming-chair-deal-amazon-fathers-day-sale",
-        "category": "GAMING",
-        "date": "Jun 21 \u2022 03:51 PM"
-    },
-    {
-        "headline": "Signs grow that Starmer will resign as government mood shifts",
-        "summary": "Speculation is increasing about Keir Starmer's potential resignation. The mood within the government is reportedly shifting. BBC reports indicate growing signs of the prime minister's departure.",
+        "headline": "Signs grow that PM will resign with mood in government shifting",
+        "summary": "Speculation is increasing about the Prime Minister's potential resignation. The mood within government is reportedly shifting towards this outcome. BBC journalists Henry Zeffman and Nick Eardley report on the internal atmosphere.",
         "link": "https://www.bbc.com/news/articles/cql10wwy69zo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 21 \u2022 03:51 PM"
+        "date": "Jun 21 \u2022 05:28 PM"
+    },
+    {
+        "headline": "Family of driver killed in Bedford train crash 'devastated' by loss",
+        "summary": "Shaun Burton was tragically killed in a train crash in Bedford. His family has expressed their profound devastation over the loss. The community mourns the tragic death.",
+        "link": "https://www.bbc.com/news/articles/c621n4l5qr6o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jun 21 \u2022 05:28 PM"
     },
     {
         "headline": "Extreme heat warning extended to four days as temperatures could hit 38C",
-        "summary": "An amber weather warning for extreme heat has been extended to four days. Temperatures are forecast to reach up to 38C during this period. The Met Office warning is now in effect from Monday through Thursday.",
+        "summary": "An extreme heat warning has been extended to four days across the region. Temperatures are forecast to reach up to 38C during this period. The Met Office amber weather warning is now active from Monday to Thursday.",
         "link": "https://www.bbc.com/weather/articles/c932k0lewygo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 21 \u2022 03:51 PM"
-    },
-    {
-        "headline": "Low-key funeral held for giant of the art world David Hockney",
-        "summary": "Artist David Hockney had a private, low-key funeral earlier this month. Only his partner and great-nephew attended, fulfilling his wishes. The celebrated art world figure passed away at his London home.",
-        "link": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jun 21 \u2022 03:51 PM"
-    },
-    {
-        "headline": "William marks 44th birthday as royals celebrate Father's Day",
-        "summary": "Prince William celebrated his 44th birthday alongside Father's Day. The Princess of Wales and their children shared a loving message. The royals marked both occasions with a public acknowledgment.",
-        "link": "https://www.bbc.com/news/articles/c9d2gzlze9po?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jun 21 \u2022 03:51 PM"
+        "date": "Jun 21 \u2022 05:28 PM"
     }
 ]
