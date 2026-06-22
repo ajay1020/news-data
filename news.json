@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Read this before you vibe-code another app",
+        "summary": "A developer's 'vibe-coded' app, Boomberg, revealed a critical SQL injection risk. The security flaw went unnoticed for months after the website's launch. This incident highlights the dangers of rapid, unchecked development.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+        "category": "TECH",
+        "date": "Jun 22 \u2022 11:55 AM"
+    },
+    {
         "headline": "Bose thinks it can be a media company for some reason",
-        "summary": "Bose is launching a new venture as a media company, starting a record label. Critics compare the move to past corporate failures in the music industry. The company aims to emulate successful brands like Red Bull in media.",
+        "summary": "Audio giant Bose is venturing into the music industry with its own record label. The move is met with skepticism, given the history of non-music companies failing in this sector. Bose aims to become a media company, despite past industry examples.",
         "link": "https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company",
         "category": "TECH",
-        "date": "Jun 22 \u2022 04:17 AM"
+        "date": "Jun 22 \u2022 11:55 AM"
     },
     {
         "headline": "Cold Court\u2019s debut EP is an infectious, glitchy genre mashup",
-        "summary": "Philly duo Cold Court releases their debut EP, \"Hands Up.\" The music is described as a messy, glitchy genre mashup. It offers a fresh take on hyperpop, blending pop punk and emo influences.",
+        "summary": "Philly-based brother-sister duo Cold Court released their debut EP, 'Hands Up'. The EP is described as an infectious, glitchy genre mashup. It blends hyperpop influences with unique twists on pop-punk and emo.",
         "link": "https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review",
         "category": "TECH",
-        "date": "Jun 22 \u2022 04:17 AM"
+        "date": "Jun 22 \u2022 11:55 AM"
     },
     {
         "headline": "Polymarket reportedly paid people to post fake videos of themselves placing bets",
-        "summary": "Polymarket allegedly paid individuals to create fake betting videos. A WSJ investigation identified over 1,100 deceptive social media clips. Creators confirmed they were compensated for faking wins and bets.",
+        "summary": "A Wall Street Journal investigation alleges Polymarket paid individuals to create fake betting videos. Over 1,100 deceptive clips were identified across social media platforms. Creators confirmed receiving payments without disclosing the sponsorship in their videos.",
         "link": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
         "category": "TECH",
-        "date": "Jun 22 \u2022 04:17 AM"
+        "date": "Jun 22 \u2022 11:55 AM"
     },
     {
-        "headline": "How Roomba started a robot revolution",
-        "summary": "The Roomba robot vacuum, initially a simple device, revolutionized home cleaning. Early models were basic, bumping around until the battery died. Despite its flaws, Roomba captured the public's imagination for automated tech.",
-        "link": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
-        "category": "TECH",
-        "date": "Jun 22 \u2022 04:17 AM"
-    },
-    {
-        "headline": "Rick and Morty Season 9, Episode 5 Review: \"Jer Bud\"",
-        "summary": "The latest Rick and Morty episode, \"Jer Bud,\" has been reviewed. A highly entertaining Jerry subplot stands out. The main storyline is described as disappointingly bland.",
-        "link": "https://www.ign.com/articles/rick-and-morty-season-9-episode-5-review-recap",
+        "headline": "Amazon Drops a Fresh 10% Discount on Nintendo eShop Gift Cards Ready for Prime Day 2026",
+        "summary": "Amazon is offering a 10% discount on Nintendo eShop gift cards. A $10 eShop card is now available for $8.98. This deal is highlighted as a precursor to Prime Day 2026.",
+        "link": "https://www.ign.com/articles/nintendo-switch-eshop-gift-card-amazon-prime-day-2026",
         "category": "GAMING",
-        "date": "Jun 22 \u2022 04:17 AM"
+        "date": "Jun 22 \u2022 11:55 AM"
     },
     {
-        "headline": "House of the Dragon Made Major Changes to the Battle of the Gullet Compared to the Book",
-        "summary": "House of the Dragon's Season 3 premiere significantly alters the Battle of the Gullet. The show expands a four-page book event into a 25-minute action sequence. Key character additions and omissions diverge from George R.R. Martin's source.",
-        "link": "https://www.ign.com/articles/house-of-the-dragon-season-3-battle-of-gullet-book-differences",
+        "headline": "Robert Downey Jr. Posts Avengers: Doomsday Father's Day Message, Which Links to Popular Fan Theory for Doctor Doom's Tragic Backstory",
+        "summary": "Robert Downey Jr. shared Doctor Doom artwork for Father's Day. The post connects to a popular fan theory regarding Doctor Doom's tragic backstory. RDJ's message is linked to the upcoming 'Avengers: Doomsday' film.",
+        "link": "https://www.ign.com/articles/robert-downey-jr-posts-avengers-doomsday-fathers-day-message-which-links-to-popular-fan-theory-for-doctor-dooms-tragic-backstory",
         "category": "GAMING",
-        "date": "Jun 22 \u2022 04:17 AM"
+        "date": "Jun 22 \u2022 11:55 AM"
     },
     {
-        "headline": "House of the Dragon Season 3, Episode 1 Review",
-        "summary": "A review for House of the Dragon Season 3, Episode 1 has been released. The premiere is packed with pirates, dragons, fire, and betrayal. It's described as chaotic, destructive, and a highly anticipated return.",
-        "link": "https://www.ign.com/articles/house-of-the-dragon-season-3-episode-1-review",
+        "headline": "Scammers Are 'Dangling the One Thing' PC Gamers Won't Get Anytime Soon: GTA 6",
+        "summary": "GTA 6 malware and scams are on the rise, targeting eager fans. PC and Android users are particularly vulnerable due to Rockstar skipping these platforms for launch. Scammers exploit the high anticipation for the game's release.",
+        "link": "https://www.ign.com/articles/scammers-are-dangling-the-one-thing-pc-gamers-wont-get-anytime-soon-gta-6",
         "category": "GAMING",
-        "date": "Jun 22 \u2022 04:17 AM"
+        "date": "Jun 22 \u2022 11:55 AM"
     },
     {
-        "headline": "The Vampire Lestat Showrunner Admits Changing Anne Rice\u2019s Source Material in This Week\u2019s Episode Will Probably Be a \u2018Little Disappointing\u2019 to Fans",
-        "summary": "The showrunner for The Vampire Lestat acknowledges changes to Anne Rice's source material. These alterations occur in Season 3's third episode, \"Toronto.\" The showrunner admits fans might find the changes \"a little disappointing\" but deemed them necessary.",
-        "link": "https://www.ign.com/articles/the-vampire-lestat-anne-rice-changes-disappointing-fans-episode-3-toronto",
+        "headline": "Woot Is Selling the Nintendo Switch 2 From $399 Ahead of Scheduled September Price Hike",
+        "summary": "Woot is offering the new Nintendo Switch 2 console for $399. This special price is available for new customers using a specific code at checkout. The deal comes ahead of a scheduled price hike in September.",
+        "link": "https://www.ign.com/articles/nintendo-switch-2-deal-woot-price-hike",
         "category": "GAMING",
-        "date": "Jun 22 \u2022 04:17 AM"
+        "date": "Jun 22 \u2022 11:55 AM"
     },
     {
-        "headline": "Starmer considers political future as pressure to quit mounts",
-        "summary": "Labour leader Keir Starmer faces mounting pressure to resign. He is reportedly considering his political future. US President Donald Trump commented on social media that the PM will resign.",
-        "link": "https://www.bbc.com/news/articles/cn8k1my75gno?at_medium=RSS&at_campaign=rss",
+        "headline": "Watch and read Keir Starmer's resignation speech in full",
+        "summary": "Sir Keir Starmer has announced his resignation as Labour leader and Prime Minister. He delivered his resignation speech from Downing Street. The full text of his speech is available.",
+        "link": "https://www.bbc.com/news/articles/c621nnq4pm7o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 22 \u2022 04:17 AM"
+        "date": "Jun 22 \u2022 11:55 AM"
     },
     {
-        "headline": "Chris Mason: All eyes on Downing Street - what does the PM say, and when?",
-        "summary": "The BBC's political editor reports on a looming announcement from Downing Street. A Prime Minister's departure from office appears imminent for the third time in four years. Speculation is rife regarding the timing and content of the PM's statement.",
-        "link": "https://www.bbc.com/news/articles/c39yd12zed9o?at_medium=RSS&at_campaign=rss",
+        "headline": "Top lawyer whose 'Mr Rules' approach failed to connect with the public",
+        "summary": "Sir Keir Starmer has been forced out of his position. His 'Mr Rules' political approach ultimately failed to resonate with the public. This departure comes less than two years after his significant general election victory.",
+        "link": "https://www.bbc.com/news/articles/cwygj95xrp9o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 22 \u2022 04:17 AM"
+        "date": "Jun 22 \u2022 11:55 AM"
     },
     {
-        "headline": "First round of US-Iran talks end with 'encouraging progress', mediators say",
-        "summary": "The first round of US-Iran talks concluded in Switzerland. Mediators describe the progress made as \"encouraging.\" Both sides committed to reaching a final deal within 60 days.",
+        "headline": "Who is Andy Burnham? Returning MP who wants to be prime minister",
+        "summary": "Andy Burnham, outgoing Greater Manchester mayor, is returning to Westminster. He is preparing for a third attempt to become Labour leader. Burnham has openly expressed his ambition to become Prime Minister.",
+        "link": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jun 22 \u2022 11:55 AM"
+    },
+    {
+        "headline": "First round of US-Iran talks ends with encouraging progress, mediators say",
+        "summary": "The initial round of US-Iran talks in Switzerland has concluded. Mediators reported encouraging progress between the two nations. Both sides have committed to reaching a final deal within 60 days.",
         "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 22 \u2022 04:17 AM"
-    },
-    {
-        "headline": "Four-day extreme heat warning begins as temperatures could hit 38C",
-        "summary": "A four-day extreme heat warning has been issued. Temperatures are forecast to reach up to 38C. The Met Office amber weather warning is in effect until Thursday.",
-        "link": "https://www.bbc.com/weather/articles/c932k0lewygo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jun 22 \u2022 04:17 AM"
+        "date": "Jun 22 \u2022 11:55 AM"
     }
 ]
