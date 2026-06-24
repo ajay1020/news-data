@@ -1,86 +1,86 @@
 [
     {
-        "headline": "A new paper argues Microsoft exaggerated its quantum claims a year ago",
-        "summary": "New paper in Nature questions Microsoft's \"breakthrough\" Majorana 1 quantum chip. The critique challenges the basic technology of the topological qubit unveiled in Feb 2025. Critics suggest Microsoft may have exaggerated its quantum computing claims.",
-        "link": "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims",
-        "category": "TECH",
-        "date": "Jun 24 \u2022 09:23 PM"
-    },
-    {
-        "headline": "Congresswoman denies staff used AI to write defense funding amendment",
-        "summary": "Rep. Anna Paulina Luna denies staff used AI for defense bill text, citing \"spellcheck\" use. The denial came after screenshots on X showed an AI-generated amendment summary. Luna explicitly states \"NO Legislation is ever drafted with AI.\"",
-        "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-        "category": "TECH",
-        "date": "Jun 24 \u2022 09:23 PM"
-    },
-    {
-        "headline": "GTA VI is a worrying sign for the future of physical games",
-        "summary": "Rockstar Games announced GTA VI's price at $79.99 for its November 19th launch. Physical copies will only contain a digital download code, not a disc. This decision raises concerns about the future of physical game releases.",
-        "link": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
-        "category": "TECH",
-        "date": "Jun 24 \u2022 09:23 PM"
-    },
-    {
         "headline": "This year\u2019s Prime Day deals on Apple products are the best I\u2019ve seen",
-        "summary": "Amazon Prime Day features significant discounts on various Apple products. Apple Watch Series 11 and AirPods Pro 3 have reached new low prices. These deals are among the best ever seen for Apple items during Prime Day.",
+        "summary": "Prime Day offers unprecedented deals on Apple products. Apple Watch Series 11 hits a new low price. AirPods Pro 3 are discounted to $179.",
         "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
         "category": "TECH",
-        "date": "Jun 24 \u2022 09:23 PM"
+        "date": "Jun 24 \u2022 11:03 PM"
     },
     {
-        "headline": "VITURE XR Glasses Are 20% Off for Prime Day, Including Its Flagship Beast Glasses for Games and Movies",
-        "summary": "VITURE XR Glasses are 20% off during Amazon Prime Day. Deals include the flagship Beast Glasses, perfect for games and movies. Enjoy a portable, 175-inch simulated display for your favorite handheld consoles.",
-        "link": "https://www.ign.com/articles/viture-xr-glasses-deals-amazon-prime-day-sale",
-        "category": "GAMING",
-        "date": "Jun 24 \u2022 09:23 PM"
+        "headline": "The 16 best robot vacuum deals available during Prime Day",
+        "summary": "Prime Day features significant discounts on robot vacuums. Top retailers like Amazon, Best Buy, and Walmart are participating. It's an ideal time to buy a robot vacuum at a reduced price.",
+        "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+        "category": "TECH",
+        "date": "Jun 24 \u2022 11:03 PM"
     },
     {
-        "headline": "Dungeon Crawler Carl T-Shirts Are 30% off at Amazon for Prime Day Today",
-        "summary": "Dungeon Crawler Carl T-shirts are 30% off on Amazon for Prime Day. The popular book series has expanded into a full merchandise franchise. Fans can grab graphic tees inspired by the hit Dungeon Crawler Carl universe.",
-        "link": "https://www.ign.com/articles/dungeon-crawler-carl-t-shirt-sale-at-amazon-prime-day-2026",
-        "category": "GAMING",
-        "date": "Jun 24 \u2022 09:23 PM"
+        "headline": "Charlie Kirk\u2019s legacy is a 30-year sentence for moving zines",
+        "summary": "Charlie Kirk's death sparks a crackdown on free speech. The Trump administration targets 'antifa' in response. Eight Texans face severe sentences for moving zines.",
+        "link": "https://www.theverge.com/policy/956404/prairieland-sentencing-zines-trump-antifa",
+        "category": "TECH",
+        "date": "Jun 24 \u2022 11:03 PM"
     },
     {
-        "headline": "I Tracked Down All of the Best Board Game Deals for Amazon Prime Day",
-        "summary": "Discover a curated list of the best board game deals for Amazon Prime Day. Top picks feature genuinely fun games with significant discounts. Find great savings to expand your board game collection.",
-        "link": "https://www.ign.com/articles/best-board-game-deals-amazon-prime-day-2026",
-        "category": "GAMING",
-        "date": "Jun 24 \u2022 09:23 PM"
+        "headline": "Microsoft introduces cheaper Surface devices with half the memory",
+        "summary": "Microsoft launches more affordable 12-inch Surface Pro and 13-inch Surface Laptop. New models feature 8GB RAM, half the memory of standard versions. Prices start at $849 for Surface Pro and $949 for Surface Laptop.",
+        "link": "https://www.theverge.com/tech/956504/microsoft-surface-pro-laptop-ram",
+        "category": "TECH",
+        "date": "Jun 24 \u2022 11:03 PM"
     },
     {
-        "headline": "Save Up to $1,300 on Speediance's Gym Monster All-In-One Home Gym Series for Amazon Prime Day",
-        "summary": "Save up to $1,300 on Speediance's Gym Monster all-in-one home gym series. The offer is available during Amazon Prime Day. Upgrade your fitness setup with these substantial discounts.",
-        "link": "https://www.ign.com/articles/save-big-on-the-speediance-gym-monster-2-for-amazon-prime-day",
+        "headline": "Save $100 Off the BowFlex SelectTech Adjustable Dumbbells for Amazon Prime Day",
+        "summary": "BowFlex SelectTech Adjustable Dumbbells are $100 off. This Prime Day deal features a gold-standard fitness product. Grab these highly-rated adjustable weights now.",
+        "link": "https://www.ign.com/articles/bowflex-selecttech-adjustable-dumbbell-deal-amazon-prime-day-sale",
         "category": "GAMING",
-        "date": "Jun 24 \u2022 09:23 PM"
+        "date": "Jun 24 \u2022 11:03 PM"
+    },
+    {
+        "headline": "GTA 6 May Be Borrowing a Major Mechanic from Red Dead Redemption 2",
+        "summary": "Grand Theft Auto 6 might adopt a significant mechanic from Red Dead Redemption 2. This potential feature could divide GTA fans. The rumored mechanic's impact on gameplay is yet to be seen.",
+        "link": "https://www.ign.com/articles/gta-6-may-be-borrowing-a-major-mechanic-from-red-dead-redemption-2",
+        "category": "GAMING",
+        "date": "Jun 24 \u2022 11:03 PM"
+    },
+    {
+        "headline": "Save $100 Off the BowFlex Results Series SelectTech Dumbbells for Amazon Prime Day",
+        "summary": "Save $100 on BowFlex Results Series SelectTech Dumbbells this Prime Day. Achieve fitness goals with these discounted adjustable weights. Don't miss this opportunity to 'get swole'.",
+        "link": "https://www.ign.com/articles/best-bowflex-selecttech-adjustable-dumbbell-deal-amazon-prime-day-sale",
+        "category": "GAMING",
+        "date": "Jun 24 \u2022 11:03 PM"
+    },
+    {
+        "headline": "The Project Hail Mary 4K UHD Preorder Price Drops to a New Low for Amazon Prime Day",
+        "summary": "Project Hail Mary 4K UHD preorder price hits a new low. This Prime Day deal makes the film even more affordable. Secure your copy despite the lack of a release date.",
+        "link": "https://www.ign.com/articles/project-hail-mary-4k-uhd-preorder-deal-for-amazon-prime-day-2026",
+        "category": "GAMING",
+        "date": "Jun 24 \u2022 11:03 PM"
+    },
+    {
+        "headline": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
+        "summary": "The UK experienced its hottest June day ever. Temperatures reached 36.1C in Hampshire. Heat records were shattered across southern England.",
+        "link": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jun 24 \u2022 11:03 PM"
     },
     {
         "headline": "Why this heatwave feels worse than the last one",
-        "summary": "Current heatwave is perceived as more uncomfortable than previous ones. A combination of factors contributes to this increased feeling of discomfort. Simon King explains why this heatwave feels particularly bad.",
+        "summary": "Current heatwave feels more uncomfortable than previous ones. Various factors contribute to the heightened discomfort. Simon King explains the reasons behind this perceived difference.",
         "link": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 24 \u2022 09:23 PM"
+        "date": "Jun 24 \u2022 11:03 PM"
     },
     {
         "headline": "Babies and mothers died after 'systemic and sustained' failings, largest NHS maternity review finds",
-        "summary": "Largest NHS maternity review reveals \"systemic and sustained\" failings led to deaths. The Donna Ockenden report found a \"bullying and toxic culture\" within services. Serious deficiencies in care resulted in the deaths of mothers and babies.",
+        "summary": "Largest NHS maternity review uncovers systemic and sustained failings. Numerous babies and mothers died due to these issues. The review also identifies a 'bullying and toxic culture'.",
         "link": "https://www.bbc.co.uk/news/articles/c1kyw24elv7o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 24 \u2022 09:23 PM"
+        "date": "Jun 24 \u2022 11:03 PM"
     },
     {
         "headline": "'From excitement to emptiness': Families affected by largest NHS maternity scandal tell their stories",
-        "summary": "Families affected by the biggest NHS maternity scandal share their stories. Their experiences highlight the devastating impact of the systemic failures. Accounts vividly describe the journey \"from excitement to emptiness.\"",
+        "summary": "Families share heartbreaking stories from the NHS maternity scandal. They describe a journey 'from excitement to emptiness'. The article details their experiences in the biggest scandal of its kind.",
         "link": "https://www.bbc.co.uk/news/articles/cgepllq9npvo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 24 \u2022 09:23 PM"
-    },
-    {
-        "headline": "King meets women's cricket team that is not allowed to exist",
-        "summary": "King Charles met with members of the Afghan women's cricket team. The team is currently prohibited from playing official games. The King's meeting showed support for the female athletes.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gykxdn6gwo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jun 24 \u2022 09:23 PM"
+        "date": "Jun 24 \u2022 11:03 PM"
     }
 ]
