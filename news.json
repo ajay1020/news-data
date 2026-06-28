@@ -1,86 +1,86 @@
 [
     {
+        "headline": "China claims the world's fastest supercomputer",
+        "summary": "China's LineShine supercomputer has reclaimed the world's fastest title, surpassing El Capitan. This marks China's first time at the top since 2018. The achievement comes despite strict US trade restrictions on computing components.",
+        "link": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
+        "category": "TECH",
+        "date": "Jun 28 \u2022 07:20 PM"
+    },
+    {
+        "headline": "The Cube is Jim Henson's little-known proto-Black Mirror masterpiece",
+        "summary": "Jim Henson's 1969 teleplay, \"The Cube,\" is lauded as a mind-bending, proto-Black Mirror work. Produced for NBC's \"Experiment in Television,\" it's a rare Muppet-less production. The story delves into mature and unusual subject matter.",
+        "link": "https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review",
+        "category": "TECH",
+        "date": "Jun 28 \u2022 07:20 PM"
+    },
+    {
         "headline": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-        "summary": "ChatGPT logs were used as evidence in an arson trial. Jonathan Rinderknecht faces charges for a deadly LA wildfire. Prosecutors cited AI conversations alongside other digital evidence.",
+        "summary": "Prosecutors presented ChatGPT logs as evidence in the arson trial for the deadly Palisades wildfire. Jonathan Rinderknecht faced charges for setting the 2025 New Year's Day fire. Evidence also included iPhone location data, security footage, and witness testimony.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
         "category": "TECH",
-        "date": "Jun 28 \u2022 05:12 PM"
+        "date": "Jun 28 \u2022 07:20 PM"
     },
     {
         "headline": "Nest's quest to fix your thermostat",
-        "summary": "Nest's origin story is a classic tech myth. Tony Fadell, iPhone creator, returned to innovate thermostats. The company aimed to reinvent home climate control.",
+        "summary": "The article details the founding story of Nest by ex-Apple product maker Tony Fadell. Fadell, known for the iPhone, aimed to revolutionize the thermostat market. Nest's journey is presented as a classic tech myth of innovation.",
         "link": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
         "category": "TECH",
-        "date": "Jun 28 \u2022 05:12 PM"
+        "date": "Jun 28 \u2022 07:20 PM"
     },
     {
-        "headline": "Ad-free streaming is a luxury now",
-        "summary": "Ad-free streaming has evolved into a premium offering. Streaming services once offered an ad-free alternative to cable. The industry trend now pushes users towards ad-supported tiers.",
-        "link": "https://www.theverge.com/column/958379/streaming-industry-ads",
-        "category": "TECH",
-        "date": "Jun 28 \u2022 05:12 PM"
-    },
-    {
-        "headline": "TMD's keyless bike lock is a $280 solution to a $60 problem",
-        "summary": "TMD introduces a new $280 keyless smart bike lock. It aims to justify high cost with unique features and certification. The lock originates from a company previously securing ATMs.",
-        "link": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
-        "category": "TECH",
-        "date": "Jun 28 \u2022 05:12 PM"
+        "headline": "Supergirl Fails to Take Flight With $68 Million Box Office Debut",
+        "summary": "Supergirl suffered a disappointing opening weekend at the global box office. The film debuted with a total of $68 million. This figure indicates a 'crash landing' for the highly anticipated movie.",
+        "link": "https://www.ign.com/articles/supergirl-fails-to-take-flight-with-68-million-box-office-debut",
+        "category": "GAMING",
+        "date": "Jun 28 \u2022 07:20 PM"
     },
     {
         "headline": "Cyberpunk: Edgerunners 2 Sets Fall 2026 Release With First Look at 4 New Characters",
-        "summary": "Cyberpunk: Edgerunners 2 is slated for a Fall 2026 release. Netflix revealed initial details for the anime sequel. Four new characters have been unveiled.",
+        "summary": "Netflix announced \"Cyberpunk: Edgerunners 2\" is set for a Fall 2026 release. The anime sequel series revealed its first look at four new characters. Character details for the series were also provided.",
         "link": "https://www.ign.com/articles/cyberpunk-edgerunners-2-sets-fall-2026-release-with-first-look-at-4-new-characters",
         "category": "GAMING",
-        "date": "Jun 28 \u2022 05:12 PM"
+        "date": "Jun 28 \u2022 07:20 PM"
     },
     {
         "headline": "The Invincible VS Devs Would Love a Mortal Kombat Crossover",
-        "summary": "Invincible VS developers are open to diverse collaborations. They expressed interest in a Mortal Kombat crossover. Future updates could include new IPs and genres.",
+        "summary": "Developers of \"Invincible VS\" are open to collaborations with other gaming IPs and genres. They specifically expressed interest in a crossover with the \"Mortal Kombat\" franchise. The team welcomes potential characters from the iconic fighting game.",
         "link": "https://www.ign.com/articles/invincible-vs-devs-are-really-interested-in-a-mortal-kombat-crossover",
         "category": "GAMING",
-        "date": "Jun 28 \u2022 05:12 PM"
+        "date": "Jun 28 \u2022 07:20 PM"
     },
     {
         "headline": "GTA 6 Scalpers Are Finding Buyers on eBay Despite Rockstar's Commitment to a Digital Release",
-        "summary": "GTA 6 scalpers are selling pre-orders on eBay. Buyers are paying extra despite no physical release. Rockstar Games has committed to a digital-only launch.",
+        "summary": "Scalpers are selling \"GTA 6\" pre-order copies on eBay, finding willing buyers. This occurs despite Rockstar Games confirming a digital-only release for the game. Fans are paying extra even though there's no official physical product.",
         "link": "https://www.ign.com/articles/gta-6-scalpers-are-finding-buyers-on-ebay-despite-rockstars-commitment-to-a-digital-release",
         "category": "GAMING",
-        "date": "Jun 28 \u2022 05:12 PM"
-    },
-    {
-        "headline": "Street Fighter 6 Devs Have No Current Plans to Make Any Major Adjustments to System Mechanics | Evo 2026",
-        "summary": "Street Fighter 6 developers won't adjust core mechanics soon. This decision was announced at Evo 2026. Director Nakayama and Producer Matsumoto discussed the game's future.",
-        "link": "https://www.ign.com/articles/street-fighter-6-devs-have-no-current-plans-to-make-any-major-adjustments-to-system-mechanics-evo-2026",
-        "category": "GAMING",
-        "date": "Jun 28 \u2022 05:12 PM"
+        "date": "Jun 28 \u2022 07:20 PM"
     },
     {
         "headline": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-        "summary": "Two boys were rescued from Venezuela earthquake rubble. Rescuers spent hours digging by hand. Many residents are still searching amidst delayed heavy machinery.",
+        "summary": "Two boys were miraculously rescued from earthquake rubble in Venezuela after days. Rescuers spent six hours digging to free one boy, working by hand. Many residents are still searching for survivors, awaiting heavy machinery.",
         "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 28 \u2022 05:12 PM"
+        "date": "Jun 28 \u2022 07:20 PM"
+    },
+    {
+        "headline": "England captain Ben Stokes says retiring from international cricket 'best thing' for him",
+        "summary": "England captain Ben Stokes announced his retirement from international cricket. He stated it was the \"best thing\" for him due to feeling \"burned out.\" The decision came in the build-up to the summer season.",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/c3dymxr4187o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jun 28 \u2022 07:20 PM"
     },
     {
         "headline": "Eleven killed after plane carrying skydivers crashes in eastern France",
-        "summary": "A plane carrying skydivers crashed in eastern France. Eleven people, including the pilot, died in the incident. Local officials confirmed the fatalities.",
+        "summary": "A plane carrying skydivers crashed in eastern France, killing eleven people. The victims included the pilot and 10 passengers. Five of the passengers were first-time parachutists.",
         "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 28 \u2022 05:12 PM"
+        "date": "Jun 28 \u2022 07:20 PM"
     },
     {
         "headline": "Senior Labour figures say party is united behind Andy Burnham",
-        "summary": "Senior Labour figures claim unity behind Andy Burnham. Lucy Powell and Steve Reed voiced support. Labour MPs reportedly favor Burnham's coronation over a leadership contest.",
+        "summary": "Senior Labour figures, including Lucy Powell and Steve Reed, declared unity behind Andy Burnham. They suggest Labour MPs are backing a \"coronation\" for Burnham. This indicates a preference for him to lead without a contest.",
         "link": "https://www.bbc.co.uk/news/articles/cn0vkle1q5ro?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 28 \u2022 05:12 PM"
-    },
-    {
-        "headline": "How Bellingham became Tuchel's most important player",
-        "summary": "Jude Bellingham has become key to Thomas Tuchel's strategy. His starting position was initially debated. Bellingham is now integral to the England team's play.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jun 28 \u2022 05:12 PM"
+        "date": "Jun 28 \u2022 07:20 PM"
     }
 ]
