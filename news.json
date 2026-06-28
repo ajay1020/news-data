@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Nest's quest to fix your thermostat",
+        "summary": "Tony Fadell, iPhone co-creator, founded Nest to revolutionize home thermostats. Nest's origin story is a classic tech myth. He was inspired to innovate after a personal experience.",
+        "link": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
+        "category": "TECH",
+        "date": "Jun 28 \u2022 01:46 PM"
+    },
+    {
+        "headline": "Ad-free streaming is a luxury now",
+        "summary": "Streaming once offered an ad-free escape from traditional cable TV. Ad-free streaming has now become a premium, luxury feature. The industry shift includes more widespread ad-supported tiers.",
+        "link": "https://www.theverge.com/column/958379/streaming-industry-ads",
+        "category": "TECH",
+        "date": "Jun 28 \u2022 01:46 PM"
+    },
+    {
         "headline": "TMD\u2019s keyless bike lock is a $280 solution to a $60 problem",
-        "summary": "TMD launched a new 'smart' keyless bike lock at a hefty $280 price point. Reviewers question the value, calling it an expensive fix for a simpler issue. Despite the cost, it carries an ART-2 certification for insurance purposes.",
+        "summary": "The TMD Chain Lock is a 'smart' keyless bike security solution. Priced at $280, it's significantly more expensive than standard locks. The review questions if its features justify the high cost.",
         "link": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
         "category": "TECH",
-        "date": "Jun 28 \u2022 10:28 AM"
+        "date": "Jun 28 \u2022 01:46 PM"
     },
     {
         "headline": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
-        "summary": "Teenage Engineering rolled out OS 2.5 for its EP-133 KO II sampler, adding major updates. New features include USB audio, a lo-fi mode with selectable sample rates, and sample reverse. The update also brings an arpeggiator, auto-chopping, and extended sample length.",
+        "summary": "Teenage Engineering released OS 2.5 for its EP-133 KO II sampler. The update adds USB audio, selectable lo-fi sample rates, and sample reverse. New features significantly enhance the sampler's capabilities and flexibility.",
         "link": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
         "category": "TECH",
-        "date": "Jun 28 \u2022 10:28 AM"
-    },
-    {
-        "headline": "Margaret Atwood says the problem with AI is 'garbage in, garbage out'",
-        "summary": "Author Margaret Atwood commented on AI at the Babell Literary Festival in Portugal. She stated the core issue with AI is 'garbage in, garbage out.' Atwood also revealed she has personally experimented with AI tools.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-        "category": "TECH",
-        "date": "Jun 28 \u2022 10:28 AM"
-    },
-    {
-        "headline": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
-        "summary": "Apple is seeking an exception from the US government to purchase RAM chips from CXMT. CXMT is a Chinese supplier blacklisted by the Pentagon over alleged ties to China's military. The move aims to alleviate supply chain pressure caused by skyrocketing memory prices.",
-        "link": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
-        "category": "TECH",
-        "date": "Jun 28 \u2022 10:28 AM"
+        "date": "Jun 28 \u2022 01:46 PM"
     },
     {
         "headline": "The Invincible VS Devs Would Love a Mortal Kombat Crossover",
-        "summary": "The developers behind Invincible VS are openly interested in future collaborations. They specifically expressed enthusiasm for a potential crossover with the Mortal Kombat franchise. The team is keen on integrating characters from diverse genres and IPs.",
+        "summary": "Developers behind Invincible VS are open to various genre and IP collaborations. They've expressed strong interest in a potential Mortal Kombat crossover. This could bring iconic fighting game characters to their universe.",
         "link": "https://www.ign.com/articles/invincible-vs-devs-are-really-interested-in-a-mortal-kombat-crossover",
         "category": "GAMING",
-        "date": "Jun 28 \u2022 10:28 AM"
+        "date": "Jun 28 \u2022 01:46 PM"
     },
     {
         "headline": "GTA 6 Scalpers Are Finding Buyers on eBay Despite Rockstar's Commitment to a Digital Release",
-        "summary": "Scalpers are selling GTA 6 pre-order copies on eBay for inflated prices. Buyers are paying extra even though Rockstar Games confirmed a digital-only release. This trend highlights the ongoing demand despite the lack of physical copies.",
+        "summary": "eBay scalpers are selling 'pre-order' copies of GTA 6 for inflated prices. Buyers are paying extra despite Rockstar's confirmed digital-only release. These scalped listings offer no practical benefit to consumers.",
         "link": "https://www.ign.com/articles/gta-6-scalpers-are-finding-buyers-on-ebay-despite-rockstars-commitment-to-a-digital-release",
         "category": "GAMING",
-        "date": "Jun 28 \u2022 10:28 AM"
+        "date": "Jun 28 \u2022 01:46 PM"
     },
     {
-        "headline": "Street Fighter 6 Devs Have No Current Plans to Make Any Major Adjustments to System Mechanics",
-        "summary": "Street Fighter 6 developers confirmed no major changes to the game's system mechanics are currently planned. Director Nakayama and Producer Matsumoto discussed the game's future at Evo 2026. Their focus appears to be on refining the existing gameplay experience.",
+        "headline": "Street Fighter 6 Devs Have No Current Plans to Make Any Major Adjustments to System Mechanics | Evo 2026",
+        "summary": "Street Fighter 6 developers confirmed no major changes to system mechanics are planned. Director Nakayama and Producer Matsumoto shared updates at Evo 2026. The team remains focused on the game's current design and future content.",
         "link": "https://www.ign.com/articles/street-fighter-6-devs-have-no-current-plans-to-make-any-major-adjustments-to-system-mechanics-evo-2026",
         "category": "GAMING",
-        "date": "Jun 28 \u2022 10:28 AM"
+        "date": "Jun 28 \u2022 01:46 PM"
     },
     {
         "headline": "Supergirl Director Credits James Gunn for Helping Choose Song for Much-Discussed Slow-Motion Fight Scene",
-        "summary": "Supergirl director Craig Gillespie credited James Gunn for his role in selecting a key song. Gunn helped choose the music for a slow-motion fight scene that went viral. The scene's musical choice generated significant buzz on social media platforms.",
+        "summary": "Director Craig Gillespie credits DC Studios co-CEO James Gunn for song selection. The chosen song was used in a widely discussed slow-motion Supergirl fight scene. The sequence generated significant buzz across social media platforms.",
         "link": "https://www.ign.com/articles/supergirl-director-credits-james-gunn-for-helping-choose-song-for-much-discussed-slow-motion-fight-scene",
         "category": "GAMING",
-        "date": "Jun 28 \u2022 10:28 AM"
+        "date": "Jun 28 \u2022 01:46 PM"
     },
     {
-        "headline": "Knockouts are here - what is England's path to the final?",
-        "summary": "England has successfully qualified for the knockout stages of a major tournament. BBC Sport is analyzing the team's potential route to reach the final. The article outlines the upcoming challenges and strategic needs for England's advancement.",
+        "headline": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+        "summary": "Two young boys were successfully rescued from earthquake rubble in Venezuela. Rescuers spent six hours meticulously digging to free one child. Many residents are still searching by hand, awaiting heavy machinery.",
+        "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jun 28 \u2022 01:46 PM"
+    },
+    {
+        "headline": "I hear my son crying beneath the rubble, says Venezuela earthquake survivor",
+        "summary": "Andreina Valerio, a Venezuelan earthquake survivor, hears her son crying beneath collapsed debris. Her son, partner, and in-laws are trapped under a fallen building. Families desperately await help and heavy equipment to arrive.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg4zz90wk7o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jun 28 \u2022 01:46 PM"
+    },
+    {
+        "headline": "Eleven killed after plane carrying skydivers crashes in eastern France",
+        "summary": "A plane transporting skydivers crashed tragically in eastern France. The incident resulted in the deaths of eleven individuals. Local officials confirmed the pilot and 10 passengers perished.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jun 28 \u2022 01:46 PM"
+    },
+    {
+        "headline": "World Cup knockouts are here - what is England's path to the final?",
+        "summary": "England has successfully qualified for the World Cup knockout stages. BBC Sport is analyzing their potential route to the tournament final. Fans are eagerly anticipating their journey through the competition.",
         "link": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 28 \u2022 10:28 AM"
-    },
-    {
-        "headline": "Families calling out to loved ones trapped in rubble by Venezuela quakes",
-        "summary": "Devastating earthquakes have left many people trapped under rubble in Venezuela. Families in La Guaira are keeping a desperate vigil, searching for missing relatives. Rescue efforts face immense challenges in moving heavy debris and locating survivors.",
-        "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jun 28 \u2022 10:28 AM"
-    },
-    {
-        "headline": "Harry reconsiders bringing Meghan and children on UK trip",
-        "summary": "Prince Harry is reportedly rethinking his plan to bring Meghan and their children to the UK. This reconsideration comes after his request for police protection was denied. The family's trip was scheduled just days after the security decision.",
-        "link": "https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jun 28 \u2022 10:28 AM"
-    },
-    {
-        "headline": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-        "summary": "The US and Iran have engaged in a series of retaliatory military strikes. Iran claims to have targeted US infrastructure in Kuwait and Bahrain. Both nations are accusing each other of violating an existing ceasefire agreement.",
-        "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jun 28 \u2022 10:28 AM"
+        "date": "Jun 28 \u2022 01:46 PM"
     }
 ]
