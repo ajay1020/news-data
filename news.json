@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Meta adds paywall and 'rate limits' to smart glasses",
+        "summary": "Meta's smart glasses now feature new 'rate limits'. Users face a $20 monthly fee for unlimited AI access. Conversation Focus is capped at three hours without subscription.",
+        "link": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+        "category": "TECH",
+        "date": "Jul 01 \u2022 03:56 AM"
+    },
+    {
+        "headline": "Anthropic's long-sidelined Fable 5 is greenlit to return",
+        "summary": "Anthropic's Claude Fable 5 is returning online globally. The AI was sidelined after weeks of Trump administration negotiations. Access will be restored across Claude, AWS, Google Cloud, and Microsoft.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+        "category": "TECH",
+        "date": "Jul 01 \u2022 03:56 AM"
+    },
+    {
         "headline": "Dish files for bankruptcy, but not shutting down",
-        "summary": "Dish, operator of Dish TV and Sling TV, has filed for Chapter 11 bankruptcy. This move allows the EchoStar-owned company to wind down its wireless operations. The bankruptcy follows unforeseen delays in selling 5G spectrum.",
+        "summary": "Dish, owner of Dish TV and Sling TV, filed for Chapter 11 bankruptcy. This allows winding down wireless operations after 5G spectrum sale delays. Despite bankruptcy, Dish TV and Sling TV services will continue.",
         "link": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
         "category": "TECH",
-        "date": "Jun 30 \u2022 11:13 PM"
+        "date": "Jul 01 \u2022 03:56 AM"
     },
     {
         "headline": "Amazon fined $2.25 million for failing to help identity theft victims",
-        "summary": "Amazon has been fined $2.25 million by the FTC. The fine addresses claims the company failed to assist identity theft victims. Amazon allegedly refused to provide information on fraudulent purchases.",
+        "summary": "Amazon was fined $2.25 million by the FTC. The company failed to help customers who fell victim to identity theft. Amazon allegedly refused to provide details on fraudulent purchases.",
         "link": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine",
         "category": "TECH",
-        "date": "Jun 30 \u2022 11:13 PM"
+        "date": "Jul 01 \u2022 03:56 AM"
     },
     {
-        "headline": "Acer's Swift Go 16 is a lot of laptop for $900",
-        "summary": "The Acer Swift Go 16 AI laptop is on sale for $899.99 at Best Buy. This represents a steep discount from its original $1,549.99 price. It offers strong value given current high memory and storage costs.",
-        "link": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
-        "category": "TECH",
-        "date": "Jun 30 \u2022 11:13 PM"
-    },
-    {
-        "headline": "Google's NotebookLM can sum up your research in a TikTok-style clip",
-        "summary": "Google's NotebookLM is adding new TikTok-style AI video summaries. Subscribers to Google AI Ultra and Pro can generate 60-second vertical AI clips. These clips are based on source materials uploaded to the app.",
-        "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "category": "TECH",
-        "date": "Jun 30 \u2022 11:13 PM"
-    },
-    {
-        "headline": "Civilization 7 Review Update",
-        "summary": "A year and a half of updates have brought meaningful improvements to Civilization 7. The review update highlights advancements made to the game. However, a few steps backward were also noted.",
-        "link": "https://www.ign.com/articles/civilization-7-review-update",
+        "headline": "Reacher Season 4 Returns in August, Neagley Spin-Off Lands the Following Month",
+        "summary": "Reacher Season 4 premieres on Prime Video in August. A spin-off series focusing on Neagley will launch the following month. Premiere dates are now set for the ex-MP MVPs.",
+        "link": "https://www.ign.com/articles/reacher-season-4-returns-in-august-neagley-spin-off-lands-the-following-month",
         "category": "GAMING",
-        "date": "Jun 30 \u2022 11:13 PM"
+        "date": "Jul 01 \u2022 03:56 AM"
     },
     {
-        "headline": "Everything Coming to Disney+ in July",
-        "summary": "This article details all new content arriving on Disney+ in July. Viewers can anticipate a fresh lineup of shows and movies. It provides a comprehensive list of upcoming releases.",
-        "link": "https://www.ign.com/articles/whats-new-on-disney-plus-july-2026",
+        "headline": "The New Rick & Morty GLD Jewelry Drop Is Here and the Pickle Rick Pendant Already Sold Out",
+        "summary": "A new Rick & Morty GLD Jewelry collection has been released. The popular Pickle Rick pendant quickly sold out. Fans eagerly anticipated this new merchandise drop.",
+        "link": "https://www.ign.com/articles/the-new-rick-morty-gld-jewelry-drop-is-here-and-the-pickle-pendant-is-already-sold",
         "category": "GAMING",
-        "date": "Jun 30 \u2022 11:13 PM"
+        "date": "Jul 01 \u2022 03:56 AM"
     },
     {
-        "headline": "Daigo Says 'Random' State of Street Fighter 6 Is Good for Casuals, but Makes It Hard to Crown a GOAT",
-        "summary": "Daigo Umehara comments on the current state of Street Fighter 6. He believes the game's 'random' style benefits casual players. However, this randomness makes it challenging to identify the greatest player.",
-        "link": "https://www.ign.com/articles/daigo-says-random-state-of-street-fighter-6-is-good-for-casuals-but-makes-it-hard-to-crown-a-goat",
+        "headline": "Ex-PlayStation Boss Defends PC Strategy as Sony Pivots Away from Multiplatform Releases",
+        "summary": "Former SIEA President Shawn Layden defended PlayStation's past PC strategy. This comes as Sony pivots away from multiplatform PC releases. Layden explained the rationale behind earlier decisions.",
+        "link": "https://www.ign.com/articles/ex-playstation-boss-defends-pc-strategy-as-sony-pivots-away-from-multiplatform-releases",
         "category": "GAMING",
-        "date": "Jun 30 \u2022 11:13 PM"
+        "date": "Jul 01 \u2022 03:56 AM"
     },
     {
-        "headline": "Christopher Nolan's The Odyssey Gets Official Roblox Tie-In Game",
-        "summary": "Christopher Nolan's 'The Odyssey' now has an official Roblox tie-in game. Players can experience this new game on the Roblox platform. The tie-in is available for play right now.",
-        "link": "https://www.ign.com/articles/christopher-nolans-the-odyssey-gets-official-roblox-tie-in-game",
+        "headline": "Everything Coming to Amazon Prime Video in July",
+        "summary": "Amazon Prime Video announces its content lineup for July. New movies, series, and shows will be added. Subscribers can look forward to fresh entertainment options.",
+        "link": "https://www.ign.com/articles/whats-new-on-amazon-prime-video-july-2026",
         "category": "GAMING",
-        "date": "Jun 30 \u2022 11:13 PM"
+        "date": "Jul 01 \u2022 03:56 AM"
     },
     {
         "headline": "Starmer trims budgets to fund extra \u00a315bn for defence",
-        "summary": "Keir Starmer plans to allocate an additional \u00a315 billion to UK defence. This funding will be secured by trimming other existing budgets. The plan outlines future spending on equipping the armed forces.",
+        "summary": "Keir Starmer plans to boost UK defense spending by \u00a315bn. Other departmental budgets will be trimmed to fund this increase. The plan details future spending on UK armed forces.",
         "link": "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 30 \u2022 11:13 PM"
+        "date": "Jul 01 \u2022 03:56 AM"
     },
     {
         "headline": "Why Starmer's defence plan leaves next PM with \u00a34.7bn headache",
-        "summary": "Keir Starmer's announced defence spending creates a future financial challenge. His plan leaves the next Prime Minister with a \u00a34.7 billion issue. Defence spending remains a tricky issue for the incoming administration.",
+        "summary": "Keir Starmer's defense plan includes significant spending increases. This creates a projected \u00a34.7bn financial challenge. The issue will be a major concern for the incoming Prime Minister.",
         "link": "https://www.bbc.co.uk/news/articles/c9q250511neo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 30 \u2022 11:13 PM"
+        "date": "Jul 01 \u2022 03:56 AM"
     },
     {
-        "headline": "Patient tests negative after Ebola alert at Glasgow hospital",
-        "summary": "A patient at Queen Elizabeth University Hospital in Glasgow triggered an Ebola alert. Precautionary measures were taken upon the patient's admission. Subsequent tests confirmed the patient tested negative for Ebola.",
-        "link": "https://www.bbc.co.uk/news/articles/cly7z8ey088o?at_medium=RSS&at_campaign=rss",
+        "headline": "Plea for households to read energy meter as prices rise",
+        "summary": "Household energy prices have increased by 13% annually. Ofgem's latest price cap is now in effect. Consumers are urged to submit accurate meter readings.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 30 \u2022 11:13 PM"
+        "date": "Jul 01 \u2022 03:56 AM"
     },
     {
-        "headline": "US Supreme Court upholds birthright citizenship in blow to Trump",
-        "summary": "The US Supreme Court has affirmed birthright citizenship. This ruling is a significant setback for Donald Trump's immigration policies. Civil rights groups have welcomed the Supreme Court's decision.",
-        "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+        "headline": "Why Gen Z are planning for life without a state pension",
+        "summary": "Many younger people doubt the future existence of the state pension. Gen Z is actively planning for retirement without relying on it. This reflects a growing concern about future social security.",
+        "link": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jun 30 \u2022 11:13 PM"
+        "date": "Jul 01 \u2022 03:56 AM"
     }
 ]
