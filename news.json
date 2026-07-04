@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Flatbush Zombies\u2019 Erick the Architect misses his BlackBerry keyboard",
+        "summary": "Erick the Architect, producer for Flatbush Zombies, reflects on his extensive career. He's collaborated with major artists like Joey Bada$$ and James Blake. Surprisingly, he still pines for the physical keyboard of his old BlackBerry.",
+        "link": "https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview",
+        "category": "TECH",
+        "date": "Jul 04 \u2022 03:05 PM"
+    },
+    {
+        "headline": "Hey number pad lovers, this is a keyboard we can finally agree on",
+        "summary": "The Epomaker RT98, a new mechanical keyboard, has won over a numpad skeptic. It features a charming retro aesthetic and a unique CRT-like screen. The keyboard offers a great typing feel and VIA compatibility.",
+        "link": "https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review",
+        "category": "TECH",
+        "date": "Jul 04 \u2022 03:05 PM"
+    },
+    {
         "headline": "The square-ish phone that I wanted to love",
-        "summary": "The Ikko MindOne Pro is a delightfully small phone with a square screen. Its camera flips up for selfies and can even act as a partial stand. The unique design offers interesting functionality despite its quirks.",
+        "summary": "The Ikko MindOne Pro is a delightfully small phone with a distinctive square screen. Its innovative camera flips up, serving for selfies or as a convenient stand. Despite its unique appeal, the reviewer ultimately had reservations about the device.",
         "link": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
         "category": "TECH",
-        "date": "Jul 04 \u2022 01:26 PM"
+        "date": "Jul 04 \u2022 03:05 PM"
     },
     {
         "headline": "The fanfiction community is at war with AI \u2014 and itself",
-        "summary": "A new fanworks movement targets authors using generative AI, causing a rift in the community. Detection methods for AI-generated content are under scrutiny and may lead to false accusations. The debate highlights broad distaste for AI tools among fanfic writers.",
+        "summary": "A new movement seeks to detect and remove AI-generated fanworks, causing internal strife. Concerns are rising over the reliability and accuracy of current AI detection methods. The controversy risks falsely accusing human writers, sparking conflict within the community.",
         "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
         "category": "TECH",
-        "date": "Jul 04 \u2022 01:26 PM"
-    },
-    {
-        "headline": "Qi fan fan",
-        "summary": "Wireless Qi chargers with integrated fans genuinely impress after initial skepticism. The active cooling system keeps phones from overheating during charging. The Kuxiu D5 Qi2.2 dock effectively demonstrates this beneficial feature.",
-        "link": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
-        "category": "TECH",
-        "date": "Jul 04 \u2022 01:26 PM"
-    },
-    {
-        "headline": "Amazon updated 2023\u2019s Fire HD 10 tablet with 4GB of RAM",
-        "summary": "Amazon quietly updated its 2023 Fire HD 10 tablet, boosting its RAM. The 32GB version now ships with 4GB of RAM, an increase from the previous 3GB. This improvement offers better performance for the budget-minded tablet.",
-        "link": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
-        "category": "TECH",
-        "date": "Jul 04 \u2022 01:26 PM"
+        "date": "Jul 04 \u2022 03:05 PM"
     },
     {
         "headline": "The Devil\u2019s Rain Review",
-        "summary": "Severin Films releases a 4K version of the cult classic horror film, 'The Devil's Rain'. The review explores the movie's depiction of evil materializing. It's a must-see for fans of classic horror romps.",
+        "summary": "The cult classic horror film \"The Devil's Rain\" receives a new review for its 4K release. Severin Films has released the movie in stunning 4K quality. The review praises the film's depiction of evil within this horror romp.",
         "link": "https://www.ign.com/articles/the-devils-rain-review",
         "category": "GAMING",
-        "date": "Jul 04 \u2022 01:26 PM"
+        "date": "Jul 04 \u2022 03:05 PM"
     },
     {
         "headline": "Mr. Terrific TV Show in the Works With Pilot from The Sandman Alum",
-        "summary": "DC Studios is reportedly developing a TV show centered on superhero genius Mr. Terrific. A pilot episode is in the works, penned by an alum from 'The Sandman'. This spin-off will focus on Superman's brilliant side character.",
+        "summary": "DC Studios is reportedly developing a new TV show centered on the superhero genius Mr. Terrific. A pilot for the series is being crafted by an alum from the acclaimed show \"The Sandman.\" Mr. Terrific is a spin-off character from the Superman universe.",
         "link": "https://www.ign.com/articles/mr-terrific-tv-show-in-the-works-with-pilot-from-the-sandman-alum",
         "category": "GAMING",
-        "date": "Jul 04 \u2022 01:26 PM"
+        "date": "Jul 04 \u2022 03:05 PM"
     },
     {
         "headline": "Supergirl Reportedly Faced Creative Differences Between DC Studios and Craig Gillespie",
-        "summary": "The 'Supergirl' movie faced significant creative differences between DC Studios and director Craig Gillespie. Competing cuts of the film were reportedly tested. These issues arose just months before the movie's scheduled release.",
+        "summary": "Reports indicate creative clashes between DC Studios and director Craig Gillespie over the upcoming \"Supergirl\" film. James Gunn and Peter Safran reportedly tested competing cuts of the movie. These disagreements emerged just months before the film's scheduled release.",
         "link": "https://www.ign.com/articles/supergirl-reportedly-faced-creative-differences-between-dc-studios-and-craig-gillespie",
         "category": "GAMING",
-        "date": "Jul 04 \u2022 01:26 PM"
+        "date": "Jul 04 \u2022 03:05 PM"
     },
     {
         "headline": "Danganronpa 2x2 Delayed to Early 2027",
-        "summary": "Spike Chunsoft announced a significant delay for 'Danganronpa 2x2'. The game is now expected to launch in early 2027. Fans will have to wait longer for the anticipated title.",
+        "summary": "Spike Chunsoft has announced a significant delay for its upcoming title, \"Danganronpa 2x2.\" The game's release is now pushed back to early 2027. Fans will have to wait longer for the anticipated installment in the series.",
         "link": "https://www.ign.com/articles/danganronpa-2x2-delayed-to-early-2027",
         "category": "GAMING",
-        "date": "Jul 04 \u2022 01:26 PM"
+        "date": "Jul 04 \u2022 03:05 PM"
     },
     {
         "headline": "Pubs and police brace for England-Mexico 1am kick-off after Fifa U-turn",
-        "summary": "England's World Cup last-16 match against Mexico is scheduled for a 1 AM BST kick-off. Fifa reversed its decision to bring the game forward, maintaining the late time. Pubs and police are preparing for the unusual Monday morning start.",
+        "summary": "Fifa reversed its decision, scheduling England's World Cup tie against Mexico for 1 AM BST. Pubs and police are preparing for the unusual late-night kick-off time. The match is England's last-16 tie in the World Cup.",
         "link": "https://www.bbc.co.uk/news/articles/cy9r2x4pz1wo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 04 \u2022 01:26 PM"
+        "date": "Jul 04 \u2022 03:05 PM"
     },
     {
         "headline": "Dior dress and a man of honour: What we know about Taylor Swift and Travis Kelce's wedding",
-        "summary": "Taylor Swift and Travis Kelce reportedly tied the knot in New York on Friday. The wedding follows months of intense speculation about their plans. Details hint at a Dior dress and a special 'man of honour'.",
+        "summary": "Taylor Swift and Travis Kelce reportedly tied the knot in New York on Friday. Months of speculation preceded their rumored wedding. Details emerging include a Dior dress and a 'man of honour' in the ceremony.",
         "link": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 04 \u2022 01:26 PM"
+        "date": "Jul 04 \u2022 03:05 PM"
     },
     {
-        "headline": "Starmer tells of 'intensely personal' decision to quit and warns Burnham in first interview since resigning",
-        "summary": "Outgoing PM Starmer calls his decision to quit 'intensely personal' in a candid interview. He warned Andy Burnham in his first comments since resigning. Starmer described ending his political career as 'really tough'.",
-        "link": "https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&at_campaign=rss",
+        "headline": "Prince Harry will not be joined by Meghan and children on London trip",
+        "summary": "Prince Harry will travel to London alone, without Meghan and his children. The change in plans follows a decision regarding taxpayer-funded security. It's understood they will not receive public security protection during the trip.",
+        "link": "https://www.bbc.co.uk/news/articles/cr5jpzn2814o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 04 \u2022 01:26 PM"
+        "date": "Jul 04 \u2022 03:05 PM"
     },
     {
-        "headline": "The massive scramble behind the scenes before the new PM arrives",
-        "summary": "A significant 'bunfight for jobs' is underway in Whitehall as the new PM prepares to take office. Insiders describe a massive scramble for positions behind the scenes. MPs are vying for roles as Starmer gets ready to depart.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4g0n0p15xo?at_medium=RSS&at_campaign=rss",
+        "headline": "Ukraine hits major oil terminal in Russia's St Petersburg",
+        "summary": "Ukraine successfully targeted a significant oil terminal in St. Petersburg, Russia. President Zelensky stated the strike aimed at key infrastructure generating revenue for Russia's war effort. The attack marks a notable action against Russian energy facilities.",
+        "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 04 \u2022 01:26 PM"
+        "date": "Jul 04 \u2022 03:05 PM"
     }
 ]
