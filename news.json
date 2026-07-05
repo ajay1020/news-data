@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Vizio accidentally made the best dumb TV on the market",
+        "summary": "Vizio's 65-inch Mini LED Quantum TV is a surprising hit. It's the cheapest quantum-dot TV on the market, priced under $398. The review highlights Vizio's return to form since its 2024 Walmart acquisition.",
+        "link": "https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review",
+        "category": "TECH",
+        "date": "Jul 05 \u2022 01:39 PM"
+    },
+    {
+        "headline": "Xbox is a disaster",
+        "summary": "A newsletter argues Xbox is currently in a 'bleak state.' It analyzes Microsoft's gaming division and the industry's challenges. This article is part of a weekly tech newsletter called The Stepback.",
+        "link": "https://www.theverge.com/column/960600/xbox-is-a-disaster",
+        "category": "TECH",
+        "date": "Jul 05 \u2022 01:39 PM"
+    },
+    {
         "headline": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
-        "summary": "NASA launched an emergency mission to save its Swift Observatory. The 20-year-old satellite is at risk of crashing to Earth due to solar storms. Katalyst Space Technologies' Link spacecraft aims to intercept and boost its orbit.",
+        "summary": "The Swift Observatory, launched in 2004, is in danger of re-entering Earth's atmosphere. Recent solar storms have lowered its orbit, risking a crash this year. NASA launched a mission with Katalyst Space Technologies to intercept and save the observatory.",
         "link": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
         "category": "TECH",
-        "date": "Jul 05 \u2022 10:13 AM"
+        "date": "Jul 05 \u2022 01:39 PM"
     },
     {
         "headline": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
-        "summary": "The US Department of Energy deleted ~6,000 pages on energy conservation. This occurred amidst a historic US heatwave. It follows Republican criticism of AC temperature recommendations.",
+        "summary": "The US Department of Energy deleted roughly 6,000 pages on energy conservation. This coincided with a historic US heatwave and calls for reduced AC use. The deletion followed Republican backlash against a mayor's energy-saving advice.",
         "link": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
         "category": "TECH",
-        "date": "Jul 05 \u2022 10:13 AM"
-    },
-    {
-        "headline": "Matic\u2019s robot vacuum is getting a $250 price hike in September",
-        "summary": "The popular Matic robot vacuum will see a significant price increase. Its cost will jump by $250 to $1,495 on September 9th. The company states the new price reflects production costs.",
-        "link": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
-        "category": "TECH",
-        "date": "Jul 05 \u2022 10:13 AM"
-    },
-    {
-        "headline": "Flatbush Zombies\u2019 Erick the Architect misses his BlackBerry keyboard",
-        "summary": "Erick the Architect, from Flatbush Zombies, shared his unexpected tech nostalgia. The renowned producer misses the physical keyboard of his old BlackBerry. Despite global tours and collaborations, the device holds a special place.",
-        "link": "https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview",
-        "category": "TECH",
-        "date": "Jul 05 \u2022 10:13 AM"
+        "date": "Jul 05 \u2022 01:39 PM"
     },
     {
         "headline": "Exclusive: First Details and Trailer Revealed for BEYOND BORDERS Vol.1: EMERGE MODE MIKU, a New EP Featuring Hatsune Miku Singing With Grimes, slayr, and More",
-        "summary": "IGN reveals BEYOND BORDERS Vol.1: EMERGE MODE MIKU, a new EP. Virtual singer Hatsune Miku will collaborate with artists like Grimes. First details and a trailer for the project have been exclusively released.",
+        "summary": "IGN reveals 'BEYOND BORDERS Vol.1: EMERGE MODE MIKU,' a new EP. The EP features virtual singer Hatsune Miku collaborating with artists like Grimes and slayr. Exclusive details and a trailer for the project have been released.",
         "link": "https://www.ign.com/articles/exclusive-first-details-and-trailer-revealed-for-beyond-borders-vol1-emerge-mode-miku-a-new-ep-featuring-hatsune-miku-singing-with-grimes-slayr-and-more",
         "category": "GAMING",
-        "date": "Jul 05 \u2022 10:13 AM"
+        "date": "Jul 05 \u2022 01:39 PM"
     },
     {
         "headline": "Solo Leveling: Beyond the System Movie Announced at Anime Expo",
-        "summary": "A Solo Leveling movie, \"Beyond the System,\" has been announced. The full-length adaptation will continue the anime series' story. The announcement took place at Anime Expo.",
+        "summary": "The popular anime series 'Solo Leveling' is getting a full-length movie adaptation. Titled 'Solo Leveling: Beyond the System,' it will continue the story. The announcement was made at Anime Expo, following two seasons of the anime.",
         "link": "https://www.ign.com/articles/solo-leveling-beyond-the-system-movie-announced-at-anime-expo",
         "category": "GAMING",
-        "date": "Jul 05 \u2022 10:13 AM"
+        "date": "Jul 05 \u2022 01:39 PM"
     },
     {
         "headline": "Young Washington Review",
-        "summary": "\"Young Washington\" is reviewed as an ambitious but flawed exploration. It covers George Washington's early years during the French & Indian War. The film offers a storybook interpretation but leaves deeper exploration wanting.",
+        "summary": "'Young Washington' is reviewed as an ambitious but ultimately flawed historical account. It explores George Washington's early life during the French & Indian War. The film offers a storybook interpretation rather than a nuanced epic.",
         "link": "https://www.ign.com/articles/young-washington-review",
         "category": "GAMING",
-        "date": "Jul 05 \u2022 10:13 AM"
+        "date": "Jul 05 \u2022 01:39 PM"
     },
     {
         "headline": "First Look at Ghost of Tsushima Legends Anime Character Art",
-        "summary": "New anime character art for \"Ghost of Tsushima Legends\" has been revealed. The first look offers a fresh artistic take on the game's characters. Details hint at an exciting visual direction for the franchise.",
+        "summary": "First look at character art for 'Ghost of Tsushima Legends' anime revealed. The article unveils new artistic interpretations of the game's characters. Fans can now see how the popular game's world translates to anime visuals.",
         "link": "https://www.ign.com/articles/first-look-at-ghost-of-tsushima-legends-anime-character-art",
         "category": "GAMING",
-        "date": "Jul 05 \u2022 10:13 AM"
+        "date": "Jul 05 \u2022 01:39 PM"
     },
     {
-        "headline": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-        "summary": "The US celebrated its 250th birthday with various festivities. Events included fireworks, flyovers, and President Trump's speech. Celebrations were marked by concurrent extreme weather conditions.",
-        "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jul 05 \u2022 10:13 AM"
-    },
-    {
-        "headline": "Tuchel praises respectful Mexico fans amid increased security",
-        "summary": "Thomas Tuchel lauded Mexican football fans for their respect. He dismissed security concerns for England's team in Mexico. Tuchel found the atmosphere \"nicer than expected\" and fans \"friendly.\"",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c8r2827pyxlo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jul 05 \u2022 10:13 AM"
-    },
-    {
-        "headline": "Farage denies rules broken after reports benefits from ally were not declared",
-        "summary": "Nigel Farage denies allegations of undeclared benefits from an ally. The Sunday Times reported he failed to register support from a convicted individual. The Reform UK leader maintains no rules were broken.",
+        "headline": "Reform denies rules broken by Farage after benefits from ally not declared",
+        "summary": "Reform UK denies that Nigel Farage broke rules regarding undeclared benefits. The Sunday Times alleges he received support from a convicted cryptocurrency fraudster. Farage reportedly failed to register this financial support.",
         "link": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 05 \u2022 10:13 AM"
+        "date": "Jul 05 \u2022 01:39 PM"
     },
     {
-        "headline": "Watch: Lyse Doucet in Tehran as huge funeral for Iran's former supreme leader takes place",
-        "summary": "Lyse Doucet reports from Tehran on a massive funeral underway. Ceremonies are held for Iran's former supreme leader. Up to 20 million people are expected to attend across Iran and Iraq.",
-        "link": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
+        "headline": "England fighting history as well as Mexican nation in Azteca cauldron",
+        "summary": "England faces Mexico in the World Cup last 16 at The Azteca stadium. Chief football writer Phil McNulty highlights England's battle against historical odds. The team will contend with both the opposing nation and the infamous Azteca atmosphere.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 05 \u2022 10:13 AM"
+        "date": "Jul 05 \u2022 01:39 PM"
+    },
+    {
+        "headline": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+        "summary": "Iran's supreme leader, Ali Khamenei, was notably absent from an ayatollah's funeral. Senior officials attended the funeral on Sunday amidst political shifts. Khamenei's son, Mojtaba, was also conspicuously absent, fueling speculation.",
+        "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jul 05 \u2022 01:39 PM"
+    },
+    {
+        "headline": "How Iran's new regime is very different to what came before",
+        "summary": "Khamenei's funeral is a stark reminder of recent changes in Iran. The article examines how Iran's new leadership differs from previous regimes. It explores the goals and implications of the current political shift in Iran.",
+        "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jul 05 \u2022 01:39 PM"
     }
 ]
