@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Fi's Starlink-enabled pet tracker found my dog when LTE couldn't",
+        "summary": "Fi Ultra is the first Starlink-enabled pet tracker, expanding beyond GPS and LTE. It offers automatic failover to T-Mobile's T-Satellite service in dead zones. Owners can track pets anywhere in the US using SpaceX's Starlink satellites.",
+        "link": "https://www.theverge.com/tech/962224/fi-ultra-dog-tracker-starlink-t-satellite-specs-price-release-date",
+        "category": "TECH",
+        "date": "Jul 08 \u2022 02:07 PM"
+    },
+    {
+        "headline": "The Steam Machine fits my TV, my desk, and my life",
+        "summary": "The author spent weeks playing games on Valve's Steam Machine. Despite owning a PS5 and Xbox Series X, the Steam Machine still holds unique appeal. The device received a 6 in a previous review, a sentiment the author doesn't disagree with.",
+        "link": "https://www.theverge.com/games/962561/valve-steam-machine-tv-desk-life",
+        "category": "TECH",
+        "date": "Jul 08 \u2022 02:07 PM"
+    },
+    {
+        "headline": "The robotaxi law that could ban Tesla",
+        "summary": "A long-standing debate questions if cameras alone are sufficient for safe autonomous driving. Tesla has bet billions on AI and cameras for its self-driving technology. A new law may mandate additional sensors like lidar and radar, potentially impacting Tesla's approach.",
+        "link": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
+        "category": "TECH",
+        "date": "Jul 08 \u2022 02:07 PM"
+    },
+    {
         "headline": "Samsung will launch its new wide foldable on July 22nd",
-        "summary": "Samsung's next Galaxy Unpacked event is set for July 22nd, teasing 'A new shape unfolds.' Rumors suggest a new, wider and shorter foldable phone format. This new device aims to expand Samsung's foldable line beyond existing book-style models.",
+        "summary": "Samsung announced its next Galaxy Unpacked event for July 22nd. The event's tagline, \"A new shape unfolds,\" hints at a new device. Rumors suggest a new shorter, wider foldable phone format is expected.",
         "link": "https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july",
         "category": "TECH",
-        "date": "Jul 08 \u2022 10:18 AM"
+        "date": "Jul 08 \u2022 02:07 PM"
     },
     {
-        "headline": "Meta\u2019s glasses will turn off the camera if you tamper with the privacy light",
-        "summary": "Meta is updating its smart glasses to disable the camera if the privacy LED light is tampered with. The feature addresses public backlash and modders physically destroying the indicator light. This aims to prevent unauthorized recording and enhance user privacy.",
-        "link": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
-        "category": "TECH",
-        "date": "Jul 08 \u2022 10:18 AM"
-    },
-    {
-        "headline": "Of course viewers are giving up on Netflix shows",
-        "summary": "Netflix struggles to retain viewers for its series beyond their first season. Shows like 'Beef' saw a 70% viewership drop when they returned. Despite being the world's most popular paid streaming service, audience retention is a growing concern.",
-        "link": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
-        "category": "TECH",
-        "date": "Jul 08 \u2022 10:18 AM"
-    },
-    {
-        "headline": "Netflix is about to host videos from BuzzFeed, Cond\u00e9 Nast, and other publishers",
-        "summary": "Netflix will add video content from digital media brands like BuzzFeed and Cond\u00e9 Nast starting August 3rd. The deal includes a mix of licensed past videos and new ongoing series. This content, typically found on YouTube, will expand Netflix's streaming library.",
-        "link": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming",
-        "category": "TECH",
-        "date": "Jul 08 \u2022 10:18 AM"
-    },
-    {
-        "headline": "Microsoft Reportedly Plans to Make More of Its Best Games Console Exclusive So People Have a Reason to Buy an Xbox \u2014 So What Could Skip PlayStation?",
-        "summary": "Microsoft is reportedly planning more console-exclusive games for Xbox. The strategy aims to boost Xbox console sales and provide a unique selling point. This could mean fewer top-tier Microsoft games launching on PlayStation.",
-        "link": "https://www.ign.com/articles/microsoft-reportedly-plans-to-make-more-of-its-best-games-console-exclusive-so-people-have-a-reason-to-buy-an-xbox-so-what-could-skip-playstation",
+        "headline": "Nintendo Switch 2 Leak Reveals The Crew Motorfest, With Physical Launch Via Game-Key Card",
+        "summary": "A leak suggests Ubisoft will soon announce The Crew Motorfest for Nintendo Switch 2. The game is expected to receive a physical release. Physical copies will be available via Game-Key Cards.",
+        "link": "https://www.ign.com/articles/nintendo-switch-2-leak-reveals-the-crew-motorfest-with-physical-launch-via-game-key-card",
         "category": "GAMING",
-        "date": "Jul 08 \u2022 10:18 AM"
+        "date": "Jul 08 \u2022 02:07 PM"
     },
     {
-        "headline": "Nintendo Switch Online July Additions Include a Wario Classic",
-        "summary": "Wario Land: Super Mario Land 3 headlines Nintendo Switch Online's latest additions for July. More retro titles from both the Game Boy and Game Boy Advance are also included. Subscribers gain access to an expanded classic game catalogue.",
-        "link": "https://www.ign.com/articles/nintendo-switch-online-july-additions-include-a-wario-classic",
+        "headline": "'It Never Trickles Down' \u2014 Bernie Sanders Hits Out at Microsoft Over Xbox Layoffs and Console Price Rises, Says They Prove Corporate Tax Breaks Do Not Create Jobs",
+        "summary": "Sen. Bernie Sanders criticized Microsoft over recent Xbox layoffs. He also highlighted the company's console price increases. Sanders argues these actions demonstrate that corporate tax breaks fail to create jobs.",
+        "link": "https://www.ign.com/articles/it-never-trickles-down-bernie-sanders-hits-out-at-microsoft-over-xbox-layoffs-and-console-price-rises-says-they-prove-corporate-tax-breaks-do-not-create-jobs",
         "category": "GAMING",
-        "date": "Jul 08 \u2022 10:18 AM"
+        "date": "Jul 08 \u2022 02:07 PM"
     },
     {
-        "headline": "Nintendo Confirms Mario Kart Tour Shutdown After 7 Years, No Offline Version Offered",
-        "summary": "Nintendo will shut down its smartphone racer, Mario Kart Tour, this September. The game will cease service after seven years, with no offline version planned. Players will lose access to the popular mobile title permanently.",
-        "link": "https://www.ign.com/articles/nintendo-confirms-mario-kart-tour-shutdown-after-7-years-no-offline-version-offered",
+        "headline": "Subnautica 2 Early Access 1.1 Update Improves Creature Flinches So You'll Know When You've Hit Them With the Survival Multitool \u2014 but No, You Still Can't Kill Fish",
+        "summary": "Subnautica 2's Early Access 1.1 update releases today, July 8th. The update improves creature flinch animations for better combat feedback. Players still cannot kill fish despite the improvements.",
+        "link": "https://www.ign.com/articles/subnautica-2-early-access-11-update-improves-creature-flinches-so-youll-know-when-youve-hit-them-with-the-survival-multitool-but-no-you-still-cant-kill-fish",
         "category": "GAMING",
-        "date": "Jul 08 \u2022 10:18 AM"
+        "date": "Jul 08 \u2022 02:07 PM"
     },
     {
-        "headline": "Terminator 2: Judgment Day Returning to Cinemas Worldwide to Mark 35th Anniversary",
-        "summary": "Terminator 2: Judgment Day is returning to cinemas around the globe later this year. The re-release marks the film's 35th anniversary. Arnold Schwarzenegger will be back on the big screen in his iconic role.",
-        "link": "https://www.ign.com/articles/terminator-2-judgment-day-returning-to-cinemas-worldwide-to-mark-35th-anniversary",
+        "headline": "'They Now Wait for This Storm to Pass' \u2014 PS5 Owners Are Cancelling PlayStation Plus Subscriptions to Protest Sony Killing Discs, but Analysts Say It Won't Make Any Difference",
+        "summary": "PS5 owners are canceling PlayStation Plus subscriptions in protest. The protest targets Sony's decision to stop releasing games on physical discs. Analysts believe this gesture will not alter Sony's strategy.",
+        "link": "https://www.ign.com/articles/they-now-wait-for-this-storm-to-pass-ps5-owners-are-cancelling-playstation-plus-subscriptions-to-protest-sony-killing-discs-but-analysts-say-it-wont-make-any-difference",
+        "category": "GAMING",
+        "date": "Jul 08 \u2022 02:07 PM"
+    },
+    {
+        "headline": "Ruth Ellis, last woman to be hanged in UK, gets conditional posthumous pardon",
+        "summary": "Ruth Ellis, the last woman executed in the UK, has received a conditional posthumous pardon. She was hanged in 1955 after being convicted of murdering her lover. This decision marks a significant development in her historic case.",
+        "link": "https://www.bbc.co.uk/news/articles/crel4rj801do?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 08 \u2022 10:18 AM"
+        "date": "Jul 08 \u2022 02:07 PM"
     },
     {
-        "headline": "Farage's rivals rule out standing in Clacton by-election",
-        "summary": "Rivals of Reform UK leader Nigel Farage have ruled out contesting the Clacton by-election. Farage says he wants an \"establishment versus the people by-election.\" Labour has dismissed the situation as a \"circus.\"",
-        "link": "https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o?at_medium=RSS&at_campaign=rss",
+        "headline": "Chris Mason: It's far from certain whether by-election will strengthen Farage",
+        "summary": "Chris Mason analyzes the uncertain impact of an upcoming by-election on Nigel Farage. The Reform UK leader faces a challenge from candidates like Count Binface. Major parties have decided not to field candidates in Clacton.",
+        "link": "https://www.bbc.co.uk/news/articles/c9d2882jj3yo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 08 \u2022 10:18 AM"
+        "date": "Jul 08 \u2022 02:07 PM"
+    },
+    {
+        "headline": "Police name man wanted over murders of wife and daughters",
+        "summary": "Police have named Ndodana Mkhanyisi Tshuma as wanted for the murders of his wife and daughters. An international manhunt is underway for Tshuma. He is known to have left the country via Heathrow Airport.",
+        "link": "https://www.bbc.co.uk/news/articles/c8e2njxnn7jo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jul 08 \u2022 02:07 PM"
     },
     {
         "headline": "Amber heat health alerts in effect as UK set for one of longest-lasting heatwaves since 1976",
-        "summary": "Amber heat health alerts are in effect across the UK. Temperatures are set to rise as high as 36C (97F) for parts of southern England this week. The UK is bracing for one of its longest-lasting heatwaves in decades.",
+        "summary": "Amber heat health alerts are currently in effect across the UK. Temperatures could soar to 36C (97F) in parts of southern England this week. The UK is bracing for one of its longest heatwaves since 1976.",
         "link": "https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 08 \u2022 10:18 AM"
-    },
-    {
-        "headline": "Virgin Media fined after hanging up on customers trying to cancel contracts",
-        "summary": "Virgin Media has been fined after mishandling customer calls. Millions of phone calls from customers were \"likely mishandled\" over nearly three years. The regulator says this included hanging up on those trying to cancel contracts.",
-        "link": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jul 08 \u2022 10:18 AM"
-    },
-    {
-        "headline": "Tom Holland on how getting Odyssey role was 'a real pinch-me moment'",
-        "summary": "Tom Holland describes getting his role in the upcoming movie 'Odyssey' as a \"real pinch-me moment.\" The Spider-Man star and other cast members discuss the hotly anticipated Christopher Nolan movie. Holland expressed his excitement about being part of the production.",
-        "link": "https://www.bbc.co.uk/news/articles/c0ky1gxgxjro?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jul 08 \u2022 10:18 AM"
+        "date": "Jul 08 \u2022 02:07 PM"
     }
 ]
