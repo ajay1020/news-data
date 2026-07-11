@@ -1,86 +1,86 @@
 [
     {
+        "headline": "No, Flock isn't threatening people for debating surveillance",
+        "summary": "Flock Safety faced backlash over an alleged cease and desist letter. The letter appeared to threaten a lecture series debating surveillance tech. It was later clarified Flock wasn't directly threatening individuals.",
+        "link": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
+        "category": "TECH",
+        "date": "Jul 11 \u2022 02:39 AM"
+    },
+    {
+        "headline": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+        "summary": "Meta disabled an Instagram AI feature after significant user backlash. The tool allowed generating AI images from public accounts without consent. It enabled creations using content from any public profile.",
+        "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+        "category": "TECH",
+        "date": "Jul 11 \u2022 02:39 AM"
+    },
+    {
         "headline": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
-        "summary": "The FCC is targeting DJI for allegedly using front companies. These firms allowed DJI to bypass the US foreign drone ban. Xtra and Skyrover are named as examples of disguised DJI drone sellers.",
+        "summary": "The FCC is targeting companies helping DJI circumvent the US drone ban. Firms like Xtra and Skyrover are suspected of selling disguised DJI drones. This move aims to enforce restrictions on foreign drone technology.",
         "link": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
         "category": "TECH",
-        "date": "Jul 10 \u2022 10:59 PM"
+        "date": "Jul 11 \u2022 02:39 AM"
     },
     {
         "headline": "Apple sues OpenAI for allegedly stealing hardware secrets",
-        "summary": "Apple has filed a lawsuit against OpenAI and Jony Ive's IO Products. The tech giant alleges theft of trade secrets related to hardware development. Apple claims a pattern of theft by former Apple employees now at OpenAI.",
+        "summary": "Apple has filed a lawsuit against OpenAI, alleging theft of trade secrets. The complaint states OpenAI employees, formerly at Apple, stole hardware plans. The lawsuit also names Jony Ive's hardware startup, IO Products.",
         "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
         "category": "TECH",
-        "date": "Jul 10 \u2022 10:59 PM"
+        "date": "Jul 11 \u2022 02:39 AM"
     },
     {
-        "headline": "A decade later, Pok\u00e9mon Go finally made good on its original promise",
-        "summary": "Pok\u00e9mon Go celebrated its 10th anniversary by fulfilling a core promise. Players collaboratively caught a Mewtwo at a major NYC event. Almost 2,000 attendees participated, showcasing the game's evolution.",
-        "link": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
-        "category": "TECH",
-        "date": "Jul 10 \u2022 10:59 PM"
-    },
-    {
-        "headline": "ICE is threatening to deport witnesses of its latest shooting",
-        "summary": "Advocates demand bodycam footage after ICE fatally shot Lorenzo Salgado Araujo. ICE officers killed the Mexican immigrant during a Houston traffic stop. Witnesses of the shooting are reportedly facing threats of deportation.",
-        "link": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
-        "category": "TECH",
-        "date": "Jul 10 \u2022 10:59 PM"
+        "headline": "The Odyssey Director Christopher Nolan Says 'AI Slop' Is Being 'Utterly Rejected' By Younger Audiences",
+        "summary": "Director Christopher Nolan believes younger audiences strongly reject 'AI slop'. He notes their 'immediate and harsh' judgment of AI-generated content. Nolan suggests a widespread disinterest in inauthentic AI creations.",
+        "link": "https://www.ign.com/articles/the-odyssey-director-christopher-nolan-says-ai-slop-is-being-utterly-rejected-by-younger-audiences",
+        "category": "GAMING",
+        "date": "Jul 11 \u2022 02:39 AM"
     },
     {
         "headline": "Fallout 5, The Elder Scrolls 6, Blade, and More: As Xbox Layoffs Hit Hard, What's Going on at Bethesda?",
-        "summary": "Bethesda was significantly affected by recent Xbox layoffs. Cuts impacted key studios like Bethesda Game Studios, id Software, and ZeniMax Online. This raises questions about the future of major titles like Fallout 5 and Elder Scrolls 6.",
+        "summary": "Xbox layoffs severely impacted Bethesda, affecting key development studios. Cuts hit teams behind Fallout, The Elder Scrolls, and Doom. This raises concerns about the future of anticipated titles like Fallout 5 and Elder Scrolls 6.",
         "link": "https://www.ign.com/articles/fallout-5-the-elder-scrolls-6-blade-and-more-as-xbox-layoffs-hit-hard-whats-going-on-at-bethesda",
         "category": "GAMING",
-        "date": "Jul 10 \u2022 10:59 PM"
+        "date": "Jul 11 \u2022 02:39 AM"
     },
     {
         "headline": "Assassin's Creed Black Flag Resynced Sales Reach 2 Million on Day 1",
-        "summary": "Assassin's Creed Black Flag Resynced sold over 2 million copies on its launch day. Ubisoft announced the impressive first-day sales figures. This marks a strong debut for the remastered title.",
+        "summary": "Assassin's Creed Black Flag Resynced sold 2 million copies on its launch day. Ubisoft announced the impressive first-day sales figures. The remastered title shows strong player demand and excitement.",
         "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-sales-reach-2-million-on-day-1",
         "category": "GAMING",
-        "date": "Jul 10 \u2022 10:59 PM"
+        "date": "Jul 11 \u2022 02:39 AM"
     },
     {
-        "headline": "EA Sports College Football 27 Faces Backlash After Fans Discover XP Microtransactions for Offline Game Modes",
-        "summary": "EA Sports College Football 27 launched to 'Mostly Negative' Steam reviews. Fans are revolting against expensive XP microtransactions. These microtransactions are present even in offline game modes.",
+        "headline": "EA Confirms Plan to Remove Paid Progression Options in EA Sports College Football 27 Following Community Backlash",
+        "summary": "EA will remove all paid progression options from College Football 27's offline modes. This decision follows significant community backlash and a 'CFBPlayNotPay' campaign. Players protested microtransactions affecting game progression.",
         "link": "https://www.ign.com/articles/ea-sports-college-football-27-faces-backlash-after-fans-discover-xp-microtransactions-for-offline-game-modes",
         "category": "GAMING",
-        "date": "Jul 10 \u2022 10:59 PM"
-    },
-    {
-        "headline": "Beat the Summer Heat With This $7 Portable Turbo Fan",
-        "summary": "A portable turbo fan is currently available for just $7. This deal offers an affordable way to stay cool. It's marketed as an effective solution for beating summer heat.",
-        "link": "https://www.ign.com/articles/lerat-portable-turbo-fan-deal",
-        "category": "GAMING",
-        "date": "Jul 10 \u2022 10:59 PM"
+        "date": "Jul 11 \u2022 02:39 AM"
     },
     {
         "headline": "Man arrested on suspicion of murder after death of Ann Widdecombe",
-        "summary": "A man has been arrested following the death of Ann Widdecombe. He is being held on suspicion of murder. Her death was initially not considered suspicious.",
+        "summary": "A man has been arrested on suspicion of murder in connection with Ann Widdecombe's death. Initially, her death was not considered suspicious. Police are now investigating the circumstances surrounding her passing.",
         "link": "https://www.bbc.co.uk/news/articles/cvg50lk22jpo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 10 \u2022 10:59 PM"
+        "date": "Jul 11 \u2022 02:39 AM"
     },
     {
         "headline": "Pugnacious, charismatic and she always answered the question - Chris Mason on Widdecombe",
-        "summary": "Chris Mason reflects on Ann Widdecombe's character and political style. She was known as pugnacious, charismatic, and direct. Many in Westminster, despite disagreements, found her immensely likeable.",
+        "summary": "Chris Mason described Ann Widdecombe as pugnacious, charismatic, and direct. Many in Westminster found her likeable, regardless of political alignment. She was known for always directly addressing questions.",
         "link": "https://www.bbc.co.uk/news/articles/czrxdnmlk5no?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 10 \u2022 10:59 PM"
+        "date": "Jul 11 \u2022 02:39 AM"
+    },
+    {
+        "headline": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+        "summary": "The US demands Iran commit to ceasing fire on ships in the Strait of Hormuz. Vice-President JD Vance is expected to join negotiations in Oman. These talks aim to de-escalate maritime tensions in the region.",
+        "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jul 11 \u2022 02:39 AM"
     },
     {
         "headline": "Triple murder suspect arrested in South Africa",
-        "summary": "A suspect in a triple murder case has been arrested. Ndodana Mkhanyisi Tshuma was apprehended in South Africa. UK prosecutors have authorized charges against him.",
+        "summary": "A suspect in a triple murder case has been apprehended in South Africa. UK prosecutors have authorized charges against Ndodana Mkhanyisi Tshuma. The arrest marks a key development in the ongoing investigation.",
         "link": "https://www.bbc.co.uk/news/articles/cx2vq71473yo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 10 \u2022 10:59 PM"
-    },
-    {
-        "headline": "Harry visits King with Meghan and children for first time in four years",
-        "summary": "Prince Harry, Meghan, and their children visited King Charles. This marks their first family reunion in four years. The King saw his grandchildren, Archie and Lilibet, for the first time in person in over four years.",
-        "link": "https://www.bbc.co.uk/news/articles/cj4g79exkzlo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jul 10 \u2022 10:59 PM"
+        "date": "Jul 11 \u2022 02:39 AM"
     }
 ]
