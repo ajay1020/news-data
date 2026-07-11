@@ -1,86 +1,86 @@
 [
     {
-        "headline": "No, Flock isn't threatening people for debating surveillance",
-        "summary": "Flock Safety faced backlash over an alleged cease and desist letter. The letter appeared to threaten a lecture series debating surveillance tech. It was later clarified Flock wasn't directly threatening individuals.",
+        "headline": "Are you filthy enough for a $700 portable shower?",
+        "summary": "Review of a $700 portable shower for outdoor adventures. Perfect for camping, festivals, or backcountry jobs. Brings the luxury of hot water to remote locations.",
+        "link": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+        "category": "TECH",
+        "date": "Jul 11 \u2022 09:38 AM"
+    },
+    {
+        "headline": "Flock Safety denies threatening people over surveillance debates",
+        "summary": "Flock Safety faced claims of issuing a cease and desist letter. An Instagram post sparked accusations against the surveillance tech company. Flock Safety denies threatening individuals for debating their technology.",
         "link": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
         "category": "TECH",
-        "date": "Jul 11 \u2022 02:39 AM"
+        "date": "Jul 11 \u2022 09:38 AM"
     },
     {
-        "headline": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-        "summary": "Meta disabled an Instagram AI feature after significant user backlash. The tool allowed generating AI images from public accounts without consent. It enabled creations using content from any public profile.",
+        "headline": "Meta disables AI deepfake feature on Instagram after backlash",
+        "summary": "Meta deactivated an Instagram feature for generating AI images. Users could create AI deepfakes from public accounts without consent. The company removed it following significant public backlash.",
         "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
         "category": "TECH",
-        "date": "Jul 11 \u2022 02:39 AM"
+        "date": "Jul 11 \u2022 09:38 AM"
     },
     {
-        "headline": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
-        "summary": "The FCC is targeting companies helping DJI circumvent the US drone ban. Firms like Xtra and Skyrover are suspected of selling disguised DJI drones. This move aims to enforce restrictions on foreign drone technology.",
+        "headline": "FCC cracks down on DJI's tactics to bypass US drone ban",
+        "summary": "The FCC is investigating DJI for allegedly evading US drone bans. DJI is suspected of using front companies like Xtra and Skyrover. The crackdown targets firms disguising foreign drones for US market entry.",
         "link": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
         "category": "TECH",
-        "date": "Jul 11 \u2022 02:39 AM"
+        "date": "Jul 11 \u2022 09:38 AM"
     },
     {
-        "headline": "Apple sues OpenAI for allegedly stealing hardware secrets",
-        "summary": "Apple has filed a lawsuit against OpenAI, alleging theft of trade secrets. The complaint states OpenAI employees, formerly at Apple, stole hardware plans. The lawsuit also names Jony Ive's hardware startup, IO Products.",
-        "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-        "category": "TECH",
-        "date": "Jul 11 \u2022 02:39 AM"
+        "headline": "EU powerless to stop PlayStation from discontinuing physical discs",
+        "summary": "The EU declares inability to halt PlayStation's potential move away from physical discs. Regulators state companies are free to choose their service models. Gamers continue to protest the shift online.",
+        "link": "https://www.ign.com/articles/eu-says-its-powerless-to-stop-playstation-from-killing-discs-companies-are-free-to-offer-games-and-services-in-the-manner-they-see-fit",
+        "category": "GAMING",
+        "date": "Jul 11 \u2022 09:38 AM"
     },
     {
-        "headline": "The Odyssey Director Christopher Nolan Says 'AI Slop' Is Being 'Utterly Rejected' By Younger Audiences",
-        "summary": "Director Christopher Nolan believes younger audiences strongly reject 'AI slop'. He notes their 'immediate and harsh' judgment of AI-generated content. Nolan suggests a widespread disinterest in inauthentic AI creations.",
+        "headline": "Christopher Nolan: Younger audiences 'utterly reject AI slop'",
+        "summary": "Director Christopher Nolan states younger audiences reject 'AI slop'. He notes 'immediate and harsh' judgment against AI-generated content. Nolan criticizes the quality of AI creative output.",
         "link": "https://www.ign.com/articles/the-odyssey-director-christopher-nolan-says-ai-slop-is-being-utterly-rejected-by-younger-audiences",
         "category": "GAMING",
-        "date": "Jul 11 \u2022 02:39 AM"
+        "date": "Jul 11 \u2022 09:38 AM"
     },
     {
-        "headline": "Fallout 5, The Elder Scrolls 6, Blade, and More: As Xbox Layoffs Hit Hard, What's Going on at Bethesda?",
-        "summary": "Xbox layoffs severely impacted Bethesda, affecting key development studios. Cuts hit teams behind Fallout, The Elder Scrolls, and Doom. This raises concerns about the future of anticipated titles like Fallout 5 and Elder Scrolls 6.",
+        "headline": "Xbox layoffs impact Bethesda; raises questions for Fallout 5, Elder Scrolls 6",
+        "summary": "Xbox layoffs heavily impacted Bethesda Game Studios and ZeniMax Online. Cuts affected teams behind Fallout, Elder Scrolls, and Doom. Concerns rise over the future of unreleased titles like Fallout 5 and Elder Scrolls 6.",
         "link": "https://www.ign.com/articles/fallout-5-the-elder-scrolls-6-blade-and-more-as-xbox-layoffs-hit-hard-whats-going-on-at-bethesda",
         "category": "GAMING",
-        "date": "Jul 11 \u2022 02:39 AM"
+        "date": "Jul 11 \u2022 09:38 AM"
     },
     {
-        "headline": "Assassin's Creed Black Flag Resynced Sales Reach 2 Million on Day 1",
-        "summary": "Assassin's Creed Black Flag Resynced sold 2 million copies on its launch day. Ubisoft announced the impressive first-day sales figures. The remastered title shows strong player demand and excitement.",
+        "headline": "Assassin's Creed Black Flag Resynced sells 2 million copies on day one",
+        "summary": "Assassin's Creed Black Flag Resynced achieved 2 million sales. This milestone was reached within its first day of launch. Ubisoft reported the impressive opening sales figures.",
         "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-sales-reach-2-million-on-day-1",
         "category": "GAMING",
-        "date": "Jul 11 \u2022 02:39 AM"
+        "date": "Jul 11 \u2022 09:38 AM"
     },
     {
-        "headline": "EA Confirms Plan to Remove Paid Progression Options in EA Sports College Football 27 Following Community Backlash",
-        "summary": "EA will remove all paid progression options from College Football 27's offline modes. This decision follows significant community backlash and a 'CFBPlayNotPay' campaign. Players protested microtransactions affecting game progression.",
-        "link": "https://www.ign.com/articles/ea-sports-college-football-27-faces-backlash-after-fans-discover-xp-microtransactions-for-offline-game-modes",
-        "category": "GAMING",
-        "date": "Jul 11 \u2022 02:39 AM"
-    },
-    {
-        "headline": "Man arrested on suspicion of murder after death of Ann Widdecombe",
-        "summary": "A man has been arrested on suspicion of murder in connection with Ann Widdecombe's death. Initially, her death was not considered suspicious. Police are now investigating the circumstances surrounding her passing.",
-        "link": "https://www.bbc.co.uk/news/articles/cvg50lk22jpo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jul 11 \u2022 02:39 AM"
-    },
-    {
-        "headline": "Pugnacious, charismatic and she always answered the question - Chris Mason on Widdecombe",
-        "summary": "Chris Mason described Ann Widdecombe as pugnacious, charismatic, and direct. Many in Westminster found her likeable, regardless of political alignment. She was known for always directly addressing questions.",
+        "headline": "Chris Mason on Ann Widdecombe: Pugnacious, charismatic, and likeable",
+        "summary": "Chris Mason offers insights into Ann Widdecombe's public persona. He highlights her as pugnacious, charismatic, and direct. Despite political differences, many colleagues found her likeable.",
         "link": "https://www.bbc.co.uk/news/articles/czrxdnmlk5no?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 11 \u2022 02:39 AM"
+        "date": "Jul 11 \u2022 09:38 AM"
     },
     {
-        "headline": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-        "summary": "The US demands Iran commit to ceasing fire on ships in the Strait of Hormuz. Vice-President JD Vance is expected to join negotiations in Oman. These talks aim to de-escalate maritime tensions in the region.",
+        "headline": "US seeks Iran's pledge to stop Strait of Hormuz ship attacks",
+        "summary": "The US demands Iran pledge to cease attacks on ships. Negotiations are slated to resume in Oman this Saturday. Vice-President JD Vance is anticipated to join the discussions.",
         "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 11 \u2022 02:39 AM"
+        "date": "Jul 11 \u2022 09:38 AM"
     },
     {
-        "headline": "Triple murder suspect arrested in South Africa",
-        "summary": "A suspect in a triple murder case has been apprehended in South Africa. UK prosecutors have authorized charges against Ndodana Mkhanyisi Tshuma. The arrest marks a key development in the ongoing investigation.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2vq71473yo?at_medium=RSS&at_campaign=rss",
+        "headline": "Deadly Spanish wildfires claim at least 12 lives, 23 missing",
+        "summary": "Spain battles a devastating wildfire resulting in at least 12 deaths. An additional 23 people are currently reported missing. Four British nationals are believed to be among the victims.",
+        "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 11 \u2022 02:39 AM"
+        "date": "Jul 11 \u2022 09:38 AM"
+    },
+    {
+        "headline": "Prince Harry's media battle: Chaos reigns during UK visit",
+        "summary": "Prince Harry's UK visit for the Invictus Games faced media challenges. His team experienced a 'bumpy' week amidst negative press. Reports suggest 'chaos and confusion' around his public relations.",
+        "link": "https://www.bbc.co.uk/news/articles/c78yp5j2e8eo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jul 11 \u2022 09:38 AM"
     }
 ]
