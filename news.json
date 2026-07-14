@@ -1,86 +1,86 @@
 [
     {
+        "headline": "X admits its broken algorithm made the site feel like a 'battleground'",
+        "summary": "X's product head admitted a faulty algorithm missed surfacing mutuals' posts. The bug caused the platform to feel like a \"battleground.\" A new tweak aims to boost visibility for mutuals, enhancing community.",
+        "link": "https://www.theverge.com/tech/965360/x-algorithm-tweak-mutuals-strangers-community",
+        "category": "TECH",
+        "date": "Jul 14 \u2022 03:23 PM"
+    },
+    {
+        "headline": "Sam Altman didn\u2019t need another lawsuit",
+        "summary": "OpenAI faces a high-profile lawsuit from Apple, adding to recent legal challenges. The suit targets OpenAI's expensive hardware investments. This marks another significant legal hurdle for the company.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+        "category": "TECH",
+        "date": "Jul 14 \u2022 03:23 PM"
+    },
+    {
         "headline": "Pixel Watch 5 leak shows off four different finishes",
-        "summary": "Pixel Watch 5 details leaked ahead of Google's launch event. Renders reveal four distinct case finishes. Expect black, silver, gold, and a duskier tone.",
+        "summary": "New leaks reveal the upcoming Pixel Watch 5 ahead of Google's launch. The renders show the smartwatch in four distinct case finishes. Options include Dark Anthracite, Natural Silver, Warm Gold, and a duskier tone.",
         "link": "https://www.theverge.com/tech/965293/google-pixel-watch-5-leak-finishes",
         "category": "TECH",
-        "date": "Jul 14 \u2022 01:43 PM"
+        "date": "Jul 14 \u2022 03:23 PM"
     },
     {
         "headline": "EverQuest\u2019s biggest fans are leading its revival",
-        "summary": "EverQuest, a classic live-service game, is making a comeback after 25 years. Fans are driving the revival with EverQuest Legends. The game is currently in preorder beta.",
+        "summary": "While live-service games struggle, EverQuest is making a major comeback after 25 years. The revival is spearheaded by a fan-developed project, EverQuest Legends. The game is currently in preorder beta, driven by dedicated fans.",
         "link": "https://www.theverge.com/games/965112/everquest-legends-project-1999-fan-developers",
         "category": "TECH",
-        "date": "Jul 14 \u2022 01:43 PM"
+        "date": "Jul 14 \u2022 03:23 PM"
     },
     {
-        "headline": "Google\u2019s Demis Hassabis says it\u2019s time for a global AI watchdog \u2014 led by the US",
-        "summary": "Google DeepMind CEO Demis Hassabis calls for a global AI watchdog. He believes the US should lead this initiative. The watchdog would halt dangerous frontier AI models.",
-        "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-        "category": "TECH",
-        "date": "Jul 14 \u2022 01:43 PM"
+        "headline": "What's the Best FIFA and EA FC Cover?",
+        "summary": "IGN asks readers to vote for their favorite FIFA or EA FC cover star. Options include football legends like Rooney, Ronaldinho, and Messi. The article engages fans in a nostalgic poll.",
+        "link": "https://www.ign.com/articles/whats-the-best-fifa-and-ea-fc-cover",
+        "category": "GAMING",
+        "date": "Jul 14 \u2022 03:23 PM"
     },
     {
-        "headline": "The first sunlight reflecting space mirror has been cleared for launch",
-        "summary": "Reflect Orbital's space mirror cleared for launch by FCC. The mirror aims to redirect sunlight to Earth at night. A prototype satellite will enter low-Earth orbit this year.",
-        "link": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance",
-        "category": "TECH",
-        "date": "Jul 14 \u2022 01:43 PM"
+        "headline": "Christopher Nolan: Brother's Memento Critique Means I'll Never Explain My Movies",
+        "summary": "Christopher Nolan, famous for ambiguous film endings, vows never to explain his movies. This decision stems from his brother criticizing him for explaining Memento. Fans are left to interpret his complex narratives independently.",
+        "link": "https://www.ign.com/articles/the-odyssey-director-christopher-nolan-says-getting-told-off-by-his-brother-over-memento-means-he-will-never-explain-any-of-his-movies",
+        "category": "GAMING",
+        "date": "Jul 14 \u2022 03:23 PM"
     },
     {
-        "headline": "'Now, It's All About What the Fans Think' \u2014 Star Wars Creator George Lucas Says Hollywood Takes the Wrong Message From Focus Groups and 'Let the Audience Actually Make the Movie'",
-        "summary": "George Lucas criticizes Hollywood's reliance on focus groups. He believes audiences don't truly know what they want. Lucas suggests focus groups let audiences 'actually make the movie'.",
+        "headline": "Dying Light: The Beast for PS4 and Xbox One Canceled",
+        "summary": "Techland has canceled the PlayStation 4 and Xbox One versions of Dying Light: The Beast. The developer cited \"the technical realities of development\" as the reason. This impacts last-gen console players awaiting the game.",
+        "link": "https://www.ign.com/articles/dying-light-the-beast-for-ps4-and-xbox-one-canceled-after-dev-accepts-the-technical-realities-of-development",
+        "category": "GAMING",
+        "date": "Jul 14 \u2022 03:23 PM"
+    },
+    {
+        "headline": "George Lucas Criticizes Hollywood's Reliance on Focus Groups",
+        "summary": "Star Wars creator George Lucas expressed dissatisfaction with Hollywood's use of focus groups. He believes audiences \"don\u2019t know what they want to see.\" Lucas argues studios let audiences \"make the movie,\" misunderstanding their input.",
         "link": "https://www.ign.com/articles/now-its-all-about-what-the-fans-think-star-wars-creator-george-lucas-says-hollywood-takes-the-wrong-message-from-focus-groups-and-let-the-audience-actually-make-the-movie",
         "category": "GAMING",
-        "date": "Jul 14 \u2022 01:43 PM"
+        "date": "Jul 14 \u2022 03:23 PM"
     },
     {
-        "headline": "Nintendo Reportedly Considering Switch 2 OLED Model \u2014 Though Remains Concerned Over How Much It Would Cost",
-        "summary": "Nintendo is reportedly exploring a Switch 2 OLED model. The company has concerns about potential manufacturing costs. No firm plans or release dates have been confirmed.",
-        "link": "https://www.ign.com/articles/nintendo-reportedly-considering-switch-2-oled-model-though-remains-concerned-over-how-much-it-would-cost",
-        "category": "GAMING",
-        "date": "Jul 14 \u2022 01:43 PM"
-    },
-    {
-        "headline": "'They're Bringing the Heat': Marvel Fans Hyped for X-Men Reboot Casting as Adam Driver Rumors Swirl",
-        "summary": "Marvel fans are excited about X-Men reboot casting rumors. Adam Driver is reportedly being eyed for Magneto. Driver previously starred in the Star Wars sequel trilogy.",
-        "link": "https://www.ign.com/articles/theyre-bringing-the-heat-marvel-fans-hyped-for-x-men-reboot-casting-as-adam-driver-rumors-swirl",
-        "category": "GAMING",
-        "date": "Jul 14 \u2022 01:43 PM"
-    },
-    {
-        "headline": "It Sounds Like Mike Flanagan Is Having a Tough Time Getting the Green Light on His Long-Awaited Dark Tower TV Series",
-        "summary": "Mike Flanagan provides an update on his Dark Tower TV series. The project faces significant hurdles for a green light. Its realization still seems far off.",
-        "link": "https://www.ign.com/articles/it-sounds-like-mike-flanagan-is-having-a-tough-time-getting-the-green-light-on-his-long-awaited-dark-tower-tv-series",
-        "category": "GAMING",
-        "date": "Jul 14 \u2022 01:43 PM"
-    },
-    {
-        "headline": "PPE failures left NHS staff poorly protected and wasted \u00a310bn, Covid inquiry finds",
-        "summary": "Covid inquiry reveals NHS PPE failures. Staff were poorly protected from dangerous infections. Failures led to a wasted \u00a310bn.",
+        "headline": "UK wasted \u00a310bn on inadequate PPE, Covid inquiry finds",
+        "summary": "A Covid inquiry reveals the UK wasted \u00a310 billion on Personal Protective Equipment. Despite the massive spending, NHS staff remained poorly protected. The report highlights severe failures in pandemic preparedness and procurement.",
         "link": "https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 14 \u2022 01:43 PM"
+        "date": "Jul 14 \u2022 03:23 PM"
     },
     {
         "headline": "Scott Mills was highest-paid BBC star before sacking",
-        "summary": "Scott Mills was the BBC's highest-paid star. He earned approximately \u00a3745,000 in the last financial year. This was before his recent departure from Radio 2 breakfast.",
+        "summary": "Scott Mills earned approximately \u00a3745,000 from the BBC in the last financial year. This made him the highest-paid star before his departure. The figures were released by the broadcaster.",
         "link": "https://www.bbc.co.uk/news/articles/c4gynyz4wqpo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 14 \u2022 01:43 PM"
+        "date": "Jul 14 \u2022 03:23 PM"
     },
     {
-        "headline": "Wildfires burn in parts of UK as fire chiefs warn of extreme pressure",
-        "summary": "Wildfires are burning across parts of the UK. Fire chiefs warn of extreme pressure on services. Major incidents declared in North Wales and Derbyshire.",
+        "headline": "Wildfires burn across UK; fire chiefs warn of extreme pressure",
+        "summary": "Wildfires are currently burning in several parts of the UK. Major incidents were declared in North Wales and Derbyshire's Peak District. Fire chiefs warn of extreme pressure on emergency services.",
         "link": "https://www.bbc.co.uk/news/articles/cwyey14r4wzo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 14 \u2022 01:43 PM"
+        "date": "Jul 14 \u2022 03:23 PM"
     },
     {
-        "headline": "MPs expected to approve long-delayed 'Hillsborough Law'",
-        "summary": "MPs are set to approve the 'Hillsborough Law'. The long-delayed legislation returns to the Commons. Approval comes during Sir Keir Starmer's final days as PM.",
+        "headline": "MPs expected to approve long-delayed Hillsborough Law",
+        "summary": "MPs are anticipated to approve the long-delayed Hillsborough Law. The legislation has finally returned to the Commons for a vote. Its passage is expected in Sir Keir Starmer's final days as prime minister.",
         "link": "https://www.bbc.co.uk/news/articles/c9q2qwnvd75o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 14 \u2022 01:43 PM"
+        "date": "Jul 14 \u2022 03:23 PM"
     }
 ]
