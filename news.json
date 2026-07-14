@@ -1,86 +1,86 @@
 [
     {
+        "headline": "The first sunlight reflecting space mirror has been cleared for launch",
+        "summary": "Reflect Orbital received FCC clearance to launch its first space mirror prototype. The satellite aims to redirect sunlight to Earth at night. Launch is planned for later this year, amidst ongoing concerns.",
+        "link": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance",
+        "category": "TECH",
+        "date": "Jul 14 \u2022 11:38 AM"
+    },
+    {
+        "headline": "Let\u2019s build a children\u2019s public internet",
+        "summary": "There's growing concern that the internet is harmful for children. Several countries are now requiring stringent age verification or outright bans for minors. The US House of Representatives recently passed a bill addressing child safety online.",
+        "link": "https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal",
+        "category": "TECH",
+        "date": "Jul 14 \u2022 11:38 AM"
+    },
+    {
         "headline": "New York becomes the first state to enact a data center moratorium",
-        "summary": "New York enacted a statewide moratorium on new hyperscale data centers. Governor Hochul signed the order, blocking new environmental permits for up to a year. A bill that could restrict more developments still awaits signature.",
+        "summary": "New York has enacted the nation's first statewide moratorium on new hyperscale data centers. Governor Hochul signed the order, blocking new environmental permits for up to a year. Awaiting signature for a bill that could further restrict developments.",
         "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
         "category": "TECH",
-        "date": "Jul 14 \u2022 09:58 AM"
+        "date": "Jul 14 \u2022 11:38 AM"
     },
     {
         "headline": "Microsoft tests Windows Search without all the ads and fluff",
-        "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu. It strips recommended content and ads for Windows Insiders. This move aims to regain user trust and improve the Windows experience.",
+        "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu. The decluttered Search Box strips out recommended content and ads. This move aims to regain user trust and improve Windows functionality.",
         "link": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
         "category": "TECH",
-        "date": "Jul 14 \u2022 09:58 AM"
+        "date": "Jul 14 \u2022 11:38 AM"
     },
     {
-        "headline": "OnePlus is reportedly bailing on the US",
-        "summary": "OnePlus and its parent company, Oppo, are reportedly planning to exit the US and European markets. This move follows months of speculation about the brand's future. An official announcement is expected in the coming days.",
-        "link": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
-        "category": "TECH",
-        "date": "Jul 14 \u2022 09:58 AM"
-    },
-    {
-        "headline": "A two-pack of DJI's most capable wireless mics just got its first price cut",
-        "summary": "DJI Mic 3 wireless lavalier microphones are now available at a discounted price. The two-pack bundle offers significantly improved audio quality for smartphone videos. This marks the first price cut for the capable wireless mic set.",
-        "link": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale",
-        "category": "TECH",
-        "date": "Jul 14 \u2022 09:58 AM"
-    },
-    {
-        "headline": "Anya Taylor-Joy to Read Lord of the Rings Books for 'The Hunt for Gollum' Role",
-        "summary": "Anya Taylor-Joy will read 'Lord of the Rings' books for her role in 'The Hunt for Gollum'. Her 'lethal elf' character is not found in J. R. R. Tolkien's original texts. This suggests the film will introduce new lore elements.",
-        "link": "https://www.ign.com/articles/the-hunt-for-gollum-star-anya-taylor-joy-says-shes-about-to-read-the-lord-of-the-rings-books-but-she-wont-find-her-lethal-elf-character-in-any-of-j-r-r-tolkiens-text",
+        "headline": "'They're Bringing the Heat': Marvel Fans Hyped for X-Men Reboot Casting as Adam Driver Rumors Swirl",
+        "summary": "Marvel fans are buzzing over X-Men reboot casting rumors. Speculation suggests Star Wars standout Adam Driver will play Magneto. Driver's potential casting has generated significant fan excitement.",
+        "link": "https://www.ign.com/articles/theyre-bringing-the-heat-marvel-fans-hyped-for-x-men-reboot-casting-as-adam-driver-rumors-swirl",
         "category": "GAMING",
-        "date": "Jul 14 \u2022 09:58 AM"
+        "date": "Jul 14 \u2022 11:38 AM"
     },
     {
-        "headline": "Ubisoft Lays Off Assassin's Creed Black Flag Devs Amid Game's Success",
-        "summary": "Ubisoft Barcelona developers who contributed to 'Assassin's Creed Black Flag Resynced' are facing layoffs. This decision comes despite the game selling 2 million copies within 24 hours. The layoffs highlight concerns about developer treatment amid commercial success.",
+        "headline": "It Sounds Like Mike Flanagan Is Having a Tough Time Getting the Green Light on His Long-Awaited Dark Tower TV Series",
+        "summary": "Mike Flanagan provided an update on his long-awaited The Dark Tower TV series. The project is still far from receiving a green light. Development appears to be progressing slowly.",
+        "link": "https://www.ign.com/articles/it-sounds-like-mike-flanagan-is-having-a-tough-time-getting-the-green-light-on-his-long-awaited-dark-tower-tv-series",
+        "category": "GAMING",
+        "date": "Jul 14 \u2022 11:38 AM"
+    },
+    {
+        "headline": "The Hunt for Gollum Star Anya Taylor-Joy Says She's About to Read the Lord of the Rings Books, but She Won't Find Her 'Lethal Elf' Character in Any of J. R. R. Tolkien's Text",
+        "summary": "Anya Taylor-Joy is set to read The Lord of the Rings books for her role in 'The Hunt for Gollum'. She has been cast as a new 'lethal elf' character. Her character does not originate from J.R.R. Tolkien's original texts.",
+        "link": "https://www.ign.com/articles/the-hunt-for-gollum-star-anya-taylor-joy-says-shes-about-to-read-the-lord-of-the-rings-books-but-she-won-t-find-her-lethal-elf-character-in-any-of-j-r-r-tolkiens-text",
+        "category": "GAMING",
+        "date": "Jul 14 \u2022 11:38 AM"
+    },
+    {
+        "headline": "Assassin's Creed Black Flag Developers in Barcelona Are Being Laid Off as Ubisoft Celebrates Game's Success",
+        "summary": "Ubisoft Barcelona developers who contributed to Assassin's Creed Black Flag Resynced are facing layoffs. The layoffs come despite the game's recent commercial success, selling 2 million copies in 24 hours. Developers have spoken out against Ubisoft's decision.",
         "link": "https://www.ign.com/articles/assassins-creed-black-flag-developers-in-barcelona-are-being-laid-off-as-ubisoft-celebrates-games-success",
         "category": "GAMING",
-        "date": "Jul 14 \u2022 09:58 AM"
+        "date": "Jul 14 \u2022 11:38 AM"
     },
     {
-        "headline": "Mike Flanagan's Carrie TV Show to Deviate Significantly from Stephen King Novel",
-        "summary": "Mike Flanagan's upcoming 'Carrie' TV series will make significant changes from Stephen King's novel. Flanagan stated it was 'never going to be a straight adaptation'. First details and images for the Prime Video show have been released.",
-        "link": "https://www.ign.com/articles/this-was-never-going-to-be-a-straight-adaptation-mike-flanagans-carrie-tv-show-makes-big-changes-from-stephen-kings-horror-novel",
-        "category": "GAMING",
-        "date": "Jul 14 \u2022 09:58 AM"
-    },
-    {
-        "headline": "Save $50 Off the AirPods Pro 3 Noise Canceling Earbuds",
-        "summary": "You can now save $50 on the AirPods Pro 3 noise-canceling earbuds. These premium earbuds are often recommended as the best choice for iPhone users. This deal presents an opportunity to upgrade your audio experience.",
-        "link": "https://www.ign.com/articles/best-apple-airpods-pro-3-earbuds-deal-july-2026",
-        "category": "GAMING",
-        "date": "Jul 14 \u2022 09:58 AM"
-    },
-    {
-        "headline": "Ann Widdecombe Suspect Not Known to Prevent; Counter Terrorism Police Investigate",
-        "summary": "The suspect involved in the Ann Widdecombe incident was not known to the government's Prevent anti-terrorism program. Home Secretary Shabana Mahmood confirmed this in an update to MPs. Counter-terrorism police have taken over the investigation.",
-        "link": "https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&at_campaign=rss",
+        "headline": "PPE failures left NHS staff poorly protected and wasted \u00a310bn, Covid inquiry finds",
+        "summary": "A Covid inquiry report found NHS staff were poorly protected during the pandemic due to PPE failures. These failures led to dangerous infections and a \u00a310 billion waste. The report highlights severe shortcomings in healthcare worker protection.",
+        "link": "https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 14 \u2022 09:58 AM"
+        "date": "Jul 14 \u2022 11:38 AM"
     },
     {
-        "headline": "Widdecombe's Death Renews Debate Over Politician Protection",
-        "summary": "Ann Widdecombe's death has reignited the debate surrounding the protection of politicians. Many MPs argue that social media normalizes violent language and abuse. The BBC's political editor highlights the renewed discussions.",
-        "link": "https://www.bbc.co.uk/news/articles/cvgdgx01y98o?at_medium=RSS&at_campaign=rss",
+        "headline": "Scott Mills was highest paid BBC star before sacking",
+        "summary": "Scott Mills was the BBC's highest-paid star before his recent sacking from Radio 2 breakfast. He earned approximately \u00a3745,000 from the BBC in the last financial year. This figure highlights his significant earnings prior to his departure.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gynyz4wqpo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 14 \u2022 09:58 AM"
+        "date": "Jul 14 \u2022 11:38 AM"
     },
     {
-        "headline": "UK Heatwave Continues; No Significant Rain Forecast for a Week",
-        "summary": "The UK heatwave is set to continue, with no significant rain forecast for at least a week. The summer has been marked by a significant lack of wet weather across the country. Ben Rich provides an explanation of the ongoing dry spell.",
-        "link": "https://www.bbc.co.uk/weather/articles/cvge2zq0zg3o?at_medium=RSS&at_campaign=rss",
+        "headline": "Police continue to question suspect over Ann Widdecombe murder",
+        "summary": "Police are continuing to question a 28-year-old suspect in connection with Ann Widdecombe's murder. The suspect was re-arrested on Monday after counter-terrorism police took over the case. The investigation into the incident remains active.",
+        "link": "https://www.bbc.co.uk/news/articles/c5yzyr3np8xo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 14 \u2022 09:58 AM"
+        "date": "Jul 14 \u2022 11:38 AM"
     },
     {
-        "headline": "Wife Recounts Ordeal of Husband Nearly Sucked Out of Ryanair Plane",
-        "summary": "Svetlana Grkovi\u0107 shared the terrifying ordeal of her husband nearly being sucked out of a Ryanair plane. She stated her husband is 'seriously injured and in shock' after the incident. Grkovi\u0107 recounted their desperate vow: 'If we die, we die together'.",
-        "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+        "headline": "Government failing Farage over security, says Jenrick",
+        "summary": "Robert Jenrick claims the government is failing Nigel Farage regarding his security. This statement follows the police investigation into Ann Widdecombe's death. The incident has reignited debate over the security of politicians.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyg9452qlo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 14 \u2022 09:58 AM"
+        "date": "Jul 14 \u2022 11:38 AM"
     }
 ]
