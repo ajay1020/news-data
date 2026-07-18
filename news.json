@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Dave Eggers told OpenAI staff that ChatGPT was \u2018silencing an entire generation\u2019",
+        "summary": "Author Dave Eggers addressed OpenAI staff. He criticized ChatGPT, stating it's \u201csilencing an entire generation.\u201d Eggers shared concerns about AI's impact on writers and the arts.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+        "category": "TECH",
+        "date": "Jul 18 \u2022 10:50 PM"
+    },
+    {
         "headline": "Google might not kneecap the Pixel 11a with an old processor",
-        "summary": "Leak suggests the Pixel 11a will feature the flagship Tensor G6 processor. This marks a shift from the Pixel 10a, which used the previous-gen Tensor G4. The 'a' series typically used modern chips, making the 10a's G4 a disappointment.",
+        "summary": "Leaks suggest the Pixel 11a will feature the flagship Tensor G6 processor. This reverses the trend of the Pixel 10a using a previous-gen chip. The move addresses past disappointment over budget Pixel processors.",
         "link": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
         "category": "TECH",
-        "date": "Jul 18 \u2022 08:48 PM"
+        "date": "Jul 18 \u2022 10:50 PM"
     },
     {
         "headline": "Google is open-sourcing its 3D emoji",
-        "summary": "Google has made its 3D emoji available for public use in your own creations. The company shared design insights on World Emoji Day. Designing 3D emoji presents unique challenges compared to 2D illustrations.",
+        "summary": "Google is making its 3D emoji available for public use. Creators can now integrate Google's 3D pictograms into their own projects. The company revealed design details as part of World Emoji Day.",
         "link": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
         "category": "TECH",
-        "date": "Jul 18 \u2022 08:48 PM"
+        "date": "Jul 18 \u2022 10:50 PM"
     },
     {
         "headline": "GoPro\u2019s discounted Max 2 bundle includes $100 worth of accessories",
-        "summary": "The GoPro Max 2 360-degree camera bundle is currently discounted to $369. This deal includes $100 worth of valuable accessories. It makes high-end 360-degree action camera technology more accessible.",
+        "summary": "The GoPro Max 2 accessory bundle is now discounted to $369. This deal includes $100 worth of essential accessories. It offers a more affordable entry into 360-degree action camera capture.",
         "link": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
         "category": "TECH",
-        "date": "Jul 18 \u2022 08:48 PM"
+        "date": "Jul 18 \u2022 10:50 PM"
     },
     {
-        "headline": "The Guardian\u2019s Carter Sherman fondly remembers being terrified by Ocarina of Time",
-        "summary": "Veteran reporter Carter Sherman reflects on her formative gaming experience. She recalls being genuinely terrified by The Legend of Zelda: Ocarina of Time. Sherman has a distinguished career covering complex social and political topics.",
-        "link": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
-        "category": "TECH",
-        "date": "Jul 18 \u2022 08:48 PM"
+        "headline": "The Best Deals Today: PNY RTX 5070 OC, Apple AirPods 4, The Dark Knight Trilogy, and More",
+        "summary": "IGN highlights today's top tech and entertainment deals. Discounts include the PNY RTX 5070 OC graphics card and Apple AirPods 4. The Dark Knight Trilogy is also featured among current sales.",
+        "link": "https://www.ign.com/articles/best-deals-for-july-18-2026",
+        "category": "GAMING",
+        "date": "Jul 18 \u2022 10:50 PM"
+    },
+    {
+        "headline": "Steam Machine Engineers at Valve Signal Grim Future as Memory Crisis Is 'Still Getting Worse'",
+        "summary": "Valve's Steam Machine engineers warn of a worsening memory crisis in tech. This crisis is driving up prices for crucial components. Concerns are growing over the future cost and accessibility of hardware.",
+        "link": "https://www.ign.com/articles/steam-machine-engineers-at-valve-signal-grim-future-as-memory-crisis-is-still-getting-worse",
+        "category": "GAMING",
+        "date": "Jul 18 \u2022 10:50 PM"
     },
     {
         "headline": "Call of Duty Movie to Take Place in the Modern Warfare Universe, Director Confirms",
-        "summary": "The upcoming Call of Duty movie will be set in the popular Modern Warfare universe. Paramount Pictures and Activision officially confirmed this exciting detail. This aligns the film with one of the franchise's most beloved storylines.",
+        "summary": "The upcoming Call of Duty movie will be set in the Modern Warfare universe. Paramount Pictures and Activision confirmed the film's setting. This decision aligns the movie with a popular game franchise storyline.",
         "link": "https://www.ign.com/articles/call-of-duty-movie-to-take-place-in-the-modern-warfare-universe-director-confirms",
         "category": "GAMING",
-        "date": "Jul 18 \u2022 08:48 PM"
+        "date": "Jul 18 \u2022 10:50 PM"
     },
     {
         "headline": "Christopher Nolan's Long and Winding Road to The Odyssey",
-        "summary": "Christopher Nolan's latest epic, 'The Odyssey', draws on his nearly three-decade career. The article explores the filmmaker's journey to this ambitious project. It highlights how his past works inform his current cinematic vision.",
+        "summary": "Christopher Nolan's latest epic, \u201cThe Odyssey,\u201d is explored. The film reportedly draws on his nearly three-decade career. The article delves into the inspirations and themes throughout Nolan's work.",
         "link": "https://www.ign.com/articles/christopher-nolans-long-and-winding-road-to-the-odyssey",
         "category": "GAMING",
-        "date": "Jul 18 \u2022 08:48 PM"
-    },
-    {
-        "headline": "Disco Elysium Dev ZA/UM Announces Layoffs Affecting Up to 32 Staff",
-        "summary": "Disco Elysium developer ZA/UM has announced significant staff layoffs. Up to 32 employees are affected by the job cuts. The layoffs come just two months after their new game, Zero Parades: For Dead Spies, launched.",
-        "link": "https://www.ign.com/articles/disco-elysium-dev-zaum-announces-layoffs-affecting-up-to-32-staff",
-        "category": "GAMING",
-        "date": "Jul 18 \u2022 08:48 PM"
-    },
-    {
-        "headline": "Christopher Nolan\u2019s Take on the Gods of The Odyssey Is the Key to Unlocking the Film\u2019s Biggest Mystery",
-        "summary": "Christopher Nolan utilizes gods, like Zendaya's Athena, to frame 'The Odyssey's' central mystery. The concept of 'Zeus' Law' is crucial to understanding the film's narrative. This approach is key to unlocking the movie's biggest secrets.",
-        "link": "https://www.ign.com/articles/christopher-nolan-take-on-the-gods-of-the-odyssey-athena-zendaya",
-        "category": "GAMING",
-        "date": "Jul 18 \u2022 08:48 PM"
+        "date": "Jul 18 \u2022 10:50 PM"
     },
     {
         "headline": "Andy Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
-        "summary": "Incoming Prime Minister Andy Burnham pledges to scrap digital ID plans. His government will instead prioritize the critical cost of living crisis. This marks his first significant policy announcement as leader.",
+        "summary": "Incoming Prime Minister Andy Burnham pledges to scrap digital ID plans. His government will prioritize the ongoing cost of living crisis. This marks his first major policy announcement as PM.",
         "link": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 18 \u2022 08:48 PM"
-    },
-    {
-        "headline": "Two US troops killed and one missing after Iranian attack in Jordan",
-        "summary": "Two US troops were killed and one is missing after an Iranian attack in Jordan. Hostilities between Iran and the US have re-escalated significantly this week. Tehran has targeted US military facilities across the Gulf region.",
-        "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jul 18 \u2022 08:48 PM"
+        "date": "Jul 18 \u2022 10:50 PM"
     },
     {
         "headline": "Ruthless plotter? Flip-flopper? Dad dancer? Insiders reveal the real Andy Burnham",
-        "summary": "Laura Kuenssberg investigates the true persona of incoming Prime Minister Andy Burnham. Over 20 insiders share their perspectives on the enigmatic politician. The article explores various public perceptions and behind-the-scenes insights.",
+        "summary": "Laura Kuenssberg investigates the true persona of Andy Burnham. Over 20 people who know him share insights into his character. The piece aims to uncover the real person behind the politician.",
         "link": "https://www.bbc.co.uk/news/articles/c3043vl2l7zo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 18 \u2022 08:48 PM"
+        "date": "Jul 18 \u2022 10:50 PM"
     },
     {
-        "headline": "Burnham is 'people pleaser' with 'airy fairy' plans, says Kemi Badenoch",
-        "summary": "Conservative leader Kemi Badenoch criticized incoming PM Andy Burnham. She labeled his policy plans as 'airy fairy' and called him a 'people pleaser.' Badenoch accused Burnham of misunderstanding the country's priorities.",
-        "link": "https://www.bbc.co.uk/news/articles/c304l24m0leo?at_medium=RSS&at_campaign=rss",
+        "headline": "Two US troops killed and one missing after Iranian attack in Jordan",
+        "summary": "An Iranian attack in Jordan resulted in two US troop fatalities. One US troop member is reported missing after the strike. Hostilities have re-escalated with US and Iran trading strikes across the Gulf.",
+        "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 18 \u2022 08:48 PM"
+        "date": "Jul 18 \u2022 10:50 PM"
+    },
+    {
+        "headline": "Mother killed while asleep with baby \u2018was my world\u2019, sister tells BBC",
+        "summary": "Kirandeep Kaur was killed in her sleep alongside her baby and husband. Her sister shares the family's devastation in India. The incident has left a family grieving the sudden loss of a loved one.",
+        "link": "https://www.bbc.co.uk/news/articles/cd0xzy2r1m7o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jul 18 \u2022 10:50 PM"
     }
 ]
