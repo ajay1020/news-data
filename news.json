@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Claude\u2019s voice mode is now available for Opus and Sonnet",
+        "summary": "Anthropic extends Claude's voice mode to its powerful Opus and Sonnet AI models. Previously limited to Haiku, this expands its capabilities. The voice mode is also integrating into apps like Gmail and Slack.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+        "category": "TECH",
+        "date": "Jul 23 \u2022 07:17 PM"
+    },
+    {
+        "headline": "Patreon is laying off 20 percent of workers",
+        "summary": "Patreon is laying off 20% of its workforce, impacting around 93 employees. CEO Jack Conte cites AI's transformative impact on the tech industry. He clarifies that AI isn't replacing humans directly, but changing work methods.",
+        "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+        "category": "TECH",
+        "date": "Jul 23 \u2022 07:17 PM"
+    },
+    {
         "headline": "Corsair\u2019s PC case with a panoramic glass design is $70 off",
-        "summary": "Corsair's Frame 4500X RS PC case is now $70 off. It features a panoramic glass design and versatile component support. Available for $119.99 at Amazon, Best Buy, and Corsair.",
+        "summary": "Get the Corsair Frame 4500X RS PC case for $119.99, a $70 discount. This versatile case features a unique panoramic glass design. It supports EATX motherboards and long GPUs.",
         "link": "https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale",
         "category": "TECH",
-        "date": "Jul 23 \u2022 05:40 PM"
+        "date": "Jul 23 \u2022 07:17 PM"
     },
     {
         "headline": "Tesla\u2019s robotaxi promises are clashing with reality",
-        "summary": "Elon Musk presented a more tempered outlook on Tesla's robotaxi program during an earnings call. Despite new cities and more miles driven, concerns about unsupervised vehicles persist. Musk's usual bullishness was notably absent from the discussion.",
+        "summary": "Elon Musk tried to paint a positive picture of Tesla's robotaxi program during an earnings call. Despite adding cities and miles, Musk's usual confidence seemed subdued. The program's reality appears to be clashing with previous promises.",
         "link": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
         "category": "TECH",
-        "date": "Jul 23 \u2022 05:40 PM"
+        "date": "Jul 23 \u2022 07:17 PM"
     },
     {
-        "headline": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
-        "summary": "Primate Labs releases Geekbench 7, the latest version of its benchmarking tool. It introduces new video/audio encoding tests and a redesigned multi-core test. Expect more demanding datasets for CPUs and GPUs.",
-        "link": "https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update",
-        "category": "TECH",
-        "date": "Jul 23 \u2022 05:40 PM"
-    },
-    {
-        "headline": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-        "summary": "OpenAI is launching ChatGPT Health to all US users, allowing medical record integration. The company claims its models now reason better than clinicians. This rollout marks a significant expansion into healthcare AI.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-        "category": "TECH",
-        "date": "Jul 23 \u2022 05:40 PM"
-    },
-    {
-        "headline": "Today\u2019s Top Deals: Metaphor: ReFantazio, Logitech G29 Racing Wheel, and G PRO X Superlight 2 Mouse",
-        "summary": "Discover top deals on games like Metaphor: ReFantazio. Logitech G29 Racing Wheel and G PRO X Superlight 2 Mouse are heavily discounted. Plus, find cheaper Pok\u00e9mon TCG - Pitch Black on Amazon.",
-        "link": "https://www.ign.com/articles/best-deals-for-july-23-2026",
+        "headline": "The Logitech G29 Racing Wheel and Driving Force Shifter Bundle Drops to the Lowest Price Ever",
+        "summary": "The Logitech G29 Racing Wheel and Shifter Bundle is at an all-time low price. Enhance your Forza Horizon 6 or Gran Turismo 7 experience. Don't miss this deal for immersive racing.",
+        "link": "https://www.ign.com/articles/logitech-g29-racing-wheel-deal-with-driving-force-shifter-july-2026",
         "category": "GAMING",
-        "date": "Jul 23 \u2022 05:40 PM"
+        "date": "Jul 23 \u2022 07:17 PM"
     },
     {
-        "headline": "The Steam Deck's Demand Has Reportedly Cratered",
-        "summary": "Reports suggest a significant decline in Steam Deck demand. This indicates a potential shift in the portable PC gaming market. Further details on sales and user interest are emerging.",
-        "link": "https://www.ign.com/articles/the-steam-decks-demand-has-reportedly-cratered",
+        "headline": "Save 50% Off Anker's Newly Released SOLIX S2000 2,048Wh 2,400W LiFePO4 Power Station",
+        "summary": "Anker's new SOLIX S2000 LiFePO4 Power Station is now 50% off. It boasts 2,048Wh capacity and 2,400W output. Enjoy 96% efficiency and a 10ms UPS switchover.",
+        "link": "https://www.ign.com/articles/new-release-anker-solix-s2000-lifepo4-power-station-deal-july-2026",
         "category": "GAMING",
-        "date": "Jul 23 \u2022 05:40 PM"
+        "date": "Jul 23 \u2022 07:17 PM"
     },
     {
-        "headline": "King of the Hill Cast and Showrunner Reveal the Secret Origin of the Season 15 Finale",
-        "summary": "The King of the Hill cast and showrunner discussed the Season 15 finale's origins. They revealed Hank's major Strickland Propane twist. The episode also included a touching tribute to Lucky and Luanne.",
-        "link": "https://www.ign.com/articles/king-of-the-hill-season-15-finale-explained",
+        "headline": "The $1,800 Power Lift Recliner and Massage Chair Drops to $350 at Wayfair After a Massive 80% Discount",
+        "summary": "A luxurious power lift recliner and massage chair is now only $350. This Wayfair deal offers a massive 80% discount from its $1,800 original price. Enjoy ultimate comfort and relaxation for less.",
+        "link": "https://www.ign.com/articles/wayfair-power-lift-recliner-and-massage-chair-deal-july-2026",
         "category": "GAMING",
-        "date": "Jul 23 \u2022 05:40 PM"
+        "date": "Jul 23 \u2022 07:17 PM"
     },
     {
-        "headline": "Save $1,500 Off an Alienware Area-51 Ryzen X3D Gaming PC With RTX 5090 GPU and 64GB of RAM",
-        "summary": "Get a massive $1,500 discount on an Alienware Area-51 Ryzen X3D Gaming PC. This powerful rig includes an RTX 5090 GPU and 64GB of RAM. It's a competitive price for an extremely high-end gaming machine.",
-        "link": "https://www.ign.com/articles/dell-alienware-area-51-rtx-5090-gaming-pc-deal-july-2026",
+        "headline": "LEGO Announces Star Trek: U.S.S. Enterprise NCC-1701 Bridge Set, Now Up for Preorder",
+        "summary": "LEGO unveils a new Star Trek: U.S.S. Enterprise NCC-1701 Bridge set. The highly anticipated set is now available for preorder. It's slated for release in September.",
+        "link": "https://www.ign.com/articles/lego-star-trek-uss-enterprise-ncc-1701-bridge-set-where-to-buy",
         "category": "GAMING",
-        "date": "Jul 23 \u2022 05:40 PM"
+        "date": "Jul 23 \u2022 07:17 PM"
+    },
+    {
+        "headline": "Burnham pauses plan to release some prisoners early from September",
+        "summary": "Prime Minister Burnham has halted the early release of certain prisoners. The plan, set for September, is now on hold. A full review will be conducted before any releases.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jul 23 \u2022 07:17 PM"
+    },
+    {
+        "headline": "Mum and daughter who died at beach were trying to save boy, 7",
+        "summary": "A mother and daughter drowned attempting to save a 7-year-old boy. Shally Rahman and Samiha Rahman were pulled from the water. Emergency services confirmed the tragic incident.",
+        "link": "https://www.bbc.co.uk/news/articles/ce97nngd4nlo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Jul 23 \u2022 07:17 PM"
     },
     {
         "headline": "Oil prices hit $100 for the first time since May",
-        "summary": "Brent crude oil prices surged over 6% on Thursday. This pushed prices to $100 per barrel, a first since May. Escalating Middle East conflict is cited as the primary driver.",
+        "summary": "Brent crude oil prices surged over 6% on Thursday. Prices reached $100, a level not seen since May. Escalating conflict in the Middle East is cited as the cause.",
         "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 23 \u2022 05:40 PM"
+        "date": "Jul 23 \u2022 07:17 PM"
     },
     {
         "headline": "Saudis must recognise Israel for nuclear deal, says Trump",
-        "summary": "Donald Trump stated Saudi Arabia's nuclear energy deal hinges on recognizing Israel. The landmark agreement requires the Saudis to join the Abraham Accords. This links advanced energy cooperation to diplomatic normalization.",
+        "summary": "Former President Trump states Saudi Arabia must recognize Israel for a nuclear deal. The landmark agreement involves helping Saudis develop nuclear energy. This recognition is contingent on joining the Abraham Accords.",
         "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 23 \u2022 05:40 PM"
-    },
-    {
-        "headline": "Haigh, Rayner and Powell likely to regularly work from No 10 North",
-        "summary": "Key figures Haigh, Rayner, and Powell are expected to work regularly from No 10 North. A think tank's blueprint suggests up to 300 staff there within 18 months. This indicates a significant decentralization of government operations.",
-        "link": "https://www.bbc.co.uk/news/articles/czrjl0nev3no?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jul 23 \u2022 05:40 PM"
-    },
-    {
-        "headline": "Rayner rules out repaying severance cash after making cabinet return",
-        "summary": "Angela Rayner has refused to repay her severance cash following her return to cabinet. She received \u00a316,876 after leaving government in September 2025. The returning housing secretary maintains her stance on the payment.",
-        "link": "https://www.bbc.co.uk/news/articles/cx27mg0erd3o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Jul 23 \u2022 05:40 PM"
+        "date": "Jul 23 \u2022 07:17 PM"
     }
 ]
