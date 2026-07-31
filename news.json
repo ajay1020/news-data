@@ -1,86 +1,86 @@
 [
     {
-        "headline": "The ban on robot vacuums won\u2019t make them safer, only worse",
-        "summary": "Robot vacuums collect vast personal data, including maps, routines, cameras, and microphones. AI advancements increase privacy and security risks from these autonomous devices. A ban could worsen the problem by limiting choices and hindering future safety innovations.",
+        "headline": "Google Earth's AI deepfake tool only lasted one day",
+        "summary": "Google launched an AI tool for Google Earth. It allowed users to edit satellite images with text prompts. The feature was shut down after just one day due to misuse potential.",
+        "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+        "category": "TECH",
+        "date": "Jul 31 \u2022 07:24 PM"
+    },
+    {
+        "headline": "NHTSA investigates 1.2 million Tesla vehicles for suspension failure",
+        "summary": "The NHTSA is probing 1.2 million Tesla Model 3 and Y vehicles. Complaints allege suspension failure causing loss of control. The preliminary investigation covers 2018-2023 models.",
+        "link": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension",
+        "category": "TECH",
+        "date": "Jul 31 \u2022 07:24 PM"
+    },
+    {
+        "headline": "Google rumored to launch 'Pixel Tag' item tracker",
+        "summary": "Google appears to be developing an item tracker named 'Pixel Tag.' An image and store listing reveal an oval-shaped gadget with a speaker. It would compete directly with Apple's AirTag.",
+        "link": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
+        "category": "TECH",
+        "date": "Jul 31 \u2022 07:24 PM"
+    },
+    {
+        "headline": "Banning robot vacuums could worsen privacy and security",
+        "summary": "Robot vacuums gather extensive data on homes, including maps, routines, and sometimes camera/mic feeds. A ban might limit choices and increase prices without enhancing safety. As AI improves, privacy risks are escalating with these devices.",
         "link": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
         "category": "TECH",
-        "date": "Jul 31 \u2022 05:37 PM"
+        "date": "Jul 31 \u2022 07:24 PM"
     },
     {
-        "headline": "Tomodachi Life: Living the Dream is a quirky life sim that\u2019s worth buying at this discount",
-        "summary": "Tomodachi Life: Living the Dream for Switch is currently on sale for $52.99. It's a quirky life simulation game focused on building an island paradise with Mii characters. Players manage relationships between custom Miis, similar to a more eccentric Animal Crossing.",
-        "link": "https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale",
-        "category": "TECH",
-        "date": "Jul 31 \u2022 05:37 PM"
-    },
-    {
-        "headline": "Here\u2019s the problem with putting an AI image generator in Google Earth",
-        "summary": "AI image generators can now create fake, reality-distorting images using Google Earth data. Users can generate scenes like 'refugees near the Mexican border' or a 'bomb crater near a hospital.' Google has acknowledged the issue after these AI-altered images were publicized.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-        "category": "TECH",
-        "date": "Jul 31 \u2022 05:37 PM"
-    },
-    {
-        "headline": "The major labels propose rules to keep AI slop off the charts",
-        "summary": "Major record labels propose new rules to exclude AI-generated music from official charts. This initiative goes further than previous labeling proposals by industry bodies. The goal is to maintain chart integrity and prevent 'AI slop' from gaining legitimacy.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-        "category": "TECH",
-        "date": "Jul 31 \u2022 05:37 PM"
-    },
-    {
-        "headline": "X-Men Movie Casts Samara Weaving as the MCU's Emma Frost",
-        "summary": "Samara Weaving has reportedly been cast in the MCU X-Men movie. She will be playing the role of Emma Frost. Weaving is known for her work in 'Ready or Not.'",
-        "link": "https://www.ign.com/articles/x-men-movie-casts-samara-weaving-as-the-mcus-emma-frost",
+        "headline": "MSI Codex Z2 Gaming PC with RTX 5070 Ti drops to $1,699",
+        "summary": "Get a 4K-ready MSI Codex Z2 gaming PC for $1,699. This deal includes a significant $600 discount. The RTX 5070 Ti GPU alone typically costs $950-$1000.",
+        "link": "https://www.ign.com/articles/msi-codex-z2-rtx-5070-ti-gaming-pc-deal-july-2026",
         "category": "GAMING",
-        "date": "Jul 31 \u2022 05:37 PM"
+        "date": "Jul 31 \u2022 07:24 PM"
     },
     {
-        "headline": "Everything Coming to HBO Max in August",
-        "summary": "This article outlines new content arriving on HBO Max in August. Upcoming releases include 'Dragons and Lanterns.' Viewers can expect a fresh lineup of shows and movies.",
-        "link": "https://www.ign.com/articles/whats-new-on-hbo-max-august-2026",
+        "headline": "Multi-function power cage for home gym just $263.48",
+        "summary": "Upgrade your home gym with a complete multi-function power cage. It serves as a squat rack, lat pull-down machine, power tower, and dip bar. Priced at just $263.48 with free shipping.",
+        "link": "https://www.ign.com/articles/sportsroyals-multi-function-power-cage",
         "category": "GAMING",
-        "date": "Jul 31 \u2022 05:37 PM"
+        "date": "Jul 31 \u2022 07:24 PM"
     },
     {
-        "headline": "AMD Reportedly Plans To Raise GPU Prices, Too",
-        "summary": "AMD is reportedly planning to increase its GPU prices. An industry insider suggests a price hike of about 10%. This follows a trend of rising component costs.",
-        "link": "https://www.ign.com/articles/amd-reportedly-plans-to-raise-gpu-prices-too",
+        "headline": "Black Panther, Namor, Doom central to Marvel's 2026 'Armageddon'",
+        "summary": "Black Panther, Namor, and Doctor Doom are key to Marvel's 'Avengers: Armageddon' in 2026. The conflict is too vast for a single comic book. Expect a major spinoff series, 'Black Panther/Namor: Doomed.'",
+        "link": "https://www.ign.com/articles/how-black-panther-namor-and-doctor-doom-are-central-to-marvels-biggest-story-of-2026",
         "category": "GAMING",
-        "date": "Jul 31 \u2022 05:37 PM"
+        "date": "Jul 31 \u2022 07:24 PM"
     },
     {
-        "headline": "Cyberpunk TCG: Exclusive Reveal of Jackie Welles and Judy Alvarez Cards",
-        "summary": "Exclusive reveal of new Cyberpunk TCG cards is now available. Featured characters include Jackie Welles and Judy Alvarez. Details on their unique Legend and Unit abilities are provided.",
-        "link": "https://www.ign.com/articles/cyberpunk-tcg-jackie-welles-judy-alvarez-reveal",
+        "headline": "Save 40% on new 2026 Hisense U6 4K Fire TV",
+        "summary": "Get 40% off the new 2026 Hisense U6 4K Fire TV. Features Hi-QLED Mini-LED technology for stunning visuals. It's a top budget TV choice for 4K HDR movies and PS5 gaming.",
+        "link": "https://www.ign.com/articles/new-for-2026-hisense-u6-4k-fire-tv-deal",
         "category": "GAMING",
-        "date": "Jul 31 \u2022 05:37 PM"
+        "date": "Jul 31 \u2022 07:24 PM"
     },
     {
-        "headline": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-        "summary": "Spain's PM blames traffickers for 60,000 migrants arriving in Ceuta from Morocco. Most migrants have since returned to Morocco by Friday evening. Italy suspended its Schengen agreement on free movement with Spain in response to the crisis.",
+        "headline": "Spain's PM blames traffickers as 60,000 migrants reach Ceuta",
+        "summary": "Spain's Prime Minister blames traffickers after 60,000 migrants arrived in Ceuta from Morocco. Most migrants reportedly returned to Morocco by Friday evening. Italy has suspended its Schengen agreement with Spain.",
         "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 31 \u2022 05:37 PM"
+        "date": "Jul 31 \u2022 07:24 PM"
     },
     {
-        "headline": "Watch: Moroccan police clash with migrants near border with Spain's Ceuta",
-        "summary": "Moroccan police clashed with migrants near the Spanish territory of Ceuta. Thousands of migrants had reached Ceuta from Morocco. Over 25,000 migrants have voluntarily returned to Morocco.",
+        "headline": "Moroccan police clash with migrants near Ceuta border",
+        "summary": "Moroccan police clashed with migrants attempting to cross into Spain's Ceuta. Over 25,000 migrants have voluntarily returned. The incident highlights ongoing border tensions.",
         "link": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 31 \u2022 05:37 PM"
+        "date": "Jul 31 \u2022 07:24 PM"
     },
     {
-        "headline": "'If that means I lose my job, so be it': Top Fifa official questions Infantino's World Cup plan",
-        "summary": "A senior Fifa official strongly criticized President Gianni Infantino's World Cup plan. Infantino proposes selling stakes in Fifa competitions to private investors. The official expressed willingness to lose their job over their opposition to the plan.",
+        "headline": "Top Fifa official questions Infantino's World Cup plan",
+        "summary": "A senior Fifa official strongly criticizes Gianni Infantino's plan to sell stakes in competitions. The official stated he's willing to lose his job over his opposition. This reveals significant internal dissent within Fifa.",
         "link": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 31 \u2022 05:37 PM"
+        "date": "Jul 31 \u2022 07:24 PM"
     },
     {
-        "headline": "Disgraced funeral boss who failed to bury bodies jailed for 20 years",
-        "summary": "Funeral director Robert Bush has been sentenced to 20 years in jail. He was convicted for failing to bury and cremate bodies. Bush also provided bereaved relatives with the ashes of strangers.",
-        "link": "https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&at_campaign=rss",
+        "headline": "Families say 20-year sentence not enough for funeral director Robert Bush",
+        "summary": "Families react to the 20-year sentence given to funeral director Robert Bush. They express that no sentence is long enough for his crimes. The case has deeply affected the victims' families.",
+        "link": "https://www.bbc.co.uk/news/articles/cre4nlez9nyo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Jul 31 \u2022 05:37 PM"
+        "date": "Jul 31 \u2022 07:24 PM"
     }
 ]
