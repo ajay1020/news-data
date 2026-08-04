@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Now you can securely link multiple phones to one Signal account",
+        "summary": "Signal now allows linking multiple phones (Android/iPhone) to a single account. This expands on existing support for PCs and iPads. Users can now check and respond to messages across all linked mobile devices.",
+        "link": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
+        "category": "TECH",
+        "date": "Aug 04 \u2022 11:03 PM"
+    },
+    {
+        "headline": "AMD's datacenter business is booming while gaming takes a backseat",
+        "summary": "AMD's datacenter revenue more than doubled year-over-year, reaching $6.7 billion. This surge is primarily driven by high demand for AI capacity. Gaming revenue now takes a secondary role compared to the booming AI sector.",
+        "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+        "category": "TECH",
+        "date": "Aug 04 \u2022 11:03 PM"
+    },
+    {
+        "headline": "SpaceX made more revenue as an AI company than a space company",
+        "summary": "SpaceX's AI revenue tripled to $2.6 billion, surpassing its traditional space ventures. Growth comes from providing compute to other AI companies. The AI division is a major revenue source for the company.",
+        "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+        "category": "TECH",
+        "date": "Aug 04 \u2022 11:03 PM"
+    },
+    {
         "headline": "EA is now a private company",
-        "summary": "Electronic Arts has officially become a private company. A $55 billion deal, led by Saudi Arabia's PIF, successfully closed. The PIF will reportedly own 93.4% of the gaming giant.",
+        "summary": "Electronic Arts has officially transitioned to a private company. The move follows a $55 billion deal led by Saudi Arabia's PIF and other investors. The PIF will reportedly own a significant 93.4% stake in EA.",
         "link": "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
         "category": "TECH",
-        "date": "Aug 04 \u2022 09:12 PM"
+        "date": "Aug 04 \u2022 11:03 PM"
     },
     {
-        "headline": "Telegram CEO blames extortionist for App Store removal",
-        "summary": "Telegram was temporarily removed from Apple's App Store. CEO Pavel Durov claims an extortionist planted CSAM in a public chat. Durov warns this creates a potential systemic risk for apps.",
-        "link": "https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov",
-        "category": "TECH",
-        "date": "Aug 04 \u2022 09:12 PM"
-    },
-    {
-        "headline": "OpenAI influencer trip sparks backlash",
-        "summary": "An OpenAI influencer trip has backfired, causing controversy. It drew criticism from uninvited influencers and the public. Such trips can project frivolousness and trigger hard feelings.",
-        "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-        "category": "TECH",
-        "date": "Aug 04 \u2022 09:12 PM"
-    },
-    {
-        "headline": "Lenovo Legion Go S with SteamOS at lowest price ever",
-        "summary": "The Lenovo Legion Go S with SteamOS is now at its lowest price. This handheld gaming device features a Z2 Go processor. Memory and storage prices are inflated, making this a good deal.",
-        "link": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
-        "category": "TECH",
-        "date": "Aug 04 \u2022 09:12 PM"
-    },
-    {
-        "headline": "Hope for Xbox Project Helix as a premium gaming PC",
-        "summary": "The author hopes Xbox Project Helix launches as a premium gaming PC. This strategy could help combat rising hardware costs. Microsoft is urged to double down on a high-end PC approach.",
-        "link": "https://www.ign.com/articles/i-hope-xbox-project-helix-is-still-a-gaming-pc-when-it-launches",
+        "headline": "Spider-Man: Brand New Day Reportedly Cut a Scene With a Fan-Favorite Daredevil Character And It Might've Fixed a Plot Hole",
+        "summary": "Spider-Man: Brand New Day reportedly cut a scene featuring a popular Daredevil character. This deleted scene could have potentially resolved a minor plot hole. The movie almost included more MCU cameos.",
+        "link": "https://www.ign.com/articles/spider-man-brand-new-day-reportedly-cut-a-scene-with-a-fan-favorite-daredevil-character-and-it-mightve-fixed-a-plot-hole",
         "category": "GAMING",
-        "date": "Aug 04 \u2022 09:12 PM"
+        "date": "Aug 04 \u2022 11:03 PM"
     },
     {
-        "headline": "Proton VPN 2-year plan discounted 70%",
-        "summary": "Proton VPN is offering a massive 70% discount. Its 2-year plan is now available for just $2.99. This makes the 'best VPN' significantly more affordable.",
-        "link": "https://www.ign.com/articles/protonvpn-vpn-deal-august-2026",
+        "headline": "Tom Holland and Zendaya Are On an Unprecedented Box Office Run",
+        "summary": "Tom Holland and Zendaya are experiencing an exceptional box office streak. Their roles in Spider-Man: Brand New Day and The Odyssey contribute to their success. They are projected to set astonishing box office records this year.",
+        "link": "https://www.ign.com/articles/tom-holland-and-zendaya-are-on-an-unprecedented-box-office-run",
         "category": "GAMING",
-        "date": "Aug 04 \u2022 09:12 PM"
+        "date": "Aug 04 \u2022 11:03 PM"
     },
     {
-        "headline": "JSAUX Nintendo Switch 2 case holds console and dock for under $15",
-        "summary": "A JSAUX carrying case for the Nintendo Switch 2 is available. It fits both the console and its docking station. The case is priced affordably at less than $15.",
-        "link": "https://www.ign.com/articles/jsaux-nintendo-switch-2-carrying-case-deal",
+        "headline": "Halo: Campaign Evolved Reportedly Had a Troubled Development That Impacted a Now-Canceled Multiplayer Project",
+        "summary": "Halo: Campaign Evolved experienced a difficult development period. These issues negatively affected a related, now-canceled multiplayer project. The report details the troubled production of the game.",
+        "link": "https://www.ign.com/articles/halo-campaign-evolved-reportedly-had-a-troubled-development-that-impacted-a-now-canceled-multiplayer-project",
         "category": "GAMING",
-        "date": "Aug 04 \u2022 09:12 PM"
+        "date": "Aug 04 \u2022 11:03 PM"
     },
     {
-        "headline": "FF7 director connects spin-offs to Revelation's ending",
-        "summary": "Naoki Hamaguchi confirms more Final Fantasy VII spin-offs will tie into Revelation's ending. The director emphasizes connecting the games to the Advent Children film. This aims to unify the FF7 universe's narrative.",
-        "link": "https://www.ign.com/articles/naoki-hamaguchi-doubles-down-on-connecting-all-final-fantasy-vii-spinoffs-into-revelations-ending",
+        "headline": "Oded Fehr Gives First Look at Ardeth Bay in The Mummy 4",
+        "summary": "Oded Fehr shared a first look at his character, Ardeth Bay, for The Mummy 4. Fehr is reprising his role as the fan-favorite character. Fans get a sneak peek at Ardeth Bay's return after many years.",
+        "link": "https://www.ign.com/articles/oded-fehr-gives-first-look-at-ardeth-bay-in-the-mummy-4",
         "category": "GAMING",
-        "date": "Aug 04 \u2022 09:12 PM"
+        "date": "Aug 04 \u2022 11:03 PM"
     },
     {
-        "headline": "Russian drone hunts Ukrainian street vendor in 'human safari'",
-        "summary": "A video shows a Russian drone chasing a terrified Ukrainian street vendor. Ukraine condemned the 'human safari' attack as a war crime. The civilian was hounded by the remotely-controlled drone.",
+        "headline": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+        "summary": "A video depicts a Russian drone pursuing a Ukrainian street vendor. Ukraine condemned the incident as a 'human safari' war crime. The civilian was reportedly hounded by the remotely-controlled drone.",
         "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 04 \u2022 09:12 PM"
+        "date": "Aug 04 \u2022 11:03 PM"
     },
     {
-        "headline": "170+ migrants rescued after Channel boat fire",
-        "summary": "Over 170 migrants were rescued after their boat caught fire in the Channel. They were attempting to cross to the UK. The government states all migrants will be returned to France.",
+        "headline": "More than 170 migrants rescued after boat catches fire in Channel",
+        "summary": "Over 170 migrants were rescued after their boat caught fire in the Channel. They were attempting to cross to the UK from France. The UK government states all migrants will be returned to France.",
         "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 04 \u2022 09:12 PM"
+        "date": "Aug 04 \u2022 11:03 PM"
     },
     {
-        "headline": "Afghan boxer arrested in Greece over suitcase body discovery",
-        "summary": "Afghan boxer Sharif Ahmadzai has been arrested in Greece. He is linked to the discovery of a Scottish woman's body. The body was found inside a suitcase, leading to his arrest.",
+        "headline": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+        "summary": "An Afghan boxer was arrested in Greece in connection with a Scottish woman's death. Her body was discovered inside a suitcase. Sharif Ahmadzai is expected to appear in an Athens court soon.",
         "link": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 04 \u2022 09:12 PM"
+        "date": "Aug 04 \u2022 11:03 PM"
     },
     {
-        "headline": "Oil prices drop on hopes for Strait of Hormuz reopening",
-        "summary": "Oil prices have fallen amid hopes the Strait of Hormuz could reopen. US officials announced progress in talks to resume shipments. Reopening the strait could stabilize global oil supplies.",
+        "headline": "Oil prices fall on hopes Strait of Hormuz could reopen",
+        "summary": "Oil prices are falling amidst hopes for the reopening of the Strait of Hormuz. US officials announced progress in talks to resume shipments. This development could ease global oil supply concerns.",
         "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 04 \u2022 09:12 PM"
+        "date": "Aug 04 \u2022 11:03 PM"
     }
 ]
