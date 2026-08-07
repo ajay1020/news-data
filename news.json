@@ -1,86 +1,86 @@
 [
     {
+        "headline": "What's behind the Google AI shakeup",
+        "summary": "Google's AI team recently saw significant personnel changes. Legendary Googler Jeff Dean is among those who have left. This shakeup raises questions as Google's AI models are highly competitive.",
+        "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+        "category": "TECH",
+        "date": "Aug 07 \u2022 04:54 PM"
+    },
+    {
+        "headline": "Sony could release a cheaper version of its WH-1000XM4 headphones, according to leaks",
+        "summary": "Sony may launch a more affordable version of its WH-1000XM4 headphones. This follows the recent release of its expensive Collexion headphones. The rumored headphones promise similar performance at a lower price.",
+        "link": "https://www.theverge.com/tech/976735/sony-wireless-headphones-anc-wh-1000xm4c-leak",
+        "category": "TECH",
+        "date": "Aug 07 \u2022 04:54 PM"
+    },
+    {
+        "headline": "Birdfy's smart bird feeder is on sale for just $60",
+        "summary": "The Birdfy Feeder Rookie smart bird feeder is now available for $59.99. This sale price is close to its lowest point ever. It's an excellent option for new birdwatchers or those on a budget.",
+        "link": "https://www.theverge.com/gadgets/976422/birdfy-feeder-rookie-nothing-headphones-deal-sale",
+        "category": "TECH",
+        "date": "Aug 07 \u2022 04:54 PM"
+    },
+    {
         "headline": "Samsung's Z Fold 8 Ultra is more of the same, but better than ever",
-        "summary": "Samsung launches the Z Fold 8 Ultra, a new flagship foldable. It features a distinct thin outer screen and square inner panel. This 'Ultra' model offers subtle refinements over previous Folds.",
+        "summary": "Samsung's Z Fold 8 Ultra is its first foldable with the 'Ultra' name. It retains the signature thin outer and square inner screen design. The device offers improved performance while sticking to a familiar form factor.",
         "link": "https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review",
         "category": "TECH",
-        "date": "Aug 07 \u2022 02:52 PM"
+        "date": "Aug 07 \u2022 04:54 PM"
     },
     {
-        "headline": "Werewolf transformed my old gadgets into USB-C powered ones",
-        "summary": "\"Werewolf\" is a new gadget that brings USB-C power to old electronics. It allows powering legacy devices like monitors or SNES consoles via USB batteries. This eliminates the need for original AC adapters.",
-        "link": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
-        "category": "TECH",
-        "date": "Aug 07 \u2022 02:52 PM"
+        "headline": "Take-Two CEO Strauss Zelnick Won't Rule Out GTA 6 on Disc at Some Point, Insists Decision Had Nothing to Do With Concern Over Leaks",
+        "summary": "Take-Two CEO Strauss Zelnick hasn't ruled out a future physical release for GTA 6. He denies the digital-only launch was due to concerns over leaks. This follows the surprise decision against an on-disc release at launch.",
+        "link": "https://www.ign.com/articles/take-two-ceo-strauss-zelnick-wont-rule-out-gta-6-on-disc-at-some-point-insists-decision-had-nothing-to-do-with-concern-over-leaks",
+        "category": "GAMING",
+        "date": "Aug 07 \u2022 04:54 PM"
     },
     {
-        "headline": "The best classic slasher movie you'll never watch",
-        "summary": "This article explores a fictional yet iconic horror franchise, \"Camp Miasma\" (1980). It details its numerous sequels, arcade games, and extensive merchandise. A deep dive into a slasher classic that never truly existed.",
-        "link": "https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design",
-        "category": "TECH",
-        "date": "Aug 07 \u2022 02:52 PM"
+        "headline": "Pricing Has Not Kept Pace With Inflation \u2014 Take-Two Boss Insists Rockstar Got GTA 6 Standard and Ultimate Edition Price Points Right",
+        "summary": "GTA 6's standard edition costs $80, a $10 increase from typical AAA games. Take-Two CEO Strauss Zelnick justifies the price hike due to inflation. He believes Rockstar priced both standard and ultimate editions correctly.",
+        "link": "https://www.ign.com/articles/pricing-has-not-kept-pace-with-inflation-take-two-boss-insists-rockstar-got-gta-6-standard-and-ultimate-edition-price-points-right",
+        "category": "GAMING",
+        "date": "Aug 07 \u2022 04:54 PM"
     },
     {
-        "headline": "Why does Apple keep banning Telegram, but never X?",
-        "summary": "Telegram briefly vanished from the Apple App Store this week. The article questions Apple's inconsistent enforcement against major apps. It highlights Telegram's role for over a billion users globally.",
-        "link": "https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations",
-        "category": "TECH",
-        "date": "Aug 07 \u2022 02:52 PM"
+        "headline": "Fortnite is Keeping Sprites for Next Season, a Gaming-Themed Crossover Expected to Feature Sonic, Persona and Tetris",
+        "summary": "Fortnite's popular Sprites feature will continue into the game's next season. The upcoming season is expected to be gaming-themed. Crossovers with Sonic, Persona, and Tetris are anticipated.",
+        "link": "https://www.ign.com/articles/fortnite-is-keeping-sprites-for-next-season-a-gaming-themed-crossover-expected-to-feature-sonic-persona-and-tetris",
+        "category": "GAMING",
+        "date": "Aug 07 \u2022 04:54 PM"
     },
     {
         "headline": "Take-Two Boss Defends No Disc Version of GTA 6, Equates Physical Releases to Vinyl Records",
-        "summary": "Take-Two's Strauss Zelnick defends GTA 6's digital-only release. He argues physical discs are largely obsolete for major game consumers. Zelnick compares physical games to niche vinyl records.",
+        "summary": "Take-Two CEO Strauss Zelnick defended the digital-only launch of GTA 6. He argues physical discs 'don't really make sense for the consumer.' Zelnick controversially compared physical releases to vinyl records.",
         "link": "https://www.ign.com/articles/take-two-boss-defends-no-disc-version-of-gta-6-equates-physical-releases-to-vinyl-records",
         "category": "GAMING",
-        "date": "Aug 07 \u2022 02:52 PM"
-    },
-    {
-        "headline": "Jim Lee's Iconic X-Men Art Shines in Marvel Artist Archive Hardcover",
-        "summary": "A new \"Marvel Artist Archive\" hardcover celebrates Jim Lee's X-Men art. Get an exclusive look inside the massive collection. It highlights Lee's iconic 1990s contributions to the X-Men universe.",
-        "link": "https://www.ign.com/articles/marvel-artist-archive-jim-lee-x-men-hardcover",
-        "category": "GAMING",
-        "date": "Aug 07 \u2022 02:52 PM"
-    },
-    {
-        "headline": "Amazon Knocks $10 off Physical Nintendo Switch Sports Resort Preorders",
-        "summary": "Amazon is offering a $10 discount on Nintendo Switch Sports Resort preorders. This deal matches the digital pricing for the physical version. The game is slated for an October release this year.",
-        "link": "https://www.ign.com/articles/nintendo-switch-sports-resort-preorder-deal-amazon",
-        "category": "GAMING",
-        "date": "Aug 07 \u2022 02:52 PM"
-    },
-    {
-        "headline": "LEGO Harry Potter Celebrates 25 Years With Ministry of Magic Set, and The First-Ever Minifigure of a Specific Character",
-        "summary": "LEGO Harry Potter marks 25 years with a new Ministry of Magic set. The set introduces the first-ever Arabella Figg Minifigure. This release is a major celebration for fans of the magical theme.",
-        "link": "https://www.ign.com/articles/lego-harry-potter-celebrates-25-years-with-ministry-of-magic-set-and-the-first-ever-minifigure-of-a-specific-character",
-        "category": "GAMING",
-        "date": "Aug 07 \u2022 02:52 PM"
-    },
-    {
-        "headline": "Serial sex offender guilty of murdering two women and raping third",
-        "summary": "Serial sex offender Simon Levy has been found guilty. He murdered two women and raped a third. Levy was under police monitoring at the time of his crimes.",
-        "link": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Aug 07 \u2022 02:52 PM"
+        "date": "Aug 07 \u2022 04:54 PM"
     },
     {
         "headline": "How police let a registered sex offender murder and attack women",
-        "summary": "A Met officer admits a second murder victim, Sheryl Wilkins, could have been saved. The article details systemic failures in police monitoring of Simon Levy. It raises serious questions about police accountability.",
+        "summary": "A senior Met officer admitted Sheryl Wilkins' murder by Simon Levy could have been prevented. Levy was a registered sex offender under police monitoring. The case highlights serious failings in police oversight.",
         "link": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 07 \u2022 02:52 PM"
+        "date": "Aug 07 \u2022 04:54 PM"
+    },
+    {
+        "headline": "Serial sex offender guilty of murdering two women and raping third",
+        "summary": "Simon Levy, a serial sex offender, has been found guilty of two murders and one rape. He was actively being monitored by the Metropolitan Police. The verdict concludes a horrific case of police oversight failure.",
+        "link": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Aug 07 \u2022 04:54 PM"
     },
     {
         "headline": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
-        "summary": "Cambridge University is launching a review of its senior academic hiring. This follows the high-profile resignation of Professor Jason Arday. Critics are concerned about the university's self-review process.",
+        "summary": "Cambridge University will review its senior academic hiring process. This follows the resignation of Professor Jason Arday. A group member criticized the university for 'marking its own homework.'",
         "link": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 07 \u2022 02:52 PM"
+        "date": "Aug 07 \u2022 04:54 PM"
     },
     {
-        "headline": "Seven killed after teen shooter opens fire at home and school in Thailand",
-        "summary": "A tragic shooting in Thailand claims seven lives. A teenage gunman killed his grandparents at home. He then attacked his school, killing five teachers.",
-        "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+        "headline": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+        "summary": "A US appeals court halted a Trump ballroom project. The court stated Congress should decide on such a 'massive ballroom.' This decision could lead to a Supreme Court challenge.",
+        "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 07 \u2022 02:52 PM"
+        "date": "Aug 07 \u2022 04:54 PM"
     }
 ]
