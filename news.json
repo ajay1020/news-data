@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Dropbox is a PC builder\u2019s best friend",
+        "summary": "Dropbox provides crucial data backup for PC builders. It prevents catastrophic loss of locally stored work. Essential for protecting reputation and large projects.",
+        "link": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+        "category": "TECH",
+        "date": "Aug 09 \u2022 02:34 PM"
+    },
+    {
         "headline": "AI detectors are creating a new era of distrust",
-        "summary": "AI writing detectors are fostering suspicion and mistrust among users. These tools existed before ChatGPT but are now creating a new era of distrust. The article explores how this technology impacts daily lives and professional environments.",
+        "summary": "AI writing detectors are fostering widespread suspicion. The technology predates ChatGPT but its impact is growing. This new era of distrust affects daily digital interactions.",
         "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
         "category": "TECH",
-        "date": "Aug 09 \u2022 12:50 PM"
+        "date": "Aug 09 \u2022 02:34 PM"
     },
     {
         "headline": "X replaces its revenue-sharing program with \u2018Original Content Rewards\u2019",
-        "summary": "X (formerly Twitter) is ending its controversial revenue-sharing program for creators. A new 'Original Content Rewards' program will launch on September 8th. Creators must meet new eligibility criteria, including 500 verified followers and significant impressions.",
+        "summary": "X is replacing its creator revenue-sharing program. A new 'Original Content Rewards' program launches September 8th. Creators need 500+ verified followers and 500k+ Home Timeline impressions to qualify.",
         "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
         "category": "TECH",
-        "date": "Aug 09 \u2022 12:50 PM"
+        "date": "Aug 09 \u2022 02:34 PM"
     },
     {
         "headline": "An Amazon data center could have the worst polluting power plant in the country",
-        "summary": "Amazon is investing in a new power plant for its West Texas data center. This gas-burning plant could become one of the largest greenhouse gas producers in the US. Environmental concerns are being raised about the project's potential impact.",
+        "summary": "Amazon is funding a new power plant for its West Texas data center. This plant could become one of the largest US greenhouse gas producers. Concerns rise over Amazon's environmental impact from its energy demands.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
         "category": "TECH",
-        "date": "Aug 09 \u2022 12:50 PM"
+        "date": "Aug 09 \u2022 02:34 PM"
     },
     {
-        "headline": "Buc-ee\u2019s dodges John Oliver to sue another small business",
-        "summary": "Buc-ee's, known for suing small businesses, avoided a challenge from John Oliver. Oliver dared the company to sue him over his squirrel mascot merch. Instead, Buc-ee's has sued another small gas station, continuing its legal pattern.",
-        "link": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
-        "category": "TECH",
-        "date": "Aug 09 \u2022 12:50 PM"
-    },
-    {
-        "headline": "Take-Two Boss Teases GTA VI Extended Look on Netflix",
-        "summary": "Take-Two CEO Strauss Zelnick teased an 'extended look' for Grand Theft Auto VI. He strongly suggested Netflix subscribers 'definitely should be' ready for it. This hints at a major reveal or partnership between the game and Netflix.",
+        "headline": "'If You're Not a Netflix Subscriber, You Definitely Should Be' \u2014 Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
+        "summary": "Take-Two's CEO teases an 'Extended Look' at Grand Theft Auto VI. He hints at a Netflix reveal for the highly anticipated game. Zelnick urges potential viewers to subscribe to Netflix.",
         "link": "https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look",
         "category": "GAMING",
-        "date": "Aug 09 \u2022 12:50 PM"
+        "date": "Aug 09 \u2022 02:34 PM"
     },
     {
-        "headline": "Mortal Kombat Director Uncertain About Third Movie Return",
-        "summary": "Mortal Kombat movie director Simon McQuoid is 'not sure' if he will return for a third film. Work on Mortal Kombat 3 currently remains in limbo. This casts doubt on the future direction of the movie franchise.",
+        "headline": "Mortal Kombat Director 'Not Sure' About Return for Third Movie as Mortal Kombat 3 Remains in Limbo",
+        "summary": "Mortal Kombat movie director Simon McQuoid is uncertain about returning. A third Mortal Kombat film remains in development limbo. McQuoid's involvement hangs in the balance, causing fan speculation.",
         "link": "https://www.ign.com/articles/mortal-kombat-director-not-sure-about-return-for-third-movie-as-mortal-kombat-3-remains-in-limbo",
         "category": "GAMING",
-        "date": "Aug 09 \u2022 12:50 PM"
+        "date": "Aug 09 \u2022 02:34 PM"
     },
     {
-        "headline": "Freddy Fazbear's Pizza Permanent Location Opening in 2027",
-        "summary": "A permanent Freddy Fazbear's Pizza location is set to open by 2027. It will feature animatronic stage shows, bringing the game to life. This project is a collaboration between Five Nights at Freddy's and American Dream entertainment center.",
+        "headline": "Freddy Fazbear's Pizza Opening Permanent Location Featuring Animatronic Stage Shows in 2027",
+        "summary": "Freddy Fazbear's Pizza is opening a permanent physical location. It will feature animatronic stage shows, mirroring the game. The attraction is set to open in 2027 at American Dream.",
         "link": "https://www.ign.com/articles/freddy-fazbears-pizza-opening-permanent-location-featuring-animatronic-stage-shows-in-2027",
         "category": "GAMING",
-        "date": "Aug 09 \u2022 12:50 PM"
+        "date": "Aug 09 \u2022 02:34 PM"
     },
     {
-        "headline": "Doom Dev Blasts Xbox After id Software Layoffs",
-        "summary": "Lead services programmer Chris Hays criticized Xbox following layoffs at Doom developer id Software. Hays stated Xbox 'fundamentally don't understand art' in relation to the cuts. The layoffs impacted the studio in July, prompting strong reactions.",
-        "link": "https://www.ign.com/articles/they-fundamentally-don't-understand-art-doom-dev-blasts-xbox-after-microsoft-gutted-id-software-with-layoffs",
+        "headline": "'They Fundamentally Don't Understand Art' \u2014 Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs",
+        "summary": "A Doom developer criticizes Xbox after recent id Software layoffs. Lead programmer Chris Hays claims Xbox 'doesn't understand art.' Layoffs in July severely impacted the renowned game studio.",
+        "link": "https://www.ign.com/articles/they-fundamentally-dont-understand-art-doom-dev-blasts-xbox-after-microsoft-gutted-id-software-with-layoffs",
         "category": "GAMING",
-        "date": "Aug 09 \u2022 12:50 PM"
+        "date": "Aug 09 \u2022 02:34 PM"
     },
     {
-        "headline": "Israel Rejects Trump's Gaza Plan, Netanyahu Confirms",
-        "summary": "Israeli Prime Minister Netanyahu has rejected Donald Trump's 15-point plan for Gaza. Netanyahu stated Israel's military would not withdraw until Hamas is genuinely disarmed. This stance underscores Israel's commitment to its security objectives in the region.",
+        "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "summary": "Israeli PM Netanyahu rejected Trump's 15-point plan for Gaza. Israel's military will remain in Gaza until Hamas is disarmed. Netanyahu emphasizes genuine disarmament as a condition for withdrawal.",
         "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 09 \u2022 12:50 PM"
+        "date": "Aug 09 \u2022 02:34 PM"
     },
     {
-        "headline": "Suspected Crime Boss Daniel Kinahan Extradited to Ireland",
-        "summary": "Suspected crime boss Daniel Kinahan is being extradited from Dubai to Ireland. The operation involves high-security measures to ensure his transport. The Irish Prison Service acquired a specialized bulletproof and bombproof van for his journey.",
+        "headline": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+        "summary": "Suspected crime boss Daniel Kinahan is being extradited to Ireland. He will be transported in a bulletproof and bombproof van. The high-security operation follows his extradition from Dubai.",
         "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 09 \u2022 12:50 PM"
+        "date": "Aug 09 \u2022 02:34 PM"
     },
     {
-        "headline": "Andy Burnham Launches UK Cost of Living Tour",
-        "summary": "Andy Burnham is set to embark on a UK-wide tour to address the cost of living crisis. No 10 stated the Prime Minister's plans aim to 'give people some room to breathe.' Opposition figures, however, accuse the government of 'hypocrisy' on the issue.",
+        "headline": "More areas of UK likely to move into drought as fifth heatwave builds",
+        "summary": "More UK areas face potential drought as a fifth heatwave approaches. No significant rainfall is forecast for the coming week. Experts warn of escalating drought status across England.",
+        "link": "https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Aug 09 \u2022 02:34 PM"
+    },
+    {
+        "headline": "Andy Burnham to embark on cost of living tour through the UK",
+        "summary": "Andy Burnham plans a UK tour focused on the cost of living crisis. No 10 states PM's plans aim to provide 'room to breathe.' Opposition figures accuse the PM of 'hypocrisy.'",
         "link": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 09 \u2022 12:50 PM"
-    },
-    {
-        "headline": "Weight-Loss Drugs Impact Alcohol Cravings, Users Report",
-        "summary": "Weight-loss medications are significantly altering users' relationship with alcohol. Many individuals report their cravings for alcohol have disappeared completely. Some users experience nausea or strong aversion when attempting to drink alcohol.",
-        "link": "https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Aug 09 \u2022 12:50 PM"
+        "date": "Aug 09 \u2022 02:34 PM"
     }
 ]
