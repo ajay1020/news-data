@@ -1,86 +1,58 @@
 [
     {
-        "headline": "Google\u2019s free streaming service now lets you pick shows and movies to watch",
-        "summary": "Google TV Freeplay now offers video on demand. Users can choose from over 10,000 shows and movies. This expands beyond its previous always-on channels.",
-        "link": "https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand",
-        "category": "TECH",
-        "date": "Aug 11 \u2022 07:01 PM"
-    },
-    {
-        "headline": "Another OpenAI executive takes off",
-        "summary": "Brad Lightcap, OpenAI's special projects lead and former COO, has departed the company. He announced his exit after an eight-year tenure. Lightcap plans to start \"something new.\"",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-        "category": "TECH",
-        "date": "Aug 11 \u2022 07:01 PM"
-    },
-    {
-        "headline": "The budget-friendly Pixel Buds 2a are even cheaper right now",
-        "summary": "Google Pixel Buds 2a are currently discounted to $99 from $129. These earbuds are ideal for Android phones. They offer a lightweight fit and come in four colors.",
-        "link": "https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale",
-        "category": "TECH",
-        "date": "Aug 11 \u2022 07:01 PM"
-    },
-    {
-        "headline": "Google\u2019s upcoming Pixel phones are for the fans, even if its launch event isn\u2019t",
-        "summary": "Google's new Pixel phones are designed to appeal to power users. This year's launch event is expected to be more technical. Fans anticipate specific features like a notification LED.",
-        "link": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led",
-        "category": "TECH",
-        "date": "Aug 11 \u2022 07:01 PM"
-    },
-    {
-        "headline": "Today\u2019s Top Deals: LEGO Bonsai Trees, Borderlands 4 for PS5, and Switch 2 MicroSD Express Cards",
-        "summary": "Discover top deals on LEGO Bonsai Trees. Find Borderlands 4 for PS5 among today's offers. Also featured are Switch 2 MicroSD Express Cards.",
-        "link": "https://www.ign.com/articles/best-deals-for-august-11-2026",
+        "headline": "Crimson Desert Dev Conducting 'Extensive Research' on Multiplayer Modes, Plots Potential Sequels",
+        "summary": "Pearl Abyss is exploring multiplayer modes for Crimson Desert. A Nintendo Switch 2 launch window is targeted. Potential sequels for the action RPG are being discussed.",
+        "link": "https://www.ign.com/articles/crimson-desert-dev-conducting-extensive-research-on-multiplayer-modes-plots-potential-sequels",
         "category": "GAMING",
-        "date": "Aug 11 \u2022 07:01 PM"
+        "date": "Aug 11 \u2022 08:42 PM"
     },
     {
-        "headline": "Bethesda Finally Confirms The Elder Scrolls IV: Oblivion Remastered Patch Is Coming",
-        "summary": "Bethesda confirmed a patch is coming for The Elder Scrolls IV: Oblivion Remastered. The announcement follows the Nintendo Switch 2 version's release. No specific release date for the patch was provided.",
-        "link": "https://www.ign.com/articles/bethesda-finally-confirms-the-elder-scrolls-iv-oblivion-remastered-patch-is-coming",
+        "headline": "Intel Gamer Days Sale Offers Gaming PC Deals with Two Free Upcoming PC Games",
+        "summary": "Intel Gamer Days Sale features top Walmart gaming PC deals. Purchases include two free, high-value PC games. These bonus games are worth $59.99 each at launch.",
+        "link": "https://www.ign.com/articles/intel-gamer-days-sale-2026-best-walmart-gaming-pc-deals",
         "category": "GAMING",
-        "date": "Aug 11 \u2022 07:01 PM"
+        "date": "Aug 11 \u2022 08:42 PM"
     },
     {
-        "headline": "Nvidia's Price Increases Are Live, As RTX 5060 Ti Jumps to Over $800",
-        "summary": "Nvidia's new price increases have officially gone live. The RTX 5060 Ti graphics card now costs over $800. This impacts PC builders and gamers looking for new hardware.",
-        "link": "https://www.ign.com/articles/nvidias-price-increases-are-live-as-rtx-5060-ti-jumps-to-over-800",
+        "headline": "House of the Dragon Showrunner Reveals His Iron Throne Choice",
+        "summary": "Ryan Condal, showrunner, shares his pick for the Iron Throne. He believes his choice would bring Westeros stability. The revelation details which character is best suited to rule.",
+        "link": "https://www.ign.com/articles/house-of-the-dragon-showrunner-iron-throne-choice",
         "category": "GAMING",
-        "date": "Aug 11 \u2022 07:01 PM"
+        "date": "Aug 11 \u2022 08:42 PM"
     },
     {
-        "headline": "More Lord of the Rings Remasters Are in the Works Following War in the North Re-Release, Confirms Aspyr",
-        "summary": "Aspyr confirms plans for more Lord of the Rings game remasters. This follows the recent re-release of War in the North. Further details on specific titles are awaited.",
-        "link": "https://www.ign.com/articles/more-lord-of-the-rings-remasters-are-in-the-works-following-war-in-the-north-re-release-confirms-aspyr",
+        "headline": "CyberPowerPC Prebuilt Gaming PC with RTX 5070 for $1,399",
+        "summary": "A CyberPowerPC prebuilt gaming PC is available for $1,399 shipped. It features a powerful GeForce RTX 5070 GPU. Comes with two free upcoming PC games: Star Wars Galactic Racer and Tomb Raider: Legacy of Atlantis.",
+        "link": "https://www.ign.com/articles/cyberpowerpc-geforce-rtx-5070-gaming-pc-deal-august-2026",
         "category": "GAMING",
-        "date": "Aug 11 \u2022 07:01 PM"
+        "date": "Aug 11 \u2022 08:42 PM"
     },
     {
-        "headline": "Summer 2026 on course to be UK's hottest on record, says Met Office",
-        "summary": "The Met Office predicts Summer 2026 will be the UK's hottest on record. Only average August conditions are needed to break last year's record. This highlights a continuing trend of rising temperatures.",
+        "headline": "Summer 2026 Set to Be UK's Hottest on Record",
+        "summary": "The Met Office predicts Summer 2026 will be the UK's hottest on record. Only average temperatures are needed for the rest of August. This will surpass the record set just last year.",
         "link": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 11 \u2022 07:01 PM"
+        "date": "Aug 11 \u2022 08:42 PM"
     },
     {
-        "headline": "Burnham 'confident' early release of PC Harper's killers can be halted",
-        "summary": "The Prime Minister is confident in halting early releases for serious offenders. The justice secretary will present a plan in September. This addresses public concern over such cases as PC Harper's killers.",
+        "headline": "Burnham 'Confident' Early Release of PC Harper's Killers Can Be Halted",
+        "summary": "Burnham expresses confidence in halting the early release of PC Harper's killers. The Prime Minister states the justice secretary will present a plan. The plan in September aims to prevent further early releases.",
         "link": "https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 11 \u2022 07:01 PM"
+        "date": "Aug 11 \u2022 08:42 PM"
     },
     {
-        "headline": "Eclipse chasers scramble for glasses as stocks run low",
-        "summary": "Demand for specialist eclipse glasses has surged. Stocks are nearly sold out online across the UK. This is ahead of the country's most significant eclipse since 1999.",
+        "headline": "Eclipse Chasers Scramble for Glasses Amid Low Stocks",
+        "summary": "Specialist eclipse glasses are nearly sold out online. Demand is high ahead of the UK's most significant eclipse since 1999. Enthusiasts are struggling to find protective eyewear.",
         "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 11 \u2022 07:01 PM"
+        "date": "Aug 11 \u2022 08:42 PM"
     },
     {
-        "headline": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
-        "summary": "US media reports suggest Trump secretly left Air Force One via a catering truck. This was reportedly to avoid a life threat from Iran. The BBC provides a video for viewers to watch.",
+        "headline": "Watch: Was Trump Secretly Smuggled Off Air Force One?",
+        "summary": "US media reports suggest Trump secretly exited Air Force One. He reportedly used a catering truck to avoid a perceived threat. The threat to his life was allegedly from Iran.",
         "link": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 11 \u2022 07:01 PM"
+        "date": "Aug 11 \u2022 08:42 PM"
     }
 ]
