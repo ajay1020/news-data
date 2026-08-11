@@ -1,58 +1,86 @@
 [
     {
-        "headline": "Watchmen CGI Doesn't Hold Up, Jeffrey Dean Morgan Says, but He's Proud of Fight Scene",
-        "summary": "Jeffrey Dean Morgan admits *Watchmen*'s CGI looks dated almost 20 years later. The Comedian actor remains proud of his memorable fight scene with Ozymandias. Snyder's film adapted the beloved Alan Moore and Dave Gibbons comic.",
-        "link": "https://www.ign.com/articles/watchmen-cgi-doesnt-hold-up-the-comedian-actor-jeffrey-dean-morgan-says-but-hes-proud-of-his-fight-scene-with-ozymandias",
-        "category": "GAMING",
-        "date": "Aug 11 \u2022 01:05 PM"
+        "headline": "\u2018Zoomsday\u2019 hack uncovered using fewer than 20 AI prompts",
+        "summary": "Zoom patched a major security vulnerability. An attacker could hijack devices during meetings. The flaw was discovered using under 20 AI prompts.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+        "category": "TECH",
+        "date": "Aug 11 \u2022 02:57 PM"
     },
     {
-        "headline": "Pok\u00e9mon Go Black Market for Rare Creatures Confirmed, Leading to Player Bans",
-        "summary": "Pok\u00e9mon Go players are reportedly banned for fraudulently acquiring rare creatures. Reports confirm a long-rumored black market selling 'injected' rare questlines. Speculation arises about insider involvement in the illicit trade.",
-        "link": "https://www.ign.com/articles/selling-impossible-pokemon-ban-reports-point-to-long-rumored-black-market-for-injecting-rare-pokmon-go-quests-sparking-speculation-of-insider-involvement",
-        "category": "GAMING",
-        "date": "Aug 11 \u2022 01:05 PM"
+        "headline": "Why your Amazon order confirmation emails have become so unhelpful",
+        "summary": "Amazon order confirmation emails now list vague item categories. Specific product names are no longer displayed. Shoppers are frustrated by the lack of detail.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+        "category": "TECH",
+        "date": "Aug 11 \u2022 02:57 PM"
     },
     {
-        "headline": "Jeffrey Dean Morgan Still Receives Fan Harassment for Negan's Actions 10 Years Later",
-        "summary": "Jeffrey Dean Morgan says fans still confront him angrily over Negan's actions. People swear at him in the street a decade after Glenn's death. The actor plays the villain in *The Walking Dead*.",
-        "link": "https://www.ign.com/articles/negan-actor-jeffrey-dean-morgan-says-the-walking-dead-fans-still-swear-at-him-in-the-street-for-killing-glenn-10-years-ago",
-        "category": "GAMING",
-        "date": "Aug 11 \u2022 01:05 PM"
+        "headline": "GuliKit's new Switch controller features next-generation anti-drift thumbsticks",
+        "summary": "GuliKit launched its ES Max wireless Switch controller. It boasts improved anti-drift TMR thumbsticks. Priced at $49.99, it's more affordable than Nintendo's Pro Controller.",
+        "link": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
+        "category": "TECH",
+        "date": "Aug 11 \u2022 02:57 PM"
     },
     {
-        "headline": "Saber CEO Admits 'Dig' at Gearbox Boss Randy Pitchford in New Game Trailer",
-        "summary": "Saber CEO admits taking a 'dig' at Gearbox boss Randy Pitchford in a new game trailer. He says it's payback for Pitchford's alleged 'shots at Embracer in Borderlands 4'. The public beef surfaced via the *Rideshare Stimulator* trailer.",
-        "link": "https://www.ign.com/articles/saber-ceo-admits-dig-at-gearbox-boss-randy-pitchford-in-new-game-trailer-saying-its-payback-for-shots-at-embracer-in-borderlands-4",
-        "category": "GAMING",
-        "date": "Aug 11 \u2022 01:05 PM"
+        "headline": "Bumble now lets men make the first move",
+        "summary": "Dating app Bumble has changed its signature feature. Men can now initiate conversations in heterosexual matches. This reverses Bumble's long-standing women-first policy.",
+        "link": "https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
+        "category": "TECH",
+        "date": "Aug 11 \u2022 02:57 PM"
     },
     {
-        "headline": "Trump Hid in Catering Truck for Secret Plane Swap Over Iran Threat, Reports Say",
-        "summary": "Reports suggest former US President Trump hid in a catering truck for a secret plane swap. This covert operation was reportedly aimed at evading an Iran threat. Reporters were falsely informed he was on Air Force One during the ruse.",
+        "headline": "Until Dawn Developer Supermassive Games Cutting Up to 75 Staff",
+        "summary": "Supermassive Games, known for Until Dawn, announced layoffs. Up to 75 staff members will be impacted. This is the studio's third round of job cuts in three years.",
+        "link": "https://www.ign.com/articles/until-dawn-developer-supermassive-games-cutting-up-to-75-staff-following-mixed-response-to-directive-8020",
+        "category": "GAMING",
+        "date": "Aug 11 \u2022 02:57 PM"
+    },
+    {
+        "headline": "It's 2026 and People Are Arguing Over Sweaty Gears of War Movement Again",
+        "summary": "Fans are debating Gears of War: E-Day movement. The discussion centers on 'sweaty' gameplay mechanics. This revives a familiar argument within the community.",
+        "link": "https://www.ign.com/articles/its-2026-and-people-are-arguing-over-sweaty-gears-of-war-movement-again",
+        "category": "GAMING",
+        "date": "Aug 11 \u2022 02:57 PM"
+    },
+    {
+        "headline": "The Mad King: 9 Things We Learned About Westeros From the New Game of Thrones Play",
+        "summary": "A new Game of Thrones stage play, 'The Mad King,' has opened. It reveals fresh details about Westeros. The production is rich with new GoT lore.",
+        "link": "https://www.ign.com/articles/the-mad-king-9-things-we-learned-about-westeros-from-the-new-game-of-thrones-play",
+        "category": "GAMING",
+        "date": "Aug 11 \u2022 02:57 PM"
+    },
+    {
+        "headline": "Watchmen CGI Doesn't Hold Up, The Comedian Actor Jeffrey Dean Morgan Says",
+        "summary": "Jeffrey Dean Morgan states Watchmen's CGI hasn't aged well. He believes the film's visual effects don't hold up today. However, Morgan is proud of his fight scene with Ozymandias.",
+        "link": "https://www.ign.com/articles/watchmen-cgi-doesn-t-hold-up-the-comedian-actor-jeffrey-dean-morgan-says-but-hes-proud-of-his-fight-scene-with-ozymandias",
+        "category": "GAMING",
+        "date": "Aug 11 \u2022 02:57 PM"
+    },
+    {
+        "headline": "Summer 2026 on course to be UK's hottest on record, says Met Office",
+        "summary": "The Met Office predicts Summer 2026 will be the UK's hottest ever. Only average August conditions are needed to break the record. The current record was set just last year.",
+        "link": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Aug 11 \u2022 02:57 PM"
+    },
+    {
+        "headline": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+        "summary": "Reports suggest Trump used a catering truck for a secret plane swap. This occurred during a NATO summit due to an Iran threat. Reporters were falsely told he was on Air Force One.",
         "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 11 \u2022 01:05 PM"
+        "date": "Aug 11 \u2022 02:57 PM"
     },
     {
-        "headline": "Amber Met Office Extreme Heat Warning Issued as UK Temperatures Could Hit 38C",
-        "summary": "The Met Office has issued an amber extreme heat warning for Thursday. Temperatures in the UK are expected to reach up to 38C during the peak. The warning signals significant health risks and potential disruption.",
-        "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Aug 11 \u2022 01:05 PM"
-    },
-    {
-        "headline": "Eclipse Chasers Scramble for Glasses as UK Stocks Run Low Ahead of Major Event",
-        "summary": "Specialist eclipse glasses are nearly sold out online across the UK. Enthusiasts are scrambling to secure glasses for the upcoming celestial event. It will be the UK's most significant eclipse since 1999.",
+        "headline": "Eclipse chasers scramble for glasses as stocks run low",
+        "summary": "Specialist eclipse glasses are nearly sold out online. Demand surged ahead of the UK's upcoming significant eclipse. Many are scrambling to find protective eyewear.",
         "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 11 \u2022 01:05 PM"
+        "date": "Aug 11 \u2022 02:57 PM"
     },
     {
-        "headline": "Zelensky Alleges Russia Using North Korean Missiles in Ukraine Strikes",
-        "summary": "Ukraine's President Zelensky claims Russia used North Korean missiles in recent strikes. Attacks in Zaporizhzhia resulted in at least six deaths and 19 injuries. Zelensky asserts ballistic missiles from Russia's ally were involved.",
+        "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+        "summary": "Zelensky accuses Russia of using North Korean missiles in Ukraine. Strikes in Zaporizhzhia reportedly involved these ballistic missiles. Six were killed and 19 injured in the attacks.",
         "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 11 \u2022 01:05 PM"
+        "date": "Aug 11 \u2022 02:57 PM"
     }
 ]
