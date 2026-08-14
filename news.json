@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Apple trained its own AI model for China with help from Alibaba",
+        "summary": "Apple developed a custom AI model for the China market. This model was trained with support from Chinese tech giant Alibaba. It's a rare cross-border tech partnership amidst rising tensions.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+        "category": "TECH",
+        "date": "Aug 14 \u2022 10:57 AM"
+    },
+    {
+        "headline": "Help build a monument to that \u2018sad little bitch\u2019 Elon Musk",
+        "summary": "Cards Against Humanity is crowdfunding a monument to \"annoy Elon Musk.\" They plan to build it on their land near Starbase, Texas. The project is launched with the company's characteristic vulgar humor.",
+        "link": "https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument",
+        "category": "TECH",
+        "date": "Aug 14 \u2022 10:57 AM"
+    },
+    {
         "headline": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
-        "summary": "President Trump is imposing 100% tariffs on many drone imports and all aircraft parts. This action aims to significantly increase the cost of these foreign goods. It follows previous bans on future foreign drones, routers, robots, and Roombas.",
+        "summary": "Donald Trump is proposing 100% tariffs on numerous imported drones. The tariffs would also apply to all aircraft parts. This policy targets existing drone imports and parts, making them significantly more expensive.",
         "link": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
         "category": "TECH",
-        "date": "Aug 14 \u2022 04:10 AM"
+        "date": "Aug 14 \u2022 10:57 AM"
     },
     {
         "headline": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
-        "summary": "Apple proposed collecting fees on digital purchases made via external links, outside its App Store system. This is part of their ongoing legal battle with Epic Games. Epic Games quickly rejected Apple's proposal, calling it 'far outside of the bounds'.",
+        "summary": "Apple proposes collecting fees on digital purchases made via external links. This is part of their ongoing legal dispute with Epic Games. Epic claims Apple's fee request is \"far outside of the bounds\" of previous rulings.",
         "link": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
         "category": "TECH",
-        "date": "Aug 14 \u2022 04:10 AM"
+        "date": "Aug 14 \u2022 10:57 AM"
     },
     {
-        "headline": "Judge orders Google to make rival app store installs easier",
-        "summary": "A San Francisco judge ordered Google to simplify the installation of rival app stores on Android devices. This ruling stems from Epic Games' long-running dispute with Google. The decision follows a jury's unanimous verdict nearly three years ago.",
-        "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
-        "category": "TECH",
-        "date": "Aug 14 \u2022 04:10 AM"
+        "headline": "Magic: The Gathering's The Hobbit Booster Boxes Secure a New Price Cut on Launch Day",
+        "summary": "Amazon is offering discounted MTG The Hobbit Play Booster Boxes. The price cut coincides with the set's launch day. The article guides on finding the deal and the set's most valuable cards.",
+        "link": "https://www.ign.com/articles/magic-the-gathering-hobbit-sealed-play-booster-box-amazon-launch-day-deal",
+        "category": "GAMING",
+        "date": "Aug 14 \u2022 10:57 AM"
     },
     {
-        "headline": "The fight over Flock and other ALPRs",
-        "summary": "Over 120,000 Flock automatic license plate reader (ALPR) cameras are deployed across the US. These AI-powered cameras track vehicles by license plate, make, model, and color. The networked system raises significant privacy concerns about tracking movements.",
-        "link": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
-        "category": "TECH",
-        "date": "Aug 14 \u2022 04:10 AM"
+        "headline": "The X-Files Creator Chris Carter Wants to Continue the Story on From the Divisive Season 11 Finale",
+        "summary": "Chris Carter, The X-Files creator, wants to continue the show's story. He aims to resolve threads from the divisive Season 11 finale. IGN interviewed Carter about plans for the series' future.",
+        "link": "https://www.ign.com/articles/the-x-files-creator-chris-carter-wants-to-continue-the-story-on-from-the-divisive-season-11-finale",
+        "category": "GAMING",
+        "date": "Aug 14 \u2022 10:57 AM"
     },
     {
-        "headline": "Xbox's Separation from Compulsion Games Complete",
-        "summary": "Compulsion Games is now listed as the publisher for 'South of Midnight' on Steam, not Xbox Game Studios. This signals the completion of Compulsion Games' spin-off from Xbox. The studio was one of four made independent during a recent Xbox 'reset' with layoffs.",
+        "headline": "Xbox's Separation from Compulsion Games Seems Complete as Studio Is Listed as the Publisher of South of Midnight on Steam",
+        "summary": "Xbox's separation from Compulsion Games appears complete. Compulsion Games is now listed as the publisher for South of Midnight on Steam. This follows Xbox spinning out four studios during a recent 'reset.'",
         "link": "https://www.ign.com/articles/xboxs-separation-from-compulsion-games-seems-complete-as-studio-is-listed-as-the-publisher-of-south-of-midnight-on-steam",
         "category": "GAMING",
-        "date": "Aug 14 \u2022 04:10 AM"
+        "date": "Aug 14 \u2022 10:57 AM"
     },
     {
-        "headline": "Sabrent 8-Port USB Charging Station on Sale",
-        "summary": "An 8-port Sabrent 252W USB charging station is available for $59.60. The device offers ample ports to charge multiple devices simultaneously. This deal helps ensure you 'never run out of ports again'.",
+        "headline": "Never Run Out of Ports Again With This Sabrent 8-Port 252W USB Charging Station, Now Just $59.60",
+        "summary": "A Sabrent 8-Port 252W USB Charging Station is currently available for $59.60. This deal provides an affordable solution for multiple device charging. The station offers ample ports to prevent running out of charging options.",
         "link": "https://www.ign.com/articles/sabrent-voltik-8-port-252w-usb-desktop-charging-station-deal-august-2026",
         "category": "GAMING",
-        "date": "Aug 14 \u2022 04:10 AM"
+        "date": "Aug 14 \u2022 10:57 AM"
     },
     {
-        "headline": "Sony WH-1000XM6 Wireless Noise Canceling Headphones Deal",
-        "summary": "Sony WH-1000XM6 wireless noise-canceling headphones are on sale for less than half price. These are refurbished units, described as 'indistinguishable from new'. The purchase includes a generous two-year warranty.",
-        "link": "https://www.ign.com/articles/sony-wh-1000xm6-wireless-noise-canceling-headphone-deal-august-2026",
-        "category": "GAMING",
-        "date": "Aug 14 \u2022 04:10 AM"
-    },
-    {
-        "headline": "Big and Tall Gaming Chairs Under $140 on Amazon",
-        "summary": "Comfortable big and tall gaming chairs are available for under $140. The deal includes free shipping via Amazon. Customers can choose from three different styles on sale.",
-        "link": "https://www.ign.com/articles/comhoma-big-and-tall-gaming-chair-deal-august-2026",
-        "category": "GAMING",
-        "date": "Aug 14 \u2022 04:10 AM"
-    },
-    {
-        "headline": "Multiple Fires Cause Devastation in West Midlands",
-        "summary": "Multiple fires have destroyed homes and caused widespread devastation in the West Midlands. The region's fire chief described it as one of the most significant incidents in history. Thousands of 999 calls were received by the fire service.",
-        "link": "https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss",
+        "headline": "Farage's by-election victory won't stop questions about finances",
+        "summary": "Nigel Farage secured a predictable by-election victory in Clacton. Despite the win, questions regarding his finances are expected to persist. The article discusses the broader implications and achievements of his victory.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 14 \u2022 04:10 AM"
+        "date": "Aug 14 \u2022 10:57 AM"
     },
     {
-        "headline": "Aerial Footage Shows Stourbridge Homes Engulfed in Flames",
-        "summary": "Aerial footage captured homes engulfed in flames in Stourbridge. This was part of multiple fires burning across the West Midlands. The blazes resulted in significant destruction to residential areas.",
-        "link": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
+        "headline": "Watch: Video shows scale of devastation in Stourbridge",
+        "summary": "Video footage reveals the extensive devastation in Stourbridge. Multiple fires tore through the West Midlands on Thursday. Firefighters are continuing to work to control the ongoing blazes.",
+        "link": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 14 \u2022 04:10 AM"
+        "date": "Aug 14 \u2022 10:57 AM"
     },
     {
-        "headline": "Passenger Train Derails in East Sussex, Two Seriously Hurt",
-        "summary": "A passenger train derailed in East Sussex, seriously injuring two people. A passenger described the scene as 'pandemonium' as the carriage rocked. Emergency services responded to the incident.",
-        "link": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
+        "headline": "Eurovision proposes new rules to tackle mass voting",
+        "summary": "Eurovision organizers are proposing new rules to combat mass voting practices. They find politically motivated voting \"persistent\" and \"deeply worrying.\" The changes aim to ensure fairness and integrity in the competition.",
+        "link": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 14 \u2022 04:10 AM"
+        "date": "Aug 14 \u2022 10:57 AM"
     },
     {
-        "headline": "Heatwave Ends for Many Before Weekend Cooldown",
-        "summary": "Friday marks the final day of heatwave conditions for much of south-east England. Temperatures are expected to turn fresher across the UK into the weekend. The heatwave brought elevated temperatures across the region.",
-        "link": "https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss",
+        "headline": "The Office's Lucy Davis 'overwhelmed' by kindness after cancer diagnosis",
+        "summary": "Lucy Davis, known for 'The Office,' is overwhelmed by public kindness. This outpouring of support follows her recent cancer diagnosis. Davis revealed she is living with incurable cancer.",
+        "link": "https://www.bbc.co.uk/news/articles/cy8ewdwldxdo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 14 \u2022 04:10 AM"
+        "date": "Aug 14 \u2022 10:57 AM"
     }
 ]
