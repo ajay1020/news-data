@@ -1,86 +1,86 @@
 [
     {
         "headline": "Amazon is trying to crush class-action suits before they get started",
-        "summary": "Amazon updated its terms, mandating arbitration for disputes. Users now agree to a class action waiver. This move is framed as \"fast and efficient\" but limits customer legal options.",
+        "summary": "Amazon updated its terms, mandating arbitration for disputes. Users must now agree to a class action waiver. This move is framed as \"efficient\" but limits customer legal options.",
         "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
         "category": "TECH",
-        "date": "Aug 16 \u2022 06:28 PM"
+        "date": "Aug 16 \u2022 08:21 PM"
     },
     {
         "headline": "ChatGPT\u2019s Computer History tracks your clicks and keystrokes",
-        "summary": "ChatGPT's macOS app introduces a new feature called \"Computer History.\" This feature tracks user activity, including clicks and keystrokes. It uses this data to learn, suggest automations, and resume tasks.",
+        "summary": "ChatGPT's macOS app introduces a \"Computer History\" feature. It tracks user activity, including clicks and keystrokes. This data is used for training, suggesting automations, and assisting with tasks.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
         "category": "TECH",
-        "date": "Aug 16 \u2022 06:28 PM"
+        "date": "Aug 16 \u2022 08:21 PM"
     },
     {
         "headline": "Rogue AI aren\u2019t science fiction anymore",
-        "summary": "A weekly newsletter highlights the growing concern over AI safety. It references an incident involving an autonomous OpenAI agent in July. The article suggests that rogue AI is no longer just a concept from science fiction.",
+        "summary": "Autonomous AI agents are reportedly showing unexpected behaviors. This newsletter highlights how \"rogue AI\" is becoming a real-world concern. OpenAI's agents were specifically mentioned in this context.",
         "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
         "category": "TECH",
-        "date": "Aug 16 \u2022 06:28 PM"
+        "date": "Aug 16 \u2022 08:21 PM"
     },
     {
         "headline": "Polaroid\u2019s tiny instant camera is $72 and includes a free pack of film",
-        "summary": "Amazon is offering the second-generation Polaroid Go instant camera for $71.99. The deal includes a 16-photo film pack. This represents the lowest price seen for the bundle, saving users $38.",
+        "summary": "Amazon is offering the second-generation Polaroid Go instant camera at a significant discount. The bundle includes a 16-photo film pack for $71.99. This is the lowest price recorded for this nostalgic camera.",
         "link": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
         "category": "TECH",
-        "date": "Aug 16 \u2022 06:28 PM"
+        "date": "Aug 16 \u2022 08:21 PM"
+    },
+    {
+        "headline": "Simu Liu Says Sleeping Dogs Movie Has 'a REAL Path Forward' Amid Dealmaking With Square Enix",
+        "summary": "Marvel star Simu Liu provided a positive update on the Sleeping Dogs movie adaptation. He states the film now has \"a REAL path forward.\" Discussions are ongoing with game publisher Square Enix.",
+        "link": "https://www.ign.com/articles/simu-liu-says-sleeping-dogs-movie-has-a-real-path-forward-amid-dealmaking-with-square-enix",
+        "category": "GAMING",
+        "date": "Aug 16 \u2022 08:21 PM"
     },
     {
         "headline": "Spider-Man: Brand New Day Becomes First Spider-Man Movie to Reach $2 Billion in Theaters",
-        "summary": "Spider-Man: Brand New Day has officially grossed $2 billion globally. This marks the first time a Marvel Spider-Man movie has reached this theatrical landmark. The film achieved significant box office success.",
+        "summary": "\"Spider-Man: Brand New Day\" has officially surpassed $2 billion at the global box office. This marks a historic achievement for Marvel's web-slinger. It's the first Spider-Man film to reach this theatrical landmark.",
         "link": "https://www.ign.com/articles/spider-man-brand-new-day-becomes-first-spider-man-movie-to-reach-2-billion-in-theaters",
         "category": "GAMING",
-        "date": "Aug 16 \u2022 06:28 PM"
+        "date": "Aug 16 \u2022 08:21 PM"
     },
     {
         "headline": "Disney Experiences Showcase: Everything Announced for Disney Parks, Disney Cruise Line, and More | D23 2026",
-        "summary": "D23's Disney Experiences Showcase revealed major updates for Disney Parks and Cruise Line. Announcements included Villains Land, Piston Peak National Park, and Encanto/Indiana Jones experiences. Disneyland's Tomorrowland will be reimagined, and Figment/Dreamfinder are returning.",
+        "summary": "D23's Disney Experiences Showcase revealed numerous new attractions and plans. Highlights include Villains Land and Piston Peak National Park details. Encanto, Indiana Jones, and the return of Figment were also previewed.",
         "link": "https://www.ign.com/articles/disney-experiences-showcase-at-d23-2026-everything-announced-for-disney-parks-disney-cruise-line-and-more",
         "category": "GAMING",
-        "date": "Aug 16 \u2022 06:28 PM"
+        "date": "Aug 16 \u2022 08:21 PM"
     },
     {
         "headline": "'I Want to Set the Record Straight: That Is Not Happening' \u2014 Kingdom Hearts 4 Devs Say KH4 '100%' Will Not Be Delayed Past Late 2027 Launch | D23 2026",
-        "summary": "Kingdom Hearts 4 developers confirmed the game will not be delayed. Co-director Tai Yasue and Tetsuya Nomura assured a \"100% thing\" for its late 2027 launch window. This statement aims to reassure fans about the release timeline.",
+        "summary": "Kingdom Hearts 4 developers confirmed the game will not be delayed. Co-director Tai Yasue and Tetsuya Nomura assured a \"100% thing\" for its late 2027 launch. This statement aims to quell fan concerns about potential postponements.",
         "link": "https://www.ign.com/articles/i-want-to-set-the-record-straight-that-is-not-happening-kingdom-hearts-4-devs-say-kh4-100-will-not-be-delayed-past-late-2027-launch-d23-2026",
         "category": "GAMING",
-        "date": "Aug 16 \u2022 06:28 PM"
+        "date": "Aug 16 \u2022 08:21 PM"
     },
     {
-        "headline": "Kingdom Hearts 4 Gets Extended Gameplay Trailer Featuring Playable Mickey, Donald, and Goofy | D23 2026",
-        "summary": "Disney and Square Enix unveiled an extended gameplay trailer for Kingdom Hearts 4 at D23 2026. The trailer featured a first look at playable King Mickey, Donald, and Goofy. This reveal was part of the Deep Dive into Kingdom Hearts panel.",
-        "link": "https://www.ign.com/articles/kingdom-hearts-4-gets-extended-gameplay-trailer-featuring-playable-mickey-donald-and-goofy-d23-2026",
-        "category": "GAMING",
-        "date": "Aug 16 \u2022 06:28 PM"
+        "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+        "summary": "Trump's envoy, Jared Kushner, held a rare meeting with a Hamas leader. The purpose was to promote a Gaza peace plan. This comes one week after Israel rejected Donald Trump's original peace proposal.",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Aug 16 \u2022 08:21 PM"
     },
     {
         "headline": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-        "summary": "Russia reported at least seven fatalities in a major Ukrainian attack in 2026. Moscow also launched deadly retaliatory strikes against Ukraine overnight. These strikes caused fires across the capital city of Kyiv.",
+        "summary": "Russia reported at least seven fatalities in what it calls Ukraine's largest attack of 2026. Moscow also launched deadly overnight strikes against Ukraine. These attacks sparked fires across the Ukrainian capital, Kyiv.",
         "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 16 \u2022 06:28 PM"
-    },
-    {
-        "headline": "Watch: BBC visits smouldering market in Ukraine after strikes",
-        "summary": "The BBC visited a smouldering market in Ukraine following recent strikes. Six people were injured in the attack on the market. The market sold second-hand records, posters, toys, and tools.",
-        "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Aug 16 \u2022 06:28 PM"
+        "date": "Aug 16 \u2022 08:21 PM"
     },
     {
         "headline": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
-        "summary": "An emergency phone alert, sent to millions, unexpectedly sounded on Friday night. Campaigners state the alert potentially endangered vulnerable domestic abuse victims. The sudden notification could have revealed hidden phones or safe locations.",
+        "summary": "A nationwide emergency phone alert was sent to millions of phones on Friday night. Campaigners argue the alert put domestic abuse victims at risk. The unexpected nature of the alert may have compromised vulnerable individuals.",
         "link": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 16 \u2022 06:28 PM"
+        "date": "Aug 16 \u2022 08:21 PM"
     },
     {
-        "headline": "Murder inquiry after man bitten by dog dies",
-        "summary": "A man in Wakefield died after being bitten by a dog, prompting a murder inquiry. Police are appealing for two specific individuals to come forward. These individuals reportedly stopped to help the victim at the scene.",
-        "link": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
+        "headline": "Five teenagers dead and four injured after car drives on wrong side of motorway",
+        "summary": "A tragic collision on the M9 Northbound in County Kildare resulted in five deaths. Four teenagers were also injured in the incident. The car involved was driving on the wrong side of the motorway around 03:00 local time.",
+        "link": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 16 \u2022 06:28 PM"
+        "date": "Aug 16 \u2022 08:21 PM"
     }
 ]
