@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Amazon is trying to crush class-action suits before they get started",
+        "summary": "Amazon updated its terms, mandating arbitration for disputes. Users now agree to a class action waiver. This move is framed as \"fast and efficient\" but limits customer legal options.",
+        "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+        "category": "TECH",
+        "date": "Aug 16 \u2022 06:28 PM"
+    },
+    {
         "headline": "ChatGPT\u2019s Computer History tracks your clicks and keystrokes",
-        "summary": "ChatGPT's new desktop app on macOS includes a 'Computer History' feature. It tracks user actions to learn work patterns and suggest automations. This data helps ChatGPT and Codex reference your activity timeline for requests.",
+        "summary": "ChatGPT's macOS app introduces a new feature called \"Computer History.\" This feature tracks user activity, including clicks and keystrokes. It uses this data to learn, suggest automations, and resume tasks.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
         "category": "TECH",
-        "date": "Aug 16 \u2022 04:24 PM"
+        "date": "Aug 16 \u2022 06:28 PM"
     },
     {
         "headline": "Rogue AI aren\u2019t science fiction anymore",
-        "summary": "The article explores the growing reality of AI safety concerns. It highlights how autonomous AI agents from OpenAI are challenging traditional sci-fi notions. The piece suggests that the concept of 'rogue AI' is no longer purely fictional.",
+        "summary": "A weekly newsletter highlights the growing concern over AI safety. It references an incident involving an autonomous OpenAI agent in July. The article suggests that rogue AI is no longer just a concept from science fiction.",
         "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
         "category": "TECH",
-        "date": "Aug 16 \u2022 04:24 PM"
+        "date": "Aug 16 \u2022 06:28 PM"
     },
     {
         "headline": "Polaroid\u2019s tiny instant camera is $72 and includes a free pack of film",
-        "summary": "Amazon is offering the second-generation Polaroid Go instant camera for $71.99. This deal includes a 16-photo film pack, marking its lowest price yet. It caters to those seeking the nostalgic charm of analog instant photography.",
+        "summary": "Amazon is offering the second-generation Polaroid Go instant camera for $71.99. The deal includes a 16-photo film pack. This represents the lowest price seen for the bundle, saving users $38.",
         "link": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
         "category": "TECH",
-        "date": "Aug 16 \u2022 04:24 PM"
+        "date": "Aug 16 \u2022 06:28 PM"
     },
     {
-        "headline": "Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback",
-        "summary": "Simpsons creator Matt Groening hinted at a potential return for 'Simpsons: Hit & Run'. The cult classic game's comeback was mentioned at D23. His remarks, alongside showrunner Matt Selman's, suggested strong possibility.",
-        "link": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
-        "category": "TECH",
-        "date": "Aug 16 \u2022 04:24 PM"
+        "headline": "Spider-Man: Brand New Day Becomes First Spider-Man Movie to Reach $2 Billion in Theaters",
+        "summary": "Spider-Man: Brand New Day has officially grossed $2 billion globally. This marks the first time a Marvel Spider-Man movie has reached this theatrical landmark. The film achieved significant box office success.",
+        "link": "https://www.ign.com/articles/spider-man-brand-new-day-becomes-first-spider-man-movie-to-reach-2-billion-in-theaters",
+        "category": "GAMING",
+        "date": "Aug 16 \u2022 06:28 PM"
     },
     {
         "headline": "Disney Experiences Showcase: Everything Announced for Disney Parks, Disney Cruise Line, and More | D23 2026",
-        "summary": "D23 2026 revealed major updates for Disney Parks and Cruise Line. Announcements included Villains Land and Piston Peak National Park details. Previews for Encanto, Indiana Jones experiences, and Tomorrowland reimagining were also shown.",
+        "summary": "D23's Disney Experiences Showcase revealed major updates for Disney Parks and Cruise Line. Announcements included Villains Land, Piston Peak National Park, and Encanto/Indiana Jones experiences. Disneyland's Tomorrowland will be reimagined, and Figment/Dreamfinder are returning.",
         "link": "https://www.ign.com/articles/disney-experiences-showcase-at-d23-2026-everything-announced-for-disney-parks-disney-cruise-line-and-more",
         "category": "GAMING",
-        "date": "Aug 16 \u2022 04:24 PM"
+        "date": "Aug 16 \u2022 06:28 PM"
     },
     {
         "headline": "'I Want to Set the Record Straight: That Is Not Happening' \u2014 Kingdom Hearts 4 Devs Say KH4 '100%' Will Not Be Delayed Past Late 2027 Launch | D23 2026",
-        "summary": "Kingdom Hearts 4 developers confirmed the game will not be delayed. Co-director Tai Yasue and Tetsuya Nomura assured a '100%' late 2027 launch. This statement aims to quash any rumors or concerns about postponements.",
+        "summary": "Kingdom Hearts 4 developers confirmed the game will not be delayed. Co-director Tai Yasue and Tetsuya Nomura assured a \"100% thing\" for its late 2027 launch window. This statement aims to reassure fans about the release timeline.",
         "link": "https://www.ign.com/articles/i-want-to-set-the-record-straight-that-is-not-happening-kingdom-hearts-4-devs-say-kh4-100-will-not-be-delayed-past-late-2027-launch-d23-2026",
         "category": "GAMING",
-        "date": "Aug 16 \u2022 04:24 PM"
+        "date": "Aug 16 \u2022 06:28 PM"
     },
     {
         "headline": "Kingdom Hearts 4 Gets Extended Gameplay Trailer Featuring Playable Mickey, Donald, and Goofy | D23 2026",
-        "summary": "An extended gameplay trailer for Kingdom Hearts 4 debuted at D23 2026. The trailer showcased a first look at playable King Mickey, Donald, and Goofy. Disney and Square Enix revealed these details during a dedicated panel.",
-        "link": "https://www.ign.com/articles/kingdom-hearts-4-gets-extended- gameplay-trailer-featuring-playable-mickey-donald-and-goofy-d23-2026",
+        "summary": "Disney and Square Enix unveiled an extended gameplay trailer for Kingdom Hearts 4 at D23 2026. The trailer featured a first look at playable King Mickey, Donald, and Goofy. This reveal was part of the Deep Dive into Kingdom Hearts panel.",
+        "link": "https://www.ign.com/articles/kingdom-hearts-4-gets-extended-gameplay-trailer-featuring-playable-mickey-donald-and-goofy-d23-2026",
         "category": "GAMING",
-        "date": "Aug 16 \u2022 04:24 PM"
-    },
-    {
-        "headline": "Star Wars: Smuggler's Gambit Lets You Keep Helping Hondo Ohnaka in Fortnite After You Leave Disneyland",
-        "summary": "'Smuggler's Gambit' expands the Smuggler's Run experience into Fortnite. It offers a PvE multiplayer online game where players assist Hondo Ohnaka. Linking Epic Games and MyDisney accounts unlocks a special theme park experience.",
-        "link": "https://www.ign.com/articles/star-wars-smugglers-gambit-lets-you-keep-helping-hondo-ohnaka-in-fortnite-after-you-leave-disneyland",
-        "category": "GAMING",
-        "date": "Aug 16 \u2022 04:24 PM"
+        "date": "Aug 16 \u2022 06:28 PM"
     },
     {
         "headline": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-        "summary": "Russia reported at least seven fatalities in what it called Ukraine's largest attack of 2026. Moscow also launched deadly retaliatory strikes against Ukraine overnight. These strikes sparked widespread fires across the capital city, Kyiv.",
+        "summary": "Russia reported at least seven fatalities in a major Ukrainian attack in 2026. Moscow also launched deadly retaliatory strikes against Ukraine overnight. These strikes caused fires across the capital city of Kyiv.",
         "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 16 \u2022 04:24 PM"
+        "date": "Aug 16 \u2022 06:28 PM"
     },
     {
         "headline": "Watch: BBC visits smouldering market in Ukraine after strikes",
-        "summary": "The BBC visited a smouldering market in Ukraine following recent strikes. Six people were injured in the attack on the market selling various goods. Footage captured the devastation and immediate aftermath of the incident.",
+        "summary": "The BBC visited a smouldering market in Ukraine following recent strikes. Six people were injured in the attack on the market. The market sold second-hand records, posters, toys, and tools.",
         "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 16 \u2022 04:24 PM"
+        "date": "Aug 16 \u2022 06:28 PM"
     },
     {
         "headline": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
-        "summary": "A nationwide emergency phone alert put millions on edge last Friday night. Campaigners argue the alert inadvertently put domestic abuse victims at risk. The loud, sudden alarm could reveal hidden phones or safe locations.",
+        "summary": "An emergency phone alert, sent to millions, unexpectedly sounded on Friday night. Campaigners state the alert potentially endangered vulnerable domestic abuse victims. The sudden notification could have revealed hidden phones or safe locations.",
         "link": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 16 \u2022 04:24 PM"
+        "date": "Aug 16 \u2022 06:28 PM"
     },
     {
         "headline": "Murder inquiry after man bitten by dog dies",
-        "summary": "Police have launched a murder inquiry after a man died from a dog bite. Authorities are appealing for two specific individuals to come forward. These people reportedly stopped to help the victim in Wakefield.",
+        "summary": "A man in Wakefield died after being bitten by a dog, prompting a murder inquiry. Police are appealing for two specific individuals to come forward. These individuals reportedly stopped to help the victim at the scene.",
         "link": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 16 \u2022 04:24 PM"
+        "date": "Aug 16 \u2022 06:28 PM"
     }
 ]
