@@ -1,86 +1,86 @@
 [
     {
+        "headline": "How to take better photos of your pets",
+        "summary": "Master smartphone pet photography with expert tips. Capture your furry friends' best angles for social media. Elevate your pet's Instagram game with these simple techniques.",
+        "link": "https://www.theverge.com/tech/970021/how-to-take-better-pet-photos",
+        "category": "TECH",
+        "date": "Aug 17 \u2022 12:42 PM"
+    },
+    {
+        "headline": "Whisker\u2019s AI-powered litter robot thinks my cats swapped bodies",
+        "summary": "Review an AI-powered litter robot offering automated scooping and health insights. Device provides data on litter box usage for cat owners. AI struggles with multi-cat households, leading to humorous tracking errors.",
+        "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+        "category": "TECH",
+        "date": "Aug 17 \u2022 12:42 PM"
+    },
+    {
+        "headline": "Anthropic explains how Claude\u2019s invisible text watermarks will work",
+        "summary": "Anthropic details its invisible watermarking system for Claude-generated text. The technology is based on Google DeepMind's SynthID-Text approach. Watermarks aim to ensure compliance with European AI transparency rules.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+        "category": "TECH",
+        "date": "Aug 17 \u2022 12:42 PM"
+    },
+    {
         "headline": "I\u2019m hooked on Peak Design\u2019s new City bags",
-        "summary": "Peak Design's new City Line bags are receiving high praise. The innovative 'BagLev' hook keeps bags elevated from the ground. Reviewers are extremely impressed with the clever design and functionality.",
+        "summary": "Explore Peak Design's new City Line bags, praised for innovative features. Discover the unique 'BagLev' hook designed to keep bags off the ground. Author expresses strong admiration for the bag's clever design and practicality.",
         "link": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
         "category": "TECH",
-        "date": "Aug 17 \u2022 10:31 AM"
+        "date": "Aug 17 \u2022 12:42 PM"
     },
     {
-        "headline": "OpenAI reportedly disbanded its preparedness team",
-        "summary": "OpenAI has reportedly disbanded its team focused on assessing serious AI risks. The preparedness team was responsible for developing mitigation strategies. Its responsibilities are now distributed among other research efforts.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-        "category": "TECH",
-        "date": "Aug 17 \u2022 10:31 AM"
-    },
-    {
-        "headline": "Open Mike Eagle and Kenny Segal crafted a hip-hop breakup masterpiece",
-        "summary": "The album 'DOOMED!' by Open Mike Eagle and Kenny Segal is hailed as a hip-hop masterpiece. It deeply explores the universal and personal experience of breakups. The record is praised for its artistic depth and subject matter.",
-        "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
-        "category": "TECH",
-        "date": "Aug 17 \u2022 10:31 AM"
-    },
-    {
-        "headline": "Amazon is trying to crush class action suits before they get started",
-        "summary": "Amazon is updating its terms and conditions for customers. Disputes will now be resolved through arbitration, not class action lawsuits. This move aims to prevent large collective legal actions against the company.",
-        "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
-        "category": "TECH",
-        "date": "Aug 17 \u2022 10:31 AM"
-    },
-    {
-        "headline": "Robert Downey Jr. Returns as Iron Man in Avengers Infinity Defense, a New Attraction Where You'll Fight Thanos at Disneyland's Avengers Campus",
-        "summary": "Robert Downey Jr. is reprising his role as Iron Man. He will star in 'Avengers Infinity Defense' at Disneyland's Avengers Campus. This new attraction lets guests fight Thanos alongside Iron Man.",
-        "link": "https://www.ign.com/articles/robert-downey-jr-returns-as-iron-man-in-avengers-infinity-defense-a-new-attraction-where-youll-fight-thanos-at-disneylands-avengers-campus",
+        "headline": "Star Wars: Magellan Was a AAA Action RPG Where You Could Play as a Jedi or Mandalorian",
+        "summary": "Footage emerges of 'Star Wars: Magellan,' a scrapped AAA action RPG. Players could choose between playing as a Jedi or a Mandalorian. The cancelled title promised a unique dual-path gameplay experience.",
+        "link": "https://www.ign.com/articles/star-wars-magellan-was-a-aaa-action-rpg-where-you-could-play-as-a-jedi-or-mandalorian",
         "category": "GAMING",
-        "date": "Aug 17 \u2022 10:31 AM"
+        "date": "Aug 17 \u2022 12:42 PM"
     },
     {
-        "headline": "Halloween: The Game Will Actually Be Available in New Zealand After All",
-        "summary": "Developer IllFonic has reversed its previous decision regarding 'Halloween: The Game'. The game will now be digitally available in New Zealand. This comes after earlier uncertainty about its release in the region.",
-        "link": "https://www.ign.com/articles/halloween-the-game-will-actually-be-available-in-new-zealand-after-all",
+        "headline": "Best Buy's 60th Anniversary Sale Is Live With Deals on Video Games and More",
+        "summary": "Best Buy's 60th Anniversary Sale is currently active. Find major discounts on video games, Apple AirPods Pro 3, and more. Limited-time offers are available through August 23rd.",
+        "link": "https://www.ign.com/articles/best-buy-60th-anniversary-sale",
         "category": "GAMING",
-        "date": "Aug 17 \u2022 10:31 AM"
+        "date": "Aug 17 \u2022 12:42 PM"
     },
     {
-        "headline": "Heroes Star Hayden Panettiere Dies at 36",
-        "summary": "Hayden Panettiere, known for her role in 'Heroes', has passed away at 36. The former child actor had a career spanning three decades. Further details regarding her death were not immediately available.",
-        "link": "https://www.ign.com/articles/heroes-star-hayden-panettiere-dies-at-36",
+        "headline": "10 Years Later, This is Still the Hardest Platinum Trophy I\u2019ve Ever Earned",
+        "summary": "Author reflects on achieving a decade-old, famously difficult platinum trophy. The gaming achievement remains their toughest challenge to date. Article highlights the enduring satisfaction of overcoming extreme in-game tasks.",
+        "link": "https://www.ign.com/articles/10-years-later-this-is-still-the-hardest-platinum-trophy-ive-ever-earned",
         "category": "GAMING",
-        "date": "Aug 17 \u2022 10:31 AM"
+        "date": "Aug 17 \u2022 12:42 PM"
     },
     {
-        "headline": "Lanterns Showrunner Says That Episode 1 Surprise Ending Was \u2018Big and Scary\u2019 to Commit To",
-        "summary": "Chris Mundy, showrunner for DC's new series 'Lanterns', discusses the first episode's ending. He described the surprise twist as a 'big and scary' creative choice. The new series is part of James Gunn's DC universe slate.",
-        "link": "https://www.ign.com/articles/lanterns-showrunner-hbo-surprise-ending-kyle-chandler-hal-jordan-big-and-scary-to-commit-to",
+        "headline": "Mafia Developer Says Comparisons to Grand Theft Auto Are an 'Internet Thing'",
+        "summary": "The developer of the 'Mafia' series addresses comparisons to 'Grand Theft Auto'. Developer dismisses the parallels as primarily an online phenomenon. Suggests the games maintain distinct identities despite genre similarities.",
+        "link": "https://www.ign.com/articles/mafia-developer-says-comparisons-to-grand-theft-auto-are-an-internet-thing",
         "category": "GAMING",
-        "date": "Aug 17 \u2022 10:31 AM"
+        "date": "Aug 17 \u2022 12:42 PM"
     },
     {
         "headline": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
-        "summary": "Parents are facing severe difficulties with the UK's Child Maintenance Service. Mothers report struggling to ensure ex-partners pay child support. Fathers claim they are often unfairly charged thousands of pounds.",
+        "summary": "Parents report being overwhelmed by the Child Maintenance Service (CMS). Mothers describe persistent battles to secure payments from ex-partners. Fathers claim wrongful charges and mismanagement by the service.",
         "link": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 17 \u2022 10:31 AM"
+        "date": "Aug 17 \u2022 12:42 PM"
     },
     {
         "headline": "Burnham exchanged messages with person posing as Trump's chief of staff",
-        "summary": "Andy Burnham reportedly exchanged messages with an individual impersonating Trump's chief of staff. The security breach was first reported by Politico. Downing Street has declined to comment on the incident.",
+        "summary": "Andy Burnham reportedly communicated with an individual impersonating Trump's chief of staff. The incident represents a significant security breach. Downing Street has declined to comment on the report.",
         "link": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 17 \u2022 10:31 AM"
+        "date": "Aug 17 \u2022 12:42 PM"
     },
     {
         "headline": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
-        "summary": "The UK is set for a significant change in weather conditions. Rain is expected, bringing an end to the recent hot and dry summer. Temperatures will drop, with some areas experiencing overnight lows of 3C.",
+        "summary": "The UK is set for a significant weather shift after a hot summer. Temperatures will drop, with some areas experiencing overnight lows of 3C. Expect wetter conditions following periods of heatwaves and drought.",
         "link": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 17 \u2022 10:31 AM"
+        "date": "Aug 17 \u2022 12:42 PM"
     },
     {
-        "headline": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
-        "summary": "Five boys have tragically died in a motorway crash in Ireland. Their car was reportedly driving on the wrong side of the road. Three women and a child from a second vehicle suffered serious injuries.",
-        "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
+        "headline": "Watch: Sprint sensation Amy Hunt takes gold number four at the European championships",
+        "summary": "Sprint star Amy Hunt secures her fourth gold medal at the European Athletics Championships. Great Britain makes history winning the inaugural mixed 4x100m relay. Hunt's dominant performance highlights her emerging talent.",
+        "link": "https://www.bbc.co.uk/sport/athletics/videos/cdj00030me7o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 17 \u2022 10:31 AM"
+        "date": "Aug 17 \u2022 12:42 PM"
     }
 ]
