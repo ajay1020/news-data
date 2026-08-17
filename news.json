@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Uber partners with Zipline on Eats drone deliveries",
+        "summary": "Uber invests in Zipline for drone food deliveries. Aiming for 1 million daily deliveries by 2029. Service to begin later this year.",
+        "link": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment",
+        "category": "TECH",
+        "date": "Aug 17 \u2022 02:27 PM"
+    },
+    {
+        "headline": "It\u2019s about ethics in journalism, with Ben Smith",
+        "summary": "Explores declining trust in traditional journalism. Discusses the rise of Substacks, podcasts, and TikTok news. Features insights from Semafor editor-in-chief Ben Smith.",
+        "link": "https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news",
+        "category": "TECH",
+        "date": "Aug 17 \u2022 02:27 PM"
+    },
+    {
         "headline": "How to take better photos of your pets",
-        "summary": "Master smartphone pet photography with expert tips. Capture your furry friends' best angles for social media. Elevate your pet's Instagram game with these simple techniques.",
+        "summary": "Learn expert tips for capturing adorable pet photos. Elevate your pet's Instagram game with pro advice. Turn your furry friends into camera-ready stars.",
         "link": "https://www.theverge.com/tech/970021/how-to-take-better-pet-photos",
         "category": "TECH",
-        "date": "Aug 17 \u2022 12:42 PM"
+        "date": "Aug 17 \u2022 02:27 PM"
     },
     {
         "headline": "Whisker\u2019s AI-powered litter robot thinks my cats swapped bodies",
-        "summary": "Review an AI-powered litter robot offering automated scooping and health insights. Device provides data on litter box usage for cat owners. AI struggles with multi-cat households, leading to humorous tracking errors.",
+        "summary": "AI litter robot scoops waste and offers health insights. Device struggles to differentiate between multiple cats. Incorrectly reports swapped identities for pets.",
         "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
         "category": "TECH",
-        "date": "Aug 17 \u2022 12:42 PM"
+        "date": "Aug 17 \u2022 02:27 PM"
     },
     {
-        "headline": "Anthropic explains how Claude\u2019s invisible text watermarks will work",
-        "summary": "Anthropic details its invisible watermarking system for Claude-generated text. The technology is based on Google DeepMind's SynthID-Text approach. Watermarks aim to ensure compliance with European AI transparency rules.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-        "category": "TECH",
-        "date": "Aug 17 \u2022 12:42 PM"
-    },
-    {
-        "headline": "I\u2019m hooked on Peak Design\u2019s new City bags",
-        "summary": "Explore Peak Design's new City Line bags, praised for innovative features. Discover the unique 'BagLev' hook designed to keep bags off the ground. Author expresses strong admiration for the bag's clever design and practicality.",
-        "link": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
-        "category": "TECH",
-        "date": "Aug 17 \u2022 12:42 PM"
-    },
-    {
-        "headline": "Star Wars: Magellan Was a AAA Action RPG Where You Could Play as a Jedi or Mandalorian",
-        "summary": "Footage emerges of 'Star Wars: Magellan,' a scrapped AAA action RPG. Players could choose between playing as a Jedi or a Mandalorian. The cancelled title promised a unique dual-path gameplay experience.",
-        "link": "https://www.ign.com/articles/star-wars-magellan-was-a-aaa-action-rpg-where-you-could-play-as-a-jedi-or-mandalorian",
+        "headline": "Marvel Confirms Your List of Avengers: Doomsday Homework, Featuring 15 Movies and TV Series, And a Couple of Deep Cuts",
+        "summary": "Marvel reveals a 15-title watchlist for Avengers: Doomsday. Catch up on essential movies and TV series. Prepare for the film's release on December 18th.",
+        "link": "https://www.ign.com/articles/marvel-confirms-your-list-of-avengers-doomsday-homework-featuring-15-movies-and-tv-series-and-a-couple-of-deep-cuts",
         "category": "GAMING",
-        "date": "Aug 17 \u2022 12:42 PM"
+        "date": "Aug 17 \u2022 02:27 PM"
     },
     {
-        "headline": "Best Buy's 60th Anniversary Sale Is Live With Deals on Video Games and More",
-        "summary": "Best Buy's 60th Anniversary Sale is currently active. Find major discounts on video games, Apple AirPods Pro 3, and more. Limited-time offers are available through August 23rd.",
-        "link": "https://www.ign.com/articles/best-buy-60th-anniversary-sale",
+        "headline": "Metroid Prime 4 and Pok\u00e9mon Legends: Z-A Drop to Just $32 for Switch 2",
+        "summary": "Get Metroid Prime 4: Beyond for a low price. Pok\u00e9mon Legends: Z-A also available for $31.99. Don't miss this 24-hour Woot flash sale.",
+        "link": "https://www.ign.com/articles/metroid-prime-4-pokemon-legends-za-switch-2-deals-woot",
         "category": "GAMING",
-        "date": "Aug 17 \u2022 12:42 PM"
+        "date": "Aug 17 \u2022 02:27 PM"
     },
     {
-        "headline": "10 Years Later, This is Still the Hardest Platinum Trophy I\u2019ve Ever Earned",
-        "summary": "Author reflects on achieving a decade-old, famously difficult platinum trophy. The gaming achievement remains their toughest challenge to date. Article highlights the enduring satisfaction of overcoming extreme in-game tasks.",
-        "link": "https://www.ign.com/articles/10-years-later-this-is-still-the-hardest-platinum-trophy-ive-ever-earned",
+        "headline": "Mortal Shell 2 Review",
+        "summary": "Mortal Shell 2 expands into a large-scale action-RPG. The sequel's ambitious new direction is largely successful. Discover if this new entry lives up to expectations.",
+        "link": "https://www.ign.com/articles/mortal-shell-2-review",
         "category": "GAMING",
-        "date": "Aug 17 \u2022 12:42 PM"
+        "date": "Aug 17 \u2022 02:27 PM"
     },
     {
-        "headline": "Mafia Developer Says Comparisons to Grand Theft Auto Are an 'Internet Thing'",
-        "summary": "The developer of the 'Mafia' series addresses comparisons to 'Grand Theft Auto'. Developer dismisses the parallels as primarily an online phenomenon. Suggests the games maintain distinct identities despite genre similarities.",
-        "link": "https://www.ign.com/articles/mafia-developer-says-comparisons-to-grand-theft-auto-are-an-internet-thing",
+        "headline": "'We're Talking With Johnny': Pirates of the Caribbean 6 Update Confirmed by Producer Jerry Bruckheimer",
+        "summary": "Producer Jerry Bruckheimer confirms talks with Johnny Depp. Hope for Depp's return as Captain Jack Sparrow. Iconic role may be reprised one more time.",
+        "link": "https://www.ign.com/articles/were-talking-with-johnny-pirates-of-the-caribbean-6-update-confirmed-by-producer-jerry-bruckheimer",
         "category": "GAMING",
-        "date": "Aug 17 \u2022 12:42 PM"
+        "date": "Aug 17 \u2022 02:27 PM"
     },
     {
         "headline": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
-        "summary": "Parents report being overwhelmed by the Child Maintenance Service (CMS). Mothers describe persistent battles to secure payments from ex-partners. Fathers claim wrongful charges and mismanagement by the service.",
+        "summary": "Mothers battle ex-partners for child support payments. Fathers claim they face thousands in incorrect charges. CMS system flaws pushing parents to their limits.",
         "link": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 17 \u2022 12:42 PM"
+        "date": "Aug 17 \u2022 02:27 PM"
     },
     {
         "headline": "Burnham exchanged messages with person posing as Trump's chief of staff",
-        "summary": "Andy Burnham reportedly communicated with an individual impersonating Trump's chief of staff. The incident represents a significant security breach. Downing Street has declined to comment on the report.",
+        "summary": "Andy Burnham fell victim to a security breach. Communicated with someone impersonating Trump's chief of staff. Downing Street declined to comment on the incident.",
         "link": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 17 \u2022 12:42 PM"
+        "date": "Aug 17 \u2022 02:27 PM"
     },
     {
         "headline": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
-        "summary": "The UK is set for a significant weather shift after a hot summer. Temperatures will drop, with some areas experiencing overnight lows of 3C. Expect wetter conditions following periods of heatwaves and drought.",
+        "summary": "UK set for significant weather shift this week. After heatwaves, expect widespread rain and cooler temperatures. Overnight lows could reach 3C in parts of the country.",
         "link": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 17 \u2022 12:42 PM"
+        "date": "Aug 17 \u2022 02:27 PM"
     },
     {
         "headline": "Watch: Sprint sensation Amy Hunt takes gold number four at the European championships",
-        "summary": "Sprint star Amy Hunt secures her fourth gold medal at the European Athletics Championships. Great Britain makes history winning the inaugural mixed 4x100m relay. Hunt's dominant performance highlights her emerging talent.",
+        "summary": "Amy Hunt secures her fourth gold medal at European Athletics. Great Britain wins inaugural mixed 4x100m relay. Celebrate Hunt's incredible sprint performance.",
         "link": "https://www.bbc.co.uk/sport/athletics/videos/cdj00030me7o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 17 \u2022 12:42 PM"
+        "date": "Aug 17 \u2022 02:27 PM"
     }
 ]
