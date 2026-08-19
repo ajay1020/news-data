@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Nielsen is leaning more on wearables to hear what people are watching",
+        "summary": "Nielsen will use wearable device data to improve viewership measurement. This aims to enhance accuracy for streaming era data. Key enhancements are being added to their data capturing process.",
+        "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+        "category": "TECH",
+        "date": "Aug 19 \u2022 10:24 PM"
+    },
+    {
+        "headline": "Google Gemini is getting a dedicated student hub",
+        "summary": "Google Gemini is launching a new student hub for back-to-school. It serves as a central place for research, flashcards, and quizzes. Study notebooks will support graphs, images, and test date tracking.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+        "category": "TECH",
+        "date": "Aug 19 \u2022 10:24 PM"
+    },
+    {
         "headline": "Watch Valve set up the Steam Frame in its own leaked videos",
-        "summary": "Valve accidentally leaked videos showing the Steam Frame VR headset. The footage included unboxing, setup, and various accessories. The videos appeared on the ARM Steam client before being quickly pulled.",
+        "summary": "Valve accidentally leaked videos of its new Steam Frame VR headset. The videos showed unboxing, setup, and accessories. They appeared on the ARM Steam client but were quickly removed.",
         "link": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
         "category": "TECH",
-        "date": "Aug 19 \u2022 06:34 PM"
+        "date": "Aug 19 \u2022 10:24 PM"
     },
     {
         "headline": "The wearable future is stuck in weird, experimental, existential limbo",
-        "summary": "A weekly newsletter, Optimizer, explores the current state of wearable technology. The author tested the Google Pixel Watch 5, noting its typical modern features. The article discusses the experimental and uncertain future of wearables.",
+        "summary": "A Verge reviewer discusses the current state of wearable technology. The article explores the experimental and uncertain future of wearables. The reviewer tested the Google Pixel Watch 5 as an example.",
         "link": "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai",
         "category": "TECH",
-        "date": "Aug 19 \u2022 06:34 PM"
+        "date": "Aug 19 \u2022 10:24 PM"
     },
     {
-        "headline": "Grab an iPad Air M4 for its lowest price since the June increase",
-        "summary": "The 11-inch iPad Air with the M4 chip is currently on sale. It's available for $649, which is $100 below its new retail price. The deal can be found at Amazon and Best Buy.",
-        "link": "https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale",
-        "category": "TECH",
-        "date": "Aug 19 \u2022 06:34 PM"
-    },
-    {
-        "headline": "OpenAI hit the brakes. Now what?",
-        "summary": "OpenAI has paused some AI development to tighten security and safeguards. This decision comes despite intense competition and an upcoming IPO. The company aims to prioritize responsible AI advancements.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-        "category": "TECH",
-        "date": "Aug 19 \u2022 06:34 PM"
-    },
-    {
-        "headline": "Relive the Original Xbox By Building Your Own 1:1 Scale 3,509-Piece Mattel Brick Shop Version",
-        "summary": "Mattel is releasing a 1:1 scale, 3,509-piece buildable original Xbox model. Celebrating the Xbox's 25th anniversary, it includes a matching Duke controller. The model features lights, sounds, and scenes from classic Xbox games.",
-        "link": "https://www.ign.com/articles/relive-the-original-xbox-by-building-your-own-11-scale-3509-piece-mattel-brick-shop-version",
+        "headline": "LEGO Fans Are Closer Than Ever to Getting a Studio Ghibli Set",
+        "summary": "LEGO fans are eagerly awaiting a Studio Ghibli set. The possibility of this collaboration is now closer. Enthusiasts hope for iconic Ghibli designs in LEGO form.",
+        "link": "https://www.ign.com/articles/lego-fans-studio-ghibli-ideas-2026",
         "category": "GAMING",
-        "date": "Aug 19 \u2022 06:34 PM"
+        "date": "Aug 19 \u2022 10:24 PM"
     },
     {
-        "headline": "Today\u2019s Best Deals: Rise of Ronin, Beats Studio Pro Headphones, and 480Hz LG 480Hz OLED Gaming Monitor",
-        "summary": "Today's top deals include Rise of Ronin and Beats Studio Pro Headphones. Also featured is a 480Hz LG OLED Gaming Monitor. Other offers cover Marvel Wolverine DualSense preorders and discounted luggage sets.",
-        "link": "https://www.ign.com/articles/best-deals-for-august-19-2026",
+        "headline": "Director of Marvel\u2019s Wolverine Responds After Extended Gameplay Footage Sparks Backlash",
+        "summary": "Marvel's Wolverine director, Mike Daly, addressed recent backlash. Criticism arose from extended gameplay footage. Daly responded to the negative reception online.",
+        "link": "https://www.ign.com/articles/director-of-marvels-wolverine-responds-after-extended-gameplay-footage-sparks-backlash",
         "category": "GAMING",
-        "date": "Aug 19 \u2022 06:34 PM"
+        "date": "Aug 19 \u2022 10:24 PM"
     },
     {
-        "headline": "Call of Duty: Modern Warfare 4 Beta Will Fix Issues That Have Plagued the Series for the Better Part of a Decade",
-        "summary": "The upcoming Call of Duty: Modern Warfare 4 beta aims to address long-standing issues. These problems have affected the series for nearly a decade. The beta focuses on implementing crucial fixes for gameplay improvements.",
-        "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-will-fix-issues-that-have-plagued-the-series-for-the-better-part-of-a-decade",
+        "headline": "What to Expect at IFA 2026: AI Is the Name of the Game",
+        "summary": "IFA 2026 is anticipated as a significant event. Artificial Intelligence (AI) will be a central theme. The event is described as a \"cultural playground\" beyond a mere trade show.",
+        "link": "https://www.ign.com/articles/ifa-2026-what-to-expect",
         "category": "GAMING",
-        "date": "Aug 19 \u2022 06:34 PM"
+        "date": "Aug 19 \u2022 10:24 PM"
     },
     {
-        "headline": "Latest Xbox Console Updates Include Extremely Belated Profile Badge if You Bought an Xbox One Back in 2013",
-        "summary": "New Xbox console updates introduce a special profile badge. This badge is for users who purchased an Xbox One on its launch day in 2013. It's a belated recognition for early adopters of the console.",
-        "link": "https://www.ign.com/articles/latest-xbox-console-updates-include-extremely-belated-profile-badge-if-you-bought-an-xbox-one-back-in-2013",
+        "headline": "Modern Warfare 4 Beta Reveals Multiplayer Matchmaking Plans, Will Continue to Use Divisive New Matchmaking System",
+        "summary": "Modern Warfare 4 beta will use a controversial matchmaking system. This new system is in addition to last year's open matchmaking. The decision continues to spark division among players.",
+        "link": "https://www.ign.com/articles/modern-warfare-4-beta-reveals-multiplayer-matchmaking-plans-will-continue-to-use-divisive-new-matchmaking-system",
         "category": "GAMING",
-        "date": "Aug 19 \u2022 06:34 PM"
+        "date": "Aug 19 \u2022 10:24 PM"
+    },
+    {
+        "headline": "Prince Harry and Meghan moving back to UK",
+        "summary": "Prince Harry and Meghan are reportedly moving back to the UK. Their children, Archie and Lilibet, are enrolled in a UK school. The children are expected to start school in September.",
+        "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Aug 19 \u2022 10:24 PM"
+    },
+    {
+        "headline": "Couple and teenage daughter who died in water off Shoreham named by police",
+        "summary": "Police identified a family who died in the sea off Shoreham. The family, a couple and their teenage daughter, travelled from London. They entered the sea for a swim when the tragedy occurred.",
+        "link": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Aug 19 \u2022 10:24 PM"
     },
     {
         "headline": "Track defect found on approach to site of Lewes derailment, initial report says",
-        "summary": "An initial RAIB investigation revealed an \"irregularity\" at the Lewes derailment site. A track defect was discovered on the approach to the incident location. Further details are expected as the report progresses.",
+        "summary": "An initial report found a track defect near the Lewes derailment site. The RAIB investigation revealed an \"irregularity\" on the approach. The defect is linked to the recent train derailment.",
         "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 19 \u2022 06:34 PM"
-    },
-    {
-        "headline": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
-        "summary": "Thunderstorm warnings have been issued for several parts of the UK. Areas affected include northern England, eastern Scotland, and Northern Ireland. Flash flooding is anticipated to occur later on Wednesday.",
-        "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Aug 19 \u2022 06:34 PM"
+        "date": "Aug 19 \u2022 10:24 PM"
     },
     {
         "headline": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-        "summary": "Israel has confirmed its soldiers fired at the car where five-year-old Hind Rajab was killed. The incident has led to a criminal investigation being opened. Hind initially survived the attack and pleaded for help before her body was recovered.",
+        "summary": "Israel confirmed its soldiers fired at the car where Hind Rajab was killed. A criminal investigation into the incident has been opened. Five-year-old Hind initially survived but was later found dead with relatives.",
         "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 19 \u2022 06:34 PM"
-    },
-    {
-        "headline": "Salmonella outbreak: What we know so far",
-        "summary": "Hundreds of individuals have fallen ill due to a salmonella outbreak. The infections have been linked to imported eggs. Investigations are currently underway to understand the full scope of the outbreak.",
-        "link": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Aug 19 \u2022 06:34 PM"
+        "date": "Aug 19 \u2022 10:24 PM"
     }
 ]
