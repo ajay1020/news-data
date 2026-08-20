@@ -1,86 +1,86 @@
 [
     {
-        "headline": "It\u2019s Greg Brockman\u2019s OpenAI now",
-        "summary": "Greg Brockman's role at OpenAI is expanding amidst a turbulent year. OpenAI faced lawsuits from Elon Musk and Apple, plus scrutiny over an AI model. The company is preparing for an IPO following executive shifts.",
+        "headline": "Australia says Roblox hasn't fixed its child predator problem",
+        "summary": "Australia's eSafety regulator says Roblox hasn't fixed child safety issues. Roblox allegedly failed to prevent contact between adults and minors under 16. The company promises more changes to its safety features.",
+        "link": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
+        "category": "TECH",
+        "date": "Aug 20 \u2022 06:39 PM"
+    },
+    {
+        "headline": "FCC officially decides gigabit speeds are too good for you",
+        "summary": "The FCC has eliminated long-term broadband speed goals. Chairman Brendan Carr scrapped plans for gigabit download speeds. The decision reverses Biden administration goals for faster internet.",
+        "link": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
+        "category": "TECH",
+        "date": "Aug 20 \u2022 06:39 PM"
+    },
+    {
+        "headline": "Framework says it's addressing a BIOS update that bricked some of its older laptops",
+        "summary": "A recent Framework Laptop 13 BIOS update is bricking some devices. The issue affects laptops with last-gen AMD Ryzen 7040-series chips. Framework is addressing the problematic BIOS version 3.20.",
+        "link": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
+        "category": "TECH",
+        "date": "Aug 20 \u2022 06:39 PM"
+    },
+    {
+        "headline": "It's Greg Brockman's OpenAI now",
+        "summary": "Greg Brockman's role at OpenAI is reportedly expanding. OpenAI has faced legal battles and scrutiny this year. The company is preparing for an upcoming IPO.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
         "category": "TECH",
-        "date": "Aug 20 \u2022 04:34 PM"
+        "date": "Aug 20 \u2022 06:39 PM"
     },
     {
-        "headline": "This app makes the Pixel 11&#8217;s HiLight feature actually useful",
-        "summary": "The Pixel 11 Pro's new HiLight notification LED has limited out-of-box uses. It only glows for Gemini interactions or favorite contact calls. A new app aims to make this feature genuinely useful.",
-        "link": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
-        "category": "TECH",
-        "date": "Aug 20 \u2022 04:34 PM"
-    },
-    {
-        "headline": "LG\u2019s 65-inch B6 OLED is $300 lower than its previous best price",
-        "summary": "Best Buy is offering significant discounts on LG products for its Deal of the Day. The 65-inch LG B6 OLED TV is now $1,399.99, a new low price. This deal saves buyers $600 off the original price.",
-        "link": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
-        "category": "TECH",
-        "date": "Aug 20 \u2022 04:34 PM"
-    },
-    {
-        "headline": "Amazon&#8217;s drone deliveries are landing in pools and ponds",
-        "summary": "Amazon's drone delivery service is expanding to 500 US cities. Drones are reportedly dropping packages into pools and ponds. A video showed a drone depositing a package into a Texas customer's pool.",
-        "link": "https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds",
-        "category": "TECH",
-        "date": "Aug 20 \u2022 04:34 PM"
-    },
-    {
-        "headline": "Marvel Addresses the Greatest Flaw of Civil War 20 Years Later",
-        "summary": "Marvel's \"Civil War\" storyline, in both comics and film, had a key flaw: the conflict eventually ended. A new series is now addressing this issue two decades later. This aims to explore the lasting impact of the original conflict.",
-        "link": "https://www.ign.com/articles/marvel-addresses-the-greatest-flaw-of-civil-war-20-years-later",
+        "headline": "Nitro Deck 2 Is Finally Out for Switch 2 Next Week",
+        "summary": "The Nitro Deck 2 controller for Switch 2 launches next week. Gamers can expect the release on August 28. It's an anticipated peripheral for the new console.",
+        "link": "https://www.ign.com/articles/nitro-deck-2-is-finally-out-for-switch-2-next-week",
         "category": "GAMING",
-        "date": "Aug 20 \u2022 04:34 PM"
+        "date": "Aug 20 \u2022 06:39 PM"
     },
     {
-        "headline": "FromSoftware Isn't Done With Single-Player Games, Miyazaki Reassures",
-        "summary": "Despite upcoming multiplayer titles like \"Elden Ring: Nightreign\" and \"The Duskbloods,\" FromSoftware's Miyazaki reassures fans. He confirms the studio remains committed to developing single-player experiences. This news calms fears about a shift away from their core single-player RPGs.",
-        "link": "https://www.ign.com/articles/fromsoftware-isnt-done-with-single-player-games-miyazaki-reassures",
+        "headline": "The 27\" Samsung OLED Gaming Monitor Drops to $265 for Select Customers, But You Can Game the System",
+        "summary": "A 27\" Samsung OLED gaming monitor is available for $265. The discount is for select customers, but a workaround exists. This is a significant deal for a high-end gaming display.",
+        "link": "https://www.ign.com/articles/samsung-oled-gaming-monitor-deal-august-2026",
         "category": "GAMING",
-        "date": "Aug 20 \u2022 04:34 PM"
+        "date": "Aug 20 \u2022 06:39 PM"
     },
     {
-        "headline": "Best Buy Is Offering a Free $10 Gift Card With These Game Preorders",
-        "summary": "Best Buy is offering a special preorder bonus for select major Fall game releases. Customers can receive a free $10 gift card with qualifying preorders. This makes Best Buy the exclusive retailer for this offer.",
-        "link": "https://www.ign.com/articles/best-buy-is-offering-a-free-10-gift-card-with-these-game-preorders",
+        "headline": "'I Bet Many of You Would Not Like It' \u2014 Halo Co-Creator Says He Would Make Series 'Darker' if He Made a New Game",
+        "summary": "Halo's co-creator wants to make future games much darker. He believes fans would dislike his darker vision for the series. His comments reignite debate over the franchise's direction.",
+        "link": "https://www.ign.com/articles/i-bet-many-of-you-would-not-like-it-halo-co-creator-says-he-would-make-series-darker-if-he-made-a-new-game",
         "category": "GAMING",
-        "date": "Aug 20 \u2022 04:34 PM"
+        "date": "Aug 20 \u2022 06:39 PM"
     },
     {
-        "headline": "Best Buy Is Selling $100 Gift Cards for $60 in Stores This Weekend",
-        "summary": "Best Buy will sell $100 gift cards for just $60 this weekend. This special offer is available during a 24-hour in-store sale only. Shoppers can save significantly on future Best Buy purchases.",
-        "link": "https://www.ign.com/articles/best-buy-is-selling-100-gift-cards-for-60-in-stores-this-weekend",
+        "headline": "Pok\u00e9mon x Crocs Collection Gets 3 More Clog Designs",
+        "summary": "The Pok\u00e9mon x Crocs collection adds three new clog designs. New designs feature popular Pok\u00e9mon like Gengar and Pikachu. This expands the previously announced Pok\u00e9 Ball clog range.",
+        "link": "https://www.ign.com/articles/gengar-jigglypuff-pikachu-clog-reveal-crocs-x-pokemon-2026",
         "category": "GAMING",
-        "date": "Aug 20 \u2022 04:34 PM"
+        "date": "Aug 20 \u2022 06:39 PM"
     },
     {
-        "headline": "Harry and Meghan's security arrangements a private matter, PM says",
-        "summary": "The Prime Minister stated that Prince Harry and Meghan's security arrangements are a private matter. This comes as the Duke and Duchess are set to return to the UK later this month. The PM also extended well wishes to the couple.",
+        "headline": "Harry and Meghan's return to UK reignites questions over security",
+        "summary": "Prince Harry and Meghan's UK return sparks security concerns. A decision is needed on their publicly funded protection level. Their surprise announcement raises questions for the monarchy.",
         "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 20 \u2022 04:34 PM"
+        "date": "Aug 20 \u2022 06:39 PM"
     },
     {
-        "headline": "Why are Harry and Meghan returning to the UK?",
-        "summary": "Prince Harry and Meghan's upcoming return to the UK raises several questions. Concerns include their security arrangements and potential royal duties. There's also speculation about Harry's relationship with King Charles and Prince William.",
-        "link": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&at_campaign=rss",
+        "headline": "Watch: What does Harry's return mean for his fractured relationship with William?",
+        "summary": "Prince Harry's UK return highlights his fractured relationship with William. The brothers have had a strained relationship for years. Observers question the impact on royal family dynamics.",
+        "link": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 20 \u2022 04:34 PM"
+        "date": "Aug 20 \u2022 06:39 PM"
     },
     {
         "headline": "Five key takeaways from GCSE results day 2026",
-        "summary": "Key trends emerged from the 2026 GCSE results day. The number of exam resits has increased across the board. The performance gap between boys and girls has narrowed significantly. However, England's regional educational divide has unfortunately widened.",
+        "summary": "GCSE resits have increased this year. The academic gap between boys and girls has narrowed. England's regional educational divide has widened.",
         "link": "https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 20 \u2022 04:34 PM"
+        "date": "Aug 20 \u2022 06:39 PM"
     },
     {
         "headline": "Man charged over Manchester synagogue attack",
-        "summary": "A man has been charged in connection with a Manchester synagogue attack. Police accuse him of failing to disclose information related to terrorist activity. Further details about the alleged activity were not immediately released.",
+        "summary": "A man has been charged in connection with a Manchester synagogue attack. He is accused of failing to disclose terrorist activity information. Police are investigating the incident.",
         "link": "https://www.bbc.co.uk/news/articles/cm2g5ne37zyo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 20 \u2022 04:34 PM"
+        "date": "Aug 20 \u2022 06:39 PM"
     }
 ]
