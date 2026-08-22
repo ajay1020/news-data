@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Two great new repairable gadgets",
+        "summary": "Discover the latest highly repairable gadgets. Includes new models like the Fairphone 6 Plus. Also features the Framework 12 laptop for easy maintenance.",
+        "link": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+        "category": "TECH",
+        "date": "Aug 22 \u2022 12:38 PM"
+    },
+    {
         "headline": "HoverAir\u2019s transforming modular drone has already been halted in the US",
-        "summary": "FCC drone ban stops US sales of the HoverAir Versa. The modular drone/steadycam halted orders just three days post-Indiegogo launch. Shipping to US customers is now uncertain due to regulatory issues.",
+        "summary": "The modular HoverAir Versa drone is halted in the US. FCC ban stopped US orders just three days after its Indiegogo debut. The transforming steadycam drone may be forced to abandon US shipping.",
         "link": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
         "category": "TECH",
-        "date": "Aug 22 \u2022 10:22 AM"
+        "date": "Aug 22 \u2022 12:38 PM"
     },
     {
         "headline": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-        "summary": "TikTok agrees to a $400 million settlement with the DOJ. Lawsuit alleged COPPA violations by collecting children's data without consent. The company also failed to delete underage accounts as required.",
+        "summary": "TikTok settles a DOJ lawsuit for $400 million. The suit alleged violations of the Children's Online Privacy Protection Act (COPPA). TikTok was accused of collecting child data without parental consent.",
         "link": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
         "category": "TECH",
-        "date": "Aug 22 \u2022 10:22 AM"
+        "date": "Aug 22 \u2022 12:38 PM"
     },
     {
         "headline": "Over 1 million people have clicked LinkedIn\u2019s AI slop button",
-        "summary": "LinkedIn's \"AI slop\" button has been clicked over a million times. The feature, launched July 30th, lets users flag low-quality AI content. This indicates significant user engagement in content moderation.",
+        "summary": "LinkedIn introduced an \"AI slop\" reporting button. Over 1 million users have already clicked the button. The feature allows reporting AI-generated content perceived as low quality.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
         "category": "TECH",
-        "date": "Aug 22 \u2022 10:22 AM"
+        "date": "Aug 22 \u2022 12:38 PM"
     },
     {
-        "headline": "Apple is laying off staffers working on the Vision Pro and Siri",
-        "summary": "Apple is reportedly laying off over 200 employees. The cuts primarily impact Vision Pro and Siri development teams. A Vision Pro gaming team is being largely shut down.",
-        "link": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
-        "category": "TECH",
-        "date": "Aug 22 \u2022 10:22 AM"
+        "headline": "Pok\u00e9mon ETBs are Surprisingly Easy to Get Hold of Right Now on Amazon",
+        "summary": "Pok\u00e9mon TCG Elite Trainer Boxes (ETBs) are now readily available on Amazon. High-demand boxes, including exclusives, have been restocked. Prices are currently below secondary market rates.",
+        "link": "https://www.ign.com/articles/pokemon-tcg-etb-amazon-deals",
+        "category": "GAMING",
+        "date": "Aug 22 \u2022 12:38 PM"
+    },
+    {
+        "headline": "How Elgato Can Level Up Your WFH Setup - From Lighting, To Audio, And More",
+        "summary": "Elgato products can significantly enhance your work-from-home setup. Improve productivity and comfort with specialized gear. Solutions cover lighting, audio, and other essential WFH upgrades.",
+        "link": "https://www.ign.com/articles/how-elgato-can-level-up-your-wfh-setup-from-lighting-to-audio-and-more",
+        "category": "GAMING",
+        "date": "Aug 22 \u2022 12:38 PM"
     },
     {
         "headline": "The Sinking City 2 Review",
-        "summary": "The Sinking City 2 is a commendable imitation of Resident Evil. It successfully wraps its horror inspiration in the Cthulhu mythos. The game offers a fresh take on established survival horror tropes.",
+        "summary": "\"The Sinking City 2\" is reviewed, drawing comparisons to \"Resident Evil\". It's praised as a commendable imitation of its horror inspirations. The game is deeply embedded in the Cthulhu mythos.",
         "link": "https://www.ign.com/articles/the-sinking-city-2-review",
         "category": "GAMING",
-        "date": "Aug 22 \u2022 10:22 AM"
+        "date": "Aug 22 \u2022 12:38 PM"
     },
     {
         "headline": "'Hoping for a Huge October Surprise, But Not Holding My Breath' \u2014 Arc Raiders Players Torn After Embark Delays Future Expeditions Until Early 2027",
-        "summary": "Embark Studios delayed all Arc Raiders Expeditions until early 2027. The goal is to implement major improvements based on community feedback. Players are expressing disappointment and mixed reactions to the news.",
+        "summary": "\"Arc Raiders\" future Expeditions are delayed until early 2027. Embark Studios aims for major improvements based on community feedback. Players express mixed feelings about the significant delay.",
         "link": "https://www.ign.com/articles/hoping-for-a-huge-october-surprise-but-not-holding-my-breath-arc-raiders-players-torn-after-embark-delays-future-expeditions-until-early-2027",
         "category": "GAMING",
-        "date": "Aug 22 \u2022 10:22 AM"
+        "date": "Aug 22 \u2022 12:38 PM"
     },
     {
-        "headline": "Save $800 Off This Top-Tier iBuypower Gaming PC With AMD Ryzen 9 9950X3D CPU and 5090 GPU",
-        "summary": "Get $800 off a high-performance iBuypower gaming PC. Features an AMD Ryzen 9 9950X3D CPU and an RTX 5090 GPU. Includes 32GB DDR5 RAM, a 4TB SSD, and a 3-year warranty.",
-        "link": "https://www.ign.com/articles/ibuypower-rtx-5090-gaming-pc-deal-august-2026",
-        "category": "GAMING",
-        "date": "Aug 22 \u2022 10:22 AM"
-    },
-    {
-        "headline": "Amazon Has Box Set Deals Hidden Deep Within Its BOGO 50% Off Book Sale",
-        "summary": "Amazon's BOGO 50% off book sale includes hidden box set discounts. Customers can find special deals on popular book series. This offers a great opportunity to expand your library affordably.",
-        "link": "https://www.ign.com/articles/amazon-bogo-book-sale-august-2026",
-        "category": "GAMING",
-        "date": "Aug 22 \u2022 10:22 AM"
-    },
-    {
-        "headline": "Multiple deaths after police vehicle and car crash during pursuit",
-        "summary": "Multiple fatalities occurred following a police pursuit near Middlesbrough. A police vehicle and another car collided during the incident. The police watchdog has launched an investigation into the crash.",
+        "headline": "Seven dead after police vehicle and car crash during pursuit",
+        "summary": "Seven people died in a police pursuit collision near Middlesbrough. The fatalities include two police officers. A police watchdog has launched an investigation into the crash.",
         "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 22 \u2022 10:22 AM"
+        "date": "Aug 22 \u2022 12:38 PM"
     },
     {
         "headline": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-        "summary": "Canada vows to match US tariffs \"dollar for dollar\" following stalled trade talks. The US imposed a 50% levy on $20 billion of Canadian imports. This escalation signifies a breakdown in bilateral trade relations.",
+        "summary": "Canada pledges to match new US tariffs \"dollar for dollar.\" Trade talks between the two nations have broken down. A 50% levy on $20bn of Canadian imports is now in effect.",
         "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 22 \u2022 10:22 AM"
+        "date": "Aug 22 \u2022 12:38 PM"
     },
     {
-        "headline": "TikTok to pay $400m to US in one of largest child privacy settlements",
-        "summary": "TikTok faces a $400 million payout in a landmark US child privacy settlement. The 2024 lawsuit alleged widespread data collection from minors under 13. This represents one of the largest such settlements ever.",
-        "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+        "headline": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+        "summary": "Rescuers are searching a Ukrainian mall after a Russian strike. The attack killed 16 and injured 130, with four still missing. President Zelensky condemned the strike as \"despicable.\"",
+        "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 22 \u2022 10:22 AM"
+        "date": "Aug 22 \u2022 12:38 PM"
     },
     {
-        "headline": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
-        "summary": "A six-year-old girl, Saja El-Khawas, has tragically died. She is the fourth family member lost in the Shoreham sea incident. The family encountered difficulties in the water off West Sussex.",
-        "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+        "headline": "How this 1960s ex-council house is managing to stay cool without air con",
+        "summary": "A 1960s ex-council house stays cool without air conditioning. It achieves this by adhering to the Passivhaus standard. This energy-efficient building standard is gaining popularity in the UK.",
+        "link": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Aug 22 \u2022 10:22 AM"
+        "date": "Aug 22 \u2022 12:38 PM"
     }
 ]
