@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Explore the globe in field recordings",
+        "summary": "Earth Garden offers a globe for exploring real-world field recordings. Experience unique soundscapes for work, sleep, or active listening. Discover the nuances of burbling brooks or urban chaos.",
+        "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+        "category": "TECH",
+        "date": "Sep 05 \u2022 10:01 PM"
+    },
+    {
+        "headline": "iPhone Handoff will seamlessly share one number between two phones",
+        "summary": "iOS 27 introduces iPhone Handoff for seamless phone switching. Use a single phone number across two different iPhones. A new demo clip shows how to set up this anticipated feature.",
+        "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+        "category": "TECH",
+        "date": "Sep 05 \u2022 10:01 PM"
+    },
+    {
         "headline": "CD sales are booming as physical media continues its resurgence",
-        "summary": "CD sales surged by 45.7% in the first half of 2026. 17.5 million CDs were sold, a significant jump from 12 million the previous year. This indicates a strong resurgence for physical music media.",
+        "summary": "CD sales surged by 45.7% in the first half of 2026. 17.5 million CDs were sold, up from 12 million last year. Physical media is experiencing a significant resurgence.",
         "link": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
         "category": "TECH",
-        "date": "Sep 05 \u2022 07:59 PM"
+        "date": "Sep 05 \u2022 10:01 PM"
     },
     {
         "headline": "Fantasy Footballers\u2019 Andy Holloway is a dedicated zero-inbox kinda guy",
-        "summary": "Andy Holloway co-hosts the highly successful Fantasy Footballers podcast. The show attracts over 2 million monthly listeners and has won multiple awards. Holloway is known for his strict 'zero-inbox' email management.",
+        "summary": "Andy Holloway co-hosts the acclaimed Fantasy Footballers podcast. The show boasts over 2 million monthly listeners and multiple awards. Holloway maintains a strict 'zero-inbox' email management philosophy.",
         "link": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
         "category": "TECH",
-        "date": "Sep 05 \u2022 07:59 PM"
+        "date": "Sep 05 \u2022 10:01 PM"
     },
     {
-        "headline": "Content creators drop the ball",
-        "summary": "Influencers at the US Open distracted Naomi Osaka's match with their loud behavior. An umpire had to pause the game and ask them to quiet down. The incident highlights concerns about content creator conduct at public events.",
-        "link": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
-        "category": "TECH",
-        "date": "Sep 05 \u2022 07:59 PM"
-    },
-    {
-        "headline": "The weird and wonderful headphones of CanJam 2026",
-        "summary": "A reviewer explored unique and distinct headphones at CanJam 2026. The event showcased gear beyond mainstream options, which often lack character. It reignited the reviewer's passion for diverse audio technology.",
-        "link": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
-        "category": "TECH",
-        "date": "Sep 05 \u2022 07:59 PM"
+        "headline": "Zach Cregger Says He's Done With Franchise Films After Resident Evil",
+        "summary": "Director Zach Cregger will not helm another franchise film. His survival horror adaptation of Resident Evil is set for premiere. This marks his final venture into established movie series.",
+        "link": "https://www.ign.com/articles/zach-cregger-says-hes-done-with-franchise-films-after-resident-evil",
+        "category": "GAMING",
+        "date": "Sep 05 \u2022 10:01 PM"
     },
     {
         "headline": "Primetime Review",
-        "summary": "The movie 'Primetime' is described as a blast from the past with a 'sickly allure'. Its garish style is likened to Chris Hansen's 'To Catch a Predator'. This review offers a critical look at the film.",
+        "summary": "The Robert Pattinson film 'Primetime' receives a new review. It's described as a blast from the past with a sickly allure. The movie's style mirrors Chris Hansen\u2019s 'To Catch a Predator'.",
         "link": "https://www.ign.com/articles/primetime-movie-review",
         "category": "GAMING",
-        "date": "Sep 05 \u2022 07:59 PM"
+        "date": "Sep 05 \u2022 10:01 PM"
     },
     {
         "headline": "The Blood of Dawnwalker Passes 1 Million Copies Sold in Just 2 Days",
-        "summary": "New single-player RPG 'The Blood of Dawnwalker' sold 1 million copies. This impressive milestone was achieved within two days of launch. Publisher Bandai Namco and developer Rebel Wolves announced the rapid success.",
+        "summary": "New single-player RPG 'The Blood of Dawnwalker' sold 1 million copies. This sales milestone was reached in just two days post-launch. Bandai Namco and Rebel Wolves announced the rapid success.",
         "link": "https://www.ign.com/articles/the-blood-of-dawnwalker-passes-1-million-copies-sold-in-just-2-days",
         "category": "GAMING",
-        "date": "Sep 05 \u2022 07:59 PM"
+        "date": "Sep 05 \u2022 10:01 PM"
     },
     {
         "headline": "The Batman Part 2 Set Photos Hint at Arkham-Style Batsuit Upgrade",
-        "summary": "New set photos for 'The Batman Part II' reveal an upgraded Batsuit. Robert Pattinson's new costume draws comparisons to the iconic Arkham game design. Fans anticipate a more game-inspired look for the film.",
+        "summary": "New set photos reveal an updated Batsuit for 'The Batman Part II'. Robert Pattinson's suit draws comparisons to the iconic Arkham game design. Fans anticipate a more armored, game-inspired look.",
         "link": "https://www.ign.com/articles/the-batman-part-2-set-photos-arkham-suit-upgrade",
         "category": "GAMING",
-        "date": "Sep 05 \u2022 07:59 PM"
-    },
-    {
-        "headline": "How to Navigate Rebecca Yarros' Popular Fourth Wing Book Series",
-        "summary": "This guide helps readers navigate Rebecca Yarros' popular 'Fourth Wing' book series. It provides insight into the 'Empyrean' series timeline. The article caters to fans of the highly successful fantasy saga.",
-        "link": "https://www.ign.com/articles/fourth-wing-books-in-order-empyrean-series-timeline",
-        "category": "GAMING",
-        "date": "Sep 05 \u2022 07:59 PM"
+        "date": "Sep 05 \u2022 10:01 PM"
     },
     {
         "headline": "US envoys meet Putin in Moscow for Ukraine talks",
-        "summary": "US envoys Steve Witkoff and Jared Kushner held talks with Vladimir Putin in Moscow. Discussions focused on the ongoing situation in Ukraine. Putin acknowledged the current circumstances as 'not so easy'.",
+        "summary": "US envoys Steve Witkoff and Jared Kushner met Vladimir Putin. Talks were held in Moscow concerning the Ukraine situation. Putin acknowledged the current situation as 'not so easy'.",
         "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 05 \u2022 07:59 PM"
+        "date": "Sep 05 \u2022 10:01 PM"
     },
     {
         "headline": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
-        "summary": "Masked 'stop the boats' protesters caused hours-long disruption at Port of Dover. Roads were blocked, leading to widespread condemnation from the government. The demonstration highlights ongoing tensions over immigration policies.",
+        "summary": "Masked 'stop the boats' protesters blocked roads at Port of Dover. The protest caused hours-long disruption at the port. The government condemned the behavior of the demonstrators.",
         "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 05 \u2022 07:59 PM"
+        "date": "Sep 05 \u2022 10:01 PM"
     },
     {
         "headline": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
-        "summary": "Nigel Farage claimed he 'wasn't listening' during undercover foreign donor talks. The Reform leader also revealed his family is 'begging' him to quit politics. This statement comes amidst a growing political donations controversy.",
+        "summary": "Nigel Farage claims he 'wasn't listening' during foreign donor talks. These talks were reportedly filmed undercover by the BBC. His family is 'begging' him to leave his job, he stated.",
         "link": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 05 \u2022 07:59 PM"
+        "date": "Sep 05 \u2022 10:01 PM"
     },
     {
-        "headline": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
-        "summary": "Reform UK is facing internal pressure following a significant donations row. Insiders are urging Nigel Farage's party to adopt a new strategic approach. Admirers within the party are calling for a stronger operational focus.",
-        "link": "https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss",
+        "headline": "US hits three Iranian oil tankers after saying its warships were targeted",
+        "summary": "US launched attacks on three Iranian oil tankers. This action follows claims that US warships were targeted. Iran's state media reported retaliatory strikes, but the US is yet to comment.",
+        "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 05 \u2022 07:59 PM"
+        "date": "Sep 05 \u2022 10:01 PM"
     }
 ]
