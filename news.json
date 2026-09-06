@@ -1,86 +1,86 @@
 [
     {
+        "headline": "An Amazon cargo plane crashed at Miami International Airport",
+        "summary": "An Amazon cargo plane overran a runway at Miami International Airport. The incident resulted in multiple injuries and vehicle damage. The FAA released a statement following the crash.",
+        "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+        "category": "TECH",
+        "date": "Sep 06 \u2022 11:31 PM"
+    },
+    {
         "headline": "Europe has its first commercial orbital rocket",
-        "summary": "German company Isar Aerospace successfully launched Europe's first commercial orbital rocket. The two-stage Spectrum vehicle reached low Earth orbit from a Norwegian spaceport. This follows a previous failed attempt in March.",
+        "summary": "German company Isar Aerospace successfully launched Europe's first commercial orbital rocket. The two-stage Spectrum reached low Earth orbit from a Norwegian spaceport. This follows a previous failed attempt where the rocket crashed and exploded.",
         "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
         "category": "TECH",
-        "date": "Sep 06 \u2022 08:03 PM"
+        "date": "Sep 06 \u2022 11:31 PM"
     },
     {
         "headline": "Boox\u2019s tiny Picco e-reader should land in November",
-        "summary": "Boox's new tiny Picco e-reader is expected to launch in November. Details emerged from IFA, though pricing information is still unavailable. Unlike competitors, the Picco will not feature magnets for attachment.",
+        "summary": "Boox's new Picco e-reader is expected to launch in November. Details are emerging after its IFA tease, though pricing remains undisclosed. Unlike competitors, it will not feature magnetic backing.",
         "link": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
         "category": "TECH",
-        "date": "Sep 06 \u2022 08:03 PM"
+        "date": "Sep 06 \u2022 11:31 PM"
     },
     {
         "headline": "The Fairphone 6 Plus is the midrange phone we desperately needed",
-        "summary": "The Fairphone 6 Plus offers an admirable mission with ethically sourced and highly repairable components. This new midrange model avoids the performance sacrifices of previous Fairphones. It's praised for being a reliable, ethical Android phone.",
+        "summary": "The Fairphone 6 Plus offers a solid midrange Android experience. It upholds Fairphone's commitment to ethical materials and high repairability. The new model significantly improves upon previous versions without sacrificing performance.",
         "link": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
         "category": "TECH",
-        "date": "Sep 06 \u2022 08:03 PM"
+        "date": "Sep 06 \u2022 11:31 PM"
     },
     {
-        "headline": "Competitive Pok\u00e9mon is on phones now, but you still need a Switch to become a champion",
-        "summary": "Competitive Pok\u00e9mon battles are now accessible on mobile via the Pok\u00e9mon Champions app. However, top-tier play, like at World Championships, still requires a Nintendo Switch. The article questions the necessity of this console exclusivity for high-level competition.",
-        "link": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
-        "category": "TECH",
-        "date": "Sep 06 \u2022 08:03 PM"
+        "headline": "[UPDATE] Halloween: The Game Patches Out Sex Minigame \u2014 Dev Confirms 'Major Oversight'",
+        "summary": "Developer IllFonic patched out a sex mini-game from Halloween: The Game. The removal occurred after a gameplay clip went viral. The studio has since issued a statement acknowledging a \"major oversight\".",
+        "link": "https://www.ign.com/articles/halloween-the-game-appears-to-patch-out-a-sex-minigame-and-players-think-they-know-why",
+        "category": "GAMING",
+        "date": "Sep 06 \u2022 11:31 PM"
     },
     {
         "headline": "The Batman Part 2 Goes in 'Another Totally Different Direction,' Robert Pattinson Teases",
-        "summary": "Robert Pattinson teases a significantly different direction for The Batman Part 2. The sequel aims to offer a fresh and unique take on the DC superhero. Specific plot details remain under wraps.",
+        "summary": "Robert Pattinson revealed The Batman Part 2 will take a \"totally different direction\". He suggests a fresh take on the DC superhero. Fans can expect a distinct evolution from the first film.",
         "link": "https://www.ign.com/articles/the-batman-part-2-goes-in-another-totally-different-direction-robert-pattinson-teases",
         "category": "GAMING",
-        "date": "Sep 06 \u2022 08:03 PM"
+        "date": "Sep 06 \u2022 11:31 PM"
     },
     {
         "headline": "Zach Cregger Says He Feels Like He's 'Running for Office' Trying to Get Skeptical Resident Evil Fans 'Not to Call Me a LARPer'",
-        "summary": "Resident Evil director Zach Cregger feels like he's on an 'apology tour' for his film adaptation. He's working to address skepticism from the franchise's dedicated fanbase. Cregger is trying to reassure fans amid strong reactions to the project.",
+        "summary": "Resident Evil director Zach Cregger feels he's on an \"apology tour.\" He's addressing fan skepticism about his movie adaptation. Cregger aims to convince fans he's not a \"LARPer.\"",
         "link": "https://www.ign.com/articles/zach-cregger-says-he-feels-like-hes-running-for-office-trying-to-get-skeptical-resident-evil-fans-not-to-call-me-a-larper",
         "category": "GAMING",
-        "date": "Sep 06 \u2022 08:03 PM"
+        "date": "Sep 06 \u2022 11:31 PM"
     },
     {
         "headline": "Exodus Ending and Character Fates Change Based on Your Choices",
-        "summary": "The upcoming sci-fi RPG Exodus will feature player-driven choices that impact the game's ending. The narrative director confirms that character fates can change based on player decisions. This promises a highly reactive and personalized story experience.",
+        "summary": "Upcoming sci-fi RPG Exodus will feature player choice-driven consequences. Decisions will impact the game's ending and character fates. The narrative director detailed how choices will be reflected.",
         "link": "https://www.ign.com/articles/exodus-companions-might-not-make-the-ending-based-on-player-choices-mass-effect",
         "category": "GAMING",
-        "date": "Sep 06 \u2022 08:03 PM"
+        "date": "Sep 06 \u2022 11:31 PM"
     },
     {
-        "headline": "Riot Co-Founder Calls League of Legends MMO the 'Grail' Quest, 5 Years After It Was Announced",
-        "summary": "Riot Games' long-awaited League of Legends MMO is still in active development, five years after its announcement. Co-founder Mark Merrill describes the ambitious project as the studio's 'grail quest.' The MMO aims to be a monumental title for Riot.",
-        "link": "https://www.ign.com/articles/riot-co-founder-calls-league-of-legends-mmo-the-grail-quest-5-years-after-it-was-announced",
-        "category": "GAMING",
-        "date": "Sep 06 \u2022 08:03 PM"
-    },
-    {
-        "headline": "German far-right set for big win in eastern state, projections show",
-        "summary": "Germany's far-right AfD party is projected for a significant win in an eastern state. They are expected to secure over 44% of the vote, vastly outperforming the conservative CDU. The AfD has hailed this outcome as a 'historic result.'",
+        "headline": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+        "summary": "Germany's far-right AfD party is projected for a significant win in an eastern state. They are expected to secure 44% of the vote, nearing a majority. The party has hailed this as a \"historic result.\"",
         "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 06 \u2022 08:03 PM"
+        "date": "Sep 06 \u2022 11:31 PM"
     },
     {
         "headline": "Zelensky says he expects war to continue into winter after talks with US envoys",
-        "summary": "Ukrainian President Zelensky anticipates the ongoing war will continue into the winter months. This assessment follows recent talks with US envoys Steve Witkoff and Jared Kushner. The discussions concluded without any major breakthrough announcements.",
+        "summary": "President Zelensky expects the war to persist into winter. This projection follows talks with US envoys Steve Witkoff and Jared Kushner. No major breakthrough was announced from the discussions.",
         "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 06 \u2022 08:03 PM"
+        "date": "Sep 06 \u2022 11:31 PM"
     },
     {
         "headline": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
-        "summary": "A government minister is scheduled to meet with the CEO of Jaguar Land Rover. The meeting comes amid expectations of thousands of job cuts at the automotive company. JLR is struggling with the impact of tariffs and a major cyber attack.",
+        "summary": "A minister will meet with the Jaguar Land Rover boss regarding anticipated job cuts. Thousands of jobs are expected to be affected. The company faces challenges from tariffs and a prior cyber attack.",
         "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 06 \u2022 08:03 PM"
+        "date": "Sep 06 \u2022 11:31 PM"
     },
     {
-        "headline": "Jamaica to bring slavery reparations petition to King Charles",
-        "summary": "Jamaica plans to present a slavery reparations petition directly to King Charles. The petition will ask the King to refer three specific questions to the Judicial Committee of the Privy Council. This move seeks to formally address historical injustices tied to slavery.",
-        "link": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&at_campaign=rss",
+        "headline": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
+        "summary": "BBC News presenter Maryam Moshiri announced her blood cancer diagnosis. She shared her condition to raise public awareness. Moshiri wanted to be open about her health journey.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 06 \u2022 08:03 PM"
+        "date": "Sep 06 \u2022 11:31 PM"
     }
 ]
