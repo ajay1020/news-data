@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Apple\u2019s foldable \u2018iPhone Duo\u2019 will reportedly start at $2,000",
+        "summary": "Apple's long-rumored folding phone is reportedly named 'iPhone Duo'. It's expected to launch with a starting price of $2,000. This news comes just before Apple's next iPhone event.",
+        "link": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
+        "category": "TECH",
+        "date": "Sep 09 \u2022 08:42 AM"
+    },
+    {
         "headline": "Sony isn\u2019t phasing out discs quite as quickly as we thought",
-        "summary": "Sony is not abandoning its plan to cease disc production by January 2028. However, the company is slowing down the shutdown of its disc-making operations. Reports of a plant being 90% repurposed were inaccurate; the process is less rapid.",
+        "summary": "Sony is still committed to ending video game disc production by January 2028. However, the company isn't shutting down production as rapidly as initially reported. A previous detail about a discmaking plant's repurposing was incorrect.",
         "link": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
         "category": "TECH",
-        "date": "Sep 09 \u2022 03:23 AM"
+        "date": "Sep 09 \u2022 08:42 AM"
     },
     {
         "headline": "Drama swirls around OpenAI\u2019s legendary mathematical milestone",
-        "summary": "OpenAI claims to have solved the Navier-Stokes problem, unsolved for 90 years. This major mathematical breakthrough relates to the flow of liquids. The announcement, initially reported by major outlets, is now surrounded by \"drama.\"",
+        "summary": "OpenAI claims to have solved the Navier-Stokes problem, a mathematical challenge unsolved for 90 years. This breakthrough relates to the complex flow of liquids and gases. The announcement has sparked significant attention and discussion.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
         "category": "TECH",
-        "date": "Sep 09 \u2022 03:23 AM"
+        "date": "Sep 09 \u2022 08:42 AM"
     },
     {
         "headline": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
-        "summary": "Rivian's micromobility spinoff, Also, has delayed its futuristic TM-B e-bike. Customers are expressing dissatisfaction over the shipping delays. The TM-B features a unique software-controlled pedal-by-wire system and USB-C charging.",
+        "summary": "Rivian's micromobility spinoff, Also, has apologized for delays with its futuristic TM-B e-bike. The software-controlled e-bike features a unique pedal-by-wire system and USB-C charging. Customers are expressing disappointment over the unexpected wait.",
         "link": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
         "category": "TECH",
-        "date": "Sep 09 \u2022 03:23 AM"
+        "date": "Sep 09 \u2022 08:42 AM"
     },
     {
-        "headline": "Razer\u2019s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
-        "summary": "The Razer BlackShark V3 Pro gaming headset is on sale for $164.99, nearly $100 off. It features active noise cancellation (ANC), a rare high-end feature at this price. The Xbox version is recommended as it's compatible with PlayStation, PC, and Switch.",
-        "link": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
-        "category": "TECH",
-        "date": "Sep 09 \u2022 03:23 AM"
+        "headline": "IGN Australia and Chupa Chups to Host a Retro Gaming \u2018Fun House\u2019 Activation at Westfield Parramatta This October",
+        "summary": "IGN Australia and Chupa Chups are partnering to host a 'Retro Gaming Fun House'. This interactive event will be held at Westfield Parramatta. Gaming enthusiasts can experience retro fun this October.",
+        "link": "https://www.ign.com/articles/chupa-chups-forever-fun-house",
+        "category": "GAMING",
+        "date": "Sep 09 \u2022 08:42 AM"
+    },
+    {
+        "headline": "Hands on: Tianji: Shadow of the Ancients",
+        "summary": "This article provides an in-depth hands-on preview of 'Tianji: Shadow of the Ancients'. Get first impressions on gameplay mechanics and visuals. Discover what to expect from this new title.",
+        "link": "https://www.ign.com/articles/hands-on-tianji-shadow-of-the-ancients",
+        "category": "GAMING",
+        "date": "Sep 09 \u2022 08:42 AM"
+    },
+    {
+        "headline": "Netflix Orders Lonesome Dove TV Series From East of Eden Showrunners",
+        "summary": "Netflix is adapting Larry McMurtry\u2019s classic Western novel 'Lonesome Dove' into a new TV series. Zoe Kazan and Jeb Stuart, from 'East of Eden', are helming the project. The iconic story is set to return to screens.",
+        "link": "https://www.ign.com/articles/netflix-lonesome-dove-series-zoe-kazan",
+        "category": "GAMING",
+        "date": "Sep 09 \u2022 08:42 AM"
     },
     {
         "headline": "AMC Theaters Is Broadcasting the 2026 Rocket League World Championship Finals at Select Cinemas Across the US",
-        "summary": "The 2026 Rocket League World Championship Finals will be shown in cinemas. 50 AMC Theaters across the US will broadcast the esports event. This marks a unique partnership for competitive gaming viewership.",
+        "summary": "AMC Theaters will broadcast the 2026 Rocket League World Championship Finals. Fans can watch the esports event in select cinemas across the United States. Experience the competition on the big screen.",
         "link": "https://www.ign.com/articles/amc-theaters-is-broadcasting-the-2026-rocket-league-world-championship-finals-at-select-cinemas-across-the-us",
         "category": "GAMING",
-        "date": "Sep 09 \u2022 03:23 AM"
-    },
-    {
-        "headline": "SteelSeries Aeon Pro Review So Far",
-        "summary": "The SteelSeries Aeon Pro controller offers numerous pro-level features. It includes Hall-effect thumbsticks, tactile buttons, and adjustable triggers. A standout feature is its hot-swappable battery system for convenience.",
-        "link": "https://www.ign.com/articles/steelseries-aeon-pro-review",
-        "category": "GAMING",
-        "date": "Sep 09 \u2022 03:23 AM"
-    },
-    {
-        "headline": "The Lord of the Rings: The Rings of Power Is Finally Getting a 4K Blu-ray Release Ahead of Season 3",
-        "summary": "\"The Rings of Power\" Season 1 and 2 are getting a 4K Blu-ray release. This physical release comes ahead of the show's anticipated third season. Fans can now own the Prime Video series in high-definition physical format.",
-        "link": "https://www.ign.com/articles/lord-of-the-rings-the-rings-of-power-season-1-2-4k-blu-ray-where-to-buy",
-        "category": "GAMING",
-        "date": "Sep 09 \u2022 03:23 AM"
-    },
-    {
-        "headline": "The Bomb Busters Board Game Drops to Its Lowest Price Ever at Amazon",
-        "summary": "The \"Bomb Busters\" board game is currently available at its lowest price. This deal is being offered on Amazon. Gamers can grab the game at a significant discount.",
-        "link": "https://www.ign.com/articles/bomb-busters-board-game-deal-september-2026",
-        "category": "GAMING",
-        "date": "Sep 09 \u2022 03:23 AM"
-    },
-    {
-        "headline": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-        "summary": "The UK announced sanctions on Israeli West Bank settlements. Britain's foreign secretary accused settlers of \"ethnic cleansing\" Palestinians. Israel responded by closing the UK consulate in East Jerusalem.",
-        "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Sep 09 \u2022 03:23 AM"
+        "date": "Sep 09 \u2022 08:42 AM"
     },
     {
         "headline": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-        "summary": "British-Israeli relations are at their lowest point in decades. This follows the UK's trade ban on Israeli settlements in the West Bank. The severity of Israel's response highlights the critical nature of the moment.",
+        "summary": "British-Israeli relations have reached their lowest point in decades. This follows London's trade ban on Israeli settlements in the occupied West Bank. The move signals a significant shift in diplomatic ties.",
         "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 09 \u2022 03:23 AM"
+        "date": "Sep 09 \u2022 08:42 AM"
     },
     {
-        "headline": "More flight delays expected after hundreds cancelled by air traffic control glitch",
-        "summary": "Further flight delays are anticipated after hundreds of cancellations. A technical glitch affecting air traffic control provider Nats caused the disruption. Departures from multiple airports are impacted by the ongoing problem.",
-        "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+        "headline": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+        "summary": "Four women have told the BBC they were exploited and raped by drug gangs as teenagers. They accuse police of failing to take their claims seriously. The shocking report details systemic failures in protection.",
+        "link": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 09 \u2022 03:23 AM"
+        "date": "Sep 09 \u2022 08:42 AM"
     },
     {
-        "headline": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
-        "summary": "The US struck Iranian oil tankers in retaliation. Tehran had previously targeted an American base in Jordan. Oil prices surged towards $100 a barrel amidst the escalating conflict.",
-        "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+        "headline": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
+        "summary": "Twenty-five years after 9/11, the agony for bereaved families remains profound. The alleged mastermind of the attacks is still awaiting trial. This protracted wait continues to affect those seeking closure.",
+        "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 09 \u2022 03:23 AM"
+        "date": "Sep 09 \u2022 08:42 AM"
+    },
+    {
+        "headline": "Very hot drinks may damage the food pipe and increase cancer risk",
+        "summary": "Experts warn that consuming steaming hot liquids can damage the cell lining of the esophagus. This damage may elevate the risk of developing certain cancers. It's advised to let hot beverages cool before drinking.",
+        "link": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Sep 09 \u2022 08:42 AM"
     }
 ]
