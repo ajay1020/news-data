@@ -1,86 +1,86 @@
 [
     {
+        "headline": "GM updates its trucks\u2019 native software to coexist with CarPlay",
+        "summary": "GM updates truck software for easier control access. New picture-in-picture displays added for CarPlay/Android Auto. This marks a shift from GM's past anti-phone mirroring stance.",
+        "link": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
+        "category": "TECH",
+        "date": "Sep 15 \u2022 01:10 PM"
+    },
+    {
+        "headline": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+        "summary": "Microsoft released an emergency Windows 11 update. It fixes issues from its September patch, which was the largest ever. The original patch affected folder shares and other systems.",
+        "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+        "category": "TECH",
+        "date": "Sep 15 \u2022 01:10 PM"
+    },
+    {
         "headline": "Volvo\u2019s plug-in hybrid XC60 and XC90 can really go the distance",
-        "summary": "Volvo's new XC60 and XC90 PHEVs offer significantly extended battery-only range. The updated models aim to push the limits of plug-in hybrid capabilities. Volvo is challenging average PHEV performance in the booming hybrid market.",
+        "summary": "Volvo's updated XC60 and XC90 PHEVs boast extended electric range. Most PHEVs offer 30-50 miles, but Volvo aims to push limits. This release comes as hybrid sales dominate the market.",
         "link": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
         "category": "TECH",
-        "date": "Sep 15 \u2022 07:17 AM"
+        "date": "Sep 15 \u2022 01:10 PM"
     },
     {
         "headline": "Valve is still figuring out \u2018how and when\u2019 to do Steam Deck 2",
-        "summary": "Valve has launched its 2026 hardware lineup, but a Steam Deck 2 is not yet confirmed. The company is deliberating on the 'how and when' for a next-gen handheld. Designer Pierre-Loup suggests development is still in early stages.",
+        "summary": "Valve is contemplating a next-gen Steam Deck 2. The company recently launched its 2026 hardware lineup. Development details on Steam Deck 2 are currently unconfirmed.",
         "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
         "category": "TECH",
-        "date": "Sep 15 \u2022 07:17 AM"
+        "date": "Sep 15 \u2022 01:10 PM"
     },
     {
-        "headline": "Is Big Tech\u2019s AI slowdown a safety pact or a cartel?",
-        "summary": "Top AI leaders agreed to slow AI development, citing a need to 'pace the frontier.' Critics question if this is a safety measure or a move towards market control. The pact involves major figures like Sam Altman, Demis Hassabis, and Elon Musk.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-        "category": "TECH",
-        "date": "Sep 15 \u2022 07:17 AM"
-    },
-    {
-        "headline": "Apple Home\u2019s new security camera features cost as much as $60 a month",
-        "summary": "Apple Home gains new AI-powered video summary features with iOS 27 and tvOS 27. These Apple Intelligence features are part of HomeKit Secure Video. Accessing these advanced security camera functions could cost up to $60 monthly.",
-        "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
-        "category": "TECH",
-        "date": "Sep 15 \u2022 07:17 AM"
-    },
-    {
-        "headline": "Marvel's Wolverine Actor Liam McIntyre Isn't Fazed by Players' Brutal Comments About the Game",
-        "summary": "Liam McIntyre, actor for Marvel's Wolverine, is unfazed by player criticism. He acknowledges fan comments regarding Insomniac's new superhero game. McIntyre remains confident despite brutal feedback from the gaming community.",
-        "link": "https://www.ign.com/articles/marvels-wolverine-actor-liam-mcintyre-isnt-fazed-by-players-brutal-comments-about-the-game",
+        "headline": "Wolverine Developer Insomniac Promises to 'Further Refine the Player Experience' Based on Feedback",
+        "summary": "Insomniac will refine Marvel's Wolverine based on player feedback. The developer expressed pride in the game. Improvements aim to enhance the overall player experience.",
+        "link": "https://www.ign.com/articles/wolverine-developer-insomniac-promises-to-further-refine-the-player-experience-based-on-feedback",
         "category": "GAMING",
-        "date": "Sep 15 \u2022 07:17 AM"
+        "date": "Sep 15 \u2022 01:10 PM"
     },
     {
-        "headline": "2026 Emmy Award Winners: The Full List",
-        "summary": "The complete list of 2026 Emmy Award winners has been released. Discover who took home the top honors this year. Get all the details on the prestigious TV ceremony.",
-        "link": "https://www.ign.com/articles/2026-emmy-awards-winners",
+        "headline": "The Creep Tapes Season 3 Review",
+        "summary": "The Creep Tapes Season 3 received a positive review. It's described as mean, hilarious, and utterly horrifying. This season delivers a strong horror experience.",
+        "link": "https://www.ign.com/articles/the-creep-tapes-season-3-review",
         "category": "GAMING",
-        "date": "Sep 15 \u2022 07:17 AM"
+        "date": "Sep 15 \u2022 01:10 PM"
     },
     {
-        "headline": "Save $10 Off the LEGO Nintendo Game Boy Building Set With Walmart's Hidden Coupon Code",
-        "summary": "Walmart is offering a hidden coupon code for $10 off the LEGO Nintendo Game Boy set. This building set is a must-have for LEGO enthusiasts and Nintendo fans. Grab this deal to own a unique piece of gaming nostalgia.",
-        "link": "https://www.ign.com/articles/lego-game-boy-deal-september-2026",
+        "headline": "Wardogs Sells 2 Million Copies in 5 Days as Early Access Shooter Blows Up on Steam",
+        "summary": "Early Access shooter Wardogs sold 2 million copies in five days. The game quickly gained popularity on Steam. Its rapid sales mark incredible success.",
+        "link": "https://www.ign.com/articles/wardogs-sells-2-million-copies-in-5-days-as-early-access-shooter-blows-up-on-steam",
         "category": "GAMING",
-        "date": "Sep 15 \u2022 07:17 AM"
+        "date": "Sep 15 \u2022 01:10 PM"
     },
     {
-        "headline": "Wardogs Players Are Avoiding One of the Game's Factions Because It Has a Stigma of Attracting the Stupidest Players",
-        "summary": "Wardogs players are actively shunning the game's Lonestar faction. This faction is rumored to attract less skilled players, leading to frequent losses. The stigma is causing players to avoid it for competitive reasons.",
-        "link": "https://www.ign.com/articles/wardogs-players-are-avoiding-one-of-the-games-factions-because-it-has-a-stigma-of-attracting-the-stupidest-players",
+        "headline": "Buffy the Vampire Slayer Reboot Cancellation Means Fans Will Never Discover if Buffy and Angel Ended Up Together, Sarah Michelle Gellar Jokes",
+        "summary": "Hulu canceled the Buffy the Vampire Slayer reboot. Sarah Michelle Gellar joked fans won't know Buffy and Angel's fate. The cancellation was a shock to many.",
+        "link": "https://www.ign.com/articles/buffy-the-vampire-slayer-reboot-cancellation-means-fans-will-never-discover-if-buffy-and-angel-ended-up-together-sarah-michelle-gellar-jokes",
         "category": "GAMING",
-        "date": "Sep 15 \u2022 07:17 AM"
+        "date": "Sep 15 \u2022 01:10 PM"
     },
     {
-        "headline": "State pension likely to rise by \u00a3488 a year in April",
-        "summary": "The UK state pension is projected to increase by \u00a3488 annually starting in April. This rise is attributed to the triple lock policy, which guarantees significant increases. The policy faces scrutiny due to rising pensioner numbers and increasing costs.",
+        "headline": "Key findings from Lucy Letby Thirlwall Inquiry",
+        "summary": "The Thirlwall Inquiry revealed \"complete failure\" to protect babies. This occurred at the neonatal unit where Lucy Letby worked. The findings highlight serious systemic issues.",
+        "link": "https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Sep 15 \u2022 01:10 PM"
+    },
+    {
+        "headline": "State pension likely to top \u00a313,000 a year as UK wage growth slows to 3.9%",
+        "summary": "UK state pension is projected to exceed \u00a313,000 annually. This comes amid a slowdown in UK wage growth to 3.9%. The increase sparks debate on long-term affordability and fairness.",
         "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 15 \u2022 07:17 AM"
+        "date": "Sep 15 \u2022 01:10 PM"
     },
     {
-        "headline": "Lucy Letby public inquiry findings set to be published",
-        "summary": "The findings of the Thirlwall Inquiry into killer nurse Lucy Letby are due for release. The inquiry investigated how concerns about Letby were handled by authorities. It also explored if earlier intervention could have saved babies' lives.",
-        "link": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss",
+        "headline": "Denmark says Russian warship fired flares at military helicopter",
+        "summary": "Denmark accused a Russian warship of firing flares at its military helicopter. The Danish PM called Russia's behavior \"reckless.\" The Kremlin has not yet commented on the incident.",
+        "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 15 \u2022 07:17 AM"
+        "date": "Sep 15 \u2022 01:10 PM"
     },
     {
-        "headline": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-        "summary": "Former President Trump dismissed AI safety concerns as a 'hoax,' rejecting calls for increased safeguards. His comments come after an AI co-founder suggested a mandatory 'kill switch.' Trump's stance contrasts with growing industry and expert warnings on AI risks.",
-        "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+        "headline": "Five things you may not know about Emmy history-maker Matthew Rhys",
+        "summary": "Welsh actor Matthew Rhys made Emmy history. He became the first to win two lead acting prizes in one night. The article reveals five lesser-known facts about him.",
+        "link": "https://www.bbc.co.uk/news/articles/ck790x9d74vvo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 15 \u2022 07:17 AM"
-    },
-    {
-        "headline": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-        "summary": "Welsh actor Matthew Rhys achieved a historic double win at the Emmy Awards. He became the first person to win two lead acting prizes in a single night. Rhys's unprecedented success marks a significant moment at the prestigious TV ceremony.",
-        "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Sep 15 \u2022 07:17 AM"
+        "date": "Sep 15 \u2022 01:10 PM"
     }
 ]
