@@ -1,86 +1,86 @@
 [
     {
-        "headline": "Voters mostly don\u2019t like AI and data centers, but neither party seems to have an edge",
-        "summary": "Poll data reveals 61% of likely voters oppose AI data center construction. The New York Times/Siena University survey highlights widespread public disapproval. Neither political party holds a clear advantage on this issue.",
+        "headline": "The Boox Palma 3 gets stylus support and a sleek redesign",
+        "summary": "Boox Palma 3 e-reader launched with a sleek redesign. New model adds stylus support and updated functionality. It comes with a significant price bump from its predecessor.",
+        "link": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+        "category": "TECH",
+        "date": "Sep 16 \u2022 04:39 AM"
+    },
+    {
+        "headline": "The EOS R8 Mark II is Canon\u2019s lightest full-frame camera with stabilization",
+        "summary": "Canon announced the EOS R8 Mark II full-frame camera. Features a retro redesign and new in-body stabilization. Addresses a key omission from the original R8 model.",
+        "link": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+        "category": "TECH",
+        "date": "Sep 16 \u2022 04:39 AM"
+    },
+    {
+        "headline": "AI and data centers are incredibly unpopular in every poll",
+        "summary": "New poll data reveals strong public opposition to AI and data centers. 61% of likely voters oppose construction for AI tech. This sentiment influences political responses to AI development.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
         "category": "TECH",
-        "date": "Sep 15 \u2022 11:59 PM"
+        "date": "Sep 16 \u2022 04:39 AM"
     },
     {
         "headline": "Microsoft announces Windows and Surface event for October 7th",
-        "summary": "Microsoft will host a Windows and Surface event on October 7th in San Francisco. The company plans to discuss the future of Windows and new Surface devices. Local AI's role in upcoming computing advancements will be a key focus.",
+        "summary": "Microsoft to host a major Windows and Surface event on October 7th. The event will take place in San Francisco. Focus will be on how local AI will shape future Windows and Surface devices.",
         "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
         "category": "TECH",
-        "date": "Sep 15 \u2022 11:59 PM"
+        "date": "Sep 16 \u2022 04:39 AM"
     },
     {
-        "headline": "What if social media isn\u2019t hurting kids?",
-        "summary": "A new article questions the popular belief that social media is harming children. It challenges the premises of Jonathan Haidt's bestselling book, 'The Anxious Generation'. The piece explores alternative perspectives on youth mental health and digital use.",
-        "link": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
-        "category": "TECH",
-        "date": "Sep 15 \u2022 11:59 PM"
+        "headline": "Wo Long 2: Wings of Ember Gets Release Date, Demo Available Now",
+        "summary": "Wo Long 2: Wings of Ember launches March 4, 2027. Available on PC, PS5, Xbox Series X|S (Game Pass), and Switch 2. A free alpha demo is playable now until September 30.",
+        "link": "https://www.ign.com/articles/wo-long-2-wings-of-ember-gets-release-date-demo-available-now",
+        "category": "GAMING",
+        "date": "Sep 16 \u2022 04:39 AM"
     },
     {
-        "headline": "Kia\u2019s electric van lineup is getting more interesting with reveal of PV7",
-        "summary": "Kia is expanding its electric vehicle range with the introduction of the PV7 electric van. Minivan sales are on the rise, up 21% in 2025, suggesting a comeback for the segment. The PV7 aims to appeal to consumers looking for practical, eco-friendly alternatives to SUVs.",
-        "link": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
-        "category": "TECH",
-        "date": "Sep 15 \u2022 11:59 PM"
+        "headline": "Every Fourth Wing Board Game Adaption You Can Buy Right Now",
+        "summary": "This article lists available Fourth Wing board game adaptations. It provides a guide for fans of the popular series. Explore various board game options inspired by Fourth Wing.",
+        "link": "https://www.ign.com/articles/all-fourth-wing-board-game-adaptions",
+        "category": "GAMING",
+        "date": "Sep 16 \u2022 04:39 AM"
+    },
+    {
+        "headline": "'This Is a Place You Come to Work Hard' \u2014 Wardogs CEO Justifies Crunch as a Balancing Act",
+        "summary": "Wardogs CEO Joe Brammer defends the studio's use of crunch. He states they avoid hiring those unwilling to crunch. Brammer views crunch as necessary for balancing work.",
+        "link": "https://www.ign.com/articles/this-is-a-place-you-come-to-work-hard-wardogs-ceo-justifies-crunch-as-a-balancing-act",
+        "category": "GAMING",
+        "date": "Sep 16 \u2022 04:39 AM"
     },
     {
         "headline": "Marvel's Wolverine Offers Up a Canonical Explanation for Why Logan's Costume Regenerates",
-        "summary": "Marvel's Wolverine game provides a canonical reason for Logan's costume regenerating. This explanation details how his outfit repairs itself, much like his healing factor. It adds a new piece of lore to the Wolverine mythos.",
+        "summary": "Marvel's Wolverine game provides an explanation for Logan's costume. The game clarifies how his clothes regenerate with his body. It offers a canonical detail for fans.",
         "link": "https://www.ign.com/articles/marvels-wolverine-offers-up-a-canonical-explanation-for-why-logans-costume-regenerates",
         "category": "GAMING",
-        "date": "Sep 15 \u2022 11:59 PM"
+        "date": "Sep 16 \u2022 04:39 AM"
     },
     {
-        "headline": "HBO Boss All But Confirms The Last of Us Show Will End With Season 3",
-        "summary": "HBO's CEO suggests that 'The Last of Us' series is likely to conclude after its third season. Showrunner Craig Mazin has reportedly planned for a three-season run. This indicates a definitive ending for the critically acclaimed adaptation.",
-        "link": "https://www.ign.com/articles/hbo-boss-all-but-confirms-the-last-of-us-show-will-end-with-season-3",
-        "category": "GAMING",
-        "date": "Sep 15 \u2022 11:59 PM"
-    },
-    {
-        "headline": "Warner Bros. Reportedly Regrets Torching Zack Snyder's DC Universe and Battling With Him on Justice League",
-        "summary": "A Warner Bros. executive reportedly expressed regret over past conflicts with Zack Snyder. The studio's decision to alter his DC universe vision is now a source of regret. This suggests a reevaluation of their handling of the Justice League and Snyder's creative input.",
-        "link": "https://www.ign.com/articles/warner-bros-reportedly-regrets-torching-zack-snyders-dc-universe-and-battling-with-him-on-justice-league",
-        "category": "GAMING",
-        "date": "Sep 15 \u2022 11:59 PM"
-    },
-    {
-        "headline": "Walmart Just Discounted Over a Dozen Nintendo Switch Games, Plus Get an Extra $10 With This Secret Coupon",
-        "summary": "Walmart is offering significant discounts on more than a dozen Nintendo Switch games. Shoppers can also use a secret coupon for an additional $10 off. This sale presents a great opportunity for Switch owners to expand their game library.",
-        "link": "https://www.ign.com/articles/nintendo-switch-customer-appreciation-sale-at-walmart-plus-secret-coupon",
-        "category": "GAMING",
-        "date": "Sep 15 \u2022 11:59 PM"
-    },
-    {
-        "headline": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
-        "summary": "Plans are being 'urgently' developed for live-streaming cameras in baby cots. This follows an inquiry into Lucy Letby's crimes, which concluded they could have been prevented. The measure aims to enhance safety and monitoring in neonatal units.",
-        "link": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
+        "headline": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+        "summary": "OpenAI CEO Sam Altman acknowledges public fear regarding AI. He urges trust in AI firms to manage advancements responsibly. Tech CEOs suggest incentives exist to limit AI threats.",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 15 \u2022 11:59 PM"
+        "date": "Sep 16 \u2022 04:39 AM"
     },
     {
         "headline": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-        "summary": "All support acts have withdrawn from Ed Sheeran's US tour. This comes after Macklemore was removed from the lineup for pro-Palestinian statements. Sheeran stated he was not responsible for Macklemore's removal.",
+        "summary": "All support acts for Ed Sheeran's US tour have quit. This follows Macklemore's removal from the line-up. Macklemore was dropped after making pro-Palestinian statements.",
         "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 15 \u2022 11:59 PM"
+        "date": "Sep 16 \u2022 04:39 AM"
     },
     {
-        "headline": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
-        "summary": "Dan Thomas has resigned as leader of Reform Wales following his arrest. Gwent Police confirmed his arrest on suspicion of assault. Thomas asserts his innocence, stating he has done nothing wrong.",
-        "link": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
+        "headline": "UK in talks about joining global defence bank led by Canada",
+        "summary": "The UK is discussing joining a global defence bank. The bank is led by Canada. It aims to provide cheaper loans for defence projects.",
+        "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 15 \u2022 11:59 PM"
+        "date": "Sep 16 \u2022 04:39 AM"
     },
     {
-        "headline": "Former England footballer Raheem Sterling admits dangerous driving on motorway before crash",
-        "summary": "Former England winger Raheem Sterling has admitted to dangerous driving. He crashed his Lamborghini into motorway barriers back in May. The admission precedes further legal proceedings regarding the incident.",
-        "link": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
+        "headline": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
+        "summary": "A doctor from the Letby case described the inquiry as 'grim reading'. He expressed regret for not acting sooner on suspicions. Dr. John Gibbs worked at the hospital during Letby's murder spree.",
+        "link": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 15 \u2022 11:59 PM"
+        "date": "Sep 16 \u2022 04:39 AM"
     }
 ]
