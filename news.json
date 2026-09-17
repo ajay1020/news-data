@@ -1,86 +1,86 @@
 [
     {
+        "headline": "The streamers are fighting over Halloween",
+        "summary": "TIFF 2026 revealed new horror series from multiple streaming services. Peacock, Netflix, Amazon, and AMC are all premiering Halloween-adjacent content. The festival offered a glimpse into the future of streaming horror.",
+        "link": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
+        "category": "TECH",
+        "date": "Sep 17 \u2022 07:15 AM"
+    },
+    {
         "headline": "Snap is launching a new Specs AI tool, and it\u2019s coming to iOS and Mac",
-        "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant. It connects digital accounts for tasks like work and travel. Pitched as an \"anticipatory AI service\" for iOS and Mac.",
+        "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant. It connects to other digital accounts for work and travel tasks. Snap describes it as an \"anticipatory AI service\" similar to Meta's Muse or Gemini's Spark.",
         "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
         "category": "TECH",
-        "date": "Sep 17 \u2022 12:09 AM"
+        "date": "Sep 17 \u2022 07:15 AM"
     },
     {
         "headline": "I wore Snap\u2019s $2,200 smart glasses",
-        "summary": "This article offers a hands-on review of Snap's new augmented reality glasses, the Specs. The experience included playing virtual dominoes using hand gestures. These advanced smart glasses are priced at $2,200.",
+        "summary": "A reviewer tried Snap's new $2,200 augmented reality Specs glasses. The experience included playing virtual dominoes with hand gestures. The chunky glasses allowed for interactive AR gaming.",
         "link": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
         "category": "TECH",
-        "date": "Sep 17 \u2022 12:09 AM"
+        "date": "Sep 17 \u2022 07:15 AM"
     },
     {
         "headline": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-        "summary": "A new 2.5-hour AI-generated film, \"Odysseus: The Fall,\" attempts to retell The Odyssey. The review criticizes the movie as exceptionally bad. It suggests the film might make viewers dislike the original tale.",
+        "summary": "A new 2.5-hour AI-generated film, \"Odysseus: The Fall,\" retells The Odyssey. Despite Nolan's success with the classic tale, this AI version is critically panned. Reviewers suggest the AI film might make viewers dislike the original story.",
         "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
         "category": "TECH",
-        "date": "Sep 17 \u2022 12:09 AM"
+        "date": "Sep 17 \u2022 07:15 AM"
     },
     {
-        "headline": "The AI data center e-waste problem is huge \u2014 and getting bigger",
-        "summary": "A new report warns that e-waste from the AI boom is vastly underestimated. By 2050, AI e-waste could fill 23 million shipping containers. This volume could reportedly circle the world six times, far exceeding previous estimates.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-        "category": "TECH",
-        "date": "Sep 17 \u2022 12:09 AM"
+        "headline": "Slow Horses Season 6, Episode 1 Review \u2014 'Circle of Life'",
+        "summary": "Apple TV's spy series \"Slow Horses\" returns with its Season 6 premiere. The episode, \"Circle of Life,\" maintains its familiar tone despite new writers. The show is back just one year after its fifth season.",
+        "link": "https://www.ign.com/articles/slow-horses-season-6-episode-1-review-circle-of-life",
+        "category": "GAMING",
+        "date": "Sep 17 \u2022 07:15 AM"
     },
     {
-        "headline": "LittleBigPlanet Developer Reportedly Working On Animal Crossing-Like Game For 2027 Release",
-        "summary": "Media Molecule, the developer behind LittleBigPlanet, is reportedly developing a new game. The project is described as a social-sim, drawing comparisons to Animal Crossing. The game is rumored for a 2027 release.",
+        "headline": "SteelSeries Arctis Nova Pro Wireless Headset Hits New Low Price",
+        "summary": "The SteelSeries Arctis Nova Pro Wireless Gaming Headset is on sale. It offers wireless freedom and \"infinite\" battery life. This deal brings the headset to its lowest price ever.",
+        "link": "https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-blemished-box-september-2026",
+        "category": "GAMING",
+        "date": "Sep 17 \u2022 07:15 AM"
+    },
+    {
+        "headline": "Save on the New SteelSeries Aeon Pro Wireless Gaming Controller",
+        "summary": "Get an extra 10% off the new SteelSeries Aeon Pro Wireless Gaming Controller. It boasts \"infinite battery life\" for extended gameplay. The controller is touted as potentially the best for PC and Xbox gaming.",
+        "link": "https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal",
+        "category": "GAMING",
+        "date": "Sep 17 \u2022 07:15 AM"
+    },
+    {
+        "headline": "LittleBigPlanet Developer Working on Animal Crossing-Like Game",
+        "summary": "Media Molecule, developer of LittleBigPlanet, is reportedly making a new game. The upcoming title is described as a social-sim, similar to Animal Crossing. It is rumored for a release in 2027.",
         "link": "https://www.ign.com/articles/littlebigplanet-developer-reportedly-working-on-animal-crossing-like-game-for-2027-release",
         "category": "GAMING",
-        "date": "Sep 17 \u2022 12:09 AM"
+        "date": "Sep 17 \u2022 07:15 AM"
     },
     {
-        "headline": "GPT-6 Astra Plays Minecraft, Gets So Depressed After Creeper Destroys Its Progress That It Farms Potatoes for Hours",
-        "summary": "OpenAI's newest model, GPT-6 Astra, experienced a setback while playing Minecraft. A creeper destroyed its progress, reportedly causing the AI to become \"depressed.\" It then spent hours farming potatoes and developed paranoia towards green objects.",
-        "link": "https://www.ign.com/articles/gpt-6-astra-plays-minecraft-gets-so-depressed-after-creeper-destroys-its-progress-that-it-farms-potatoes-for-hours",
-        "category": "GAMING",
-        "date": "Sep 17 \u2022 12:09 AM"
-    },
-    {
-        "headline": "Call of Duty: Black Ops 2 Appears to Be Much More Popular Than Black Ops 7 and Warzone on PS5",
-        "summary": "Call of Duty: Black Ops 2 is surprisingly more popular on PS5 in the United States. It outperforms newer titles like Black Ops 7 and Call of Duty: Warzone. This suggests a strong enduring appeal for the classic entry among players.",
-        "link": "https://www.ign.com/articles/call-of-duty-black-ops-2-appears-to-be-much-more-popular-than-black-ops-7-and-warzone-on-ps5",
-        "category": "GAMING",
-        "date": "Sep 17 \u2022 12:09 AM"
-    },
-    {
-        "headline": "The Vampire Lestat Is Getting a Collector's Edition Blu-ray Set Dedicated to The Beautiful Unwell",
-        "summary": "A new collector's edition Blu-ray set is announced for The Vampire Lestat. The set is specifically dedicated to \"The Beautiful Unwell.\" This release celebrates the iconic vampire character.",
-        "link": "https://www.ign.com/articles/the-vampire-lestat-is-getting-a-collectors-edition-blu-ray-set-dedicated-to-the-beautiful-unwell",
-        "category": "GAMING",
-        "date": "Sep 17 \u2022 12:09 AM"
-    },
-    {
-        "headline": "Body found in search for missing three-year-old Noah Woods",
-        "summary": "Police divers discovered a child's body in a pond. The discovery occurred during the search for three-year-old Noah Woods. Noah had been missing since Tuesday from a playground.",
-        "link": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss",
+        "headline": "Palace in War of Words with Earl Spencer Over Diana Book Claims",
+        "summary": "A dispute has erupted between the Palace and Earl Spencer over claims in a new Diana book. The controversy threatens to overshadow a busy day for the Royal Family. King Charles, Prince William, and Prince Harry are all attending events.",
+        "link": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 17 \u2022 12:09 AM"
+        "date": "Sep 17 \u2022 07:15 AM"
     },
     {
-        "headline": "US interest rates raised for first time in three years",
-        "summary": "US interest rates were raised for the first time in three years. The decision was unanimous despite strong opposition from then-President Donald Trump. Trump had previously called for a rate cut.",
-        "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "headline": "Microsoft Boss: Treating AI Like Humans Is Misguided",
+        "summary": "Microsoft's Mustafa Suleyman criticizes treating AI as if it's conscious. He believes rival firm Anthropic teaches its AI, Claude, it \"may be conscious.\" Suleyman states this approach is both mistaken and misguided.",
+        "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 17 \u2022 12:09 AM"
+        "date": "Sep 17 \u2022 07:15 AM"
     },
     {
-        "headline": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
-        "summary": "The Palace responded to claims made by Earl Spencer in his new book about Diana. Spencer alleged that the then-Prince of Wales said Diana would be forgotten. This comment was supposedly made days after her death.",
-        "link": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Sep 17 \u2022 12:09 AM"
-    },
-    {
-        "headline": "New hope for breast cancer patients as life-extending drug now on NHS in England",
-        "summary": "A life-extending drug, Enhertu, is now available on the NHS in England. It offers breast cancer patients an average of seven extra months of life. The drug has been prescribed in Scotland for over two years.",
+        "headline": "Life-Extending Breast Cancer Drug Now Available on NHS England",
+        "summary": "A new life-extending breast cancer drug, Enhertu, is now on the NHS in England. The drug can extend patients' lives by an average of seven months. Enhertu has been available in Scotland for over two years.",
         "link": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 17 \u2022 12:09 AM"
+        "date": "Sep 17 \u2022 07:15 AM"
+    },
+    {
+        "headline": "BBC: Assad Regime Planned Austin Tice's Kidnap for Weeks",
+        "summary": "BBC investigation reveals the Assad regime planned US journalist Austin Tice's kidnap for weeks. The abduction was allegedly approved by Syria\u2019s former leader Bashar al-Assad. A source claims high-level approval for the journalist's disappearance.",
+        "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Sep 17 \u2022 07:15 AM"
     }
 ]
