@@ -1,86 +1,86 @@
 [
     {
+        "headline": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web",
+        "summary": "Unsealed court documents reveal OpenAI and Microsoft foresaw negative impacts of their AI models. Internal warnings described AI training data scraping as \"largest theft of labor.\" Companies acknowledged creating a \"doom loop\" that would damage the internet.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+        "category": "TECH",
+        "date": "Sep 18 \u2022 10:21 PM"
+    },
+    {
         "headline": "Virginia governor creates an AI task force and moves to restrain data centers",
-        "summary": "Virginia Governor Spanberger creates an AI task force. New executive order aims to curb data center development. It empowers local communities to have more say in approvals.",
+        "summary": "Virginia Gov. Spanberger established an AI task force. New executive order empowers local communities in data center development decisions. Order also bans executive branch officials from signing nondisclosure agreements.",
         "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
         "category": "TECH",
-        "date": "Sep 18 \u2022 06:54 PM"
+        "date": "Sep 18 \u2022 10:21 PM"
     },
     {
         "headline": "Disney\u2019s first CTO is Character.AI\u2019s former CEO",
-        "summary": "Disney appoints Karandeep Anand as its first-ever Chief Technology Officer. Anand previously served as CEO of Character.AI. He will report directly to Disney's executive leadership.",
+        "summary": "Disney has appointed its first-ever Chief Technology Officer (CTO). Karandeep Anand, former CEO of Character.AI, takes on the role. Anand will report directly to Disney's recently appointed leadership.",
         "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
         "category": "TECH",
-        "date": "Sep 18 \u2022 06:54 PM"
+        "date": "Sep 18 \u2022 10:21 PM"
     },
     {
         "headline": "The real story of the iPhone 18 Pro\u2019s camera",
-        "summary": "The iPhone 18 Pro features significant camera upgrades this year. It introduces a new variable aperture main lens. This allows for better low-light shots and improved depth of field.",
+        "summary": "The iPhone 18 Pro introduces significant camera upgrades this year. A key feature is the new variable aperture main lens. This lens improves low-light performance and offers better depth of field control.",
         "link": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
         "category": "TECH",
-        "date": "Sep 18 \u2022 06:54 PM"
+        "date": "Sep 18 \u2022 10:21 PM"
     },
     {
-        "headline": "Gavin Newsom is pushing for an AI kill switch",
-        "summary": "California Gov. Gavin Newsom proposes an AI 'kill switch' mandate. An executive order aims for the state to lead in AI oversight. An expert group will provide recommendations within two months.",
-        "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-        "category": "TECH",
-        "date": "Sep 18 \u2022 06:54 PM"
-    },
-    {
-        "headline": "New Cat Species Discovered in Bolivia After Being Mistaken for a Kitten",
-        "summary": "A new wild cat species, Leopardus Tilcayo, was discovered in Bolivia. It had been previously mistaken for a kitten by its finder. The species is now known as the Tilcayo tiger cat.",
-        "link": "https://www.ign.com/articles/new-wild-cat-species-bolivia",
+        "headline": "The Blood of Dawnwalker Cost Just $40 Million to Develop",
+        "summary": "Rebel Wolves' game, The Blood of Dawnwalker, was a September success story. The game reportedly cost only $40 million to develop. This development budget is considered modest for a major title.",
+        "link": "https://www.ign.com/articles/the-blood-of-dawnwalker-cost-just-40-million-to-develop",
         "category": "GAMING",
-        "date": "Sep 18 \u2022 06:54 PM"
+        "date": "Sep 18 \u2022 10:21 PM"
     },
     {
-        "headline": "Helldivers Movie Eyes Reacher's Alan Ritchson as Its Star",
-        "summary": "Alan Ritchson, star of 'Reacher,' is reportedly in talks for the Helldivers movie. PlayStation's upcoming film adaptation is actively seeking its lead. Ritchson is a strong contender for the starring role.",
-        "link": "https://www.ign.com/articles/helldivers-movie-eyes-reachers-alan-ritchson-as-its-star",
+        "headline": "Walmart Has a 512GB Nintendo Switch 2 Memory Card for $75 With Hidden YMMV Coupon, 256GB for $37",
+        "summary": "Walmart is offering deals on Nintendo Switch 2 memory cards. A 512GB microSD card is available for $75 with a potential hidden coupon. A 256GB option is also available for $37, appealing to avid gamers.",
+        "link": "https://www.ign.com/articles/best-microsd-express-memory-card-deal-for-nintendo-switch-2-september-2026",
         "category": "GAMING",
-        "date": "Sep 18 \u2022 06:54 PM"
+        "date": "Sep 18 \u2022 10:21 PM"
     },
     {
-        "headline": "For Today Only, Save $570 Off the Slim and Powerful Asus ROG Zephyrus G14 RTX 5080 Gaming Laptop",
-        "summary": "Save $570 on the Asus ROG Zephyrus G14 gaming laptop today. The laptop features a powerful RTX 5080 graphics card. This limited-time deal offers a slim and powerful device.",
-        "link": "https://www.ign.com/articles/asus-rog-zephyrus-g14-rtx-5080-gaming-laptop-deal-september-2026",
+        "headline": "The Witch Hat Atelier Manga Box Set Gets a Major Price Cut at Amazon Ahead of Season 2",
+        "summary": "The Witch Hat Atelier manga box set is significantly discounted on Amazon. This price cut comes ahead of the release of Season 2. Fans can grab the popular manga series at a reduced cost.",
+        "link": "https://www.ign.com/articles/the-witch-hat-atelier-manga-box-set-gets-a-major-price-cut-at-amazon-ahead-of-season-2",
         "category": "GAMING",
-        "date": "Sep 18 \u2022 06:54 PM"
+        "date": "Sep 18 \u2022 10:21 PM"
     },
     {
-        "headline": "Mega Man: Dual Override Preview: We Played as Proto Man This Time",
-        "summary": "A preview for 'Mega Man: Dual Override' highlights Proto Man gameplay. Proto Man offers a distinctly different challenge than Mega Man. Players select a character for the entire run, boosting replayability.",
-        "link": "https://www.ign.com/articles/mega-man-dual-override-preview-we-played-as-proto-man-this-time",
+        "headline": "Remedy Honors the Late David Lynch in Control Resonant With Powerful Twin Peaks Quote",
+        "summary": "Remedy's new open-world game, Control Resonant, pays tribute to David Lynch. The game features Lynchian inspirations, consistent with Remedy's past works. A powerful Twin Peaks quote honors the late director within the game.",
+        "link": "https://www.ign.com/articles/remedy-honors-the-late-david-lynch-in-control-resonant-with-powerful-twin-peaks-quote",
         "category": "GAMING",
-        "date": "Sep 18 \u2022 06:54 PM"
+        "date": "Sep 18 \u2022 10:21 PM"
+    },
+    {
+        "headline": "US and Denmark reach deal over Greenland's security",
+        "summary": "The US and Denmark have struck an agreement regarding Greenland's security. Trump stated the deal grants the US \"permanent control\" over security in Greenland. Danish officials have not yet confirmed the specifics of the agreement.",
+        "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Sep 18 \u2022 10:21 PM"
     },
     {
         "headline": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
-        "summary": "Earl Spencer defends claims about Prince Charles made in his new book. He asserts Charles said 'we'll forget her soon enough' regarding Diana. Spencer spoke with the BBC's Laura Kuenssberg about the controversy.",
+        "summary": "Earl Spencer defended claims made in his book about Princess Diana and Prince Charles. He confirmed Charles's alleged words, \"we'll forget her soon enough,\" were \"exactly\" used. Spencer reiterated his truthfulness in a BBC interview.",
         "link": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 18 \u2022 06:54 PM"
-    },
-    {
-        "headline": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
-        "summary": "Earl Spencer alleges Prince Charles 'went ballistic' during a phone call. This incident occurred following Princess Diana's death. These claims were revealed in an exclusive BBC interview.",
-        "link": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Sep 18 \u2022 06:54 PM"
+        "date": "Sep 18 \u2022 10:21 PM"
     },
     {
         "headline": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
-        "summary": "MI5 confirms it gave false evidence in court. The case involved defending a violent informant in a neo-Nazi probe. This marks the first time MI5 has admitted the BBC's revelation.",
+        "summary": "MI5 has admitted to presenting false evidence in a neo-Nazi spy case. This marks the first official confirmation of the BBC's prior revelations. The false testimony was used while defending a violent informant in court.",
         "link": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 18 \u2022 06:54 PM"
+        "date": "Sep 18 \u2022 10:21 PM"
     },
     {
         "headline": "Flight chaos caused by software defect in space of a millisecond, report says",
-        "summary": "Flight disruptions were caused by a millisecond-long software defect. Over 2,000 flights were canceled due to the issue. Hundreds of thousands of passengers were affected by the chaos.",
+        "summary": "A report attributes recent flight chaos to a millisecond-long software defect. The technical failure resulted in over 2,000 flight cancellations. Hundreds of thousands of passengers were affected by the disruption.",
         "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 18 \u2022 06:54 PM"
+        "date": "Sep 18 \u2022 10:21 PM"
     }
 ]
