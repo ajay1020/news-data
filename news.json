@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Flash floods can strike without warning \u2014 this new technology could change that",
+        "summary": "New technology aims to provide earlier flash flood warnings. It combines satellite data and machine learning. This could prevent unawares like Laura Lin's home flooding.",
+        "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+        "category": "TECH",
+        "date": "Sep 18 \u2022 02:07 PM"
+    },
+    {
         "headline": "Waymo says Singapore will be its next international robotaxi city",
-        "summary": "Waymo plans to launch a robotaxi service in Singapore by 2028. Vehicles will arrive in coming months for mapping and testing. Autonomous testing with safety drivers will commence in 2027.",
+        "summary": "Waymo plans to launch a robotaxi service in Singapore by 2028. Vehicles will arrive soon for mapping and testing with safety drivers. This marks another step in Alphabet's overseas expansion.",
         "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
         "category": "TECH",
-        "date": "Sep 18 \u2022 08:50 AM"
+        "date": "Sep 18 \u2022 02:07 PM"
     },
     {
         "headline": "The AI Superintelligence Slowdown",
-        "summary": "Tech leaders are now advocating for a slower, more cautious approach to AI development. The previous 'move fast and break things' mentality is shifting. Concerns over rogue AI agents and safety are driving this change.",
+        "summary": "Tech leaders are rethinking 'move fast and break things' for AI development. Concerns over rogue AI and safety have prompted a slowdown. Leading US AI companies are advocating for more cautious development.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
         "category": "TECH",
-        "date": "Sep 18 \u2022 08:50 AM"
+        "date": "Sep 18 \u2022 02:07 PM"
     },
     {
         "headline": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-        "summary": "Claude Code's revamped Projects feature allows users to manage multiple AI agents collaboratively. Agents within a project share memory, goals, and a library of files. A 'coordinator' directs various parallel 'threads' performing tasks.",
+        "summary": "Claude Code's revamped Projects feature allows managing multiple AI agents. Agents share memory, goals, and files within a single project. A 'coordinator' directs parallel tasks across different 'threads.'",
         "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
         "category": "TECH",
-        "date": "Sep 18 \u2022 08:50 AM"
+        "date": "Sep 18 \u2022 02:07 PM"
     },
     {
-        "headline": "Save $30 or more on a refurbished Apple TV 4K",
-        "summary": "Despite rising hardware prices, refurbished Apple TV 4K models offer significant savings. The 64GB model is available for $169, saving buyers $30 off the new retail price. Purchasing refurbished directly from Apple helps offset increased costs.",
-        "link": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
-        "category": "TECH",
-        "date": "Sep 18 \u2022 08:50 AM"
-    },
-    {
-        "headline": "First Plot Details for Zack Snyder's Escape from New York Remake",
-        "summary": "Zack Snyder revealed initial plot details for his 'Escape from New York' remake. He discussed the setting of the highly anticipated film. Snyder also hinted at having a star already lined up to play Snake Plissken.",
-        "link": "https://www.ign.com/articles/first-plot-details-for-zack-snyders-escape-from-new-york-remake",
+        "headline": "Resident Evil (2026) 4K Steelbook Is Up for Preorder",
+        "summary": "The new Resident Evil movie is now available for 4K steelbook preorder. This edition includes a Blu-ray and digital copy. Despite its recent theatrical release, it's already a collector's item.",
+        "link": "https://www.ign.com/articles/resident-evil-2026-4k-steelbook-where-to-buy",
         "category": "GAMING",
-        "date": "Sep 18 \u2022 08:50 AM"
+        "date": "Sep 18 \u2022 02:07 PM"
     },
     {
-        "headline": "Magic's Most-Wanted Marvel Deck Is Discounted \u2013 Here's Why You Should Consider This One Instead",
-        "summary": "The MTG Marvel Doom Prevails Commander deck is currently discounted on Amazon. However, the 'Avengers Assemble' deck offers superior gameplay value for less money. Players are advised to consider 'Avengers Assemble' for a better overall experience.",
-        "link": "https://www.ign.com/articles/mtg-marvel-commander-deck-amazon-deals",
+        "headline": "Control Resonant is Almost a Picture Perfect PC Port",
+        "summary": "Control Resonant is praised as a nearly perfect PC port. It features gorgeous visuals and stellar performance. The game runs well on almost all tested PCs.",
+        "link": "https://www.ign.com/articles/control-resonant-is-almost-a-picture-perfect-pc-port",
         "category": "GAMING",
-        "date": "Sep 18 \u2022 08:50 AM"
+        "date": "Sep 18 \u2022 02:07 PM"
     },
     {
-        "headline": "Resident Evil Ending Explained",
-        "summary": "Zach Cregger's 'Resident Evil' movie has premiered and left many questions. The article provides a detailed explanation of the film's conclusion. It also explores potential post-credits scenes and their implications for the franchise's future.",
-        "link": "https://www.ign.com/articles/resident-evil-movie-2026-ending-explained",
+        "headline": "Control Resonant Review",
+        "summary": "Control Resonant is Remedy's sequel to 2019's Control. It shifts to open-world action combat with a character-focused story. The game retains its unique paranatural elements.",
+        "link": "https://www.ign.com/articles/control-resonant-review",
         "category": "GAMING",
-        "date": "Sep 18 \u2022 08:50 AM"
+        "date": "Sep 18 \u2022 02:07 PM"
     },
     {
-        "headline": "Save Up to 90% Off PC Games During Ubisoft's 40th Anniversary Sale, Plus Get One Game Totally Free",
-        "summary": "Ubisoft is celebrating its 40th anniversary with a massive PC game sale. Gamers can save up to 90% on various titles, with many games priced at just two dollars. The anniversary sale also includes one free game for customers.",
-        "link": "https://www.ign.com/articles/ubisoft-40-year-anniversary-sale-best-deals-on-pc-games",
+        "headline": "Final Fantasy 7 Revelation: Second-Take Preview",
+        "summary": "Final Fantasy VII Revelation offers immense freedom, expanding on previous titles. Players can explore vast open-world maps and revisit classic areas. The preview raises questions about managing potential 'bloat' from Rebirth.",
+        "link": "https://www.ign.com/articles/final-fantasy-7-revelation-second-take-preview",
         "category": "GAMING",
-        "date": "Sep 18 \u2022 08:50 AM"
+        "date": "Sep 18 \u2022 02:07 PM"
     },
     {
-        "headline": "Twenty women had breasts removed unnecessarily during cancer treatment, NHS trust admits",
-        "summary": "An NHS trust in north-east England admitted 20 women underwent unnecessary mastectomies. These women were among hundreds harmed by faulty cancer treatment at the trust. The admissions highlight severe medical errors and patient suffering.",
+        "headline": "Flight chaos caused by software defect in space of a millisecond, report says",
+        "summary": "A software defect caused widespread flight chaos. The flaw led to over 2,000 cancellations. Hundreds of thousands of passengers were affected.",
+        "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Sep 18 \u2022 02:07 PM"
+    },
+    {
+        "headline": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+        "summary": "MI5 has admitted to presenting false evidence in court. This concerned a case involving a violent neo-Nazi informant. It's the first time MI5 confirmed the BBC's prior revelations.",
+        "link": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Sep 18 \u2022 02:07 PM"
+    },
+    {
+        "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
+        "summary": "President Macron states Russian hybrid attacks on Europe are escalating. He has ordered protection for critical infrastructure. Defence industry sites are also a priority for security measures.",
+        "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Sep 18 \u2022 02:07 PM"
+    },
+    {
+        "headline": "Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm",
+        "summary": "An NHS trust discovered over 300 women underwent needless breast removals. The new chief executive issued an unreserved apology. He labeled the incidents as 'utterly unacceptable.'",
         "link": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 18 \u2022 08:50 AM"
-    },
-    {
-        "headline": "'I've been butchered': Women speak of trauma after unnecessary mastectomies",
-        "summary": "Women are sharing their traumatic experiences after undergoing unnecessary mastectomies. An NHS trust in north-east England confirmed 20 such cases. The admissions highlight profound medical negligence and its devastating impact on patients.",
-        "link": "https://www.bbc.co.uk/news/videos/cm2dw1y5enx6o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Sep 18 \u2022 08:50 AM"
-    },
-    {
-        "headline": "War may be coming. Are we psychologically ready?",
-        "summary": "Military and government officials warn of a growing risk of international conflict. The article questions whether the public is psychologically prepared for potential warfare. It highlights the mental health challenges associated with impending conflict.",
-        "link": "https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Sep 18 \u2022 08:50 AM"
-    },
-    {
-        "headline": "Met was negligent and reckless, sisters of 'Putney pusher' suspect tell BBC",
-        "summary": "The sisters of Nicholas Brandram claim the Met Police acted negligently and recklessly. They assert Brandram was innocent of the 'Putney pusher' incident. His family believes immense pressure from the allegations led him to take his own life.",
-        "link": "https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Sep 18 \u2022 08:50 AM"
+        "date": "Sep 18 \u2022 02:07 PM"
     }
 ]
