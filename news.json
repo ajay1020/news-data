@@ -1,86 +1,86 @@
 [
     {
+        "headline": "It\u2019s not just LG. Every TV company is spying on you",
+        "summary": "A Gamers Nexus video claims LG TVs spy on users. TVs can reportedly record audio, track viewing, and be remotely hacked. Concerns suggest this widespread privacy issue affects all smart TV manufacturers.",
+        "link": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+        "category": "TECH",
+        "date": "Sep 19 \u2022 01:42 PM"
+    },
+    {
+        "headline": "The AI regulation smackdown isn\u2019t over",
+        "summary": "AI industry leaders are still divided on regulation, despite earlier consensus. Anthropic CEO Dario Amodei proposed a three-step plan to slow AI development. The plan includes third-party evaluators and international agreements.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+        "category": "TECH",
+        "date": "Sep 19 \u2022 01:42 PM"
+    },
+    {
         "headline": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web",
-        "summary": "Unsealed court documents reveal OpenAI and Microsoft internally warned of web damage. Companies' own documentation referred to a potential \"doom loop.\" They also characterized data scraping as potentially the \"largest theft of labor in human history.\"",
+        "summary": "Unsealed court documents reveal OpenAI and Microsoft foresaw negative consequences. Internal warnings mentioned a \"doom loop\" that would damage the internet. Companies also called their data scraping the \"largest theft of labor.\"",
         "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
         "category": "TECH",
-        "date": "Sep 19 \u2022 08:35 AM"
+        "date": "Sep 19 \u2022 01:42 PM"
     },
     {
         "headline": "Virginia governor creates an AI task force and moves to restrain data centers",
-        "summary": "Virginia Gov. Abigail Spanberger established an AI task force. An executive order aims to empower local communities regarding data center development. The move could slow approvals in Virginia, a global data center hub.",
+        "summary": "Virginia's Governor established an AI task force for the state. New orders aim to empower local communities regarding data center development. Executive Order 22 bans non-disclosure agreements for state officials.",
         "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
         "category": "TECH",
-        "date": "Sep 19 \u2022 08:35 AM"
+        "date": "Sep 19 \u2022 01:42 PM"
     },
     {
-        "headline": "Disney\u2019s first CTO is Character.AI\u2019s former CEO",
-        "summary": "Disney has appointed its very first Chief Technology Officer (CTO). Karandeep Anand, formerly CEO of Character.AI, takes on the new role. Anand will report directly to Disney's current CEO.",
-        "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
-        "category": "TECH",
-        "date": "Sep 19 \u2022 08:35 AM"
-    },
-    {
-        "headline": "The real story of the iPhone 18 Pro&#8217;s camera",
-        "summary": "The iPhone 18 Pro features significant camera upgrades this year. A key innovation is the new variable aperture main lens. This lens improves low-light performance and offers better depth of field control.",
-        "link": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
-        "category": "TECH",
-        "date": "Sep 19 \u2022 08:35 AM"
+        "headline": "As Fans Flood the World of Warcraft: Forever Beta, Dev Says It's Putting Up 'The Craziest Numbers I've Seen in 17 Years Working at Blizzard'",
+        "summary": "World of Warcraft: Forever beta sees an unprecedented surge of eager fans. A Blizzard developer noted it's generating the \"craziest numbers\" in 17 years. The massive turnout suggests the expansion is poised for huge success.",
+        "link": "https://www.ign.com/articles/as-fans-flood-the-world-of-warcraft-forever-beta-dev-says-its-putting-up-the-craziest-numbers-ive-seen-in-17-years-working-at-blizzard",
+        "category": "GAMING",
+        "date": "Sep 19 \u2022 01:42 PM"
     },
     {
         "headline": "Marvel's Wolverine Developer Nerfs Scent Trails and Audio Sense Indicators After 'Fart Gas' Backlash",
-        "summary": "Insomniac has updated Marvel's Wolverine to nerf specific in-game features. Scent trails, dubbed \"fart gas,\" drew significant community backlash. Audio sense indicators were also adjusted in the new patch.",
+        "summary": "Insomniac has released an update for Marvel's Wolverine. The patch nerfs the controversial \"fart gas\" scent trails. It also adjusts audio sense indicators after player feedback.",
         "link": "https://www.ign.com/articles/marvels-wolverine-developer-nerfs-scent-trails-and-audio-sense-indicators-after-fart-gas-backlash",
         "category": "GAMING",
-        "date": "Sep 19 \u2022 08:35 AM"
+        "date": "Sep 19 \u2022 01:42 PM"
     },
     {
         "headline": "Lollipop Chainsaw Live-Action Movie Revealed by Dragami Games",
-        "summary": "A live-action Lollipop Chainsaw movie is officially in development. Developer Dragami Games made the announcement. This marks a new adaptation for the cult classic game.",
+        "summary": "A live-action Lollipop Chainsaw movie is officially in the works. Developer Dragami Games made the surprise announcement. The cult classic game is set to hit the big screen.",
         "link": "https://www.ign.com/articles/lollipop-chainsaw-live-action-movie-revealed-by-dragami-games",
         "category": "GAMING",
-        "date": "Sep 19 \u2022 08:35 AM"
+        "date": "Sep 19 \u2022 01:42 PM"
     },
     {
         "headline": "Resident Evil Fans 'Will Feel Seen' After the Movie, Says Director Zach Cregger",
-        "summary": "Resident Evil director Zach Cregger promises fans will feel acknowledged by the new movie. Cregger discussed reviving the horror franchise with star Austin Abrams. The director aims to please long-time fans of the beloved series.",
+        "summary": "Resident Evil director Zach Cregger promises a film that will resonate deeply with fans. The movie aims to revitalize the beloved horror franchise. Cregger believes fans will feel truly represented by the adaptation.",
         "link": "https://www.ign.com/articles/resident-evil-fans-will-feel-seen-after-the-movie-says-director-zach-cregger",
         "category": "GAMING",
-        "date": "Sep 19 \u2022 08:35 AM"
-    },
-    {
-        "headline": "We Ranked the 10 Best First Partner Pok\u00e9mon TCG Cards of All Time",
-        "summary": "A list ranking the top 10 First Partner Pok\u00e9mon TCG cards has been published. The ranking includes valuable cards like $4,500 vintage grails. Iconic Charizard classics and budget-friendly options also made the cut.",
-        "link": "https://www.ign.com/articles/best-first-partner-pokemon-tcg-cards",
-        "category": "GAMING",
-        "date": "Sep 19 \u2022 08:35 AM"
+        "date": "Sep 19 \u2022 01:42 PM"
     },
     {
         "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
-        "summary": "The US and Denmark have finalized an agreement regarding Greenland. The deal follows former President Trump's past suggestions of annexing the territory. Trump claims the agreement grants the US \"permanent control over security\" in Greenland.",
+        "summary": "The US and Denmark have finalized a new agreement concerning Greenland. The deal follows previous annexation threats made by Donald Trump. Denmark and Greenland have welcomed the terms of the agreement.",
         "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 19 \u2022 08:35 AM"
+        "date": "Sep 19 \u2022 01:42 PM"
     },
     {
         "headline": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
-        "summary": "Earl Spencer defended his claims about Prince Charles in his new book about Princess Diana. He confirmed Charles used the exact phrase \"we'll forget her soon enough.\" Spencer reiterated the accuracy of his account during a BBC interview.",
+        "summary": "Earl Spencer firmly defends claims about King Charles in his new book. He confirmed Charles allegedly said \"we'll forget her soon enough\" about Diana. Spencer reiterated his commitment to truth in a BBC interview.",
         "link": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 19 \u2022 08:35 AM"
+        "date": "Sep 19 \u2022 01:42 PM"
     },
     {
         "headline": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
-        "summary": "Earl Spencer shared details of a heated phone call with Prince Charles after Diana's death. He stated that Charles \"went ballistic\" during the conversation. Spencer revealed these claims in an exclusive BBC interview.",
+        "summary": "Earl Spencer revealed King Charles \"went ballistic\" in a phone call after Diana's death. He shared details in an exclusive BBC interview. These new claims are highlighted in Spencer's recently released book.",
         "link": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 19 \u2022 08:35 AM"
+        "date": "Sep 19 \u2022 01:42 PM"
     },
     {
         "headline": "Billionaire Man United owner says he has lost confidence in the UK",
-        "summary": "Sir Jim Ratcliffe, owner of Manchester United, expressed a loss of confidence in the UK. He described the country as being \"on the slide.\" Ratcliffe called for increased investment, particularly in the North Sea.",
+        "summary": "Sir Jim Ratcliffe, owner of Manchester United, expressed a lack of confidence in the UK. He told the BBC that the country is currently \"on the slide.\" Ratcliffe advocates for increased investment in the North Sea.",
         "link": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 19 \u2022 08:35 AM"
+        "date": "Sep 19 \u2022 01:42 PM"
     }
 ]
