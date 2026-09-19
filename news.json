@@ -1,86 +1,86 @@
 [
     {
         "headline": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web",
-        "summary": "Court documents reveal OpenAI and Microsoft foresaw a \"doom loop\" for the web. Companies' own records called data scraping the \"largest theft of labor in human history.\" The New York Times' case against them unsealed these damning internal warnings.",
+        "summary": "Unsealed court documents reveal OpenAI and Microsoft internally warned of web damage. Companies' own documentation referred to a potential \"doom loop.\" They also characterized data scraping as potentially the \"largest theft of labor in human history.\"",
         "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
         "category": "TECH",
-        "date": "Sep 19 \u2022 03:25 AM"
+        "date": "Sep 19 \u2022 08:35 AM"
     },
     {
         "headline": "Virginia governor creates an AI task force and moves to restrain data centers",
-        "summary": "Virginia Governor Abigail Spanberger formed an AI task force. She ordered measures to give local communities more say in data center development. Executive Order 22 also bans executive branch officials from signing NDAs.",
+        "summary": "Virginia Gov. Abigail Spanberger established an AI task force. An executive order aims to empower local communities regarding data center development. The move could slow approvals in Virginia, a global data center hub.",
         "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
         "category": "TECH",
-        "date": "Sep 19 \u2022 03:25 AM"
+        "date": "Sep 19 \u2022 08:35 AM"
     },
     {
         "headline": "Disney\u2019s first CTO is Character.AI\u2019s former CEO",
-        "summary": "Disney appointed its first-ever Chief Technology Officer, Karandeep Anand. Anand previously served as CEO of Character.AI. He will report directly to Disney's recently appointed leadership.",
+        "summary": "Disney has appointed its very first Chief Technology Officer (CTO). Karandeep Anand, formerly CEO of Character.AI, takes on the new role. Anand will report directly to Disney's current CEO.",
         "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
         "category": "TECH",
-        "date": "Sep 19 \u2022 03:25 AM"
+        "date": "Sep 19 \u2022 08:35 AM"
     },
     {
-        "headline": "The real story of the iPhone 18 Pro\u2019s camera",
-        "summary": "The iPhone 18 Pro introduces significant camera upgrades this year. A new variable aperture main lens is the key feature. This allows for improved low-light shots and better depth of field control.",
+        "headline": "The real story of the iPhone 18 Pro&#8217;s camera",
+        "summary": "The iPhone 18 Pro features significant camera upgrades this year. A key innovation is the new variable aperture main lens. This lens improves low-light performance and offers better depth of field control.",
         "link": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
         "category": "TECH",
-        "date": "Sep 19 \u2022 03:25 AM"
+        "date": "Sep 19 \u2022 08:35 AM"
+    },
+    {
+        "headline": "Marvel's Wolverine Developer Nerfs Scent Trails and Audio Sense Indicators After 'Fart Gas' Backlash",
+        "summary": "Insomniac has updated Marvel's Wolverine to nerf specific in-game features. Scent trails, dubbed \"fart gas,\" drew significant community backlash. Audio sense indicators were also adjusted in the new patch.",
+        "link": "https://www.ign.com/articles/marvels-wolverine-developer-nerfs-scent-trails-and-audio-sense-indicators-after-fart-gas-backlash",
+        "category": "GAMING",
+        "date": "Sep 19 \u2022 08:35 AM"
+    },
+    {
+        "headline": "Lollipop Chainsaw Live-Action Movie Revealed by Dragami Games",
+        "summary": "A live-action Lollipop Chainsaw movie is officially in development. Developer Dragami Games made the announcement. This marks a new adaptation for the cult classic game.",
+        "link": "https://www.ign.com/articles/lollipop-chainsaw-live-action-movie-revealed-by-dragami-games",
+        "category": "GAMING",
+        "date": "Sep 19 \u2022 08:35 AM"
     },
     {
         "headline": "Resident Evil Fans 'Will Feel Seen' After the Movie, Says Director Zach Cregger",
-        "summary": "Director Zach Cregger claims Resident Evil fans will appreciate the new movie. Cregger and star Austin Abrams discuss reviving the horror franchise. They aim to make fans \"feel seen\" with the big-screen adaptation.",
+        "summary": "Resident Evil director Zach Cregger promises fans will feel acknowledged by the new movie. Cregger discussed reviving the horror franchise with star Austin Abrams. The director aims to please long-time fans of the beloved series.",
         "link": "https://www.ign.com/articles/resident-evil-fans-will-feel-seen-after-the-movie-says-director-zach-cregger",
         "category": "GAMING",
-        "date": "Sep 19 \u2022 03:25 AM"
+        "date": "Sep 19 \u2022 08:35 AM"
     },
     {
         "headline": "We Ranked the 10 Best First Partner Pok\u00e9mon TCG Cards of All Time",
-        "summary": "A ranking of the top 10 First Partner Pok\u00e9mon TCG cards has been released. The list includes rare vintage grails valued at $4,500. Iconic Charizard classics and budget-friendly options are also featured.",
+        "summary": "A list ranking the top 10 First Partner Pok\u00e9mon TCG cards has been published. The ranking includes valuable cards like $4,500 vintage grails. Iconic Charizard classics and budget-friendly options also made the cut.",
         "link": "https://www.ign.com/articles/best-first-partner-pokemon-tcg-cards",
         "category": "GAMING",
-        "date": "Sep 19 \u2022 03:25 AM"
-    },
-    {
-        "headline": "EA Sports FC 27 Review So Far",
-        "summary": "EA Sports FC 27 introduces a new, shaky open-world hub. The game features a promising, realistic, and intuitive Tactics system. This review offers early impressions of the new football title.",
-        "link": "https://www.ign.com/articles/ea-sports-fc-27-review-so-far",
-        "category": "GAMING",
-        "date": "Sep 19 \u2022 03:25 AM"
-    },
-    {
-        "headline": "The SteelSeries Arctis Nova Pro Omni Gaming Headset Drops to the Lowest Price Ever at Amazon Resale",
-        "summary": "The SteelSeries Arctis Nova Pro Omni headset is now at its lowest price ever. This wireless gaming headset boasts infinite battery life. The deal is available through Amazon Resale.",
-        "link": "https://www.ign.com/articles/steelseries-arctis-nova-pro-omni-gaming-headset-deal-september-2026-2",
-        "category": "GAMING",
-        "date": "Sep 19 \u2022 03:25 AM"
+        "date": "Sep 19 \u2022 08:35 AM"
     },
     {
         "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
-        "summary": "The US and Denmark have struck a deal concerning Greenland. This agreement follows past annexation threats from former President Trump. Trump claimed the deal gives the US permanent security control, specifics unconfirmed.",
+        "summary": "The US and Denmark have finalized an agreement regarding Greenland. The deal follows former President Trump's past suggestions of annexing the territory. Trump claims the agreement grants the US \"permanent control over security\" in Greenland.",
         "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 19 \u2022 03:25 AM"
+        "date": "Sep 19 \u2022 08:35 AM"
     },
     {
         "headline": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
-        "summary": "Earl Spencer reiterated his book claims about Prince Charles in a BBC interview. He confirmed Charles said, \"we'll forget her soon enough,\" regarding Diana. Spencer defends the truthfulness of his statements about the late Princess.",
+        "summary": "Earl Spencer defended his claims about Prince Charles in his new book about Princess Diana. He confirmed Charles used the exact phrase \"we'll forget her soon enough.\" Spencer reiterated the accuracy of his account during a BBC interview.",
         "link": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 19 \u2022 03:25 AM"
+        "date": "Sep 19 \u2022 08:35 AM"
     },
     {
         "headline": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
-        "summary": "Earl Spencer revealed Charles \"went ballistic\" in a call after Diana's death. He shared this detail during an exclusive BBC interview. The claims are part of his new book.",
+        "summary": "Earl Spencer shared details of a heated phone call with Prince Charles after Diana's death. He stated that Charles \"went ballistic\" during the conversation. Spencer revealed these claims in an exclusive BBC interview.",
         "link": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 19 \u2022 03:25 AM"
+        "date": "Sep 19 \u2022 08:35 AM"
     },
     {
-        "headline": "Flight chaos caused by software defect in space of a millisecond, report says",
-        "summary": "A millisecond software defect caused massive flight disruptions. Over 2,000 flights were cancelled due to the failure. Hundreds of thousands of passengers were affected by the chaos.",
-        "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+        "headline": "Billionaire Man United owner says he has lost confidence in the UK",
+        "summary": "Sir Jim Ratcliffe, owner of Manchester United, expressed a loss of confidence in the UK. He described the country as being \"on the slide.\" Ratcliffe called for increased investment, particularly in the North Sea.",
+        "link": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 19 \u2022 03:25 AM"
+        "date": "Sep 19 \u2022 08:35 AM"
     }
 ]
