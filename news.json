@@ -1,86 +1,86 @@
 [
     {
+        "headline": "A cut cable disrupted hundreds of flights across the US",
+        "summary": "Hundreds of US flights were cancelled or delayed due to a severed Verizon fiber cable. Construction crews in New Jersey accidentally cut the cable, affecting air traffic control. The outage primarily impacted airports across the Northeast.",
+        "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+        "category": "TECH",
+        "date": "Sep 22 \u2022 12:37 AM"
+    },
+    {
+        "headline": "Amazon wants to help the Colorado River, but we still don't know how much water the company uses",
+        "summary": "Amazon is investing $20 million in Colorado River water conservation projects. The initiative comes amid scrutiny over tech companies' data center water usage. Critics note Amazon's water consumption remains undisclosed despite its conservation efforts.",
+        "link": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+        "category": "TECH",
+        "date": "Sep 22 \u2022 12:37 AM"
+    },
+    {
         "headline": "California tightens rules on AI data center energy and water use",
-        "summary": "California Gov. Newsom signed seven bills targeting AI data centers. Laws aim to prevent utility costs from burdening residents. Data centers now face new rates and must pay for infrastructure upgrades.",
+        "summary": "California has enacted seven new bills regulating AI data center utility use. The laws aim to prevent data centers from shifting utility costs onto residents. New rate classifications and infrastructure upgrade payments are now required for data centers.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
         "category": "TECH",
-        "date": "Sep 21 \u2022 09:45 PM"
+        "date": "Sep 22 \u2022 12:37 AM"
     },
     {
-        "headline": "GM can\u2019t \u2018bring back\u2019 Apple CarPlay because it never left",
-        "summary": "GM announced new software for trucks, including Apple CarPlay and Android Auto. This caused confusion, as GM previously removed these from EVs. CarPlay wasn't entirely gone but is being re-integrated into new models.",
+        "headline": "GM can't 'bring back' Apple CarPlay because it never left",
+        "summary": "GM unveiled an updated software experience for upcoming Chevy Silverado and GMC Sierra trucks. This update features Apple CarPlay and Android Auto, causing confusion given past announcements. GM clarified that CarPlay was never entirely removed from its product lineup.",
         "link": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
         "category": "TECH",
-        "date": "Sep 21 \u2022 09:45 PM"
+        "date": "Sep 22 \u2022 12:37 AM"
     },
     {
-        "headline": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
-        "summary": "Paramount settled a lawsuit with California and 11 other states. This removes a major obstacle for the $110 billion Warner Bros. Discovery merger. The proposed consent decree includes specific requirements for the deal.",
-        "link": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
-        "category": "TECH",
-        "date": "Sep 21 \u2022 09:45 PM"
-    },
-    {
-        "headline": "Bungie says it\u2019s \u2018not done with Destiny\u2019 and will bring back vaulted content",
-        "summary": "Bungie plans to restore previously 'vaulted' content to Destiny 2. This reverses a controversial six-year-old content removal policy. Players will regain access to old campaigns, destinations, and raids.",
-        "link": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
-        "category": "TECH",
-        "date": "Sep 21 \u2022 09:45 PM"
-    },
-    {
-        "headline": "Get a Cordless Electric Air Duster for Your PC Maintenance for Just $17 Ahead of Prime Day",
-        "summary": "Score a cordless electric air duster for only $17. It's perfect for PC maintenance and cleaning electronics. Ditch expensive, single-use compressed air canisters.",
-        "link": "https://www.ign.com/articles/cordless-electric-air-duster-deal-september-2026",
+        "headline": "Save Up to 20% Off Tournament-Grade PS5, Xbox, and PC Controllers During SCUF's It's Time to Win Sale",
+        "summary": "SCUF is hosting an 'It's Time to Win' sale on gaming controllers. Gamers can save up to 20% on tournament-grade controllers. Deals are available for PS5, Xbox, and PC platforms.",
+        "link": "https://www.ign.com/articles/scuf-its-time-to-win-sale-best-deals-on-gaming-controllers-for-ps5-xbox-pc",
         "category": "GAMING",
-        "date": "Sep 21 \u2022 09:45 PM"
+        "date": "Sep 22 \u2022 12:37 AM"
     },
     {
-        "headline": "Indie Game Developer Accuses Studio of Using AI to Rip Off His Viral Potato Peeling Game",
-        "summary": "An indie developer claims another studio used AI to copy his viral potato-peeling game. The accusation highlights growing concerns about AI-powered plagiarism in gaming. His original game is a first-person, physics-based title.",
-        "link": "https://www.ign.com/articles/indie-game-developer-accuses-studio-of-using-ai-to-rip-off-his-viral-potato-peeling-game",
+        "headline": "Love Nikki Player Shuts Down Fan Website Over Game's 'Irreverent' and 'Demonic' Clothing Designs",
+        "summary": "A 'Love Nikki \u2013 Dress Up Queen' fan shut down their popular fan website. The player cited concerns over the game's 'irreverent' and 'demonic' clothing designs. The decision to close the informative site has gone viral.",
+        "link": "https://www.ign.com/articles/love-nikki-player-shuts-down-fan-website-over-games-irreverent-and-demonic-clothing-designs",
         "category": "GAMING",
-        "date": "Sep 21 \u2022 09:45 PM"
+        "date": "Sep 22 \u2022 12:37 AM"
     },
     {
-        "headline": "Daredevil: Born Again Will Reportedly End With Season 3, Showrunner Departs Amidst Post-Production",
-        "summary": "Daredevil: Born Again is reportedly set to conclude after its third season. The showrunner has departed the project during post-production. This news raises questions about the series' future.",
-        "link": "https://www.ign.com/articles/daredevil-born-again-will-reportedly-end-with-season-3-showrunner-departs-amidst-post-production",
+        "headline": "Halloween: The Game Review",
+        "summary": "'Halloween: The Game' successfully captures the horror franchise's atmosphere. However, the game is hampered by bugs and poorly executed ideas. Reviewers noted a significant lack of variety in gameplay.",
+        "link": "https://www.ign.com/articles/halloween-the-game-review",
         "category": "GAMING",
-        "date": "Sep 21 \u2022 09:45 PM"
+        "date": "Sep 22 \u2022 12:37 AM"
     },
     {
-        "headline": "Blizzard Says StarCraft 'Won't Be Exclusive' When It Launches in 2030",
-        "summary": "Blizzard confirms its open-world StarCraft shooter will launch in 2030. The game will not be exclusive to Xbox platforms. This means a broader release for the anticipated title.",
-        "link": "https://www.ign.com/articles/blizzard-says-starcraft-wont-be-exclusive-when-it-launches-in-2030",
+        "headline": "Call of Duty YouTuber Launches Petition to Remove Skill-Based Matchmaking Following Successful Destiny Protests",
+        "summary": "Call of Duty YouTuber Tdawgsmitty initiated a petition against skill-based matchmaking (SBMM). This follows successful community protests against SBMM in Destiny. The petition aims to influence the FPS franchise to remove the controversial feature.",
+        "link": "https://www.ign.com/articles/call-of-duty-youtuber-lauchines-petition-to-remove-skill-based-matchmaking-following-successful-destiny-protests",
         "category": "GAMING",
-        "date": "Sep 21 \u2022 09:45 PM"
+        "date": "Sep 22 \u2022 12:37 AM"
     },
     {
         "headline": "Airlines criticise air traffic control as second glitch causes more disruption",
-        "summary": "A second air traffic control glitch caused further widespread disruption. Airlines are criticizing the UK's air traffic control system. Prime Minister Andy Burnham expressed serious concern over the recurring issues.",
+        "summary": "A second air traffic control glitch has caused further flight disruptions. Airlines have voiced strong criticism against the air traffic control system. The UK Prime Minister expressed concerns about the recurring issues.",
         "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 21 \u2022 09:45 PM"
+        "date": "Sep 22 \u2022 12:37 AM"
     },
     {
         "headline": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
-        "summary": "UK Prime Minister Burnham announced 'defensive' military aid for Saudi Arabia. Support includes air-to-air refuelling requested by the kingdom. This aid follows recent attacks on Saudi Arabia from Houthis in Yemen.",
+        "summary": "UK Prime Minister Andy Burnham announced defensive military support for Saudi Arabia. This aid includes 'defensive air-to-air refuelling' at Saudi Arabia's request. The support comes after Saudi Arabia faced attacks from Houthis in Yemen.",
         "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 21 \u2022 09:45 PM"
+        "date": "Sep 22 \u2022 12:37 AM"
     },
     {
         "headline": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-        "summary": "Yemenis are fleeing the escalating conflict by crossing the Red Sea. They are seeking refuge in Djibouti from intensified fighting. The conflict involves Houthi rebels and Saudi-backed forces.",
+        "summary": "Many Yemenis are fleeing the escalating conflict between Houthis and Saudi-backed forces. Refugees are crossing the Red Sea into Djibouti to escape the violence. A BBC report features accounts from those displaced by the ongoing war.",
         "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 21 \u2022 09:45 PM"
+        "date": "Sep 22 \u2022 12:37 AM"
     },
     {
         "headline": "First UK charges brought over 1994 Rwanda genocide",
-        "summary": "The first UK charges related to the 1994 Rwanda genocide have been brought. Dr. Vincent Brown, 65, faces seven offences. He is scheduled to appear at Westminster Magistrates\u2019 Court.",
+        "summary": "The first UK charges related to the 1994 Rwanda genocide have been filed. Dr. Vincent Brown (formerly Bajinya), 65, faces seven charges. He is scheduled to appear at Westminster Magistrates\u2019 Court.",
         "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 21 \u2022 09:45 PM"
+        "date": "Sep 22 \u2022 12:37 AM"
     }
 ]
