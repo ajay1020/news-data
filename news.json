@@ -1,86 +1,86 @@
 [
     {
         "headline": "Meta is making a standalone Muse AI gadget",
-        "summary": "Meta is developing a dedicated hardware device for its Muse AI agent. The product, named Muse Charm, was briefly unveiled by Mark Zuckerberg. It appears to be a chunky smartwatch-like gadget with a big screen and lanyard.",
+        "summary": "Meta is developing a dedicated hardware device for its Muse AI agent. The product, named Muse Charm, was briefly unveiled by Mark Zuckerberg. It resembles a chunky smartwatch without a strap, featuring a large screen and lanyard.",
         "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
         "category": "TECH",
-        "date": "Sep 24 \u2022 03:26 AM"
+        "date": "Sep 24 \u2022 09:02 AM"
     },
     {
         "headline": "Meta Connect 2026: The 7 biggest announcements",
-        "summary": "Meta showcased a range of new wearables at its Meta Connect event. The highlight was new Meta VR Glasses, lightweight smart glasses with a tethered puck. Other announcements included screen-free smart glasses and new AI features.",
+        "summary": "Meta showcased new wearables at its Connect event, including VR Glasses. These lightweight VR glasses use a tethered puck for virtual reality. Meta also revealed new screen-free smart glasses and AI advancements.",
         "link": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
         "category": "TECH",
-        "date": "Sep 24 \u2022 03:26 AM"
+        "date": "Sep 24 \u2022 09:02 AM"
     },
     {
         "headline": "Meta\u2019s next VR device isn\u2019t a headset \u2014 it\u2019s glasses",
-        "summary": "Meta is introducing innovative new VR hardware: a pair of glasses. These Meta VR Glasses sit on the ears like regular spectacles, unlike traditional headsets. They feature immersive displays for movies, games, and productivity.",
+        "summary": "Meta is launching new VR Glasses, designed to sit like regular glasses. They feature immersive displays for movies, games, and work. These resemble hefty black sunglasses.",
         "link": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
         "category": "TECH",
-        "date": "Sep 24 \u2022 03:26 AM"
+        "date": "Sep 24 \u2022 09:02 AM"
     },
     {
         "headline": "Muse is coming to Meta smart glasses",
-        "summary": "Meta announced plans to integrate its Muse AI agent into smart glasses. Users will be able to activate Muse via voice commands from their glasses. Muse will assist with tasks such as guiding workouts and logging activities.",
+        "summary": "Meta announced its Muse AI agent will be integrated into smart glasses. Users can activate Muse by voice to handle tasks like guiding workouts or logging activities. This includes the new glasses unveiled at Meta Connect.",
         "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
         "category": "TECH",
-        "date": "Sep 24 \u2022 03:26 AM"
+        "date": "Sep 24 \u2022 09:02 AM"
+    },
+    {
+        "headline": "LEGO\u2019s SMART Play: Millennium Falcon Set Is Down to Its Lowest Price Yet at Amazon With $20 Discount",
+        "summary": "LEGO's Star Wars SMART Play: Millennium Falcon set is now $79.95 on Amazon. This marks its lowest price ever, saving buyers over $20. Stock up on this popular building kit before prices rise again.",
+        "link": "https://www.ign.com/articles/legos-smart-play-millennium-falcon-set-is-down-to-its-lowest-price-yet-at-amazon-with-20-discount",
+        "category": "GAMING",
+        "date": "Sep 24 \u2022 09:02 AM"
+    },
+    {
+        "headline": "AU Deals: Save $110 on this Super Fast 320Hz Gigabyte Monitor, Score a Free Copy of Street Fighter 6",
+        "summary": "Gamers can save $110 on a high-speed 320Hz Gigabyte monitor. This deal includes a free copy of the popular game Street Fighter 6. Enhance your gaming setup with this premium display.",
+        "link": "https://www.ign.com/articles/au-deals-save-110-on-this-super-fast-320hz-gigabyte-monitor-score-a-free-copy-of-street-fighter-6",
+        "category": "GAMING",
+        "date": "Sep 24 \u2022 09:02 AM"
     },
     {
         "headline": "Meta\u2019s New VR Glasses to Entice Casual Viewers With 3D and Full-Frame IMAX",
-        "summary": "Meta revealed its new VR Glasses, targeting casual viewers. The glasses aim to entice users with full 3D capabilities. They offer an immersive full-frame IMAX experience.",
+        "summary": "Meta's new VR Glasses aim to attract casual users with immersive features. The device offers full 3D viewing capabilities. It also supports full-frame IMAX content for an enhanced entertainment experience.",
         "link": "https://www.ign.com/articles/metas-new-vr-glasses-to-entice-casual-viewers-with-3d-and-full-frame-imax",
         "category": "GAMING",
-        "date": "Sep 24 \u2022 03:26 AM"
+        "date": "Sep 24 \u2022 09:02 AM"
     },
     {
         "headline": "Warner Bros. Pushes Back DC's Dynamic Duo Film, Gremlins 3 Gets One Year Delay",
-        "summary": "Warner Bros. has revised its film release schedule. The DC's Dynamic Duo film has been pushed back. Gremlins 3 is now delayed by a full year.",
+        "summary": "Warner Bros. has postponed the release of DC's Dynamic Duo film. The highly anticipated Gremlins 3 has also been delayed. Both movies are now pushed back by a full year.",
         "link": "https://www.ign.com/articles/warner-bros-pushes-back-dcs-dynamic-duo-film-gremlins-3-gets-one-year-delay",
         "category": "GAMING",
-        "date": "Sep 24 \u2022 03:26 AM"
+        "date": "Sep 24 \u2022 09:02 AM"
     },
     {
-        "headline": "YouTube's New A/B Video Test Feature Is Already Creating Fears Over Weaponized Negativity",
-        "summary": "YouTube is rolling out a new A/B testing feature for creators. This allows creators to test different versions of their videos. Concerns are rising about potential misuse leading to 'weaponized negativity.'",
-        "link": "https://www.ign.com/articles/youtubes-new-ab-video-test-feature-is-already-creating-fears-over-weaponized-negativity",
-        "category": "GAMING",
-        "date": "Sep 24 \u2022 03:26 AM"
+        "headline": "Anti-migrant activist arrested over video of dinghy slashing",
+        "summary": "An anti-migrant activist, also known as Danny Tommo, has been arrested. Police were investigating footage appearing to show him slashing a dinghy. The incident occurred in the English Channel.",
+        "link": "https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Sep 24 \u2022 09:02 AM"
     },
     {
-        "headline": "Artist Behind Pok\u00e9mon 30th Anniversary Jirachi SIR Card Gives Tearful Response to Late Influencer's Heart-Wrenching Final Pack Opening",
-        "summary": "The artist of a rare Jirachi Pok\u00e9mon card reacted emotionally to a video. Late influencer Avery the Pok\u00e9 Kid pulled the card in his final pack opening. Avery passed away from pancreatic cancer shortly after.",
-        "link": "https://www.ign.com/articles/artist-behind-pokemon-30th-anniversary-jirachi-sir-card-gives-tearful-response-to-late-influencers-heart-wrenching-final-pack-opening",
-        "category": "GAMING",
-        "date": "Sep 24 \u2022 03:26 AM"
+        "headline": "Watch: Trump greets China's Xi beside plane in rare presidential welcome for foreign leader",
+        "summary": "Donald Trump provided a rare presidential welcome for China's Xi Jinping. They met beside a plane, a significant diplomatic gesture. Two B-1 bombers also flew overhead, showcasing US combat arsenal.",
+        "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Sep 24 \u2022 09:02 AM"
     },
     {
         "headline": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
-        "summary": "Blood tests revealed high levels of a cancer-causing 'forever chemical' in Lancashire residents. The chemical exposure is linked to a nearby factory. Residents are being informed of potential serious health risks.",
+        "summary": "Blood tests revealed high levels of a cancer-causing 'forever chemical'. Residents near a Lancashire chemical factory are affected. They face potential risks of serious health conditions.",
         "link": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 24 \u2022 03:26 AM"
+        "date": "Sep 24 \u2022 09:02 AM"
     },
     {
-        "headline": "What video footage tells us about RAF training jet crash",
-        "summary": "An investigation is underway following an RAF Hawk training jet crash. The RAF has temporarily paused all Hawk jet training operations. Video footage is being analyzed to determine the cause of the incident.",
+        "headline": "What we know after video shows moment of RAF training jet crash",
+        "summary": "Video footage captured the moment an RAF training jet crashed. Training on Hawk jets has been temporarily halted. An investigation into the incident is currently underway.",
         "link": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Sep 24 \u2022 03:26 AM"
-    },
-    {
-        "headline": "Trump offers warm welcome as China's Xi arrives for US visit",
-        "summary": "President Trump extended a warm welcome to China's President Xi Jinping for his US visit. The visit aims to foster ongoing diplomatic relations between the two nations. The US and China reportedly agreed to extend a trade truce.",
-        "link": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Sep 24 \u2022 03:26 AM"
-    },
-    {
-        "headline": "A red carpet and military flyover - How Trump welcomed Xi",
-        "summary": "President Trump hosted an elaborate welcome for China's Xi Jinping. The reception included a red carpet ceremony and a military flyover. B-1 bombers, known for their powerful roar, were part of the aerial display.",
-        "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Sep 24 \u2022 03:26 AM"
+        "date": "Sep 24 \u2022 09:02 AM"
     }
 ]
