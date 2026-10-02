@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Amazon writes scary blog warning communities not to block data centers",
+        "summary": "Amazon warns blocking AI data centers risks harm to the US economy and national security. The CEO addressed concerns about jobs and power demands in a lengthy blog post. Amazon urges communities to support these critical infrastructure projects.",
+        "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+        "category": "TECH",
+        "date": "Oct 02 \u2022 11:58 AM"
+    },
+    {
+        "headline": "AI music maker Suno now generates spoken words",
+        "summary": "Suno has expanded beyond AI music, launching a new feature for generating spoken voices. This public beta allows users to create voiceovers from scripts or prompts. The platform can also generate background music to accompany the speech.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+        "category": "TECH",
+        "date": "Oct 02 \u2022 11:58 AM"
+    },
+    {
         "headline": "Apple\u2019s reportedly developing a smart home camera that doesn\u2019t record video",
-        "summary": "Apple is rumored to be working on a unique smart home camera. It will provide text descriptions of events instead of video footage. This camera is part of a new Apple smart home ecosystem.",
+        "summary": "Apple is rumored to be developing a smart home security camera that will not record video footage. Instead, it will provide users with text descriptions of events. This camera is expected to be part of a new Apple smart home ecosystem.",
         "link": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
         "category": "TECH",
-        "date": "Oct 02 \u2022 04:21 AM"
+        "date": "Oct 02 \u2022 11:58 AM"
     },
     {
         "headline": "Google\u2019s new Guided Vision feature can help you read the fine print",
-        "summary": "Google is launching Guided Vision in Gemini Live for Android devices. This AI feature provides real-time audio descriptions of camera-pointed objects. It can assist with reading small text, describing surroundings, and identifying objects.",
+        "summary": "Google's Guided Vision, launching in Gemini Live, offers real-time audio descriptions via your phone's camera. It uses AI to help with tasks like reading small text, describing surroundings, and identifying objects. The feature is available on compatible Android devices.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
         "category": "TECH",
-        "date": "Oct 02 \u2022 04:21 AM"
+        "date": "Oct 02 \u2022 11:58 AM"
     },
     {
-        "headline": "Android Central \u2018will continue\u2019 despite laying off its staff",
-        "summary": "Android Central, a blog focused on the Android ecosystem, laid off its staff. Owner Future confirms the site will continue publishing content. Four of six staffers publicly announced their layoffs.",
-        "link": "https://www.theverge.com/tech/1003735/android-central-layoffs",
-        "category": "TECH",
-        "date": "Oct 02 \u2022 04:21 AM"
-    },
-    {
-        "headline": "Steam Deck 2: Is AMD Gainsborough the chip Valve\u2019s been waiting for?",
-        "summary": "Handheld gamers are anticipating a Steam Deck 2, but Valve awaits a generational chip leap. The original Steam Deck is over four years old. AMD Gainsborough may be the high-performance, efficient chip Valve needs.",
-        "link": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-        "category": "TECH",
-        "date": "Oct 02 \u2022 04:21 AM"
-    },
-    {
-        "headline": "HBO's War Season 1 Premiere Review and Recap",
-        "summary": "HBO's new series \"War\" premiered, starring Dominic West and Sienna Miller. The show follows a high-profile divorce escalating into a vicious legal battle. This article provides a recap and review of the first episode.",
-        "link": "https://www.ign.com/articles/hbo-war-series-premiere-recap-review",
+        "headline": "'I've Buried It Deep': X-Men Actor Says He Knew Sony's Spider-Man Spinoff Kraven Wasn't 'Going Well' During Filming",
+        "summary": "X-Men actor Christopher Abbott admits he knew Sony's 'Kraven the Hunter' spinoff was struggling during filming. He sensed early on that the Spider-Man movie wasn't 'going well'. Abbott said he 'buried deep' his feelings about the production.",
+        "link": "https://www.ign.com/articles/ive-buried-it-deep-x-men-actor-says-he-knew-sonys-spider-man-spinoff-kraven-wasnt-going-well-during-filming",
         "category": "GAMING",
-        "date": "Oct 02 \u2022 04:21 AM"
+        "date": "Oct 02 \u2022 11:58 AM"
     },
     {
-        "headline": "Doom: The Dark Ages - Revelations Getting New 'Slaughter Mode' as Free Update Next Month",
-        "summary": "id Software announced a free update for Doom: The Dark Ages' Revelations DLC. The update introduces an endless single-player \"Slaughter Mode.\" This new mode is expected to launch next month.",
-        "link": "https://www.ign.com/articles/doom-the-dark-ages-revealed-getting-new-slaughter-mode-as-free-update-next-month",
+        "headline": "With a Smirk, Robert Pattinson Calls Michael Bay's Transformers 'The Definitive Movie of the 2000s'",
+        "summary": "Robert Pattinson jokingly called Michael Bay's Transformers the 'definitive movie of the 2000s'. He made the comment with a smirk during an interview about favorite films. The actor's statement appeared on A24 and Letterboxd's YouTube show.",
+        "link": "https://www.ign.com/articles/robert-pattinson-transformers-definitive-movie-2000s",
         "category": "GAMING",
-        "date": "Oct 02 \u2022 04:21 AM"
+        "date": "Oct 02 \u2022 11:58 AM"
     },
     {
-        "headline": "Fast & Furious TV Show Greenlit at Peacock, With Vin Diesel as Executive Producer",
-        "summary": "The Fast & Furious film franchise is expanding with a new TV series. Peacock has greenlit the show for its streaming platform. Vin Diesel will serve as an executive producer for the series.",
-        "link": "https://www.ign.com/articles/fast-furious-tv-show-greenlit-at-peacock-with-vin-diesel-as-executive-producer",
+        "headline": "Modder Deliberately Corrupts Their Own Hugely Popular Total War: Warhammer III Mod as Row Over AI Escalates",
+        "summary": "A popular Total War: Warhammer III mod has been deliberately corrupted by its creator. The modder acted in protest against unauthorized reuploads and AI-generated modifications. This incident marks an escalation in the ongoing debate over AI in modding.",
+        "link": "https://www.ign.com/articles/modder-deliberately-corrupts-their-own-hugely-popular-total-war-warhammer-iii-mod-as-row-over-ai-escalates",
         "category": "GAMING",
-        "date": "Oct 02 \u2022 04:21 AM"
+        "date": "Oct 02 \u2022 11:58 AM"
     },
     {
-        "headline": "Viral Short Horror Film Portrait of God Gets Feature Length Movie Starring Chase Infiniti",
-        "summary": "The viral internet short film \"Portrait of God\" is being adapted into a feature-length movie. Chase Infiniti is confirmed to star in the Hollywood adaptation. The original short gained fame on YouTube.",
-        "link": "https://www.ign.com/articles/viral-short-horror-film-portrait-of-god-gets-feature-length-movie-starring-chase-infiniti",
+        "headline": "The 10 Most Valuable Cards in Magic: The Gathering Reality Fracture",
+        "summary": "This article details the ten most valuable cards in Magic: The Gathering's new 'Reality Fracture' expansion. It highlights expensive Facet Foil chase cards and rare Echoverse hits. The breakdown helps players identify top-tier collectibles.",
+        "link": "https://www.ign.com/articles/mtg-reality-fracture-most-valuable-cards",
         "category": "GAMING",
-        "date": "Oct 02 \u2022 04:21 AM"
+        "date": "Oct 02 \u2022 11:58 AM"
     },
     {
-        "headline": "US pressures Europe over diesel reserves as Trump threatens export ban",
-        "summary": "The US is pressuring Europe regarding its diesel reserves. Former President Donald Trump has threatened to ban diesel exports. This move aims to lower US prices ahead of the November elections.",
-        "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+        "headline": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+        "summary": "Flydubai Captain Smit Machchhar recounted a harrowing cockpit attack by his co-pilot. He opened the cockpit door, allowing passengers to intervene and overpower the attacker. The pilot's decisive actions prevented further harm.",
+        "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 02 \u2022 04:21 AM"
+        "date": "Oct 02 \u2022 11:58 AM"
     },
     {
-        "headline": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-        "summary": "A man was brutally attacked in his home by crypto thieves. The attackers used hammers and threatened his pregnant wife's baby. He was forced to transfer hundreds of thousands in cryptocurrency.",
-        "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+        "headline": "Watch: Emotional pilot recounts moment of Flydubai attack",
+        "summary": "An emotional pilot recounted the moment his co-pilot attacked him mid-flight. He is hailed a hero for opening the cockpit door, allowing passengers to overpower the assailant. The incident occurred on a Flydubai flight.",
+        "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 02 \u2022 04:21 AM"
+        "date": "Oct 02 \u2022 11:58 AM"
     },
     {
-        "headline": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
-        "summary": "A 25-year-old UK-Iranian dual national has been arrested. The arrest is linked to Sunday's incident near RAF Fairford airbase. This marks the sixth arrest in the ongoing investigation.",
-        "link": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
+        "headline": "Man City lodge appeal after being found guilty of breaching financial rules",
+        "summary": "Manchester City has lodged an appeal after being found guilty of breaching financial rules. The club's statement claims the ruling contains 'clear material errors.' They assert the decision is 'unsafe' due to these inaccuracies.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 02 \u2022 04:21 AM"
+        "date": "Oct 02 \u2022 11:58 AM"
     },
     {
         "headline": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-        "summary": "Christa Pike is in critical condition following a botched execution attempt. Her lawyer states she survived two lethal injections. They are now requesting her death sentence be commuted.",
+        "summary": "Christa Pike is in critical condition after reportedly surviving two lethal injection attempts. Her lawyers have requested a commutation of her death sentence. They argue the botched execution warrants a review of her case.",
         "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 02 \u2022 04:21 AM"
+        "date": "Oct 02 \u2022 11:58 AM"
     }
 ]
