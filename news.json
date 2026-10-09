@@ -1,86 +1,86 @@
 [
     {
+        "headline": "OpenAI doubles down on decision to fire three AI safety researchers",
+        "summary": "OpenAI fired three safety researchers for a \"significant breach of trust.\" The company defended its decision, citing policy violations on sensitive information. Jasmine Wang, Tomek Korbak, and Mikita Balesni were dismissed.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+        "category": "TECH",
+        "date": "Oct 09 \u2022 12:40 PM"
+    },
+    {
+        "headline": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+        "summary": "Microsoft 365 Family subscribers can now share Copilot and AI features. Previously, only the primary account holder could access AI benefits. This update also includes sharing Office apps and OneDrive storage.",
+        "link": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+        "category": "TECH",
+        "date": "Oct 09 \u2022 12:40 PM"
+    },
+    {
         "headline": "US plans livestream of execution by firing squad",
-        "summary": "The US plans to livestream the execution of Fort Hood shooter Nidal Hasan. Anonymous officials from the Defense Department confirmed the unprecedented decision. Hasan was convicted of killing 13 people at the Texas military base.",
+        "summary": "The US plans to livestream the execution of Fort Hood shooter Nidal Hasan. Defense Department officials confirmed the unprecedented livestream. Hasan, convicted of 13 murders, is scheduled for execution by firing squad.",
         "link": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
         "category": "TECH",
-        "date": "Oct 09 \u2022 04:51 AM"
+        "date": "Oct 09 \u2022 12:40 PM"
     },
     {
         "headline": "Anthropic launches free AI security scans for open-source projects",
-        "summary": "Anthropic introduced OSS Scanner, a new service offering free AI security scans for open-source projects. Open-source projects will receive \"thorough, periodic security scans\" from Anthropic's models. This could alert projects to vulnerabilities faster, despite potential trade-offs.",
+        "summary": "Anthropic introduced OSS Scanner for free AI security scans on open-source projects. The service uses strong AI models to identify vulnerabilities. It offers early alerts for security issues, with data sharing as a trade-off.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
         "category": "TECH",
-        "date": "Oct 09 \u2022 04:51 AM"
+        "date": "Oct 09 \u2022 12:40 PM"
     },
     {
-        "headline": "SpaceX announces plan to become a 'major mobile carrier'",
-        "summary": "SpaceX acquired low-band spectrum licenses, aiming to make Starlink Mobile a \"major\" US carrier. The company plans to deploy an architecture combining its satellite-to-mobile constellation with new infrastructure. This strategic move is pending FCC approval.",
-        "link": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
-        "category": "TECH",
-        "date": "Oct 09 \u2022 04:51 AM"
-    },
-    {
-        "headline": "AMD will bring FSR 4 to handhelds by the end of 2026",
-        "summary": "AMD will officially bring its FSR 4 framerate-enhancing tech to some handhelds by late 2026. This commitment by AMD's chip boss Jack Huynh reassures gamers. The decision clarifies earlier uncertainty about support for older handhelds like the Steam Deck.",
-        "link": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
-        "category": "TECH",
-        "date": "Oct 09 \u2022 04:51 AM"
-    },
-    {
-        "headline": "Cupertino Season 1 Premiere Review",
-        "summary": "\"Cupertino\" Season 1 premieres as a sly, smart deconstruction of Silicon Valley. It comes from \"The Good Wife\" creators Robert and Michelle King. The show promises an insightful and critical look at the tech world.",
-        "link": "https://www.ign.com/articles/cupertino-season-1-premiere-review",
+        "headline": "The Best LEGO Castle Sets to Build in 2026",
+        "summary": "Discover the top LEGO castle sets available now for builders. The list includes themed sets from Lord of the Rings and Disney. Perfect for those looking to construct epic castles.",
+        "link": "https://www.ign.com/articles/the-best-lego-castle-sets",
         "category": "GAMING",
-        "date": "Oct 09 \u2022 04:51 AM"
+        "date": "Oct 09 \u2022 12:40 PM"
     },
     {
-        "headline": "HBO's War: Season 1, Episode 2 Review",
-        "summary": "HBO's \"War\" delivers another well-acted, well-written episode in its second installment. The episode tightens the screws, building tension around the divorce proceedings. Viewers are braced for either side to potentially jeopardize their clients' cases.",
-        "link": "https://www.ign.com/articles/war-season-1-episode-2-review",
+        "headline": "The Most Expensive Lego Sets You Can Buy in 2026",
+        "summary": "Explore the most costly LEGO sets currently on the market. This guide highlights the investment required for serious LEGO collectors. It confirms that playing with LEGOs can be an expensive hobby.",
+        "link": "https://www.ign.com/articles/most-expensive-lego-sets",
         "category": "GAMING",
-        "date": "Oct 09 \u2022 04:51 AM"
+        "date": "Oct 09 \u2022 12:40 PM"
     },
     {
-        "headline": "VisionQuest Showrunner Terry Matalas Didn't Have to Worry Too Much About the MCU's Bigger Picture \u2014 'We Pretty Much Did Exactly What We Wanted' | NYCC 2026",
-        "summary": "\"VisionQuest\" showrunner Terry Matalas received significant creative freedom from MCU boss Kevin Feige. Matalas stated he could \"pretty much do exactly what we wanted\" for the series. Feige only requested the inclusion of one specific item.",
-        "link": "https://www.ign.com/articles/visionquest-showrunner-terry-matalas-didnt-have-to-worry-too-much-about-the-mcus-bigger-picture-we-pretty-much-did-exactly-what-we-wanted-nycc-2026",
+        "headline": "Final Fantasy 7 Remake Intergrade Drops to New All-Time Low Price on Switch 2",
+        "summary": "Final Fantasy 7 Remake Intergrade is now available for just $25 on Nintendo Switch 2. This price marks a new all-time low for the game. No Amazon Prime membership is required to access this deal.",
+        "link": "https://www.ign.com/articles/final-fantasy-7-remake-intergrade-best-deal-nintendo-switch-2",
         "category": "GAMING",
-        "date": "Oct 09 \u2022 04:51 AM"
+        "date": "Oct 09 \u2022 12:40 PM"
     },
     {
-        "headline": "Phantom Blade Zero Might Be This Year's Most Stylish Action Game | IGN Preview",
-        "summary": "\"Phantom Blade Zero\" has quickly become a top wishlist title after an IGN preview. The game is praised for its exceptional style and engaging action gameplay. It is currently tipped as one of 2026's coolest action games.",
-        "link": "https://www.ign.com/articles/phantom-blade-zero-might-be-this-years-most-stylish-action-game-ign-preview",
+        "headline": "Every Legend of Zelda LEGO Set Released So Far",
+        "summary": "A comprehensive list of all released LEGO The Legend of Zelda sets. Despite few sets, the existing collection is described as epic. A must-read for fans of both Zelda and LEGO.",
+        "link": "https://www.ign.com/articles/all-legend-of-zelda-lego-sets",
         "category": "GAMING",
-        "date": "Oct 09 \u2022 04:51 AM"
+        "date": "Oct 09 \u2022 12:40 PM"
     },
     {
-        "headline": "Polanski defends leadership after Zionism row and by-election loss",
-        "summary": "Green Party leader Polanski is defending his leadership amidst criticism over a Zionism row. He faced scrutiny for his response to a motion defining Zionism as racism, passed by party members. The defense follows a recent by-election loss.",
-        "link": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
+        "headline": "Polanski vows to stay on as Green leader as criticism mounts after by-election defeat",
+        "summary": "Green leader Polanski committed to remaining in his position. He faces growing criticism after a recent by-election defeat. Calls for his resignation have surfaced amid a Zionism row.",
+        "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 09 \u2022 04:51 AM"
+        "date": "Oct 09 \u2022 12:40 PM"
     },
     {
-        "headline": "ADHD and autism at risk of over-diagnosis, says government review",
-        "summary": "A government review warns that ADHD and autism are at risk of over-diagnosis, particularly among younger people. The report suggests society is shifting from an era of under-diagnosis to one of over-diagnosis. It highlights concerns about diagnostic trends.",
-        "link": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss",
+        "headline": "'Deeply personal moment': Watch Sagal Abdi-Wali's by-election victory speech",
+        "summary": "Sagal Abdi-Wali delivered an emotional victory speech after her by-election win. Labour defeated the Green Party, securing 45% of the vote. The victory took place in the Holborn and St Pancras constituency.",
+        "link": "https://www.bbc.co.uk/news/videos/c95yn70e678po?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 09 \u2022 04:51 AM"
+        "date": "Oct 09 \u2022 12:40 PM"
     },
     {
-        "headline": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
-        "summary": "The Pentagon announced the Fort Hood attacker's execution by firing squad will be public and livestreamed. Defense Secretary confirms the decision, calling it unprecedented. Legal experts warn the move stands on \"uncertain legal terrain.\"",
-        "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+        "headline": "France promises 3,000 extra teachers in first step to calm student protests",
+        "summary": "France's education minister offered 3,000 new teachers to address student unrest. This move aims to calm ongoing, sometimes violent, student protests. It represents an initial step towards fulfilling student demands.",
+        "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 09 \u2022 04:51 AM"
+        "date": "Oct 09 \u2022 12:40 PM"
     },
     {
-        "headline": "ICE agent shoots man in New York City",
-        "summary": "An ICE agent shot a man in New York City during an arrest operation. The Department of Homeland Security stated ICE was apprehending a \"criminal illegal alien.\" Early reports indicated a five-year-old child was present in the car during the incident.",
-        "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+        "headline": "King pays Andrew's \u00a31.5m repair bill on Royal Lodge",
+        "summary": "King Charles covered Prince Andrew's \u00a31.5 million repair bill for Royal Lodge. Andrew surrendered the lease on the 30-room mansion. The payment covered significant repair and restoration costs.",
+        "link": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 09 \u2022 04:51 AM"
+        "date": "Oct 09 \u2022 12:40 PM"
     }
 ]
