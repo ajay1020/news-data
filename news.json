@@ -1,86 +1,86 @@
 [
     {
+        "headline": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+        "summary": "Tesla demonstrated its next-generation Roadster at an event in Waco, Texas. The electric supercar briefly flew and drove upside down. It achieved 0-60mph acceleration in under one second.",
+        "link": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+        "category": "TECH",
+        "date": "Oct 16 \u2022 03:24 AM"
+    },
+    {
+        "headline": "Steam can now show game achievements in separate \u2018sets\u2019",
+        "summary": "Valve is introducing a major new feature called \"achievement sets\" for Steam. Developers can now group achievements for a base game and its DLCs. Players will browse unlocked achievements organized by these new sets.",
+        "link": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
+        "category": "TECH",
+        "date": "Oct 16 \u2022 03:24 AM"
+    },
+    {
         "headline": "ChatGPT can peek at your Chrome tabs now",
-        "summary": "ChatGPT's Chrome extension now accesses your open browser tabs. OpenAI demonstrated the new capability for web and desktop apps. The feature allows ChatGPT to view tabs when Chrome is tagged.",
+        "summary": "ChatGPT's Google Chrome extension is receiving significant upgrades. The extension now allows ChatGPT to view your open browser tabs. This feature activates when tagging Chrome in ChatGPT's web or desktop app.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
         "category": "TECH",
-        "date": "Oct 15 \u2022 10:54 PM"
+        "date": "Oct 16 \u2022 03:24 AM"
     },
     {
         "headline": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-        "summary": "Sega has removed Total War: Shogun 2 - Complete Edition from sale. The remaster faced widespread user complaints about bugs and AI upscaling. The game was pulled shortly after its Tuesday launch.",
+        "summary": "Sega has removed Total War: Shogun 2 - Complete Edition from storefronts. The remaster faced user complaints about bugs and AI-upscaling issues. Its launch was deemed disastrous, leading to its withdrawal.",
         "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
         "category": "TECH",
-        "date": "Oct 15 \u2022 10:54 PM"
+        "date": "Oct 16 \u2022 03:24 AM"
     },
     {
-        "headline": "The tech backlash is now in theaters",
-        "summary": "Hollywood is releasing a wave of critical films about Silicon Valley. Movies like \"The Social Reckoning\" portray tech founders negatively. Films are exploring the disruptive and often destabilizing impact of tech.",
-        "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-        "category": "TECH",
-        "date": "Oct 15 \u2022 10:54 PM"
-    },
-    {
-        "headline": "Trump posts AI-edited photo to brag about White House restoration work",
-        "summary": "Donald Trump shared an AI-modified photo of White House renovations. The image, comparing old and \"restored\" columns, had discrepancies. Google's AI detector flagged the photo as potentially AI-generated.",
-        "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-        "category": "TECH",
-        "date": "Oct 15 \u2022 10:54 PM"
-    },
-    {
-        "headline": "Pro Dota 2 Player Claims He Had to Play a Full Match in Front of Police Officers to Prove His Identity",
-        "summary": "A pro Dota 2 player claims he played a match for police. This was to prove his identity after a team boot camp raid. He successfully demonstrated his skills under pressure.",
-        "link": "https://www.ign.com/articles/pro-dota-2-player-claims-he-had-to-play-a-full-match-in-front-of-police-after-his-teams-boot-camp-was-raided",
+        "headline": "Preorder the SteelSeries Sensei Pro and Rival Pro 8K Gaming Mice With Unlimited Battery Life",
+        "summary": "SteelSeries unveils new Sensei Pro and Rival Pro 8K gaming mice. These mice feature unlimited battery life for extended play. Preorders are now available for the high-performance peripherals.",
+        "link": "https://www.ign.com/articles/preorder-the-steelseries-new-sensei-pro-and-rival-pro-gaming-mice",
         "category": "GAMING",
-        "date": "Oct 15 \u2022 10:54 PM"
+        "date": "Oct 16 \u2022 03:24 AM"
     },
     {
-        "headline": "The Tiny Lisen 10,000mAh Power Bank With 45W USB-C Output Drops to $23.99",
-        "summary": "Lisen's 10,000mAh power bank is on sale for $23.99. It offers 45W USB-C output, suitable for devices like the Switch. This power bank can significantly extend Nintendo Switch 2 playtime.",
-        "link": "https://www.ign.com/articles/lisen-10000mah-power-bank-deal-october-2026",
+        "headline": "Save 34% Off the Storied Klipsch ProMedia 2.1 Lumina Computer Speakers Well Ahead of Black Friday",
+        "summary": "Klipsch ProMedia 2.1 Lumina Computer Speakers are available at a 34% discount. This deal comes well ahead of the Black Friday sales event. The speakers have been updated to modern audio standards.",
+        "link": "https://www.ign.com/articles/klipsch-promedia-21-lumina-computer-speaker-deal-october-2026",
         "category": "GAMING",
-        "date": "Oct 15 \u2022 10:54 PM"
+        "date": "Oct 16 \u2022 03:24 AM"
     },
     {
-        "headline": "Mortal Kombat Creator Ed Boon Responds to Street Fighter Cast Saying They Want a Crossover Movie",
-        "summary": "Ed Boon, Mortal Kombat co-creator, is open to a crossover movie. The Street Fighter cast expressed enthusiasm for a joint film. Boon suggests a game crossover should happen before a movie.",
-        "link": "https://www.ign.com/articles/mortal-kombat-creator-ed-boon-responds-to-street-fighter-cast-saying-they-want-a-crossover-movie",
+        "headline": "'I Just Sort of Disconnect' \u2014 Jeff Kaplan is Avoiding Overwatch at all Costs",
+        "summary": "Former Overwatch director Jeff Kaplan actively avoids online discussions about the game. He distances himself from subreddits and forums to protect his psyche. Kaplan explained his need to disconnect completely from the hero shooter.",
+        "link": "https://www.ign.com/articles/i-just-sort-of-disconnect-jeff-kaplan-is-avoiding-overwatch-at-all-costs",
         "category": "GAMING",
-        "date": "Oct 15 \u2022 10:54 PM"
+        "date": "Oct 16 \u2022 03:24 AM"
     },
     {
-        "headline": "The BROTTAR Corner Display Cabinet Drops to $89.99 With Coupon, More Room to Showcase Your Collection",
-        "summary": "The BROTTAR Corner Display Cabinet is discounted to $89.99. It features motion-sensing 3-color LED lighting. The cabinet provides ample space for collections with soft-close hinges.",
-        "link": "https://www.ign.com/articles/brottar-corner-display-cabinet-deal-october-2026",
+        "headline": "Save $900 Off the New 2026 65\" Hisense UR8 RGB Mini-LED TV, One of the Best TVs You Can Get for Gaming",
+        "summary": "The new 2026 65\" Hisense UR8 RGB Mini-LED TV is available with a $900 discount. It's highlighted as one of the best TVs for gaming enthusiasts. The model boasts richer colors, brighter picture, and wider viewing angles.",
+        "link": "https://www.ign.com/articles/hisense-ur8-rgb-mini-led-tv-deal-october-2026",
         "category": "GAMING",
-        "date": "Oct 15 \u2022 10:54 PM"
+        "date": "Oct 16 \u2022 03:24 AM"
+    },
+    {
+        "headline": "Three children and teacher killed by 16-year-old at Oregon primary school",
+        "summary": "A 16-year-old fatally shot three children and a teacher at an Oregon primary school. The suspect was killed by a local community member who intervened. Police are investigating the tragic incident.",
+        "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Oct 16 \u2022 03:24 AM"
     },
     {
         "headline": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-        "summary": "A bus collided with a stationary train in the Channel Tunnel. 19 people were injured in the incident on the French side. Two individuals were airlifted to hospital, but injuries are not life-threatening.",
+        "summary": "A bus collided with a stationary train in the Channel Tunnel on the French side. The incident resulted in 19 people sustaining injuries. Two individuals were airlifted to hospital, but their lives are not in danger.",
         "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 15 \u2022 10:54 PM"
+        "date": "Oct 16 \u2022 03:24 AM"
     },
     {
-        "headline": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-        "summary": "Donald Trump cancelled the livestream of Nidal Hasan's execution. Hasan, the Fort Hood attacker, is the first military execution in over 60 years. Trump cited that some would \"rather not watch\" the event.",
-        "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+        "headline": "Same-day test helps doctors detect hidden infections in critically ill children",
+        "summary": "A new same-day metagenomics test helps doctors identify hidden infections. The test is designed for critically ill children in intensive care. This offers a novel and faster way to diagnose complex infections.",
+        "link": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 15 \u2022 10:54 PM"
+        "date": "Oct 16 \u2022 03:24 AM"
     },
     {
-        "headline": "Trans people should use hospital spaces according to biological sex, NHS England says",
-        "summary": "NHS England issued new guidance for trans patients in hospitals. Patients should be cared for in single-sex wards aligning with their biological sex. This guidance aims to clarify hospital space usage for trans individuals.",
-        "link": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss",
+        "headline": "Porn showing choking or incest to be banned from early November, government says",
+        "summary": "The UK government announced a ban on pornography depicting choking or incest. The new legislation is set to take effect from early November. This move follows a 2025 review of pornography regulation.",
+        "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 15 \u2022 10:54 PM"
-    },
-    {
-        "headline": "Russell Brand accuser says he turned 'monster-like' before alleged rape",
-        "summary": "An accuser described Russell Brand as becoming \"monster-like\". Brand faces multiple charges, including three counts of rape. The allegations relate to his behavior before an alleged sexual assault.",
-        "link": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Oct 15 \u2022 10:54 PM"
+        "date": "Oct 16 \u2022 03:24 AM"
     }
 ]
