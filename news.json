@@ -1,86 +1,86 @@
 [
     {
-        "headline": "Websites are closing their doors to AI agents",
-        "summary": "Autonomous AI agents from tech giants are designed to automate online tasks. Many websites are now actively implementing blocks against these AI agents. This resistance raises questions about the future landscape of AI-driven web services.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "headline": "Elon Musk settles lawsuits over $1 million voter giveaway",
+        "summary": "Elon Musk faced legal challenges over his 2024 pledge to give $1 million daily to swing state voters. Two Arizona residents filed lawsuits, claiming the lottery was fraudulent. Musk has now agreed to settle the two outstanding lawsuits.",
+        "link": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
         "category": "TECH",
-        "date": "Oct 17 \u2022 01:28 PM"
+        "date": "Oct 17 \u2022 04:52 PM"
     },
     {
-        "headline": "Bose\u2019s new wired earbuds are simple in the best way",
-        "summary": "Wired earbuds are experiencing an unexpected resurgence in sales and popularity. Bose has released new wired earbuds, embracing a simple and effective design. This trend highlights a renewed appreciation for straightforward audio solutions.",
-        "link": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+        "headline": "Meta removes language that may have allowed it to scrape news sites",
+        "summary": "Meta is updating its terms of service after facing backlash over content scraping. The company removed language that suggested it could use content from sites, including news, for AI training. This change addresses concerns about potential misuse of external content.",
+        "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
         "category": "TECH",
-        "date": "Oct 17 \u2022 01:28 PM"
+        "date": "Oct 17 \u2022 04:52 PM"
     },
     {
-        "headline": "Apple\u2019s HomeView: A New Threat to Online Recipe Writers",
-        "summary": "Apple introduced HomeView, a smart display designed to integrate into busy family kitchens. This new device centralizes household management, including direct recipe access. HomeView poses a significant challenge to traditional online recipe content creators.",
-        "link": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
+        "headline": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
+        "summary": "Pikmin 4 for Nintendo Switch is currently discounted to $39.88 at Walmart, saving buyers over $20. This digital version deal offers instant delivery for the puzzle game. The sale precedes a potential $10 update for Nintendo Switch 2.",
+        "link": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
         "category": "TECH",
-        "date": "Oct 17 \u2022 01:28 PM"
+        "date": "Oct 17 \u2022 04:52 PM"
     },
     {
-        "headline": "A Dream Week for Tech Documentaries",
-        "summary": "This week is being celebrated as a particularly strong period for technology documentaries. Features include insights into figures like Marc Andreessen and the broader future of tech. The article serves as a guide to essential viewing for tech enthusiasts.",
-        "link": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
+        "headline": "Jad Abumrad loves a butterfly knife and a good springy pillow",
+        "summary": "Jad Abumrad, creator of Radiolab, has had a profound impact on the podcasting world. He also produced Peabody Award-winning shows like 'Dolly Parton's America'. The article delves into his personal interests, including a butterfly knife and springy pillows.",
+        "link": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
         "category": "TECH",
-        "date": "Oct 17 \u2022 01:28 PM"
+        "date": "Oct 17 \u2022 04:52 PM"
     },
     {
-        "headline": "Street Fighter Movie Repeats Mortal Kombat's Tournament Mistake",
-        "summary": "The new Street Fighter movie is criticized for reportedly avoiding its iconic fighting tournaments. This decision mirrors a similar error previously made by the Mortal Kombat film adaptation. Critics question why fighting game movies often stray from their source material's core premise.",
+        "headline": "Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in",
+        "summary": "Barry Sloane, the actor behind Captain Price, has shared a heartfelt message with fans. The message comes amidst widespread acclaim for Call of Duty: Modern Warfare 4's campaign. Fans are celebrating the latest installment's narrative and gameplay.",
+        "link": "https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in",
+        "category": "GAMING",
+        "date": "Oct 17 \u2022 04:52 PM"
+    },
+    {
+        "headline": "7 Crazy Movie Premises That Actually Worked",
+        "summary": "The article explores seven films that succeeded despite having incredibly wild and unusual premises. These movies proved that unconventional concepts can still resonate with audiences. It sets a precedent for analyzing films like 'Whalefall' with unique ideas.",
+        "link": "https://www.ign.com/articles/crazy-movie-premises-that-actually-worked",
+        "category": "GAMING",
+        "date": "Oct 17 \u2022 04:52 PM"
+    },
+    {
+        "headline": "D&D Designer James Wyatt Discusses World of Warcraft Expansion",
+        "summary": "An exclusive interview took place with James Wyatt, Principal Game Designer at Wizards of the Coast. The discussion centered on the first 'Universes Beyond' expansion for Dungeons & Dragons. This new expansion integrates elements from the popular 'World of Warcraft' universe.",
+        "link": "https://www.ign.com/articles/we-sat-down-with-dd-game-designer-james-wyatt-to-talk-dungeons-and-dragons-world-of-warcraft",
+        "category": "GAMING",
+        "date": "Oct 17 \u2022 04:52 PM"
+    },
+    {
+        "headline": "Street Fighter Movie Repeats Mortal Kombat's Mistake",
+        "summary": "The upcoming Street Fighter movie is criticized for reportedly avoiding fighting tournaments as a central plot device. This misstep echoes a flaw previously observed and learned from in Mortal Kombat film adaptations. The article questions the industry's hesitation to embrace a core element of fighting game lore.",
         "link": "https://www.ign.com/articles/the-street-fighter-movie-makes-a-mistake-mortal-kombat-already-learned-from",
         "category": "GAMING",
-        "date": "Oct 17 \u2022 01:28 PM"
-    },
-    {
-        "headline": "Red Rising Book Series Greenlit for Movie Adaptation",
-        "summary": "Pierce Brown's popular 'Red Rising' book series has been officially greenlit for a film adaptation. Paramount Pictures is producing the movie, with Francis Lawrence ('Hunger Games') set to direct. Author Pierce Brown will be involved in the production as a producer.",
-        "link": "https://www.ign.com/articles/red-rising-greenlit-for-movie-adaptation-with-author-pierce-brown-to-produce",
-        "category": "GAMING",
-        "date": "Oct 17 \u2022 01:28 PM"
-    },
-    {
-        "headline": "James Gunn Debunks Supergirl Rumors, Updates Man of Tomorrow",
-        "summary": "Director James Gunn refuted recent rumors regarding Milly Alcock's alleged firing as Supergirl. He confirmed that Alcock remains in her role, dismissing the speculation. Gunn also shared an update on 'Man of Tomorrow,' revealing an early cut will be viewed soon.",
-        "link": "https://www.ign.com/articles/james-gunn-shoots-down-milly-alcock-supergirl-rumors-shares-man-of-tomorrow-update",
-        "category": "GAMING",
-        "date": "Oct 17 \u2022 01:28 PM"
-    },
-    {
-        "headline": "Super Smash Bros. Pro Mew2King Banned Due to Health Concerns",
-        "summary": "Professional Super Smash Bros. player Jason 'Mew2King' Zimmerman has been banned from a competitive tournament. The ban followed his public posts detailing concerning bug bites and a suspected home infestation. Tournament organizers cited health and safety concerns as the reason for his exclusion.",
-        "link": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
-        "category": "GAMING",
-        "date": "Oct 17 \u2022 01:28 PM"
+        "date": "Oct 17 \u2022 04:52 PM"
     },
     {
         "headline": "Paris Protesters Clash with Police Amid Shifting Mood",
-        "summary": "Protesters in Paris are clashing with police, indicating a significant escalation and shift in public mood. These confrontations follow weeks of student-led demonstrations across the city. The BBC reports from the Place de la R\u00e9publique, where tensions are high.",
+        "summary": "Protesters and police are clashing intensely at the Place de la R\u00e9publique in Paris. The confrontations mark a significant escalation after weeks of student demonstrations. Reports indicate a notable shift in the mood and intensity of the protests.",
         "link": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 17 \u2022 01:28 PM"
+        "date": "Oct 17 \u2022 04:52 PM"
     },
     {
-        "headline": "UK Must Guard Against Russian 'Hybrid Attacks', Says Ex-Security Adviser",
-        "summary": "Lord Ricketts, former national security adviser, warns the UK of potential Russian 'hybrid attacks'. He advocates for increased investment in the resilience of critical national infrastructure. Key sectors like energy, transport, air traffic control, and defense require enhanced protection.",
+        "headline": "More NHS Staff Sacked Over Victim Record Breaches",
+        "summary": "More NHS staff have been dismissed for improperly accessing attack victims' records. Nottingham University Hospitals NHS Trust is implementing a new system to protect sensitive patient data. The measure aims to prevent future breaches and safeguard victim information.",
+        "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Oct 17 \u2022 04:52 PM"
+    },
+    {
+        "headline": "UK Warned to Guard Against Russian 'Hybrid Attacks'",
+        "summary": "Lord Ricketts, former national security adviser, has cautioned the UK to bolster defenses against Russian 'hybrid attacks'. He emphasized the need for increased spending to improve resilience across critical infrastructure. Key sectors include energy, transport, air traffic control, and defense sites.",
         "link": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 17 \u2022 01:28 PM"
+        "date": "Oct 17 \u2022 04:52 PM"
     },
     {
-        "headline": "Oregon School Attacker Shot by Armed Parent After Teacher's Intervention",
-        "summary": "An Oregon teacher bravely fought a 16-year-old assailant at a primary school. An armed parent then intervened, shooting the suspect multiple times. Police confirmed the suspect, a former student, specifically targeted a special educational needs classroom.",
-        "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+        "headline": "Swinney Disses Burnham, Announces Public Bus Control for Scotland",
+        "summary": "Scotland's First Minister John Swinney took a dig at PM Burnham during his SNP conference speech. Swinney asserted Scotland's distinct identity, claiming it's 'not like Manchester'. He also unveiled plans to bring Scotland's entire bus network under public control.",
+        "link": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 17 \u2022 01:28 PM"
-    },
-    {
-        "headline": "Two Die in Light Aircraft Crash Near Loch Lomond",
-        "summary": "A 16-year-old boy and an 80-year-old man have died in a light aircraft crash. The fatal incident occurred near Loch Lomond on Friday afternoon. Emergency services responded but pronounced both individuals dead at the scene.",
-        "link": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Oct 17 \u2022 01:28 PM"
+        "date": "Oct 17 \u2022 04:52 PM"
     }
 ]
