@@ -1,86 +1,86 @@
 [
     {
+        "headline": "Etsy is cracking down on AI slop listings",
+        "summary": "Etsy implements stricter rules against AI-generated content. Many buyers struggle to differentiate AI from human-made items. Sellers are concerned about AI content impacting their work.",
+        "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+        "category": "TECH",
+        "date": "Oct 23 \u2022 03:37 AM"
+    },
+    {
+        "headline": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+        "summary": "Spotify's co-CEO confirms efforts to catch Family Plan misuse. A new QR code verification method targets non-cohabiting users. The company aims to enforce residential eligibility rules.",
+        "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+        "category": "TECH",
+        "date": "Oct 23 \u2022 03:37 AM"
+    },
+    {
+        "headline": "The next-gen Xbox won\u2019t cost you $1,800. It can\u2019t. Can it?",
+        "summary": "Rumors suggest the next Xbox could cost up to $1,800 by 2028. This potential price point sparks concerns about affordability and market viability. Analysts question Microsoft's strategy with such a high projected cost.",
+        "link": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+        "category": "TECH",
+        "date": "Oct 23 \u2022 03:37 AM"
+    },
+    {
         "headline": "Canva\u2019s first AI image model plans designs before generating them",
-        "summary": "Canva introduces \"Canva Craft,\" a new AI image generation model. It competes with OpenAI, Microsoft, and Google's AI models. Craft uses a two-stage process for precision, planning designs before generation.",
+        "summary": "Canva introduces \"Canva Craft,\" a new in-house AI image generation model. It directly competes with models from OpenAI, Microsoft, and Google. Craft uses a two-stage architecture for greater precision and control.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
         "category": "TECH",
-        "date": "Oct 22 \u2022 10:59 PM"
+        "date": "Oct 23 \u2022 03:37 AM"
     },
     {
-        "headline": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
-        "summary": "Global PC shipments plunged 21% year-over-year in Q3 2026. The decline is linked to rising RAM prices impacting demand. Smartphone shipments also hit a 14-year low in the same quarter.",
-        "link": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
-        "category": "TECH",
-        "date": "Oct 22 \u2022 10:59 PM"
-    },
-    {
-        "headline": "Fall 2026 earnings watch",
-        "summary": "Tech companies' Fall 2026 earnings reports are under scrutiny. Focus is on AI integration, compute assets, and new tech like flying cars. Analysts will assess wins, losses, and future directions for the sector.",
-        "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
-        "category": "TECH",
-        "date": "Oct 22 \u2022 10:59 PM"
-    },
-    {
-        "headline": "Meta\u2019s AI could still scrape news sites, legal experts say",
-        "summary": "Meta updated its terms, removing direct language about scraping news sites for AI. Legal experts argue the changes are insufficient to prevent scraping. Concerns remain over Meta's ability to train AI on news content via \"associated with your products or services\" clause.",
-        "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-        "category": "TECH",
-        "date": "Oct 22 \u2022 10:59 PM"
-    },
-    {
-        "headline": "Amazon Has a Sale on Magic: The Gathering Booster Boxes Even Before Black Friday Kicks Off",
-        "summary": "Amazon offers early Black Friday discounts on Magic: The Gathering. Deals include Play Booster Boxes for popular sets like Marvel and The Hobbit. Unreleased Star Trek sets are also available at reduced prices.",
-        "link": "https://www.ign.com/articles/magic-the-gathering-booster-box-deals-amazon-black-friday-early-deals",
+        "headline": "The Battlestar Galactica Board Game Is Making a Surprise Comeback Next Year",
+        "summary": "The popular Battlestar Galactica board game is set for a surprise return. Fans can expect a comeback next year. Details about the revival are eagerly awaited.",
+        "link": "https://www.ign.com/articles/the-battlestar-galactica-board-game-is-making-a-surprise-comeback-next-year",
         "category": "GAMING",
-        "date": "Oct 22 \u2022 10:59 PM"
+        "date": "Oct 23 \u2022 03:37 AM"
     },
     {
-        "headline": "Young Sheldon Star Annie Potts Was 'Sad' About Jim Parsons' 'Mean' Sheldon Cameo",
-        "summary": "Annie Potts, who played Meemaw in Young Sheldon, expressed disappointment. She was \"a little sad\" about Jim Parsons' adult Sheldon cameo in the finale. Potts felt adult Sheldon remained \"mean and unchanged,\" unlike how she envisioned.",
-        "link": "https://www.ign.com/articles/young-sheldon-star-annie-potts-says-she-was-a-little-sad-about-jim-parsons-cameo-as-mean-and-unchanged-sheldon-in-shows-finale",
+        "headline": "Clayface Ending Explained",
+        "summary": "The new Clayface movie marks the character's live-action debut. Fans want to know if Batman appears in the film. The article explains the ending and Clayface's design.",
+        "link": "https://www.ign.com/articles/clayface-ending-explained-batman-dcu",
         "category": "GAMING",
-        "date": "Oct 22 \u2022 10:59 PM"
+        "date": "Oct 23 \u2022 03:37 AM"
     },
     {
-        "headline": "Tom Skerritt Dies: Alien and Top Gun Actor Was 93",
-        "summary": "Veteran actor Tom Skerritt has passed away at 93. He was known for iconic roles in films like \"Alien\" and \"Top Gun.\" Skerritt died of natural causes on Wednesday.",
-        "link": "https://www.ign.com/articles/tom-skerritt-alien-top-gun-actor-dies-93",
+        "headline": "Wo Long 2: Wings of Ember Gets Wuxia\u2026 and Let Me Fight a Horrific Spider Thing | IGN Preview",
+        "summary": "Wo Long 2: Wings of Ember blends Team Ninja's action expertise with Three Kingdoms strategy. The sequel promises a Wuxia-inspired experience. Players will face off against a \"horrific spider thing.\"",
+        "link": "https://www.ign.com/articles/wo-long-2-wings-of-ember-gets-wuxia-and-let-me-fight-a-horrific-spider-thing-ign-preview",
         "category": "GAMING",
-        "date": "Oct 22 \u2022 10:59 PM"
+        "date": "Oct 23 \u2022 03:37 AM"
     },
     {
-        "headline": "Alienware 32\" 4K 240Hz OLED Gaming Monitor Hits All-Time Low Price",
-        "summary": "Alienware's 32-inch 4K 240Hz Quantum-Dot OLED gaming monitor is on sale. The high-performance display has reached an unprecedented low price. Considered a top choice for serious 4K gaming enthusiasts.",
-        "link": "https://www.ign.com/articles/alienware-aw3225qf-4k-oled-gaming-monitor-deal-october-2026",
+        "headline": "Save $50 Off the Endlessly Useful ASUS ZenScreen 16\" 1080p Portable USB Monitor Ahead of Black Friday",
+        "summary": "Get $50 off the ASUS ZenScreen 16\" 1080p portable monitor. This deal is available before Black Friday. It's ideal as a second laptop screen or for Switch/Steam Deck.",
+        "link": "https://www.ign.com/articles/asus-zenscreen-usb-portable-monitor-deal-october-2026",
         "category": "GAMING",
-        "date": "Oct 22 \u2022 10:59 PM"
+        "date": "Oct 23 \u2022 03:37 AM"
     },
     {
-        "headline": "UK Warned to Prepare for Supply Chain Disruptions from Cyber or Climate Threats",
-        "summary": "The UK defence secretary warns the public to prepare for supply chain disruptions. Threats include cyberattacks and climate emergencies. The nation must be ready for impacts on essential goods and services.",
+        "headline": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
+        "summary": "The UK Defence Secretary warns of potential supply chain disruptions. Cyberattacks and climate emergencies are cited as major threats. The public is advised to prepare for such scenarios.",
         "link": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 22 \u2022 10:59 PM"
+        "date": "Oct 23 \u2022 03:37 AM"
     },
     {
-        "headline": "Critical Cyber-Security Flaw in PHP Triggers Race to Update Systems",
-        "summary": "A critical cybersecurity vulnerability was discovered in PHP. The flaw led to websites being taken offline for urgent updates. Organizations are scrambling to patch their computer systems and services.",
+        "headline": "Race to update services' computer systems after cyber-security flaw found",
+        "summary": "Websites went offline following discovery of critical PHP vulnerabilities. Developers are racing to update computer systems. The flaw poses a significant cyber-security risk.",
         "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 22 \u2022 10:59 PM"
+        "date": "Oct 23 \u2022 03:37 AM"
     },
     {
-        "headline": "Trump Claims Musk Restored Ukraine's Starlink Access",
-        "summary": "Donald Trump stated Elon Musk has restored Ukraine's Starlink network access. Ukraine relies heavily on Starlink for military communications. Musk has previously denied restricting Starlink access in Ukraine.",
+        "headline": "Musk has restored access to Ukraine's Starlink network, Trump says",
+        "summary": "Donald Trump claims Elon Musk restored Starlink access for Ukraine. Ukraine's military heavily relies on the satellite network. Musk has previously denied restricting access to Starlink.",
         "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 22 \u2022 10:59 PM"
+        "date": "Oct 23 \u2022 03:37 AM"
     },
     {
-        "headline": "Raye Wins Mercury Prize with 'This Music May Contain Hope'",
-        "summary": "Pop star Raye has been awarded the prestigious Mercury Prize. She won for her album \"This Music May Contain Hope.\" Raye beat nominees like Paul McCartney and Suede, securing the \u00a325,000 prize.",
+        "headline": "Raye wins the Mercury Prize with This Music May Contain Hope",
+        "summary": "Pop star Raye has won the prestigious Mercury Prize. Her album \"This Music May Contain Hope\" earned her the \u00a325,000 award. She triumphed over artists like Paul McCartney and Suede.",
         "link": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 22 \u2022 10:59 PM"
+        "date": "Oct 23 \u2022 03:37 AM"
     }
 ]
