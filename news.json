@@ -1,86 +1,86 @@
 [
     {
         "headline": "Apple Intelligence is finally coming to China with iOS 27.3",
-        "summary": "Apple Intelligence will launch in China with iOS 27.3. Features will first be available in an iOS 27.3 beta on November 4th. The full iOS 27.3 release is scheduled for December.",
+        "summary": "Apple Intelligence will launch in China with the upcoming iOS 27.3. A beta version is set for November 4th, with a full release in December. This expands Apple's AI features to a major new market.",
         "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
         "category": "TECH",
-        "date": "Oct 31 \u2022 04:23 AM"
+        "date": "Oct 31 \u2022 11:46 AM"
     },
     {
         "headline": "Exclusive details about Akai\u2019s MPC Sample Key",
-        "summary": "Akai teased its new MPC Sample Key on Instagram. The company plans to open-source its software for modding. Launch date and pricing details are not yet available.",
+        "summary": "Akai teased its new MPC Sample Key on Instagram, hinting at a new device. The company plans to open-source its software for the modding community. Exclusive images have surfaced, but launch and pricing details are still unknown.",
         "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
         "category": "TECH",
-        "date": "Oct 31 \u2022 04:23 AM"
+        "date": "Oct 31 \u2022 11:46 AM"
     },
     {
         "headline": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
-        "summary": "OpenAI CEO Sam Altman commented on the ongoing RAM shortage. He stated it's \"terrible\" for RAM to be in personal PCs. Altman believes RAM is better utilized in data centers.",
+        "summary": "OpenAI CEO Sam Altman believes RAM is more efficient in data centers. He stated it's 'terrible' for RAM to be in personal PCs, especially amid shortages. Altman's comments were made during a podcast appearance.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
         "category": "TECH",
-        "date": "Oct 31 \u2022 04:23 AM"
+        "date": "Oct 31 \u2022 11:46 AM"
     },
     {
         "headline": "The biggest names in AI are backing a new way to opt out of scraping",
-        "summary": "Major AI companies are adopting a new standard for content scraping opt-out. OpenAI, Google, Microsoft, and Anthropic are among those supporting the initiative. Publishers can set AI training preferences across multiple companies using a shared \"policy token\" signal.",
+        "summary": "Major AI companies like OpenAI, Google, and Microsoft are adopting a new standard. This standard allows publishers to easily opt out of AI data scraping. It provides a shared 'policy token' for setting preferences across multiple AI platforms.",
         "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
         "category": "TECH",
-        "date": "Oct 31 \u2022 04:23 AM"
+        "date": "Oct 31 \u2022 11:46 AM"
     },
     {
-        "headline": "Stranger Than Heaven is Allowing RGG Studio to Fully Leverage Current-Gen Consoles by Skipping Last-Gen Systems",
-        "summary": "Stranger Than Heaven skips last-gen systems entirely. This decision allows RGG Studio to fully utilize current-gen console power. The move promises a more optimized and immersive gaming experience.",
+        "headline": "Arkade is a PC Peripheral That Transforms Every Modern Shooter Into a Light Gun Game",
+        "summary": "Arkade is a new PC peripheral designed for shooter games. It transforms modern titles into a classic light gun experience. This innovative device offers a fresh way to play your favorite FPS games.",
+        "link": "https://www.ign.com/articles/arkade-is-a-pc-peripheral-that-transforms-every-modern-shooter-into-a-light-gun-game",
+        "category": "GAMING",
+        "date": "Oct 31 \u2022 11:46 AM"
+    },
+    {
+        "headline": "Costco Reveals Its Full Black Friday Ad and Sale Dates for 2026",
+        "summary": "Costco has released its comprehensive Black Friday advertisement for 2026. The ad includes detailed sales and specific dates for upcoming deals. Shoppers can now plan their holiday purchases in advance.",
+        "link": "https://www.ign.com/articles/costco-reveals-its-full-black-friday-ad-and-sale-dates-for-2026",
+        "category": "GAMING",
+        "date": "Oct 31 \u2022 11:46 AM"
+    },
+    {
+        "headline": "By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last",
+        "summary": "Stranger Than Heaven will bypass last-generation consoles. This decision allows RGG Studio to fully exploit current-gen hardware capabilities. The move promises enhanced graphics and performance for the new title.",
         "link": "https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last",
         "category": "GAMING",
-        "date": "Oct 31 \u2022 04:23 AM"
+        "date": "Oct 31 \u2022 11:46 AM"
     },
     {
         "headline": "Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest",
-        "summary": "Final Fantasy XIV's next expansion, Evercold, has been delayed. Warriors of Light will now have to wait longer than anticipated. A new release date was announced during the FFXIV Fan Fest event.",
+        "summary": "The Final Fantasy XIV 'Evercold' expansion has officially been delayed. A new release date was announced during the recent FFXIV Fan Fest event. Warriors of Light will now have to wait longer for the new content.",
         "link": "https://www.ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest",
         "category": "GAMING",
-        "date": "Oct 31 \u2022 04:23 AM"
-    },
-    {
-        "headline": "Stranger Than Heaven Features Optional \u201cCheats\u201d to Make its Combat Easier",
-        "summary": "Stranger Than Heaven includes optional \"cheats\" for players. These features are designed to make combat less challenging. The game offers flexibility for players seeking an easier experience.",
-        "link": "https://www.ign.com/articles/stranger-than-heaven-features-optional-cheats-to-make-its-combat-easier",
-        "category": "GAMING",
-        "date": "Oct 31 \u2022 04:23 AM"
-    },
-    {
-        "headline": "Monster Hunter Outlanders Review So Far",
-        "summary": "Monster Hunter Outlanders is a mobile spin-off maintaining core gameplay and visuals. The game features progress gates that encourage microtransactions. The review highlights both fidelity to the franchise and monetization concerns.",
-        "link": "https://www.ign.com/articles/monster-hunter-outlanders-review",
-        "category": "GAMING",
-        "date": "Oct 31 \u2022 04:23 AM"
-    },
-    {
-        "headline": "US approves sale of 500 Patriot missiles to Ukraine",
-        "summary": "The US has approved the sale of 500 Patriot missiles to Ukraine. These American-made interceptors are critical for downing Russia's ballistic missiles. The sale significantly boosts Ukraine's air defense capabilities.",
-        "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Oct 31 \u2022 04:23 AM"
+        "date": "Oct 31 \u2022 11:46 AM"
     },
     {
         "headline": "Burnham 'open' to calls for slavery apology but not reparations",
-        "summary": "Prime Minister Burnham is 'open' to apologizing for Britain's role in the transatlantic slave trade. He stated Britain must \"face up to the past.\" However, he believes reparations are \"not the right answer.\"",
+        "summary": "Burnham is receptive to calls for a formal government apology for slavery. However, he has explicitly stated he does not support reparations. The British government has historically refrained from formally apologizing.",
         "link": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 31 \u2022 04:23 AM"
+        "date": "Oct 31 \u2022 11:46 AM"
     },
     {
-        "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-        "summary": "Crypto giant Binance is attempting to recover $6.3 billion. The funds were stolen in a complex cyber-attack. The hack is believed to be linked to North Korea.",
-        "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+        "headline": "Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus",
+        "summary": "Ukrainians from the Russian-occupied city of Oleshky have been evacuated. Residents arrived in Belarus following a local ceasefire on Friday. The evacuation took place from the devastated city.",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 31 \u2022 04:23 AM"
+        "date": "Oct 31 \u2022 11:46 AM"
     },
     {
         "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-        "summary": "North Korea's 'elite' hackers are the prime suspects in the major Binance hack. The record-making heist showcases their growing power and sophistication. If true, the accusations highlight a significant cybersecurity threat.",
+        "summary": "North Korea's 'elite' hackers are considered prime suspects in a major Binance hack. The record-setting heist showcases the increasing power of these alleged state-sponsored groups. Accusations point to their sophisticated capabilities in cybercrime.",
         "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Oct 31 \u2022 04:23 AM"
+        "date": "Oct 31 \u2022 11:46 AM"
+    },
+    {
+        "headline": "Celebrity Traitors comes to a climax in nail-biting final",
+        "summary": "The second series of 'Celebrity Traitors' concluded with an intense, nail-biting final. The popular show attracted an impressive 15 million viewers. The climax of the hit reality series aired on Friday.",
+        "link": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Oct 31 \u2022 11:46 AM"
     }
 ]
