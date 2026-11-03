@@ -1,86 +1,86 @@
 [
     {
-        "headline": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-        "summary": "The Apple Watch Ultra 4 is currently $100 off, priced at $699.99. This deal matches its all-time low price point. It's Apple's most capable smartwatch, featuring extensive tracking and long battery life.",
-        "link": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+        "headline": "Apple is \u2018not able to predict\u2019 when it'll have enough iPhone Duos to go around",
+        "summary": "Apple CEO John Ternus admits supply issues for iPhone Duo are unpredictable. The company is working hard to meet demand but can't give a timeline. Supply constraints are currently limiting availability to customers.",
+        "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
         "category": "TECH",
-        "date": "Nov 02 \u2022 07:59 PM"
+        "date": "Nov 03 \u2022 02:10 AM"
     },
     {
-        "headline": "Ford promises not to sell your driving habits to data brokers",
-        "summary": "Ford has vowed to never sell customer driving data to third-party data brokers. This new privacy promise aims to distinguish Ford from competitors. The move follows backlash against other automakers for sharing telematics data.",
-        "link": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+        "headline": "Apple set an iPhone sales record even without a new standard iPhone",
+        "summary": "Apple reported record-breaking iPhone sales for its fourth quarter. The company earned $57.58 billion in iPhone revenue, a 17% increase year-over-year. This achievement came despite no new standard iPhone release in the refresh cycle.",
+        "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
         "category": "TECH",
-        "date": "Nov 02 \u2022 07:59 PM"
+        "date": "Nov 03 \u2022 02:10 AM"
     },
     {
-        "headline": "Anthropic clamps down on Claude\u2019s AI video game clones",
-        "summary": "Anthropic has updated Claude Code to prevent its AI from recreating existing video games. The change addresses a trend of AI-made retro game decompilations and ports. Claude can still create original games, but not clone existing ones.",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+        "headline": "Meta will end Quest 2 OS updates in 2027",
+        "summary": "Meta plans to end major OS updates for Quest 2 and Quest Pro VR headsets by March 2027. The final operating system update for these devices will be v213. Critical bug fixes and security patches will still be provided through the end of 2027.",
+        "link": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
         "category": "TECH",
-        "date": "Nov 02 \u2022 07:59 PM"
+        "date": "Nov 03 \u2022 02:10 AM"
     },
     {
-        "headline": "Xbox\u2019s former COO has \u2018serious concerns\u2019 about her abrupt departure",
-        "summary": "Xbox's former COO, Helen Chiang, suddenly left Microsoft less than two weeks after a promotion. She had been with the company for 21 years before her abrupt departure. Concerns have been raised regarding the suddenness of her exit.",
-        "link": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
+        "headline": "One of Google\u2019s Android partners turned 1.3 million set-top boxes into a botnet",
+        "summary": "Google revealed one of its Android partners created a backdoor in 1.3 million devices. Shenzhen-based Videostrong Technology Co. secretly turned these set-top boxes into a botnet. Google has since dismantled the botnet and banned the manufacturer from its ecosystem.",
+        "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
         "category": "TECH",
-        "date": "Nov 02 \u2022 07:59 PM"
+        "date": "Nov 03 \u2022 02:10 AM"
     },
     {
-        "headline": "Gearbox Calls on Fans to Help Shape the Next Borderlands, Teases 'Exciting Overall Direction' For the Future of the Franchise",
-        "summary": "Gearbox is soliciting fan input for the next Borderlands game. The developer is working on an \"exciting overall direction\" for the franchise. This initiative aims to involve the community in shaping the future title.",
-        "link": "https://www.ign.com/articles/gearbox-calls-on-fans-to-help-shape-the-next-borderlands-teases-exciting-overall-direction-for-the-future-of-the-franchise",
+        "headline": "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early",
+        "summary": "A poll of 1,300 American gamers shows a concerning trend. Many GTA fans would give up their pets to play GTA 6 early. This highlights extreme anticipation for the upcoming game.",
+        "link": "https://www.ign.com/articles/a-concerning-amount-of-gta-fans-would-give-up-their-pets-to-play-gta-6-early",
         "category": "GAMING",
-        "date": "Nov 02 \u2022 07:59 PM"
+        "date": "Nov 03 \u2022 02:10 AM"
     },
     {
-        "headline": "Nintendo Explains Why It Chose to Do Another The Legend of Zelda: Ocarina of Time Remake",
-        "summary": "Nintendo has explained its decision to develop another Ocarina of Time remake. The company provided a rationale behind revisiting the classic Zelda title. Details regarding the remake's purpose have been revealed.",
-        "link": "https://www.ign.com/articles/nintendo-explains-why-it-chose-to-do-another-the-legend-of-zelda-ocarina-of-time-remake",
+        "headline": "John Goodman Says Digger Reviews 'Killed' the Movie Before It Was Released",
+        "summary": "John Goodman claims critical reception 'killed' his movie 'Digger.' He believes negative reviews before release doomed its chances. Goodman highlights the damaging impact of early criticism on a film's success.",
+        "link": "https://www.ign.com/articles/john-goodman-says-digger-reviews-killed-the-movie-before-it-was-released",
         "category": "GAMING",
-        "date": "Nov 02 \u2022 07:59 PM"
+        "date": "Nov 03 \u2022 02:10 AM"
     },
     {
-        "headline": "Latest Steam Hardware Survey Shows Just How Hard PC Gamers Have Been Hit by AI",
-        "summary": "The latest Steam Hardware Survey indicates PC gamers are increasingly reverting to older hardware. This trend follows continuously rising hardware prices throughout 2026. AI's impact is cited as a factor affecting hardware adoption.",
-        "link": "https://www.ign.com/articles/latest-steam-hardware-survey-shows-just-how-hard-pc-gamers-have-been-hit-by-ai",
+        "headline": "Johnny Depp Is Open to Playing Jack Sparrow Again in a New Pirates of the Caribbean Movie",
+        "summary": "Johnny Depp is reconsidering his previous stance on the 'Pirates of the Caribbean' franchise. He is now open to reprising his iconic role as Jack Sparrow. This news offers hope for fans of the character in a potential new movie.",
+        "link": "https://www.ign.com/articles/johnny-depp-is-open-to-playing-jack-sparrow-again-in-a-new-pirates-of-the-caribbean-movie",
         "category": "GAMING",
-        "date": "Nov 02 \u2022 07:59 PM"
+        "date": "Nov 03 \u2022 02:10 AM"
     },
     {
-        "headline": "Viral 2011 Horror Hit Megan Is Missing Just Got a Sequel Series on Instagram",
-        "summary": "The infamous 2011 cult horror movie, Megan Is Missing, has received an unexpected sequel. The new sequel series is available for free on Instagram. This continuation arrives fifteen years after the original's release.",
-        "link": "https://www.ign.com/articles/viral-2011-horror-hit-megan-is-missing-just-got-a-sequel-series-on-instagram",
+        "headline": "Save 30% Off the Meta Quest 3 512GB VR Headset From the Meta Store Ahead of Black Friday",
+        "summary": "Get 30% off the Meta Quest 3 512GB VR Headset. This Black Friday deal is available directly from the Meta Store. It's considered the best VR headset offer for its price.",
+        "link": "https://www.ign.com/articles/best-meta-quest-3-deal-november-2026",
         "category": "GAMING",
-        "date": "Nov 02 \u2022 07:59 PM"
+        "date": "Nov 03 \u2022 02:10 AM"
+    },
+    {
+        "headline": "Mahmood scraps settlement plans for migrant care workers",
+        "summary": "The home secretary has scrapped previous settlement plans for migrant care workers. A revised proposal modifies when migrants can claim permanent residency. This change will affect the future of foreign care staff in the UK.",
+        "link": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
+        "category": "GENERAL",
+        "date": "Nov 03 \u2022 02:10 AM"
     },
     {
         "headline": "Shop freezers in seven European countries hit by cyber-attack",
-        "summary": "Freezers in retail shops across seven European countries were targeted by a cyber-attack. Temperatures inside the affected freezers reportedly soared up to 50C. The incident severely impacted cold storage infrastructure.",
+        "summary": "A cyber-attack has targeted shop freezers in seven European countries. Reports indicate freezer temperatures rose dangerously high, some reaching 50C. This incident caused significant disruption and potential food spoilage across the continent.",
         "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Nov 02 \u2022 07:59 PM"
+        "date": "Nov 03 \u2022 02:10 AM"
     },
     {
-        "headline": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-        "summary": "Supermarkets in seven European nations were forced to discard vast quantities of food. The destruction followed a cyber-attack targeting their refrigerators and freezers. The attack rendered significant amounts of perishable goods unusable.",
-        "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+        "headline": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+        "summary": "Thousands of European troops will rehearse a potential deployment to Ukraine. This exercise is being planned for a future peace scenario, not current conflict. Western officials emphasize troops would not participate in offensive operations.",
+        "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Nov 02 \u2022 07:59 PM"
+        "date": "Nov 03 \u2022 02:10 AM"
     },
     {
-        "headline": "Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears",
-        "summary": "Russell Brand's defense barrister claims a Channel 4 documentary 'poisoned the well' against him. Journalists are also accused of prejudicing the public and jury. The court heard Brand engaged in extensive consensual sex, none of which was unlawful.",
-        "link": "https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&at_campaign=rss",
+        "headline": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin",
+        "summary": "The Prime Minister plans a debt re-set for Commonwealth nations. This initiative coincides with discussions for a formal UK apology for the slave trade. The apology is anticipated within the next year, alongside these financial reforms.",
+        "link": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Nov 02 \u2022 07:59 PM"
-    },
-    {
-        "headline": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
-        "summary": "A Russian bombing reportedly killed 24 people at an aid centre in Ukraine. Local officials state 27 individuals remain missing after the attack. Nine 3,000kg aerial bombs struck a village in southern Ukraine.",
-        "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-        "category": "GENERAL",
-        "date": "Nov 02 \u2022 07:59 PM"
+        "date": "Nov 03 \u2022 02:10 AM"
     }
 ]
