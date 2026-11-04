@@ -1,86 +1,86 @@
 [
     {
-        "headline": "Please stop asking me when the AI bubble will pop",
-        "summary": "The author is frustrated by persistent questions about the AI bubble bursting. They state predicting market timing is impossible for individuals. If they knew, they'd make a life-changing market bet.",
+        "headline": "AMD achieves 'largest and most profitable' quarter in history",
+        "summary": "AMD reported its largest and most profitable quarter ever in Q3 2026. Quarterly revenue hit a record $13.4 billion. The company anticipates hitting $17 billion next quarter, driven by data center growth.",
+        "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+        "category": "TECH",
+        "date": "Nov 04 \u2022 08:41 AM"
+    },
+    {
+        "headline": "The Legend of Zelda: Ocarina of Time remake revealed for Switch 2",
+        "summary": "Nintendo is launching a Switch 2 remake of The Legend of Zelda: Ocarina of Time. This highly anticipated remake arrives 28 years after the original N64 release. It features a significantly more realistic visual style.",
+        "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+        "category": "TECH",
+        "date": "Nov 04 \u2022 08:41 AM"
+    },
+    {
+        "headline": "Nexus Mods mandates AI disclosure for new mod uploads",
+        "summary": "PC gaming modding site Nexus Mods now requires mandatory AI disclosures for new mod uploads. Authors must declare if AI was used in their creations. This move addresses the platform's stance on AI-generated content.",
+        "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+        "category": "TECH",
+        "date": "Nov 04 \u2022 08:41 AM"
+    },
+    {
+        "headline": "Analyst addresses ongoing questions about an 'AI bubble' burst",
+        "summary": "The author is frequently asked about the potential bursting of an AI bubble. They admit that predicting such an event is impossible. If they knew, they'd make a life-changing market bet.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
         "category": "TECH",
-        "date": "Nov 04 \u2022 12:24 AM"
+        "date": "Nov 04 \u2022 08:41 AM"
     },
     {
-        "headline": "Canva announces changes and layoffs affecting 22 percent of its staff",
-        "summary": "Canva is implementing significant changes impacting 1,271 employees, 22% of its workforce. Some staff will face role changes or relocation to centralized hubs. The restructuring also involves saying goodbye to many teammates.",
-        "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
-        "category": "TECH",
-        "date": "Nov 04 \u2022 12:24 AM"
+        "headline": "Talix 20,000mAh Power Bank with 190W drops to $29.99",
+        "summary": "The Talix 20,000mAh Power Bank is now available for $29.99. It boasts a powerful 190W total output for fast charging. This early Black Friday deal can charge devices like the MacBook Pro 16\" M5.",
+        "link": "https://www.ign.com/articles/talix-20000mah-190w-power-bank-deal-november-2026",
+        "category": "GAMING",
+        "date": "Nov 04 \u2022 08:41 AM"
     },
     {
-        "headline": "Sonos adds new Presets and prepares for 27voice AI beta",
-        "summary": "Sonos is rolling out a major app update featuring new Presets. Users can create custom presets for music playback at specific volumes in certain rooms. Early access to its new 27voice AI assistant is also becoming available.",
-        "link": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
-        "category": "TECH",
-        "date": "Nov 04 \u2022 12:24 AM"
+        "headline": "Marvel's VisionQuest Episode 7 Review: 'Immolation' delivers compelling penultimate episode",
+        "summary": "Episode 7 of Marvel's VisionQuest, 'Immolation,' has received a positive review. Paul Bettany's performance is highlighted as compelling. The episode marks the penultimate entry in the series.",
+        "link": "https://www.ign.com/articles/marvels-visionquest-episode-7-review-immolation",
+        "category": "GAMING",
+        "date": "Nov 04 \u2022 08:41 AM"
     },
     {
-        "headline": "Valve addresses \u2018significant increase\u2019 in Steam game submissions",
-        "summary": "Valve acknowledges a 'significant increase' in Steam game submissions recently. Review times have extended to up to 12 business days, exceeding the typical 3-5 days. Indie developers have voiced frustrations over these prolonged approval delays.",
-        "link": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
-        "category": "TECH",
-        "date": "Nov 04 \u2022 12:24 AM"
+        "headline": "James Bond Casting History: How Media Covered Past 007 Reveals",
+        "summary": "November 3 marks 65 years since Sean Connery was cast as the first James Bond. The article explores historical media reactions to past 007 reveals. It shows that public complaints about Bond casting are not new.",
+        "link": "https://www.ign.com/articles/how-media-covered-james-bond-casting-history",
+        "category": "GAMING",
+        "date": "Nov 04 \u2022 08:41 AM"
     },
     {
-        "headline": "SCUF Gaming's Early Black Friday Sale: Up to 25% Off Controllers",
-        "summary": "SCUF Gaming has launched an Early Black Friday Sale. Get up to 25% off professional-grade Xbox and PC controllers. These controllers offer elite form and function for gamers.",
+        "headline": "SCUF Gaming's Early Black Friday Sale offers up to 25% off controllers",
+        "summary": "SCUF Gaming is holding an early Black Friday sale. Customers can save up to 25% on professional-grade controllers. Deals apply to both Xbox and PC controllers.",
         "link": "https://www.ign.com/articles/scuf-gaming-early-black-friday-sale-2026",
         "category": "GAMING",
-        "date": "Nov 04 \u2022 12:24 AM"
+        "date": "Nov 04 \u2022 08:41 AM"
     },
     {
-        "headline": "007 First Light Gets Free Trial For Select PS Plus Subscribers",
-        "summary": "007 First Light is now offering a free trial. The trial is available for select PlayStation Plus subscribers. This allows members to experience the game at no cost.",
-        "link": "https://www.ign.com/articles/007-first-light-gets-free-trial-for-select-playstation-plus-subscribers",
-        "category": "GAMING",
-        "date": "Nov 04 \u2022 12:24 AM"
-    },
-    {
-        "headline": "AliExpress Early Black Friday Sale: 36V 500W Electric Bike for $210",
-        "summary": "An adult electric bike is on sale for $210 shipped during the AliExpress Early Black Friday event. This 36V 500W peak e-bike can reach speeds up to 23mph. It boasts an impressive range of up to 45 miles.",
-        "link": "https://www.ign.com/articles/5th-wheel-electric-bike-deal-november-2026",
-        "category": "GAMING",
-        "date": "Nov 04 \u2022 12:24 AM"
-    },
-    {
-        "headline": "The Witcher 3 Devs Detail 'Songs of the Past' DLC",
-        "summary": "CD Projekt Red discussed details for The Witcher 3's 'Songs of the Past' DLC. Developers shared insights on crafting a distinct new corner of the Continent. They also touched on the surprising importance of local booze and canon adherence.",
-        "link": "https://www.ign.com/articles/witcher-3-songs-of-the-past-dlc-details",
-        "category": "GAMING",
-        "date": "Nov 04 \u2022 12:24 AM"
-    },
-    {
-        "headline": "When Will Election Results Be Announced?",
-        "summary": "Election results may not be projected for several hours after polls close. Some outcomes could take days or even weeks to be known. Voters face an uncertain wait for the final results.",
-        "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
+        "headline": "Democrats shatter Trump's political map on historic election night",
+        "summary": "Democrats achieved significant victories, overturning expected battlegrounds. Two key Senate races turned into clear Democratic wins. The results signify a major shift in the political landscape.",
+        "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Nov 04 \u2022 12:24 AM"
+        "date": "Nov 04 \u2022 08:41 AM"
     },
     {
-        "headline": "US Voters Prioritize Economy and Democracy, Poll Reveals",
-        "summary": "A major election day survey indicates US voters are most concerned about the economy. The state of democracy also ranks as a top issue. Voters express unhappiness with the current economic situation.",
-        "link": "https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss",
+        "headline": "Visualizing America's midterm election results with maps and charts",
+        "summary": "Interactive maps and charts illustrate the voting patterns in the US midterm elections. The article provides a visual breakdown of results across the country. It offers a comprehensive overview of how America voted.",
+        "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Nov 04 \u2022 12:24 AM"
+        "date": "Nov 04 \u2022 08:41 AM"
     },
     {
-        "headline": "US Midterm Results Scenarios as Millions Vote",
-        "summary": "Millions of Americans are heading to the polls for the US midterms. The BBC's North America correspondent outlines three potential result scenarios. Each scenario's implications for the country are explored.",
-        "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
+        "headline": "Key moments from a night of midterm election firsts",
+        "summary": "Democrats gained control of Congress during Donald Trump's presidency. The election night featured several historic 'firsts.' These pivotal moments sparked celebration among Democrats.",
+        "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Nov 04 \u2022 12:24 AM"
+        "date": "Nov 04 \u2022 08:41 AM"
     },
     {
-        "headline": "Key US Senate Races to Watch",
-        "summary": "All eyes are on a handful of crucial US Senate races. These contests will ultimately decide control of the prized upper chamber. A quick guide highlights the most significant races to follow.",
-        "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
+        "headline": "James Talarico makes history, wins Texas Senate seat for Democrats",
+        "summary": "James Talarico became the first Democrat to win a Texas Senate seat since 1988. An expert called the Democratic wins in Texas a 'bloodbath.' This victory marks a historic shift in the state's political landscape.",
+        "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Nov 04 \u2022 12:24 AM"
+        "date": "Nov 04 \u2022 08:41 AM"
     }
 ]
