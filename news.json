@@ -1,86 +1,86 @@
 [
     {
-        "headline": "Amazon has a plan to index the world\u2019s online shopping data",
-        "summary": "Amazon plans to build a \"World Product Graph\" indexing all internet products. This project aims to prevent shoppers from leaving Amazon's platform. It will gather data on products even Amazon doesn't sell.",
-        "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-        "category": "TECH",
-        "date": "Nov 14 \u2022 12:41 AM"
-    },
-    {
-        "headline": "FAA ground stop shuts down flights nationwide",
-        "summary": "The FAA issued a national ground stop for all US flights due to \"extraordinary circumstances\". Planes already in the air were allowed to land. A temporary telecommunications outage was cited as the cause.",
+        "headline": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+        "summary": "The FAA issued a nationwide ground stop, halting all US takeoffs for hours. The disruption was due to \"extraordinary circumstances\" impacting flights. The ground stop has now been lifted, allowing flights to resume.",
         "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
         "category": "TECH",
-        "date": "Nov 14 \u2022 12:41 AM"
+        "date": "Nov 14 \u2022 08:39 AM"
+    },
+    {
+        "headline": "Amazon has a plan to index the world\u2019s online shopping data",
+        "summary": "Amazon plans to create a 'World Product Graph' to index global online shopping data. This project aims to collect information on all products sold across the internet. The goal is to keep shoppers on Amazon by offering comprehensive product details.",
+        "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+        "category": "TECH",
+        "date": "Nov 14 \u2022 08:39 AM"
     },
     {
         "headline": "ChatGPT Wallet lets OpenAI\u2019s Dots agents make purchases for you",
-        "summary": "OpenAI is launching ChatGPT Wallet for its AI agents, Dots. It allows AI agents to make purchases for users. Available to US ChatGPT Pro subscribers with eligible US-issued cards.",
+        "summary": "OpenAI is launching ChatGPT Wallet for its AI agents platform, Dots. The new feature enables AI agents to make purchases on behalf of users. It's rolling out to ChatGPT Pro subscribers in the US with eligible credit cards.",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
         "category": "TECH",
-        "date": "Nov 14 \u2022 12:41 AM"
+        "date": "Nov 14 \u2022 08:39 AM"
     },
     {
         "headline": "CMF\u2019s milk carton-shaped Bluetooth speaker is down to a new low price",
-        "summary": "The unique milk carton-shaped CMF Speaker S is now on sale for $39. This marks a $20 discount and its lowest price yet. The deal is part of Nothing\u2019s early Black Friday promotion.",
+        "summary": "Nothing's unique milk carton-shaped CMF Speaker S is now available at a record low price. The Bluetooth speaker is discounted to just $39, a $20 saving. This early Black Friday deal can be found on Amazon and Nothing's official site.",
         "link": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
         "category": "TECH",
-        "date": "Nov 14 \u2022 12:41 AM"
+        "date": "Nov 14 \u2022 08:39 AM"
     },
     {
-        "headline": "Blade Runner 2099 Executive Producers Confirm Franchise Owners Are In Talks for \"AAA\" Video Game Adaptation",
-        "summary": "Executive producers of Blade Runner 2099 are discussing a AAA video game. Alcon Entertainment co-CEOs confirmed talks for the adaptation. The iconic cyberpunk franchise may expand into high-budget gaming.",
+        "headline": "James Gunn Shuts Down Rumors That Skydance Is Meddling With Man of Tomorrow",
+        "summary": "James Gunn denied rumors of Skydance meddling with his 'Man of Tomorrow' cut. Speculation had suggested external interference in the film's production. Gunn's statement aims to assure fans about the project's creative control.",
+        "link": "https://www.ign.com/articles/james-gunn-shuts-down-rumors-that-skydance-is-meddling-with-man-of-tomorrow",
+        "category": "GAMING",
+        "date": "Nov 14 \u2022 08:39 AM"
+    },
+    {
+        "headline": "Sunrise on the Reaping Is Getting Multiple Black Friday Deals Before Its Theatrical Release",
+        "summary": "The highly anticipated 'Sunrise on the Reaping' is offering early Black Friday deals. These promotions are available before the movie's theatrical release. Discounts may include the book or audiobook versions of the story.",
+        "link": "https://www.ign.com/articles/sunrise-on-the-reaping-book-and-audiobook-black-friday-deal-2026",
+        "category": "GAMING",
+        "date": "Nov 14 \u2022 08:39 AM"
+    },
+    {
+        "headline": "After Another Year of Price Hikes, What Streaming Deals Will We Get for Black Friday 2026?",
+        "summary": "Streaming services have seen continuous price increases throughout the year. Consumers are now anticipating potential Black Friday deals for 2026. The article speculates on which platforms might offer discounts amidst rising costs.",
+        "link": "https://www.ign.com/articles/black-friday-streaming-deal-predictions-2026",
+        "category": "GAMING",
+        "date": "Nov 14 \u2022 08:39 AM"
+    },
+    {
+        "headline": "Blade Runner 2099 Executive Producers Confirm Franchise Owners Are in Talks for AAA Video Game Adaptation",
+        "summary": "Executive producers for 'Blade Runner 2099' confirmed discussions for a AAA video game. Franchise owners are exploring an adaptation of the iconic cyberpunk world. Alcon Entertainment co-CEOs are involved in the potential gaming project.",
         "link": "https://www.ign.com/articles/blade-runner-2099-executive-producers-confirm-franchise-owners-are-in-talks-for-aaa-video-game-adaptation",
         "category": "GAMING",
-        "date": "Nov 14 \u2022 12:41 AM"
+        "date": "Nov 14 \u2022 08:39 AM"
     },
     {
-        "headline": "PS5 QSSR Updates Revealed for Marvel's Spider-Man 2, Arc Raiders, and More",
-        "summary": "Sony confirmed QSSR support for Marvel's Spider-Man 2 and Arc Raiders. Four other games will also receive QSSR updates. These updates are for base PS5 consoles.",
-        "link": "https://www.ign.com/articles/ps5-qssr-updates-revealed-for-marvels-spider-man-2-arc-raiders-and-more",
-        "category": "GAMING",
-        "date": "Nov 14 \u2022 12:41 AM"
-    },
-    {
-        "headline": "Before Directing the Biggest Success of His Career, Steven Spielberg Almost Made an Alien Horror Movie Instead",
-        "summary": "Steven Spielberg nearly directed an alien horror film called Night Skies. This project almost happened before his hit movie E.T. The film would have been a darker take on alien encounters.",
-        "link": "https://www.ign.com/articles/steven-spielberg-night-skies-et-almost-made-an-alien-horror-movie-instead",
-        "category": "GAMING",
-        "date": "Nov 14 \u2022 12:41 AM"
-    },
-    {
-        "headline": "Kevin Feige Didn't Want Wanda in VisionQuest Because He Was Worried She Would 'Distract' From the Core Show",
-        "summary": "Kevin Feige preferred Wanda Maximoff not appear in VisionQuest. He feared her presence would distract from the show's core narrative. Paul Bettany, who plays Vision, revealed Feige's concern.",
-        "link": "https://www.ign.com/articles/kevin-feige-didnt-want-wanda-in-visionquest-because-he-was-worried-she-would-distract-from-the-core-show",
-        "category": "GAMING",
-        "date": "Nov 14 \u2022 12:41 AM"
-    },
-    {
-        "headline": "Police investigating David Walliams over reports alleging serious sexual offences",
-        "summary": "The Met Police are investigating David Walliams regarding serious sexual offense allegations. These allegations are distinct from earlier reports by ITV and The Guardian. The investigation is currently ongoing.",
-        "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+        "headline": "What we know about the US ground stop and what to do if you're affected",
+        "summary": "US officials confirmed the nationwide ground stop was caused by overloaded old equipment. Authorities explicitly stated the disruption was not due to a cyber-attack. The report offers information on the incident and guidance for affected travelers.",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Nov 14 \u2022 12:41 AM"
+        "date": "Nov 14 \u2022 08:39 AM"
     },
     {
-        "headline": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
-        "summary": "All passengers were rescued after a cruise ship collided with a tanker in New Orleans. 32 people were hospitalized with non-critical injuries. No one was reported unaccounted for in the incident.",
-        "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+        "headline": "Young people should have legal guarantee to job or training, Milburn tells BBC",
+        "summary": "A new review proposes a legal guarantee for young people to receive a job or training. Lord Milburn highlighted this recommendation ahead of his youth unemployment report. He acknowledged that some young people may lose benefits under the new system.",
+        "link": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Nov 14 \u2022 12:41 AM"
+        "date": "Nov 14 \u2022 08:39 AM"
     },
     {
-        "headline": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-        "summary": "The US Air Force responded to \"suspected unauthorized drone activity\" over RAF Lakenheath. No injuries or damage were reported from the incident. Investigations into the drone activity are underway.",
-        "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+        "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "summary": "Donald Trump, Vladimir Putin, and Xi Jinping are set for a historic joint meeting next week. The White House confirmed the unprecedented talks will take place in China. Discussions will focus on the \"reduction of nuclear weapons,\" per a spokeswoman.",
+        "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Nov 14 \u2022 12:41 AM"
+        "date": "Nov 14 \u2022 08:39 AM"
     },
     {
-        "headline": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-        "summary": "Microsoft apologized for a global outage lasting nearly 24 hours. The disruption affected various services worldwide. Experts highlight global reliance on major tech providers.",
+        "headline": "Microsoft says services fully restored after day-long global outage",
+        "summary": "Microsoft announced the full restoration of its services after a global, day-long outage. Key services like Outlook, Teams, and Copilot were affected. The tech giant confirmed efforts to resolve the underlying problem are complete.",
         "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "category": "GENERAL",
-        "date": "Nov 14 \u2022 12:41 AM"
+        "date": "Nov 14 \u2022 08:39 AM"
     }
 ]
